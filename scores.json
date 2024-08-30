@@ -1,1 +1,207 @@
-
+{
+  "nfl": {
+    "week": 1,
+    "games": [
+      {
+        "matchup": "Baltimore Ravens at Kansas City Chiefs",
+        "kickoff": "9/5/2024, 7:20:00 PM",
+        "status": "Scheduled"
+      },
+      {
+        "matchup": "Green Bay Packers at Philadelphia Eagles",
+        "kickoff": "9/6/2024, 7:15:00 PM",
+        "status": "Scheduled"
+      },
+      {
+        "matchup": "Pittsburgh Steelers at Atlanta Falcons",
+        "kickoff": "9/8/2024, 12:00:00 PM",
+        "status": "Scheduled"
+      },
+      {
+        "matchup": "Arizona Cardinals at Buffalo Bills",
+        "kickoff": "9/8/2024, 12:00:00 PM",
+        "status": "Scheduled"
+      },
+      {
+        "matchup": "Tennessee Titans at Chicago Bears",
+        "kickoff": "9/8/2024, 12:00:00 PM",
+        "status": "Scheduled"
+      },
+      {
+        "matchup": "New England Patriots at Cincinnati Bengals",
+        "kickoff": "9/8/2024, 12:00:00 PM",
+        "status": "Scheduled"
+      },
+      {
+        "matchup": "Houston Texans at Indianapolis Colts",
+        "kickoff": "9/8/2024, 12:00:00 PM",
+        "status": "Scheduled"
+      },
+      {
+        "matchup": "Jacksonville Jaguars at Miami Dolphins",
+        "kickoff": "9/8/2024, 12:00:00 PM",
+        "status": "Scheduled"
+      },
+      {
+        "matchup": "Carolina Panthers at New Orleans Saints",
+        "kickoff": "9/8/2024, 12:00:00 PM",
+        "status": "Scheduled"
+      },
+      {
+        "matchup": "Minnesota Vikings at New York Giants",
+        "kickoff": "9/8/2024, 12:00:00 PM",
+        "status": "Scheduled"
+      },
+      {
+        "matchup": "Las Vegas Raiders at Los Angeles Chargers",
+        "kickoff": "9/8/2024, 3:05:00 PM",
+        "status": "Scheduled"
+      },
+      {
+        "matchup": "Denver Broncos at Seattle Seahawks",
+        "kickoff": "9/8/2024, 3:05:00 PM",
+        "status": "Scheduled"
+      },
+      {
+        "matchup": "Dallas Cowboys at Cleveland Browns",
+        "kickoff": "9/8/2024, 3:25:00 PM",
+        "status": "Scheduled"
+      },
+      {
+        "matchup": "Washington Commanders at Tampa Bay Buccaneers",
+        "kickoff": "9/8/2024, 3:25:00 PM",
+        "status": "Scheduled"
+      },
+      {
+        "matchup": "Los Angeles Rams at Detroit Lions",
+        "kickoff": "9/8/2024, 7:20:00 PM",
+        "status": "Scheduled"
+      },
+      {
+        "matchup": "New York Jets at San Francisco 49ers",
+        "kickoff": "9/9/2024, 7:20:00 PM",
+        "status": "Scheduled"
+      }
+    ]
+  },
+  "collegeFootball": {
+    "week": 1,
+    "games": [
+      {
+        "matchup": "Temple Owls at Oklahoma Sooners",
+        "kickoff": "8/30/2024, 6:00:00 PM",
+        "status": "Scheduled"
+      },
+      {
+        "matchup": "Florida State Seminoles at Georgia Tech Yellow Jackets",
+        "kickoff": "8/24/2024, 11:00:00 AM",
+        "status": "Final"
+      },
+      {
+        "matchup": "Murray State Racers at Missouri Tigers",
+        "kickoff": "8/29/2024, 7:00:00 PM",
+        "status": "Final"
+      },
+      {
+        "matchup": "Southern Utah Thunderbirds at Utah Utes",
+        "kickoff": "8/29/2024, 8:00:00 PM",
+        "status": "Final"
+      },
+      {
+        "matchup": "Lindenwood Lions at Kansas Jayhawks",
+        "kickoff": "8/29/2024, 7:00:00 PM",
+        "status": "Final"
+      },
+      {
+        "matchup": "Western Carolina Catamounts at NC State Wolfpack",
+        "kickoff": "8/29/2024, 6:32:00 PM",
+        "status": "Final"
+      },
+      {
+        "matchup": "Clemson Tigers at Georgia Bulldogs",
+        "kickoff": "8/31/2024, 11:00:00 AM",
+        "status": "Scheduled"
+      },
+      {
+        "matchup": "Penn State Nittany Lions at West Virginia Mountaineers",
+        "kickoff": "8/31/2024, 11:00:00 AM",
+        "status": "Scheduled"
+      },
+      {
+        "matchup": "Illinois State Redbirds at Iowa Hawkeyes",
+        "kickoff": "8/31/2024, 11:00:00 AM",
+        "status": "Scheduled"
+      },
+      {
+        "matchup": "Chattanooga Mocs at Tennessee Volunteers",
+        "kickoff": "8/31/2024, 11:45:00 AM",
+        "status": "Scheduled"
+      },
+      {
+        "matchup": "South Dakota State Jackrabbits at Oklahoma State Cowboys",
+        "kickoff": "8/31/2024, 1:00:00 PM",
+        "status": "Scheduled"
+      },
+      {
+        "matchup": "Akron Zips at Ohio State Buckeyes",
+        "kickoff": "8/31/2024, 2:30:00 PM",
+        "status": "Scheduled"
+      },
+      {
+        "matchup": "Colorado State Rams at Texas Longhorns",
+        "kickoff": "8/31/2024, 2:30:00 PM",
+        "status": "Scheduled"
+      },
+      {
+        "matchup": "Miami Hurricanes at Florida Gators",
+        "kickoff": "8/31/2024, 2:30:00 PM",
+        "status": "Scheduled"
+      },
+      {
+        "matchup": "Western Kentucky Hilltoppers at Alabama Crimson Tide",
+        "kickoff": "8/31/2024, 6:00:00 PM",
+        "status": "Scheduled"
+      },
+      {
+        "matchup": "Furman Paladins at Ole Miss Rebels",
+        "kickoff": "8/31/2024, 6:00:00 PM",
+        "status": "Scheduled"
+      },
+      {
+        "matchup": "UT Martin Skyhawks at Kansas State Wildcats",
+        "kickoff": "8/31/2024, 6:00:00 PM",
+        "status": "Scheduled"
+      },
+      {
+        "matchup": "Idaho Vandals at Oregon Ducks",
+        "kickoff": "8/31/2024, 6:30:00 PM",
+        "status": "Scheduled"
+      },
+      {
+        "matchup": "Notre Dame Fighting Irish at Texas A&M Aggies",
+        "kickoff": "8/31/2024, 6:30:00 PM",
+        "status": "Scheduled"
+      },
+      {
+        "matchup": "Fresno State Bulldogs at Michigan Wolverines",
+        "kickoff": "8/31/2024, 6:30:00 PM",
+        "status": "Scheduled"
+      },
+      {
+        "matchup": "New Mexico Lobos at Arizona Wildcats",
+        "kickoff": "8/31/2024, 9:30:00 PM",
+        "status": "Scheduled"
+      },
+      {
+        "matchup": "USC Trojans at LSU Tigers",
+        "kickoff": "9/1/2024, 6:30:00 PM",
+        "status": "Scheduled"
+      },
+      {
+        "matchup": "Boston College Eagles at Florida State Seminoles",
+        "kickoff": "9/2/2024, 6:30:00 PM",
+        "status": "Scheduled"
+      }
+    ]
+  }
+}
