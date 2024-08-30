@@ -106,8 +106,17 @@
       {
         "matchup": "Temple Owls at Oklahoma Sooners",
         "kickoff": "8/30/2024, 6:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "Oklahoma Sooners",
+            "score": "0"
+          },
+          "away": {
+            "name": "Temple Owls",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "Florida State Seminoles at Georgia Tech Yellow Jackets",
