@@ -124,7 +124,7 @@
         "score": {
           "home": {
             "name": "TENN",
-            "score": "55"
+            "score": "62"
           },
           "away": {
             "name": "UTC",
@@ -135,7 +135,7 @@
       {
         "matchup": "SDST @ OKST",
         "kickoff": "8/31/2024, 1:00:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "OKST",
@@ -144,6 +144,51 @@
           "away": {
             "name": "SDST",
             "score": "6"
+          }
+        }
+      },
+      {
+        "matchup": "AKR @ OSU",
+        "kickoff": "8/31/2024, 2:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "OSU",
+            "score": "0"
+          },
+          "away": {
+            "name": "AKR",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "CSU @ TEX",
+        "kickoff": "8/31/2024, 2:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "TEX",
+            "score": "7"
+          },
+          "away": {
+            "name": "CSU",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "MIA @ FLA",
+        "kickoff": "8/31/2024, 2:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "FLA",
+            "score": "0"
+          },
+          "away": {
+            "name": "MIA",
+            "score": "0"
           }
         }
       },
@@ -173,51 +218,6 @@
           },
           "away": {
             "name": "ILST",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "AKR @ OSU",
-        "kickoff": "8/31/2024, 2:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "OSU",
-            "score": "0"
-          },
-          "away": {
-            "name": "AKR",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "CSU @ TEX",
-        "kickoff": "8/31/2024, 2:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "TEX",
-            "score": "0"
-          },
-          "away": {
-            "name": "CSU",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "MIA @ FLA",
-        "kickoff": "8/31/2024, 2:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "FLA",
-            "score": "0"
-          },
-          "away": {
-            "name": "MIA",
             "score": "0"
           }
         }
