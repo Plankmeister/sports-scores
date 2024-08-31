@@ -180,8 +180,17 @@
       {
         "matchup": "AKR @ OSU",
         "kickoff": "8/31/2024, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "OSU",
+            "score": "0"
+          },
+          "away": {
+            "name": "AKR",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "CSU @ TEX",
