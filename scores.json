@@ -109,7 +109,7 @@
         "score": {
           "home": {
             "name": "OSU",
-            "score": "45"
+            "score": "52"
           },
           "away": {
             "name": "AKR",
@@ -231,14 +231,32 @@
       {
         "matchup": "FUR @ MISS",
         "kickoff": "8/31/2024, 6:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MISS",
+            "score": "0"
+          },
+          "away": {
+            "name": "FUR",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "UTM @ KSU",
         "kickoff": "8/31/2024, 6:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "KSU",
+            "score": "0"
+          },
+          "away": {
+            "name": "UTM",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "IDHO @ ORE",
