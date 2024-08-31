@@ -104,96 +104,6 @@
     "week": 1,
     "games": [
       {
-        "matchup": "Temple Owls at Oklahoma Sooners",
-        "kickoff": "8/30/2024, 6:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "Oklahoma Sooners",
-            "score": "51"
-          },
-          "away": {
-            "name": "Temple Owls",
-            "score": "3"
-          }
-        }
-      },
-      {
-        "matchup": "Florida State Seminoles at Georgia Tech Yellow Jackets",
-        "kickoff": "8/24/2024, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "Georgia Tech Yellow Jackets",
-            "score": "24"
-          },
-          "away": {
-            "name": "Florida State Seminoles",
-            "score": "21"
-          }
-        }
-      },
-      {
-        "matchup": "Murray State Racers at Missouri Tigers",
-        "kickoff": "8/29/2024, 7:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "Missouri Tigers",
-            "score": "51"
-          },
-          "away": {
-            "name": "Murray State Racers",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "Southern Utah Thunderbirds at Utah Utes",
-        "kickoff": "8/29/2024, 8:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "Utah Utes",
-            "score": "49"
-          },
-          "away": {
-            "name": "Southern Utah Thunderbirds",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "Lindenwood Lions at Kansas Jayhawks",
-        "kickoff": "8/29/2024, 7:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "Kansas Jayhawks",
-            "score": "48"
-          },
-          "away": {
-            "name": "Lindenwood Lions",
-            "score": "3"
-          }
-        }
-      },
-      {
-        "matchup": "Western Carolina Catamounts at NC State Wolfpack",
-        "kickoff": "8/29/2024, 6:32:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "NC State Wolfpack",
-            "score": "38"
-          },
-          "away": {
-            "name": "Western Carolina Catamounts",
-            "score": "21"
-          }
-        }
-      },
-      {
         "matchup": "Clemson Tigers at Georgia Bulldogs",
         "kickoff": "8/31/2024, 11:00:00 AM",
         "status": "Scheduled",
@@ -282,6 +192,96 @@
         "kickoff": "8/31/2024, 9:30:00 PM",
         "status": "Scheduled",
         "score": null
+      },
+      {
+        "matchup": "Florida State Seminoles at Georgia Tech Yellow Jackets",
+        "kickoff": "8/24/2024, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "Georgia Tech Yellow Jackets",
+            "score": "24"
+          },
+          "away": {
+            "name": "Florida State Seminoles",
+            "score": "21"
+          }
+        }
+      },
+      {
+        "matchup": "Murray State Racers at Missouri Tigers",
+        "kickoff": "8/29/2024, 7:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "Missouri Tigers",
+            "score": "51"
+          },
+          "away": {
+            "name": "Murray State Racers",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "Southern Utah Thunderbirds at Utah Utes",
+        "kickoff": "8/29/2024, 8:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "Utah Utes",
+            "score": "49"
+          },
+          "away": {
+            "name": "Southern Utah Thunderbirds",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "Lindenwood Lions at Kansas Jayhawks",
+        "kickoff": "8/29/2024, 7:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "Kansas Jayhawks",
+            "score": "48"
+          },
+          "away": {
+            "name": "Lindenwood Lions",
+            "score": "3"
+          }
+        }
+      },
+      {
+        "matchup": "Western Carolina Catamounts at NC State Wolfpack",
+        "kickoff": "8/29/2024, 6:32:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "NC State Wolfpack",
+            "score": "38"
+          },
+          "away": {
+            "name": "Western Carolina Catamounts",
+            "score": "21"
+          }
+        }
+      },
+      {
+        "matchup": "Temple Owls at Oklahoma Sooners",
+        "kickoff": "8/30/2024, 6:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "Oklahoma Sooners",
+            "score": "51"
+          },
+          "away": {
+            "name": "Temple Owls",
+            "score": "3"
+          }
+        }
       },
       {
         "matchup": "USC Trojans at LSU Tigers",
