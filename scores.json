@@ -105,7 +105,7 @@
       {
         "matchup": "CLEM VS UGA",
         "kickoff": "8/31/2024, 11:00:00 AM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "UGA",
@@ -120,7 +120,7 @@
       {
         "matchup": "PSU @ WVU",
         "kickoff": "8/31/2024, 11:00:00 AM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "WVU",
@@ -128,7 +128,7 @@
           },
           "away": {
             "name": "PSU",
-            "score": "0"
+            "score": "6"
           }
         }
       },
