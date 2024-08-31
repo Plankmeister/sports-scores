@@ -103,21 +103,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "CLEM VS UGA",
-        "kickoff": "8/31/2024, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "UGA",
-            "score": "34"
-          },
-          "away": {
-            "name": "CLEM",
-            "score": "3"
-          }
-        }
-      },
-      {
         "matchup": "PSU @ WVU",
         "kickoff": "8/31/2024, 11:00:00 AM",
         "status": "Live: Q2",
@@ -129,21 +114,6 @@
           "away": {
             "name": "PSU",
             "score": "20"
-          }
-        }
-      },
-      {
-        "matchup": "ILST @ IOWA",
-        "kickoff": "8/31/2024, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "IOWA",
-            "score": "40"
-          },
-          "away": {
-            "name": "ILST",
-            "score": "0"
           }
         }
       },
@@ -174,6 +144,36 @@
           "away": {
             "name": "SDST",
             "score": "6"
+          }
+        }
+      },
+      {
+        "matchup": "CLEM VS UGA",
+        "kickoff": "8/31/2024, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "UGA",
+            "score": "34"
+          },
+          "away": {
+            "name": "CLEM",
+            "score": "3"
+          }
+        }
+      },
+      {
+        "matchup": "ILST @ IOWA",
+        "kickoff": "8/31/2024, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "IOWA",
+            "score": "40"
+          },
+          "away": {
+            "name": "ILST",
+            "score": "0"
           }
         }
       },
