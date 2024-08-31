@@ -210,8 +210,17 @@
       {
         "matchup": "MIA @ FLA",
         "kickoff": "8/31/2024, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "FLA",
+            "score": "0"
+          },
+          "away": {
+            "name": "MIA",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "WKU @ ALA",
