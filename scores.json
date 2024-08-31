@@ -109,7 +109,7 @@
         "score": {
           "home": {
             "name": "UGA",
-            "score": "20"
+            "score": "26"
           },
           "away": {
             "name": "CLEM",
@@ -139,7 +139,7 @@
         "score": {
           "home": {
             "name": "IOWA",
-            "score": "26"
+            "score": "33"
           },
           "away": {
             "name": "ILST",
@@ -150,7 +150,7 @@
       {
         "matchup": "UTC @ TENN",
         "kickoff": "8/31/2024, 11:45:00 AM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "TENN",
@@ -173,7 +173,7 @@
           },
           "away": {
             "name": "SDST",
-            "score": "0"
+            "score": "3"
           }
         }
       },
