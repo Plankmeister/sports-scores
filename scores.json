@@ -109,7 +109,7 @@
         "score": {
           "home": {
             "name": "ALA",
-            "score": "14"
+            "score": "21"
           },
           "away": {
             "name": "WKU",
@@ -143,6 +143,36 @@
           },
           "away": {
             "name": "UTM",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "IDHO @ ORE",
+        "kickoff": "8/31/2024, 6:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ORE",
+            "score": "6"
+          },
+          "away": {
+            "name": "IDHO",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "ND @ TA&M",
+        "kickoff": "8/31/2024, 6:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "TA&M",
+            "score": "0"
+          },
+          "away": {
+            "name": "ND",
             "score": "0"
           }
         }
@@ -281,27 +311,6 @@
             "score": "0"
           }
         }
-      },
-      {
-        "matchup": "IDHO @ ORE",
-        "kickoff": "8/31/2024, 6:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "ORE",
-            "score": "0"
-          },
-          "away": {
-            "name": "IDHO",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "ND @ TA&M",
-        "kickoff": "8/31/2024, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
       },
       {
         "matchup": "UNM @ ARIZ",
