@@ -111,14 +111,32 @@
       {
         "matchup": "PSU @ WVU",
         "kickoff": "8/31/2024, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "WVU",
+            "score": "0"
+          },
+          "away": {
+            "name": "PSU",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "ILST @ IOWA",
         "kickoff": "8/31/2024, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "IOWA",
+            "score": "0"
+          },
+          "away": {
+            "name": "ILST",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "UTC @ TENN",
