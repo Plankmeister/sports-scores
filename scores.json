@@ -105,7 +105,7 @@
       {
         "matchup": "PSU @ WVU",
         "kickoff": "8/31/2024, 11:00:00 AM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "WVU",
@@ -139,7 +139,7 @@
         "score": {
           "home": {
             "name": "TEX",
-            "score": "38"
+            "score": "45"
           },
           "away": {
             "name": "CSU",
