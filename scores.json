@@ -103,28 +103,13 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "PSU @ WVU",
-        "kickoff": "8/31/2024, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "WVU",
-            "score": "12"
-          },
-          "away": {
-            "name": "PSU",
-            "score": "34"
-          }
-        }
-      },
-      {
         "matchup": "AKR @ OSU",
         "kickoff": "8/31/2024, 2:30:00 PM",
         "status": "Live: Q3",
         "score": {
           "home": {
             "name": "OSU",
-            "score": "24"
+            "score": "31"
           },
           "away": {
             "name": "AKR",
@@ -135,7 +120,7 @@
       {
         "matchup": "CSU @ TEX",
         "kickoff": "8/31/2024, 2:30:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "TEX",
@@ -174,6 +159,21 @@
           "away": {
             "name": "CLEM",
             "score": "3"
+          }
+        }
+      },
+      {
+        "matchup": "PSU @ WVU",
+        "kickoff": "8/31/2024, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "WVU",
+            "score": "12"
+          },
+          "away": {
+            "name": "PSU",
+            "score": "34"
           }
         }
       },
