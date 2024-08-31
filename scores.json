@@ -124,7 +124,7 @@
         "score": {
           "home": {
             "name": "WVU",
-            "score": "3"
+            "score": "6"
           },
           "away": {
             "name": "PSU",
@@ -150,11 +150,11 @@
       {
         "matchup": "UTC @ TENN",
         "kickoff": "8/31/2024, 11:45:00 AM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "TENN",
-            "score": "24"
+            "score": "31"
           },
           "away": {
             "name": "UTC",
