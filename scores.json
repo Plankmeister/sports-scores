@@ -101,7 +101,6 @@
     ]
   },
   "collegeFootball": {
-    "week": 1,
     "games": [
       {
         "matchup": "Clemson Tigers at Georgia Bulldogs",
@@ -199,11 +198,11 @@
         "status": "Final",
         "score": {
           "home": {
-            "name": "Georgia Tech Yellow Jackets",
+            "name": "Georgia Tech Yellow",
             "score": "24"
           },
           "away": {
-            "name": "Florida State Seminoles",
+            "name": "Florida State",
             "score": "21"
           }
         }
@@ -214,11 +213,11 @@
         "status": "Final",
         "score": {
           "home": {
-            "name": "Missouri Tigers",
+            "name": "Missouri",
             "score": "51"
           },
           "away": {
-            "name": "Murray State Racers",
+            "name": "Murray State",
             "score": "0"
           }
         }
@@ -229,11 +228,11 @@
         "status": "Final",
         "score": {
           "home": {
-            "name": "Utah Utes",
+            "name": "Utah",
             "score": "49"
           },
           "away": {
-            "name": "Southern Utah Thunderbirds",
+            "name": "Southern Utah",
             "score": "0"
           }
         }
@@ -244,11 +243,11 @@
         "status": "Final",
         "score": {
           "home": {
-            "name": "Kansas Jayhawks",
+            "name": "Kansas",
             "score": "48"
           },
           "away": {
-            "name": "Lindenwood Lions",
+            "name": "Lindenwood",
             "score": "3"
           }
         }
@@ -259,11 +258,11 @@
         "status": "Final",
         "score": {
           "home": {
-            "name": "NC State Wolfpack",
+            "name": "NC State",
             "score": "38"
           },
           "away": {
-            "name": "Western Carolina Catamounts",
+            "name": "Western Carolina",
             "score": "21"
           }
         }
@@ -274,11 +273,11 @@
         "status": "Final",
         "score": {
           "home": {
-            "name": "Oklahoma Sooners",
+            "name": "Oklahoma",
             "score": "51"
           },
           "away": {
-            "name": "Temple Owls",
+            "name": "Temple",
             "score": "3"
           }
         }
