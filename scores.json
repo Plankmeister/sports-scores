@@ -103,6 +103,21 @@
   "collegeFootball": {
     "games": [
       {
+        "matchup": "CLEM VS UGA",
+        "kickoff": "8/31/2024, 11:00:00 AM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "UGA",
+            "score": "0"
+          },
+          "away": {
+            "name": "CLEM",
+            "score": "0"
+          }
+        }
+      },
+      {
         "matchup": "PSU @ WVU",
         "kickoff": "8/31/2024, 11:00:00 AM",
         "status": "Live: Q1",
@@ -128,21 +143,6 @@
           },
           "away": {
             "name": "ILST",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "CLEM VS UGA",
-        "kickoff": "8/31/2024, 11:00:00 AM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "UGA",
-            "score": "0"
-          },
-          "away": {
-            "name": "CLEM",
             "score": "0"
           }
         }
