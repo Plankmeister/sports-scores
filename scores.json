@@ -118,21 +118,6 @@
         }
       },
       {
-        "matchup": "UTC @ TENN",
-        "kickoff": "8/31/2024, 11:45:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "TENN",
-            "score": "69"
-          },
-          "away": {
-            "name": "UTC",
-            "score": "3"
-          }
-        }
-      },
-      {
         "matchup": "SDST @ OKST",
         "kickoff": "8/31/2024, 1:00:00 PM",
         "status": "Live: Q3",
@@ -169,7 +154,7 @@
         "score": {
           "home": {
             "name": "TEX",
-            "score": "7"
+            "score": "10"
           },
           "away": {
             "name": "CSU",
@@ -184,7 +169,7 @@
         "score": {
           "home": {
             "name": "FLA",
-            "score": "0"
+            "score": "3"
           },
           "away": {
             "name": "MIA",
@@ -203,6 +188,21 @@
           },
           "away": {
             "name": "CLEM",
+            "score": "3"
+          }
+        }
+      },
+      {
+        "matchup": "UTC @ TENN",
+        "kickoff": "8/31/2024, 11:45:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "TENN",
+            "score": "69"
+          },
+          "away": {
+            "name": "UTC",
             "score": "3"
           }
         }
