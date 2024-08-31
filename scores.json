@@ -105,7 +105,7 @@
       {
         "matchup": "CLEM VS UGA",
         "kickoff": "8/31/2024, 11:00:00 AM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "UGA",
@@ -135,11 +135,11 @@
       {
         "matchup": "ILST @ IOWA",
         "kickoff": "8/31/2024, 11:00:00 AM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "IOWA",
-            "score": "19"
+            "score": "26"
           },
           "away": {
             "name": "ILST",
@@ -169,7 +169,7 @@
         "score": {
           "home": {
             "name": "OKST",
-            "score": "9"
+            "score": "10"
           },
           "away": {
             "name": "SDST",
