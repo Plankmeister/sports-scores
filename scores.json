@@ -118,21 +118,6 @@
         }
       },
       {
-        "matchup": "SDST @ OKST",
-        "kickoff": "8/31/2024, 1:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "OKST",
-            "score": "44"
-          },
-          "away": {
-            "name": "SDST",
-            "score": "20"
-          }
-        }
-      },
-      {
         "matchup": "AKR @ OSU",
         "kickoff": "8/31/2024, 2:30:00 PM",
         "status": "Live: Q2",
@@ -204,6 +189,21 @@
           "away": {
             "name": "UTC",
             "score": "3"
+          }
+        }
+      },
+      {
+        "matchup": "SDST @ OKST",
+        "kickoff": "8/31/2024, 1:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "OKST",
+            "score": "44"
+          },
+          "away": {
+            "name": "SDST",
+            "score": "20"
           }
         }
       },
