@@ -3,97 +3,97 @@
     "week": 1,
     "games": [
       {
-        "matchup": "Baltimore Ravens at Kansas City Chiefs",
+        "matchup": "BAL @ KC",
         "kickoff": "9/5/2024, 7:20:00 PM",
         "status": "Scheduled",
         "score": null
       },
       {
-        "matchup": "Green Bay Packers at Philadelphia Eagles",
+        "matchup": "GB VS PHI",
         "kickoff": "9/6/2024, 7:15:00 PM",
         "status": "Scheduled",
         "score": null
       },
       {
-        "matchup": "Pittsburgh Steelers at Atlanta Falcons",
+        "matchup": "PIT @ ATL",
         "kickoff": "9/8/2024, 12:00:00 PM",
         "status": "Scheduled",
         "score": null
       },
       {
-        "matchup": "Arizona Cardinals at Buffalo Bills",
+        "matchup": "ARI @ BUF",
         "kickoff": "9/8/2024, 12:00:00 PM",
         "status": "Scheduled",
         "score": null
       },
       {
-        "matchup": "Tennessee Titans at Chicago Bears",
+        "matchup": "TEN @ CHI",
         "kickoff": "9/8/2024, 12:00:00 PM",
         "status": "Scheduled",
         "score": null
       },
       {
-        "matchup": "New England Patriots at Cincinnati Bengals",
+        "matchup": "NE @ CIN",
         "kickoff": "9/8/2024, 12:00:00 PM",
         "status": "Scheduled",
         "score": null
       },
       {
-        "matchup": "Houston Texans at Indianapolis Colts",
+        "matchup": "HOU @ IND",
         "kickoff": "9/8/2024, 12:00:00 PM",
         "status": "Scheduled",
         "score": null
       },
       {
-        "matchup": "Jacksonville Jaguars at Miami Dolphins",
+        "matchup": "JAX @ MIA",
         "kickoff": "9/8/2024, 12:00:00 PM",
         "status": "Scheduled",
         "score": null
       },
       {
-        "matchup": "Carolina Panthers at New Orleans Saints",
+        "matchup": "CAR @ NO",
         "kickoff": "9/8/2024, 12:00:00 PM",
         "status": "Scheduled",
         "score": null
       },
       {
-        "matchup": "Minnesota Vikings at New York Giants",
+        "matchup": "MIN @ NYG",
         "kickoff": "9/8/2024, 12:00:00 PM",
         "status": "Scheduled",
         "score": null
       },
       {
-        "matchup": "Las Vegas Raiders at Los Angeles Chargers",
+        "matchup": "LV @ LAC",
         "kickoff": "9/8/2024, 3:05:00 PM",
         "status": "Scheduled",
         "score": null
       },
       {
-        "matchup": "Denver Broncos at Seattle Seahawks",
+        "matchup": "DEN @ SEA",
         "kickoff": "9/8/2024, 3:05:00 PM",
         "status": "Scheduled",
         "score": null
       },
       {
-        "matchup": "Dallas Cowboys at Cleveland Browns",
+        "matchup": "DAL @ CLE",
         "kickoff": "9/8/2024, 3:25:00 PM",
         "status": "Scheduled",
         "score": null
       },
       {
-        "matchup": "Washington Commanders at Tampa Bay Buccaneers",
+        "matchup": "WSH @ TB",
         "kickoff": "9/8/2024, 3:25:00 PM",
         "status": "Scheduled",
         "score": null
       },
       {
-        "matchup": "Los Angeles Rams at Detroit Lions",
+        "matchup": "LAR @ DET",
         "kickoff": "9/8/2024, 7:20:00 PM",
         "status": "Scheduled",
         "score": null
       },
       {
-        "matchup": "New York Jets at San Francisco 49ers",
+        "matchup": "NYJ @ SF",
         "kickoff": "9/9/2024, 7:20:00 PM",
         "status": "Scheduled",
         "score": null
@@ -103,193 +103,193 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "Clemson Tigers at Georgia Bulldogs",
+        "matchup": "CLEM VS UGA",
         "kickoff": "8/31/2024, 11:00:00 AM",
         "status": "Scheduled",
         "score": null
       },
       {
-        "matchup": "Penn State Nittany Lions at West Virginia Mountaineers",
+        "matchup": "PSU @ WVU",
         "kickoff": "8/31/2024, 11:00:00 AM",
         "status": "Scheduled",
         "score": null
       },
       {
-        "matchup": "Illinois State Redbirds at Iowa Hawkeyes",
+        "matchup": "ILST @ IOWA",
         "kickoff": "8/31/2024, 11:00:00 AM",
         "status": "Scheduled",
         "score": null
       },
       {
-        "matchup": "Chattanooga Mocs at Tennessee Volunteers",
+        "matchup": "UTC @ TENN",
         "kickoff": "8/31/2024, 11:45:00 AM",
         "status": "Scheduled",
         "score": null
       },
       {
-        "matchup": "South Dakota State Jackrabbits at Oklahoma State Cowboys",
+        "matchup": "SDST @ OKST",
         "kickoff": "8/31/2024, 1:00:00 PM",
         "status": "Scheduled",
         "score": null
       },
       {
-        "matchup": "Akron Zips at Ohio State Buckeyes",
+        "matchup": "AKR @ OSU",
         "kickoff": "8/31/2024, 2:30:00 PM",
         "status": "Scheduled",
         "score": null
       },
       {
-        "matchup": "Colorado State Rams at Texas Longhorns",
+        "matchup": "CSU @ TEX",
         "kickoff": "8/31/2024, 2:30:00 PM",
         "status": "Scheduled",
         "score": null
       },
       {
-        "matchup": "Miami Hurricanes at Florida Gators",
+        "matchup": "MIA @ FLA",
         "kickoff": "8/31/2024, 2:30:00 PM",
         "status": "Scheduled",
         "score": null
       },
       {
-        "matchup": "Western Kentucky Hilltoppers at Alabama Crimson Tide",
+        "matchup": "WKU @ ALA",
         "kickoff": "8/31/2024, 6:00:00 PM",
         "status": "Scheduled",
         "score": null
       },
       {
-        "matchup": "Furman Paladins at Ole Miss Rebels",
+        "matchup": "FUR @ MISS",
         "kickoff": "8/31/2024, 6:00:00 PM",
         "status": "Scheduled",
         "score": null
       },
       {
-        "matchup": "UT Martin Skyhawks at Kansas State Wildcats",
+        "matchup": "UTM @ KSU",
         "kickoff": "8/31/2024, 6:00:00 PM",
         "status": "Scheduled",
         "score": null
       },
       {
-        "matchup": "Idaho Vandals at Oregon Ducks",
+        "matchup": "IDHO @ ORE",
         "kickoff": "8/31/2024, 6:30:00 PM",
         "status": "Scheduled",
         "score": null
       },
       {
-        "matchup": "Notre Dame Fighting Irish at Texas A&M Aggies",
+        "matchup": "ND @ TA&M",
         "kickoff": "8/31/2024, 6:30:00 PM",
         "status": "Scheduled",
         "score": null
       },
       {
-        "matchup": "Fresno State Bulldogs at Michigan Wolverines",
+        "matchup": "FRES @ MICH",
         "kickoff": "8/31/2024, 6:30:00 PM",
         "status": "Scheduled",
         "score": null
       },
       {
-        "matchup": "New Mexico Lobos at Arizona Wildcats",
+        "matchup": "UNM @ ARIZ",
         "kickoff": "8/31/2024, 9:30:00 PM",
         "status": "Scheduled",
         "score": null
       },
       {
-        "matchup": "Florida State Seminoles at Georgia Tech Yellow Jackets",
+        "matchup": "FSU VS GT",
         "kickoff": "8/24/2024, 11:00:00 AM",
         "status": "Final",
         "score": {
           "home": {
-            "name": "Georgia Tech Yellow",
+            "name": "GT",
             "score": "24"
           },
           "away": {
-            "name": "Florida State",
+            "name": "FSU",
             "score": "21"
           }
         }
       },
       {
-        "matchup": "Murray State Racers at Missouri Tigers",
+        "matchup": "MUR @ MIZ",
         "kickoff": "8/29/2024, 7:00:00 PM",
         "status": "Final",
         "score": {
           "home": {
-            "name": "Missouri",
+            "name": "MIZ",
             "score": "51"
           },
           "away": {
-            "name": "Murray State",
+            "name": "MUR",
             "score": "0"
           }
         }
       },
       {
-        "matchup": "Southern Utah Thunderbirds at Utah Utes",
+        "matchup": "SUU @ UTAH",
         "kickoff": "8/29/2024, 8:00:00 PM",
         "status": "Final",
         "score": {
           "home": {
-            "name": "Utah",
+            "name": "UTAH",
             "score": "49"
           },
           "away": {
-            "name": "Southern Utah",
+            "name": "SUU",
             "score": "0"
           }
         }
       },
       {
-        "matchup": "Lindenwood Lions at Kansas Jayhawks",
+        "matchup": "LIN @ KU",
         "kickoff": "8/29/2024, 7:00:00 PM",
         "status": "Final",
         "score": {
           "home": {
-            "name": "Kansas",
+            "name": "KU",
             "score": "48"
           },
           "away": {
-            "name": "Lindenwood",
+            "name": "LIN",
             "score": "3"
           }
         }
       },
       {
-        "matchup": "Western Carolina Catamounts at NC State Wolfpack",
+        "matchup": "WCU @ NCSU",
         "kickoff": "8/29/2024, 6:32:00 PM",
         "status": "Final",
         "score": {
           "home": {
-            "name": "NC State",
+            "name": "NCSU",
             "score": "38"
           },
           "away": {
-            "name": "Western Carolina",
+            "name": "WCU",
             "score": "21"
           }
         }
       },
       {
-        "matchup": "Temple Owls at Oklahoma Sooners",
+        "matchup": "TEM @ OU",
         "kickoff": "8/30/2024, 6:00:00 PM",
         "status": "Final",
         "score": {
           "home": {
-            "name": "Oklahoma",
+            "name": "OU",
             "score": "51"
           },
           "away": {
-            "name": "Temple",
+            "name": "TEM",
             "score": "3"
           }
         }
       },
       {
-        "matchup": "USC Trojans at LSU Tigers",
+        "matchup": "USC VS LSU",
         "kickoff": "9/1/2024, 6:30:00 PM",
         "status": "Scheduled",
         "score": null
       },
       {
-        "matchup": "Boston College Eagles at Florida State Seminoles",
+        "matchup": "BC @ FSU",
         "kickoff": "9/2/2024, 6:30:00 PM",
         "status": "Scheduled",
         "score": null
