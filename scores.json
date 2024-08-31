@@ -139,7 +139,7 @@
         "score": {
           "home": {
             "name": "KSU",
-            "score": "7"
+            "score": "14"
           },
           "away": {
             "name": "UTM",
@@ -282,8 +282,17 @@
       {
         "matchup": "FRES @ MICH",
         "kickoff": "8/31/2024, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MICH",
+            "score": "0"
+          },
+          "away": {
+            "name": "FRES",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "UNM @ ARIZ",
