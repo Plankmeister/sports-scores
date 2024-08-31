@@ -120,7 +120,7 @@
       {
         "matchup": "UTC @ TENN",
         "kickoff": "8/31/2024, 11:45:00 AM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "TENN",
@@ -143,7 +143,7 @@
           },
           "away": {
             "name": "SDST",
-            "score": "6"
+            "score": "13"
           }
         }
       },
