@@ -154,7 +154,7 @@
         "score": {
           "home": {
             "name": "TENN",
-            "score": "38"
+            "score": "45"
           },
           "away": {
             "name": "UTC",
@@ -165,8 +165,17 @@
       {
         "matchup": "SDST @ OKST",
         "kickoff": "8/31/2024, 1:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "OKST",
+            "score": "0"
+          },
+          "away": {
+            "name": "SDST",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "AKR @ OSU",
