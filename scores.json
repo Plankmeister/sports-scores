@@ -135,7 +135,7 @@
       {
         "matchup": "ILST @ IOWA",
         "kickoff": "8/31/2024, 11:00:00 AM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "IOWA",
@@ -150,8 +150,17 @@
       {
         "matchup": "UTC @ TENN",
         "kickoff": "8/31/2024, 11:45:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "TENN",
+            "score": "0"
+          },
+          "away": {
+            "name": "UTC",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "SDST @ OKST",
