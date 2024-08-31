@@ -124,7 +124,7 @@
         "score": {
           "home": {
             "name": "OKST",
-            "score": "31"
+            "score": "37"
           },
           "away": {
             "name": "SDST",
@@ -135,7 +135,7 @@
       {
         "matchup": "AKR @ OSU",
         "kickoff": "8/31/2024, 2:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "OSU",
@@ -173,7 +173,7 @@
           },
           "away": {
             "name": "MIA",
-            "score": "7"
+            "score": "10"
           }
         }
       },
