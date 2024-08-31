@@ -105,7 +105,7 @@
       {
         "matchup": "AKR @ OSU",
         "kickoff": "8/31/2024, 2:30:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "OSU",
@@ -120,7 +120,7 @@
       {
         "matchup": "MIA @ FLA",
         "kickoff": "8/31/2024, 2:30:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "FLA",
@@ -129,6 +129,36 @@
           "away": {
             "name": "MIA",
             "score": "41"
+          }
+        }
+      },
+      {
+        "matchup": "FUR @ MISS",
+        "kickoff": "8/31/2024, 6:00:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MISS",
+            "score": "7"
+          },
+          "away": {
+            "name": "FUR",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "UTM @ KSU",
+        "kickoff": "8/31/2024, 6:00:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "KSU",
+            "score": "0"
+          },
+          "away": {
+            "name": "UTM",
+            "score": "0"
           }
         }
       },
@@ -225,35 +255,14 @@
       {
         "matchup": "WKU @ ALA",
         "kickoff": "8/31/2024, 6:00:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "FUR @ MISS",
-        "kickoff": "8/31/2024, 6:00:00 PM",
         "status": "Live: Q1",
         "score": {
           "home": {
-            "name": "MISS",
+            "name": "ALA",
             "score": "0"
           },
           "away": {
-            "name": "FUR",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "UTM @ KSU",
-        "kickoff": "8/31/2024, 6:00:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "KSU",
-            "score": "0"
-          },
-          "away": {
-            "name": "UTM",
+            "name": "WKU",
             "score": "0"
           }
         }
