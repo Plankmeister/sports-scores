@@ -139,7 +139,7 @@
         "score": {
           "home": {
             "name": "OKST",
-            "score": "24"
+            "score": "31"
           },
           "away": {
             "name": "SDST",
@@ -154,7 +154,7 @@
         "score": {
           "home": {
             "name": "OSU",
-            "score": "0"
+            "score": "7"
           },
           "away": {
             "name": "AKR",
@@ -165,7 +165,7 @@
       {
         "matchup": "CSU @ TEX",
         "kickoff": "8/31/2024, 2:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "TEX",
