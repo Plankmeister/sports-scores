@@ -103,43 +103,13 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "WKU @ ALA",
-        "kickoff": "8/31/2024, 6:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "ALA",
-            "score": "63"
-          },
-          "away": {
-            "name": "WKU",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "FUR @ MISS",
-        "kickoff": "8/31/2024, 6:00:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "MISS",
-            "score": "76"
-          },
-          "away": {
-            "name": "FUR",
-            "score": "0"
-          }
-        }
-      },
-      {
         "matchup": "IDHO @ ORE",
         "kickoff": "8/31/2024, 6:30:00 PM",
         "status": "Live: Q4",
         "score": {
           "home": {
             "name": "ORE",
-            "score": "17"
+            "score": "23"
           },
           "away": {
             "name": "IDHO",
@@ -154,7 +124,7 @@
         "score": {
           "home": {
             "name": "TA&M",
-            "score": "6"
+            "score": "13"
           },
           "away": {
             "name": "ND",
@@ -169,11 +139,26 @@
         "score": {
           "home": {
             "name": "MICH",
-            "score": "23"
+            "score": "29"
           },
           "away": {
             "name": "FRES",
             "score": "10"
+          }
+        }
+      },
+      {
+        "matchup": "UNM @ ARIZ",
+        "kickoff": "8/31/2024, 9:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ARIZ",
+            "score": "0"
+          },
+          "away": {
+            "name": "UNM",
+            "score": "0"
           }
         }
       },
@@ -218,6 +203,36 @@
           },
           "away": {
             "name": "CSU",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "WKU @ ALA",
+        "kickoff": "8/31/2024, 6:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "ALA",
+            "score": "63"
+          },
+          "away": {
+            "name": "WKU",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "FUR @ MISS",
+        "kickoff": "8/31/2024, 6:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "MISS",
+            "score": "76"
+          },
+          "away": {
+            "name": "FUR",
             "score": "0"
           }
         }
@@ -311,12 +326,6 @@
             "score": "0"
           }
         }
-      },
-      {
-        "matchup": "UNM @ ARIZ",
-        "kickoff": "8/31/2024, 9:30:00 PM",
-        "status": "Scheduled",
-        "score": null
       },
       {
         "matchup": "FSU VS GT",
