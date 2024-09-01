@@ -133,21 +133,6 @@
         }
       },
       {
-        "matchup": "FRES @ MICH",
-        "kickoff": "8/31/2024, 6:30:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "MICH",
-            "score": "30"
-          },
-          "away": {
-            "name": "FRES",
-            "score": "10"
-          }
-        }
-      },
-      {
         "matchup": "UNM @ ARIZ",
         "kickoff": "8/31/2024, 9:30:00 PM",
         "status": "Live: Q1",
@@ -249,6 +234,21 @@
           "away": {
             "name": "PSU",
             "score": "34"
+          }
+        }
+      },
+      {
+        "matchup": "FRES @ MICH",
+        "kickoff": "8/31/2024, 6:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "MICH",
+            "score": "30"
+          },
+          "away": {
+            "name": "FRES",
+            "score": "10"
           }
         }
       },
