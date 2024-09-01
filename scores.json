@@ -103,21 +103,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "ND @ TA&M",
-        "kickoff": "8/31/2024, 6:30:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "TA&M",
-            "score": "13"
-          },
-          "away": {
-            "name": "ND",
-            "score": "23"
-          }
-        }
-      },
-      {
         "matchup": "UNM @ ARIZ",
         "kickoff": "8/31/2024, 9:30:00 PM",
         "status": "Live: Q1",
@@ -128,7 +113,7 @@
           },
           "away": {
             "name": "UNM",
-            "score": "7"
+            "score": "14"
           }
         }
       },
@@ -219,6 +204,21 @@
           "away": {
             "name": "FUR",
             "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "ND @ TA&M",
+        "kickoff": "8/31/2024, 6:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "TA&M",
+            "score": "13"
+          },
+          "away": {
+            "name": "ND",
+            "score": "23"
           }
         }
       },
