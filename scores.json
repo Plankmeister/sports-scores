@@ -103,21 +103,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "UNM @ ARIZ",
-        "kickoff": "8/31/2024, 9:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "ARIZ",
-            "score": "61"
-          },
-          "away": {
-            "name": "UNM",
-            "score": "39"
-          }
-        }
-      },
-      {
         "matchup": "USC VS LSU",
         "kickoff": "9/1/2024, 6:30:00 PM",
         "status": "Scheduled",
@@ -405,6 +390,21 @@
           "away": {
             "name": "MIA",
             "score": "41"
+          }
+        }
+      },
+      {
+        "matchup": "UNM @ ARIZ",
+        "kickoff": "8/31/2024, 9:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "ARIZ",
+            "score": "61"
+          },
+          "away": {
+            "name": "UNM",
+            "score": "39"
           }
         }
       },
