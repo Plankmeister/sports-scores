@@ -109,7 +109,7 @@
         "score": {
           "home": {
             "name": "ALA",
-            "score": "28"
+            "score": "35"
           },
           "away": {
             "name": "WKU",
@@ -124,7 +124,7 @@
         "score": {
           "home": {
             "name": "MISS",
-            "score": "45"
+            "score": "52"
           },
           "away": {
             "name": "FUR",
@@ -154,7 +154,7 @@
         "score": {
           "home": {
             "name": "ORE",
-            "score": "7"
+            "score": "13"
           },
           "away": {
             "name": "IDHO",
@@ -165,11 +165,11 @@
       {
         "matchup": "ND @ TA&M",
         "kickoff": "8/31/2024, 6:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "TA&M",
-            "score": "3"
+            "score": "6"
           },
           "away": {
             "name": "ND",
@@ -188,7 +188,7 @@
           },
           "away": {
             "name": "FRES",
-            "score": "0"
+            "score": "3"
           }
         }
       },
