@@ -105,7 +105,7 @@
       {
         "matchup": "WKU @ ALA",
         "kickoff": "8/31/2024, 6:00:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "ALA",
@@ -120,11 +120,11 @@
       {
         "matchup": "FUR @ MISS",
         "kickoff": "8/31/2024, 6:00:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "MISS",
-            "score": "52"
+            "score": "58"
           },
           "away": {
             "name": "FUR",
