@@ -124,7 +124,7 @@
         "score": {
           "home": {
             "name": "MISS",
-            "score": "37"
+            "score": "38"
           },
           "away": {
             "name": "FUR",
@@ -150,7 +150,7 @@
       {
         "matchup": "IDHO @ ORE",
         "kickoff": "8/31/2024, 6:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "ORE",
@@ -180,7 +180,7 @@
       {
         "matchup": "FRES @ MICH",
         "kickoff": "8/31/2024, 6:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "MICH",
