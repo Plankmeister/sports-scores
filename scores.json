@@ -109,7 +109,7 @@
         "score": {
           "home": {
             "name": "ALA",
-            "score": "56"
+            "score": "63"
           },
           "away": {
             "name": "WKU",
@@ -133,24 +133,9 @@
         }
       },
       {
-        "matchup": "UTM @ KSU",
-        "kickoff": "8/31/2024, 6:00:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "KSU",
-            "score": "41"
-          },
-          "away": {
-            "name": "UTM",
-            "score": "6"
-          }
-        }
-      },
-      {
         "matchup": "IDHO @ ORE",
         "kickoff": "8/31/2024, 6:30:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "ORE",
@@ -173,7 +158,7 @@
           },
           "away": {
             "name": "ND",
-            "score": "6"
+            "score": "13"
           }
         }
       },
@@ -184,7 +169,7 @@
         "score": {
           "home": {
             "name": "MICH",
-            "score": "13"
+            "score": "16"
           },
           "away": {
             "name": "FRES",
@@ -279,6 +264,21 @@
           "away": {
             "name": "SDST",
             "score": "20"
+          }
+        }
+      },
+      {
+        "matchup": "UTM @ KSU",
+        "kickoff": "8/31/2024, 6:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "KSU",
+            "score": "41"
+          },
+          "away": {
+            "name": "UTM",
+            "score": "6"
           }
         }
       },
