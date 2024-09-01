@@ -109,11 +109,107 @@
         "score": {
           "home": {
             "name": "ARIZ",
-            "score": "17"
+            "score": "24"
           },
           "away": {
             "name": "UNM",
             "score": "24"
+          }
+        }
+      },
+      {
+        "matchup": "USC VS LSU",
+        "kickoff": "9/1/2024, 6:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "FSU VS GT",
+        "kickoff": "8/24/2024, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "GT",
+            "score": "24"
+          },
+          "away": {
+            "name": "FSU",
+            "score": "21"
+          }
+        }
+      },
+      {
+        "matchup": "MUR @ MIZ",
+        "kickoff": "8/29/2024, 7:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "MIZ",
+            "score": "51"
+          },
+          "away": {
+            "name": "MUR",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "SUU @ UTAH",
+        "kickoff": "8/29/2024, 8:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "UTAH",
+            "score": "49"
+          },
+          "away": {
+            "name": "SUU",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "LIN @ KU",
+        "kickoff": "8/29/2024, 7:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "KU",
+            "score": "48"
+          },
+          "away": {
+            "name": "LIN",
+            "score": "3"
+          }
+        }
+      },
+      {
+        "matchup": "WCU @ NCSU",
+        "kickoff": "8/29/2024, 6:32:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "NCSU",
+            "score": "38"
+          },
+          "away": {
+            "name": "WCU",
+            "score": "21"
+          }
+        }
+      },
+      {
+        "matchup": "TEM @ OU",
+        "kickoff": "8/30/2024, 6:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "OU",
+            "score": "51"
+          },
+          "away": {
+            "name": "TEM",
+            "score": "3"
           }
         }
       },
@@ -326,102 +422,6 @@
             "score": "0"
           }
         }
-      },
-      {
-        "matchup": "FSU VS GT",
-        "kickoff": "8/24/2024, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "GT",
-            "score": "24"
-          },
-          "away": {
-            "name": "FSU",
-            "score": "21"
-          }
-        }
-      },
-      {
-        "matchup": "MUR @ MIZ",
-        "kickoff": "8/29/2024, 7:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "MIZ",
-            "score": "51"
-          },
-          "away": {
-            "name": "MUR",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "SUU @ UTAH",
-        "kickoff": "8/29/2024, 8:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "UTAH",
-            "score": "49"
-          },
-          "away": {
-            "name": "SUU",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "LIN @ KU",
-        "kickoff": "8/29/2024, 7:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "KU",
-            "score": "48"
-          },
-          "away": {
-            "name": "LIN",
-            "score": "3"
-          }
-        }
-      },
-      {
-        "matchup": "WCU @ NCSU",
-        "kickoff": "8/29/2024, 6:32:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "NCSU",
-            "score": "38"
-          },
-          "away": {
-            "name": "WCU",
-            "score": "21"
-          }
-        }
-      },
-      {
-        "matchup": "TEM @ OU",
-        "kickoff": "8/30/2024, 6:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "OU",
-            "score": "51"
-          },
-          "away": {
-            "name": "TEM",
-            "score": "3"
-          }
-        }
-      },
-      {
-        "matchup": "USC VS LSU",
-        "kickoff": "9/1/2024, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
       },
       {
         "matchup": "BC @ FSU",
