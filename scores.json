@@ -103,19 +103,10 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "USC VS LSU",
-        "kickoff": "9/1/2024, 6:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "LSU",
-            "score": "20"
-          },
-          "away": {
-            "name": "USC",
-            "score": "27"
-          }
-        }
+        "matchup": "BC @ FSU",
+        "kickoff": "9/2/2024, 6:30:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
         "matchup": "FSU VS GT",
@@ -433,10 +424,19 @@
         }
       },
       {
-        "matchup": "BC @ FSU",
-        "kickoff": "9/2/2024, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "matchup": "USC VS LSU",
+        "kickoff": "9/1/2024, 6:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "LSU",
+            "score": "20"
+          },
+          "away": {
+            "name": "USC",
+            "score": "27"
+          }
+        }
       }
     ]
   }
