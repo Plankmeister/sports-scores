@@ -5,8 +5,17 @@
       {
         "matchup": "BAL @ KC",
         "kickoff": "9/5/2024, 7:40:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "KC",
+            "score": "0"
+          },
+          "away": {
+            "name": "BAL",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "GB VS PHI",
