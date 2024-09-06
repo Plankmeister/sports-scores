@@ -3,6 +3,12 @@
     "week": 1,
     "games": [
       {
+        "matchup": "GB VS PHI",
+        "kickoff": "9/6/2024, 7:15:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
         "matchup": "BAL @ KC",
         "kickoff": "9/5/2024, 7:40:00 PM",
         "status": "Final",
@@ -16,12 +22,6 @@
             "score": "20"
           }
         }
-      },
-      {
-        "matchup": "GB VS PHI",
-        "kickoff": "9/6/2024, 7:15:00 PM",
-        "status": "Scheduled",
-        "score": null
       },
       {
         "matchup": "PIT @ ATL",
