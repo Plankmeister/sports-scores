@@ -183,7 +183,7 @@
       {
         "matchup": "JVST @ LOU",
         "kickoff": "9/7/2024, 2:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "LOU",
@@ -191,7 +191,7 @@
           },
           "away": {
             "name": "JVST",
-            "score": "0"
+            "score": "6"
           }
         }
       },
