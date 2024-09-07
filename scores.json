@@ -138,7 +138,7 @@
       {
         "matchup": "BGSU @ PSU",
         "kickoff": "9/7/2024, 11:00:00 AM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "PSU",
@@ -157,7 +157,7 @@
         "score": {
           "home": {
             "name": "OKST",
-            "score": "21"
+            "score": "28"
           },
           "away": {
             "name": "ARK",
@@ -176,7 +176,7 @@
           },
           "away": {
             "name": "KSU",
-            "score": "27"
+            "score": "34"
           }
         }
       },
@@ -191,7 +191,7 @@
           },
           "away": {
             "name": "GT",
-            "score": "21"
+            "score": "28"
           }
         }
       },
