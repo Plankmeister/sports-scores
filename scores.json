@@ -121,12 +121,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "TEX @ MICH",
-        "kickoff": "9/7/2024, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
         "matchup": "BGSU @ PSU",
         "kickoff": "9/7/2024, 11:00:00 AM",
         "status": "Live: Q1",
@@ -137,24 +131,48 @@
           },
           "away": {
             "name": "BGSU",
+            "score": "7"
+          }
+        }
+      },
+      {
+        "matchup": "KSU @ TULN",
+        "kickoff": "9/7/2024, 11:00:00 AM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "TULN",
+            "score": "0"
+          },
+          "away": {
+            "name": "KSU",
             "score": "0"
           }
         }
       },
       {
-        "matchup": "ARK @ OKST",
-        "kickoff": "9/7/2024, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "KSU @ TULN",
-        "kickoff": "9/7/2024, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
         "matchup": "GT @ SYR",
+        "kickoff": "9/7/2024, 11:00:00 AM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "SYR",
+            "score": "0"
+          },
+          "away": {
+            "name": "GT",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "TEX @ MICH",
+        "kickoff": "9/7/2024, 11:00:00 AM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "ARK @ OKST",
         "kickoff": "9/7/2024, 11:00:00 AM",
         "status": "Scheduled",
         "score": null
