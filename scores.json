@@ -191,24 +191,15 @@
           },
           "away": {
             "name": "MTSU",
-            "score": "0"
+            "score": "3"
           }
         }
       },
       {
         "matchup": "FAMU @ MIA",
         "kickoff": "9/7/2024, 5:00:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "MIA",
-            "score": "0"
-          },
-          "away": {
-            "name": "FAMU",
-            "score": "0"
-          }
-        }
+        "status": "Scheduled",
+        "score": null
       },
       {
         "matchup": "TNTC @ UGA",
