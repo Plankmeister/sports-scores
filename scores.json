@@ -138,7 +138,7 @@
       {
         "matchup": "BGSU @ PSU",
         "kickoff": "9/7/2024, 11:00:00 AM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "PSU",
@@ -146,7 +146,7 @@
           },
           "away": {
             "name": "BGSU",
-            "score": "10"
+            "score": "17"
           }
         }
       },
@@ -161,7 +161,7 @@
           },
           "away": {
             "name": "ARK",
-            "score": "13"
+            "score": "14"
           }
         }
       },
@@ -183,7 +183,7 @@
       {
         "matchup": "GT @ SYR",
         "kickoff": "9/7/2024, 11:00:00 AM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "SYR",
