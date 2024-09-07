@@ -131,14 +131,14 @@
           },
           "away": {
             "name": "ARK",
-            "score": "28"
+            "score": "31"
           }
         }
       },
       {
         "matchup": "KSU @ TULN",
         "kickoff": "9/7/2024, 11:00:00 AM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "TULN",
@@ -172,7 +172,7 @@
         "score": {
           "home": {
             "name": "ND",
-            "score": "6"
+            "score": "7"
           },
           "away": {
             "name": "NIU",
