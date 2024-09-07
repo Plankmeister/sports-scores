@@ -172,7 +172,7 @@
         "score": {
           "home": {
             "name": "MIZ",
-            "score": "3"
+            "score": "10"
           },
           "away": {
             "name": "BUFF",
@@ -202,7 +202,7 @@
         "score": {
           "home": {
             "name": "LSU",
-            "score": "2"
+            "score": "9"
           },
           "away": {
             "name": "NICH",
@@ -367,7 +367,7 @@
         "score": {
           "home": {
             "name": "OSU",
-            "score": "0"
+            "score": "7"
           },
           "away": {
             "name": "WMU",
@@ -378,8 +378,17 @@
       {
         "matchup": "TENN VS NCSU",
         "kickoff": "9/7/2024, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "NCSU",
+            "score": "0"
+          },
+          "away": {
+            "name": "TENN",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "HOU @ OU",
