@@ -127,7 +127,7 @@
         "score": {
           "home": {
             "name": "MICH",
-            "score": "6"
+            "score": "12"
           },
           "away": {
             "name": "TEX",
@@ -225,8 +225,17 @@
       {
         "matchup": "ISU @ IOWA",
         "kickoff": "9/7/2024, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "IOWA",
+            "score": "0"
+          },
+          "away": {
+            "name": "ISU",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "JVST @ LOU",
