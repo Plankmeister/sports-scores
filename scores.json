@@ -136,21 +136,6 @@
         }
       },
       {
-        "matchup": "BGSU @ PSU",
-        "kickoff": "9/7/2024, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "PSU",
-            "score": "34"
-          },
-          "away": {
-            "name": "BGSU",
-            "score": "27"
-          }
-        }
-      },
-      {
         "matchup": "ARK @ OKST",
         "kickoff": "9/7/2024, 11:00:00 AM",
         "status": "Live: Q4",
@@ -183,7 +168,7 @@
       {
         "matchup": "GT @ SYR",
         "kickoff": "9/7/2024, 11:00:00 AM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "SYR",
@@ -207,6 +192,21 @@
           "away": {
             "name": "TNTC",
             "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "BGSU @ PSU",
+        "kickoff": "9/7/2024, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "PSU",
+            "score": "34"
+          },
+          "away": {
+            "name": "BGSU",
+            "score": "27"
           }
         }
       },
