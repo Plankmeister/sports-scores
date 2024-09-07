@@ -121,21 +121,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "MTSU @ MISS",
-        "kickoff": "9/7/2024, 3:15:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "MISS",
-            "score": "52"
-          },
-          "away": {
-            "name": "MTSU",
-            "score": "3"
-          }
-        }
-      },
-      {
         "matchup": "FAMU @ MIA",
         "kickoff": "9/7/2024, 5:00:00 PM",
         "status": "Live: Q2",
@@ -196,6 +181,36 @@
         }
       },
       {
+        "matchup": "WMU @ OSU",
+        "kickoff": "9/7/2024, 6:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "OSU",
+            "score": "7"
+          },
+          "away": {
+            "name": "WMU",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "TENN VS NCSU",
+        "kickoff": "9/7/2024, 6:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "NCSU",
+            "score": "0"
+          },
+          "away": {
+            "name": "TENN",
+            "score": "0"
+          }
+        }
+      },
+      {
         "matchup": "NICH @ LSU",
         "kickoff": "9/7/2024, 6:30:00 PM",
         "status": "Live: Q1",
@@ -252,6 +267,21 @@
           "away": {
             "name": "NIU",
             "score": "16"
+          }
+        }
+      },
+      {
+        "matchup": "MTSU @ MISS",
+        "kickoff": "9/7/2024, 3:15:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "MISS",
+            "score": "52"
+          },
+          "away": {
+            "name": "MTSU",
+            "score": "3"
           }
         }
       },
@@ -357,36 +387,6 @@
           "away": {
             "name": "GT",
             "score": "28"
-          }
-        }
-      },
-      {
-        "matchup": "WMU @ OSU",
-        "kickoff": "9/7/2024, 6:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "OSU",
-            "score": "7"
-          },
-          "away": {
-            "name": "WMU",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "TENN VS NCSU",
-        "kickoff": "9/7/2024, 6:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "NCSU",
-            "score": "0"
-          },
-          "away": {
-            "name": "TENN",
-            "score": "0"
           }
         }
       },
