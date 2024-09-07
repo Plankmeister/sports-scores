@@ -168,14 +168,32 @@
       {
         "matchup": "TEX @ MICH",
         "kickoff": "9/7/2024, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MICH",
+            "score": "0"
+          },
+          "away": {
+            "name": "TEX",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "ARK @ OKST",
         "kickoff": "9/7/2024, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "OKST",
+            "score": "0"
+          },
+          "away": {
+            "name": "ARK",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "TNTC @ UGA",
