@@ -153,7 +153,7 @@
       {
         "matchup": "BAY @ UTAH",
         "kickoff": "9/7/2024, 2:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "UTAH",
@@ -172,7 +172,7 @@
         "score": {
           "home": {
             "name": "IOWA",
-            "score": "7"
+            "score": "10"
           },
           "away": {
             "name": "ISU",
@@ -187,7 +187,7 @@
         "score": {
           "home": {
             "name": "LOU",
-            "score": "14"
+            "score": "21"
           },
           "away": {
             "name": "JVST",
@@ -202,7 +202,7 @@
         "score": {
           "home": {
             "name": "MISS",
-            "score": "0"
+            "score": "3"
           },
           "away": {
             "name": "MTSU",
