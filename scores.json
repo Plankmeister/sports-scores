@@ -157,7 +157,7 @@
         "score": {
           "home": {
             "name": "IOWA",
-            "score": "13"
+            "score": "19"
           },
           "away": {
             "name": "ISU",
@@ -198,8 +198,17 @@
       {
         "matchup": "FAMU @ MIA",
         "kickoff": "9/7/2024, 5:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MIA",
+            "score": "0"
+          },
+          "away": {
+            "name": "FAMU",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "TNTC @ UGA",
