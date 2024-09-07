@@ -309,8 +309,17 @@
       {
         "matchup": "BUFF @ MIZ",
         "kickoff": "9/7/2024, 6:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MIZ",
+            "score": "0"
+          },
+          "away": {
+            "name": "BUFF",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "KU @ ILL",
