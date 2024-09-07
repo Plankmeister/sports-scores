@@ -142,7 +142,7 @@
         "score": {
           "home": {
             "name": "PSU",
-            "score": "27"
+            "score": "34"
           },
           "away": {
             "name": "BGSU",
@@ -157,7 +157,7 @@
         "score": {
           "home": {
             "name": "OKST",
-            "score": "13"
+            "score": "21"
           },
           "away": {
             "name": "ARK",
@@ -168,11 +168,11 @@
       {
         "matchup": "KSU @ TULN",
         "kickoff": "9/7/2024, 11:00:00 AM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "TULN",
-            "score": "20"
+            "score": "27"
           },
           "away": {
             "name": "KSU",
