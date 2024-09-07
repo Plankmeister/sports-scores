@@ -138,7 +138,7 @@
       {
         "matchup": "BAY @ UTAH",
         "kickoff": "9/7/2024, 2:30:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "UTAH",
@@ -172,7 +172,7 @@
         "score": {
           "home": {
             "name": "LOU",
-            "score": "42"
+            "score": "49"
           },
           "away": {
             "name": "JVST",
@@ -198,11 +198,11 @@
       {
         "matchup": "FAMU @ MIA",
         "kickoff": "9/7/2024, 5:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "MIA",
-            "score": "15"
+            "score": "22"
           },
           "away": {
             "name": "FAMU",
