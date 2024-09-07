@@ -121,28 +121,13 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "ISU @ IOWA",
-        "kickoff": "9/7/2024, 2:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "IOWA",
-            "score": "19"
-          },
-          "away": {
-            "name": "ISU",
-            "score": "20"
-          }
-        }
-      },
-      {
         "matchup": "MTSU @ MISS",
         "kickoff": "9/7/2024, 3:15:00 PM",
         "status": "Live: Q4",
         "score": {
           "home": {
             "name": "MISS",
-            "score": "45"
+            "score": "52"
           },
           "away": {
             "name": "MTSU",
@@ -161,6 +146,21 @@
           },
           "away": {
             "name": "FAMU",
+            "score": "3"
+          }
+        }
+      },
+      {
+        "matchup": "USF @ ALA",
+        "kickoff": "9/7/2024, 6:00:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ALA",
+            "score": "0"
+          },
+          "away": {
+            "name": "USF",
             "score": "3"
           }
         }
@@ -301,6 +301,21 @@
         }
       },
       {
+        "matchup": "ISU @ IOWA",
+        "kickoff": "9/7/2024, 2:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "IOWA",
+            "score": "19"
+          },
+          "away": {
+            "name": "ISU",
+            "score": "20"
+          }
+        }
+      },
+      {
         "matchup": "JVST @ LOU",
         "kickoff": "9/7/2024, 2:30:00 PM",
         "status": "Final",
@@ -327,21 +342,6 @@
           "away": {
             "name": "GT",
             "score": "28"
-          }
-        }
-      },
-      {
-        "matchup": "USF @ ALA",
-        "kickoff": "9/7/2024, 6:00:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "ALA",
-            "score": "0"
-          },
-          "away": {
-            "name": "USF",
-            "score": "0"
           }
         }
       },
