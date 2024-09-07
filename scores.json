@@ -131,14 +131,14 @@
           },
           "away": {
             "name": "ISU",
-            "score": "17"
+            "score": "20"
           }
         }
       },
       {
         "matchup": "MTSU @ MISS",
         "kickoff": "9/7/2024, 3:15:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "MISS",
@@ -157,11 +157,41 @@
         "score": {
           "home": {
             "name": "MIA",
-            "score": "22"
+            "score": "28"
           },
           "away": {
             "name": "FAMU",
             "score": "3"
+          }
+        }
+      },
+      {
+        "matchup": "BUFF @ MIZ",
+        "kickoff": "9/7/2024, 6:00:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MIZ",
+            "score": "0"
+          },
+          "away": {
+            "name": "BUFF",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "KU @ ILL",
+        "kickoff": "9/7/2024, 6:00:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ILL",
+            "score": "0"
+          },
+          "away": {
+            "name": "KU",
+            "score": "0"
           }
         }
       },
@@ -302,27 +332,6 @@
       },
       {
         "matchup": "USF @ ALA",
-        "kickoff": "9/7/2024, 6:00:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "BUFF @ MIZ",
-        "kickoff": "9/7/2024, 6:00:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "MIZ",
-            "score": "0"
-          },
-          "away": {
-            "name": "BUFF",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "KU @ ILL",
         "kickoff": "9/7/2024, 6:00:00 PM",
         "status": "Scheduled",
         "score": null
