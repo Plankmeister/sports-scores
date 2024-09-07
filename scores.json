@@ -153,7 +153,7 @@
       {
         "matchup": "ARK @ OKST",
         "kickoff": "9/7/2024, 11:00:00 AM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "OKST",
@@ -176,7 +176,7 @@
           },
           "away": {
             "name": "KSU",
-            "score": "13"
+            "score": "20"
           }
         }
       },
@@ -187,7 +187,7 @@
         "score": {
           "home": {
             "name": "SYR",
-            "score": "24"
+            "score": "31"
           },
           "away": {
             "name": "GT",
@@ -198,7 +198,7 @@
       {
         "matchup": "TNTC @ UGA",
         "kickoff": "9/7/2024, 1:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "UGA",
