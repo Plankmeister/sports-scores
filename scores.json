@@ -121,36 +121,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "NIU @ ND",
-        "kickoff": "9/7/2024, 2:30:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "ND",
-            "score": "14"
-          },
-          "away": {
-            "name": "NIU",
-            "score": "16"
-          }
-        }
-      },
-      {
-        "matchup": "BAY @ UTAH",
-        "kickoff": "9/7/2024, 2:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "UTAH",
-            "score": "23"
-          },
-          "away": {
-            "name": "BAY",
-            "score": "12"
-          }
-        }
-      },
-      {
         "matchup": "ISU @ IOWA",
         "kickoff": "9/7/2024, 2:30:00 PM",
         "status": "Live: Q4",
@@ -166,28 +136,13 @@
         }
       },
       {
-        "matchup": "JVST @ LOU",
-        "kickoff": "9/7/2024, 2:30:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "LOU",
-            "score": "49"
-          },
-          "away": {
-            "name": "JVST",
-            "score": "14"
-          }
-        }
-      },
-      {
         "matchup": "MTSU @ MISS",
         "kickoff": "9/7/2024, 3:15:00 PM",
         "status": "Live: Q3",
         "score": {
           "home": {
             "name": "MISS",
-            "score": "38"
+            "score": "45"
           },
           "away": {
             "name": "MTSU",
@@ -241,6 +196,21 @@
         }
       },
       {
+        "matchup": "NIU @ ND",
+        "kickoff": "9/7/2024, 2:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "ND",
+            "score": "14"
+          },
+          "away": {
+            "name": "NIU",
+            "score": "16"
+          }
+        }
+      },
+      {
         "matchup": "BGSU @ PSU",
         "kickoff": "9/7/2024, 11:00:00 AM",
         "status": "Final",
@@ -252,6 +222,21 @@
           "away": {
             "name": "BGSU",
             "score": "27"
+          }
+        }
+      },
+      {
+        "matchup": "BAY @ UTAH",
+        "kickoff": "9/7/2024, 2:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "UTAH",
+            "score": "23"
+          },
+          "away": {
+            "name": "BAY",
+            "score": "12"
           }
         }
       },
@@ -282,6 +267,21 @@
           "away": {
             "name": "KSU",
             "score": "34"
+          }
+        }
+      },
+      {
+        "matchup": "JVST @ LOU",
+        "kickoff": "9/7/2024, 2:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "LOU",
+            "score": "49"
+          },
+          "away": {
+            "name": "JVST",
+            "score": "14"
           }
         }
       },
