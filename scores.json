@@ -129,8 +129,17 @@
       {
         "matchup": "BGSU @ PSU",
         "kickoff": "9/7/2024, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "PSU",
+            "score": "0"
+          },
+          "away": {
+            "name": "BGSU",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "ARK @ OKST",
