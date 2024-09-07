@@ -123,7 +123,7 @@
       {
         "matchup": "TEX @ MICH",
         "kickoff": "9/7/2024, 11:00:00 AM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "MICH",
@@ -142,7 +142,7 @@
         "score": {
           "home": {
             "name": "PSU",
-            "score": "7"
+            "score": "14"
           },
           "away": {
             "name": "BGSU",
@@ -153,7 +153,7 @@
       {
         "matchup": "ARK @ OKST",
         "kickoff": "9/7/2024, 11:00:00 AM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "OKST",
@@ -168,7 +168,7 @@
       {
         "matchup": "KSU @ TULN",
         "kickoff": "9/7/2024, 11:00:00 AM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "TULN",
@@ -187,7 +187,7 @@
         "score": {
           "home": {
             "name": "SYR",
-            "score": "7"
+            "score": "14"
           },
           "away": {
             "name": "GT",
