@@ -127,7 +127,7 @@
         "score": {
           "home": {
             "name": "ND",
-            "score": "7"
+            "score": "14"
           },
           "away": {
             "name": "NIU",
@@ -153,7 +153,7 @@
       {
         "matchup": "ISU @ IOWA",
         "kickoff": "9/7/2024, 2:30:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "IOWA",
@@ -172,7 +172,7 @@
         "score": {
           "home": {
             "name": "LOU",
-            "score": "28"
+            "score": "35"
           },
           "away": {
             "name": "JVST",
@@ -288,8 +288,17 @@
       {
         "matchup": "FAMU @ MIA",
         "kickoff": "9/7/2024, 5:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MIA",
+            "score": "0"
+          },
+          "away": {
+            "name": "FAMU",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "USF @ ALA",
