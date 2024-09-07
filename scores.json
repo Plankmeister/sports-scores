@@ -172,7 +172,7 @@
         "score": {
           "home": {
             "name": "ND",
-            "score": "0"
+            "score": "6"
           },
           "away": {
             "name": "NIU",
@@ -202,7 +202,7 @@
         "score": {
           "home": {
             "name": "LOU",
-            "score": "0"
+            "score": "7"
           },
           "away": {
             "name": "JVST",
@@ -258,8 +258,17 @@
       {
         "matchup": "ISU @ IOWA",
         "kickoff": "9/7/2024, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "IOWA",
+            "score": "0"
+          },
+          "away": {
+            "name": "ISU",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "MTSU @ MISS",
