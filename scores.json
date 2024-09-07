@@ -142,7 +142,7 @@
         "score": {
           "home": {
             "name": "PSU",
-            "score": "20"
+            "score": "27"
           },
           "away": {
             "name": "BGSU",
@@ -198,8 +198,17 @@
       {
         "matchup": "TNTC @ UGA",
         "kickoff": "9/7/2024, 1:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "UGA",
+            "score": "0"
+          },
+          "away": {
+            "name": "TNTC",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "NIU @ ND",
