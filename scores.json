@@ -28,7 +28,7 @@
           },
           "away": {
             "name": "DEN",
-            "score": "3"
+            "score": "5"
           }
         }
       },
@@ -50,7 +50,7 @@
       {
         "matchup": "WSH @ TB",
         "kickoff": "9/8/2024, 3:25:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "TB",
