@@ -127,41 +127,11 @@
         "score": {
           "home": {
             "name": "ALA",
-            "score": "21"
+            "score": "28"
           },
           "away": {
             "name": "USF",
             "score": "16"
-          }
-        }
-      },
-      {
-        "matchup": "BUFF @ MIZ",
-        "kickoff": "9/7/2024, 6:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "MIZ",
-            "score": "38"
-          },
-          "away": {
-            "name": "BUFF",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "KU @ ILL",
-        "kickoff": "9/7/2024, 6:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "ILL",
-            "score": "23"
-          },
-          "away": {
-            "name": "KU",
-            "score": "17"
           }
         }
       },
@@ -172,7 +142,7 @@
         "score": {
           "home": {
             "name": "OSU",
-            "score": "55"
+            "score": "56"
           },
           "away": {
             "name": "WMU",
@@ -247,7 +217,7 @@
         "score": {
           "home": {
             "name": "ORE",
-            "score": "0"
+            "score": "7"
           },
           "away": {
             "name": "BOIS",
@@ -346,6 +316,21 @@
         }
       },
       {
+        "matchup": "BUFF @ MIZ",
+        "kickoff": "9/7/2024, 6:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "MIZ",
+            "score": "38"
+          },
+          "away": {
+            "name": "BUFF",
+            "score": "0"
+          }
+        }
+      },
+      {
         "matchup": "BAY @ UTAH",
         "kickoff": "9/7/2024, 2:30:00 PM",
         "status": "Final",
@@ -402,6 +387,21 @@
           "away": {
             "name": "KSU",
             "score": "34"
+          }
+        }
+      },
+      {
+        "matchup": "KU @ ILL",
+        "kickoff": "9/7/2024, 6:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "ILL",
+            "score": "23"
+          },
+          "away": {
+            "name": "KU",
+            "score": "17"
           }
         }
       },
