@@ -127,7 +127,7 @@
         "score": {
           "home": {
             "name": "ALA",
-            "score": "28"
+            "score": "34"
           },
           "away": {
             "name": "USF",
@@ -138,7 +138,7 @@
       {
         "matchup": "WMU @ OSU",
         "kickoff": "9/7/2024, 6:30:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "OSU",
