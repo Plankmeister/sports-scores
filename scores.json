@@ -5,7 +5,7 @@
       {
         "matchup": "PIT @ ATL",
         "kickoff": "9/8/2024, 12:00:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "ATL",
@@ -28,7 +28,7 @@
           },
           "away": {
             "name": "ARI",
-            "score": "17"
+            "score": "20"
           }
         }
       },
@@ -65,7 +65,7 @@
       {
         "matchup": "HOU @ IND",
         "kickoff": "9/8/2024, 12:00:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "IND",
