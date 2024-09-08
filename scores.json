@@ -127,26 +127,11 @@
         "score": {
           "home": {
             "name": "ALA",
-            "score": "34"
+            "score": "35"
           },
           "away": {
             "name": "USF",
             "score": "16"
-          }
-        }
-      },
-      {
-        "matchup": "WMU @ OSU",
-        "kickoff": "9/7/2024, 6:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "OSU",
-            "score": "56"
-          },
-          "away": {
-            "name": "WMU",
-            "score": "0"
           }
         }
       },
@@ -168,7 +153,7 @@
       {
         "matchup": "NICH @ LSU",
         "kickoff": "9/7/2024, 6:30:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "LSU",
@@ -202,7 +187,7 @@
         "score": {
           "home": {
             "name": "CLEM",
-            "score": "56"
+            "score": "63"
           },
           "away": {
             "name": "APP",
@@ -213,7 +198,7 @@
       {
         "matchup": "BOIS @ ORE",
         "kickoff": "9/7/2024, 9:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "ORE",
@@ -221,7 +206,7 @@
           },
           "away": {
             "name": "BOIS",
-            "score": "3"
+            "score": "10"
           }
         }
       },
@@ -236,7 +221,7 @@
           },
           "away": {
             "name": "NAU",
-            "score": "0"
+            "score": "7"
           }
         }
       },
@@ -252,6 +237,21 @@
           "away": {
             "name": "TNTC",
             "score": "3"
+          }
+        }
+      },
+      {
+        "matchup": "WMU @ OSU",
+        "kickoff": "9/7/2024, 6:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "OSU",
+            "score": "56"
+          },
+          "away": {
+            "name": "WMU",
+            "score": "0"
           }
         }
       },
