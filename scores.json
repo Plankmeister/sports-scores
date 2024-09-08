@@ -127,7 +127,7 @@
         "score": {
           "home": {
             "name": "MIA",
-            "score": "39"
+            "score": "46"
           },
           "away": {
             "name": "FAMU",
@@ -142,7 +142,7 @@
         "score": {
           "home": {
             "name": "ALA",
-            "score": "7"
+            "score": "14"
           },
           "away": {
             "name": "USF",
@@ -172,7 +172,7 @@
         "score": {
           "home": {
             "name": "ILL",
-            "score": "6"
+            "score": "13"
           },
           "away": {
             "name": "KU",
@@ -198,7 +198,7 @@
       {
         "matchup": "TENN VS NCSU",
         "kickoff": "9/7/2024, 6:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "NCSU",
@@ -247,7 +247,7 @@
         "score": {
           "home": {
             "name": "CLEM",
-            "score": "14"
+            "score": "21"
           },
           "away": {
             "name": "APP",
