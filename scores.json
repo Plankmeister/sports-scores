@@ -121,21 +121,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "APP @ CLEM",
-        "kickoff": "9/7/2024, 7:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "CLEM",
-            "score": "66"
-          },
-          "away": {
-            "name": "APP",
-            "score": "20"
-          }
-        }
-      },
-      {
         "matchup": "BOIS @ ORE",
         "kickoff": "9/7/2024, 9:00:00 PM",
         "status": "Live: Q2",
@@ -157,7 +142,7 @@
         "score": {
           "home": {
             "name": "ARIZ",
-            "score": "6"
+            "score": "13"
           },
           "away": {
             "name": "NAU",
@@ -462,6 +447,21 @@
           "away": {
             "name": "GT",
             "score": "28"
+          }
+        }
+      },
+      {
+        "matchup": "APP @ CLEM",
+        "kickoff": "9/7/2024, 7:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "CLEM",
+            "score": "66"
+          },
+          "away": {
+            "name": "APP",
+            "score": "20"
           }
         }
       }
