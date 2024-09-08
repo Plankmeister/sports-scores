@@ -191,7 +191,7 @@
           },
           "away": {
             "name": "TENN",
-            "score": "30"
+            "score": "37"
           }
         }
       },
@@ -237,6 +237,21 @@
           "away": {
             "name": "APP",
             "score": "13"
+          }
+        }
+      },
+      {
+        "matchup": "BOIS @ ORE",
+        "kickoff": "9/7/2024, 9:00:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ORE",
+            "score": "0"
+          },
+          "away": {
+            "name": "BOIS",
+            "score": "3"
           }
         }
       },
@@ -432,21 +447,6 @@
           "away": {
             "name": "GT",
             "score": "28"
-          }
-        }
-      },
-      {
-        "matchup": "BOIS @ ORE",
-        "kickoff": "9/7/2024, 9:00:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "ORE",
-            "score": "0"
-          },
-          "away": {
-            "name": "BOIS",
-            "score": "0"
           }
         }
       },
