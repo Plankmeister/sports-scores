@@ -9,7 +9,7 @@
         "score": {
           "home": {
             "name": "LAC",
-            "score": "3"
+            "score": "6"
           },
           "away": {
             "name": "LV",
@@ -24,7 +24,7 @@
         "score": {
           "home": {
             "name": "SEA",
-            "score": "3"
+            "score": "9"
           },
           "away": {
             "name": "DEN",
@@ -58,7 +58,7 @@
           },
           "away": {
             "name": "WSH",
-            "score": "0"
+            "score": "7"
           }
         }
       },
@@ -220,7 +220,7 @@
       },
       {
         "matchup": "NYJ @ SF",
-        "kickoff": "9/9/2024, 7:20:00 PM",
+        "kickoff": "9/9/2024, 7:15:00 PM",
         "status": "Scheduled",
         "score": null
       }
