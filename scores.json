@@ -121,36 +121,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "TENN VS NCSU",
-        "kickoff": "9/7/2024, 6:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "NCSU",
-            "score": "10"
-          },
-          "away": {
-            "name": "TENN",
-            "score": "51"
-          }
-        }
-      },
-      {
-        "matchup": "HOU @ OU",
-        "kickoff": "9/7/2024, 6:45:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "OU",
-            "score": "16"
-          },
-          "away": {
-            "name": "HOU",
-            "score": "12"
-          }
-        }
-      },
-      {
         "matchup": "APP @ CLEM",
         "kickoff": "9/7/2024, 7:00:00 PM",
         "status": "Live: Q4",
@@ -187,11 +157,26 @@
         "score": {
           "home": {
             "name": "ARIZ",
-            "score": "3"
+            "score": "6"
           },
           "away": {
             "name": "NAU",
             "score": "10"
+          }
+        }
+      },
+      {
+        "matchup": "USU @ USC",
+        "kickoff": "9/7/2024, 10:00:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "USC",
+            "score": "3"
+          },
+          "away": {
+            "name": "USU",
+            "score": "0"
           }
         }
       },
@@ -346,6 +331,36 @@
         }
       },
       {
+        "matchup": "TENN VS NCSU",
+        "kickoff": "9/7/2024, 6:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "NCSU",
+            "score": "10"
+          },
+          "away": {
+            "name": "TENN",
+            "score": "51"
+          }
+        }
+      },
+      {
+        "matchup": "HOU @ OU",
+        "kickoff": "9/7/2024, 6:45:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "OU",
+            "score": "16"
+          },
+          "away": {
+            "name": "HOU",
+            "score": "12"
+          }
+        }
+      },
+      {
         "matchup": "ARK @ OKST",
         "kickoff": "9/7/2024, 11:00:00 AM",
         "status": "Final",
@@ -447,21 +462,6 @@
           "away": {
             "name": "GT",
             "score": "28"
-          }
-        }
-      },
-      {
-        "matchup": "USU @ USC",
-        "kickoff": "9/7/2024, 10:00:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "USC",
-            "score": "3"
-          },
-          "away": {
-            "name": "USU",
-            "score": "0"
           }
         }
       }
