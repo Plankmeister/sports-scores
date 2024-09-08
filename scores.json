@@ -153,7 +153,7 @@
       {
         "matchup": "BUFF @ MIZ",
         "kickoff": "9/7/2024, 6:00:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "MIZ",
@@ -168,7 +168,7 @@
       {
         "matchup": "KU @ ILL",
         "kickoff": "9/7/2024, 6:00:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "ILL",
@@ -202,7 +202,7 @@
         "score": {
           "home": {
             "name": "NCSU",
-            "score": "0"
+            "score": "3"
           },
           "away": {
             "name": "TENN",
@@ -217,7 +217,7 @@
         "score": {
           "home": {
             "name": "LSU",
-            "score": "16"
+            "score": "23"
           },
           "away": {
             "name": "NICH",
@@ -247,7 +247,7 @@
         "score": {
           "home": {
             "name": "CLEM",
-            "score": "28"
+            "score": "35"
           },
           "away": {
             "name": "APP",
