@@ -127,7 +127,7 @@
         "score": {
           "home": {
             "name": "MIA",
-            "score": "32"
+            "score": "39"
           },
           "away": {
             "name": "FAMU",
@@ -176,7 +176,7 @@
           },
           "away": {
             "name": "KU",
-            "score": "3"
+            "score": "10"
           }
         }
       },
@@ -213,7 +213,7 @@
       {
         "matchup": "NICH @ LSU",
         "kickoff": "9/7/2024, 6:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "LSU",
@@ -408,8 +408,17 @@
       {
         "matchup": "APP @ CLEM",
         "kickoff": "9/7/2024, 7:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "CLEM",
+            "score": "7"
+          },
+          "away": {
+            "name": "APP",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "BOIS @ ORE",
