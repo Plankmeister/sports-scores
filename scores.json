@@ -3,6 +3,51 @@
     "week": 1,
     "games": [
       {
+        "matchup": "CAR @ NO",
+        "kickoff": "9/8/2024, 12:00:00 PM",
+        "status": "Live: Q4",
+        "score": {
+          "home": {
+            "name": "NO",
+            "score": "47"
+          },
+          "away": {
+            "name": "CAR",
+            "score": "10"
+          }
+        }
+      },
+      {
+        "matchup": "LV @ LAC",
+        "kickoff": "9/8/2024, 3:05:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "LAC",
+            "score": "0"
+          },
+          "away": {
+            "name": "LV",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "DEN @ SEA",
+        "kickoff": "9/8/2024, 3:05:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "SEA",
+            "score": "0"
+          },
+          "away": {
+            "name": "DEN",
+            "score": "3"
+          }
+        }
+      },
+      {
         "matchup": "PIT @ ATL",
         "kickoff": "9/8/2024, 12:00:00 PM",
         "status": "Final",
@@ -48,6 +93,21 @@
         }
       },
       {
+        "matchup": "NE @ CIN",
+        "kickoff": "9/8/2024, 12:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "CIN",
+            "score": "10"
+          },
+          "away": {
+            "name": "NE",
+            "score": "16"
+          }
+        }
+      },
+      {
         "matchup": "HOU @ IND",
         "kickoff": "9/8/2024, 12:00:00 PM",
         "status": "Final",
@@ -78,36 +138,6 @@
         }
       },
       {
-        "matchup": "CAR @ NO",
-        "kickoff": "9/8/2024, 12:00:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "NO",
-            "score": "47"
-          },
-          "away": {
-            "name": "CAR",
-            "score": "10"
-          }
-        }
-      },
-      {
-        "matchup": "NE @ CIN",
-        "kickoff": "9/8/2024, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "CIN",
-            "score": "10"
-          },
-          "away": {
-            "name": "NE",
-            "score": "16"
-          }
-        }
-      },
-      {
         "matchup": "MIN @ NYG",
         "kickoff": "9/8/2024, 12:00:00 PM",
         "status": "Final",
@@ -119,36 +149,6 @@
           "away": {
             "name": "MIN",
             "score": "28"
-          }
-        }
-      },
-      {
-        "matchup": "LV @ LAC",
-        "kickoff": "9/8/2024, 3:05:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "LAC",
-            "score": "0"
-          },
-          "away": {
-            "name": "LV",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "DEN @ SEA",
-        "kickoff": "9/8/2024, 3:05:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "SEA",
-            "score": "0"
-          },
-          "away": {
-            "name": "DEN",
-            "score": "0"
           }
         }
       },
