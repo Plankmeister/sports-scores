@@ -131,14 +131,14 @@
           },
           "away": {
             "name": "USF",
-            "score": "13"
+            "score": "16"
           }
         }
       },
       {
         "matchup": "BUFF @ MIZ",
         "kickoff": "9/7/2024, 6:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "MIZ",
@@ -172,7 +172,7 @@
         "score": {
           "home": {
             "name": "OSU",
-            "score": "49"
+            "score": "55"
           },
           "away": {
             "name": "WMU",
