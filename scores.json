@@ -131,7 +131,7 @@
           },
           "away": {
             "name": "FAMU",
-            "score": "6"
+            "score": "9"
           }
         }
       },
@@ -183,7 +183,7 @@
       {
         "matchup": "WMU @ OSU",
         "kickoff": "9/7/2024, 6:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "OSU",
