@@ -28,14 +28,14 @@
           },
           "away": {
             "name": "DEN",
-            "score": "5"
+            "score": "8"
           }
         }
       },
       {
         "matchup": "DAL @ CLE",
         "kickoff": "9/8/2024, 3:25:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "CLE",
