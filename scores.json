@@ -138,7 +138,7 @@
       {
         "matchup": "HOU @ OU",
         "kickoff": "9/7/2024, 6:45:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "OU",
@@ -453,8 +453,17 @@
       {
         "matchup": "USU @ USC",
         "kickoff": "9/7/2024, 10:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "USC",
+            "score": "0"
+          },
+          "away": {
+            "name": "USU",
+            "score": "0"
+          }
+        }
       }
     ]
   }
