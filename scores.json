@@ -5,7 +5,7 @@
       {
         "matchup": "DAL @ CLE",
         "kickoff": "9/8/2024, 3:25:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "CLE",
@@ -14,21 +14,6 @@
           "away": {
             "name": "DAL",
             "score": "33"
-          }
-        }
-      },
-      {
-        "matchup": "WSH @ TB",
-        "kickoff": "9/8/2024, 3:25:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "TB",
-            "score": "37"
-          },
-          "away": {
-            "name": "WSH",
-            "score": "20"
           }
         }
       },
@@ -178,6 +163,21 @@
           },
           "away": {
             "name": "DEN",
+            "score": "20"
+          }
+        }
+      },
+      {
+        "matchup": "WSH @ TB",
+        "kickoff": "9/8/2024, 3:25:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "TB",
+            "score": "37"
+          },
+          "away": {
+            "name": "WSH",
             "score": "20"
           }
         }
