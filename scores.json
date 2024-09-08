@@ -24,7 +24,7 @@
         "score": {
           "home": {
             "name": "BUF",
-            "score": "10"
+            "score": "16"
           },
           "away": {
             "name": "ARI",
@@ -35,7 +35,7 @@
       {
         "matchup": "TEN @ CHI",
         "kickoff": "9/8/2024, 12:00:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "CHI",
@@ -58,14 +58,14 @@
           },
           "away": {
             "name": "NE",
-            "score": "10"
+            "score": "13"
           }
         }
       },
       {
         "matchup": "HOU @ IND",
         "kickoff": "9/8/2024, 12:00:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "IND",
@@ -118,7 +118,7 @@
           },
           "away": {
             "name": "MIN",
-            "score": "14"
+            "score": "21"
           }
         }
       },
