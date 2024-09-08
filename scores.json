@@ -123,7 +123,7 @@
       {
         "matchup": "APP @ CLEM",
         "kickoff": "9/7/2024, 7:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "CLEM",
@@ -146,7 +146,7 @@
           },
           "away": {
             "name": "BOIS",
-            "score": "17"
+            "score": "20"
           }
         }
       },
@@ -172,7 +172,7 @@
         "score": {
           "home": {
             "name": "USC",
-            "score": "3"
+            "score": "10"
           },
           "away": {
             "name": "USU",
