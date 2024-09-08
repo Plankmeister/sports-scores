@@ -13,14 +13,14 @@
           },
           "away": {
             "name": "PIT",
-            "score": "12"
+            "score": "15"
           }
         }
       },
       {
         "matchup": "ARI @ BUF",
         "kickoff": "9/8/2024, 12:00:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "BUF",
@@ -50,7 +50,7 @@
       {
         "matchup": "NE @ CIN",
         "kickoff": "9/8/2024, 12:00:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "CIN",
