@@ -3,21 +3,6 @@
     "week": 1,
     "games": [
       {
-        "matchup": "DEN @ SEA",
-        "kickoff": "9/8/2024, 3:05:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "SEA",
-            "score": "26"
-          },
-          "away": {
-            "name": "DEN",
-            "score": "20"
-          }
-        }
-      },
-      {
         "matchup": "DAL @ CLE",
         "kickoff": "9/8/2024, 3:25:00 PM",
         "status": "Live: Q4",
@@ -35,7 +20,7 @@
       {
         "matchup": "WSH @ TB",
         "kickoff": "9/8/2024, 3:25:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "TB",
@@ -179,6 +164,21 @@
           "away": {
             "name": "LV",
             "score": "10"
+          }
+        }
+      },
+      {
+        "matchup": "DEN @ SEA",
+        "kickoff": "9/8/2024, 3:05:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "SEA",
+            "score": "26"
+          },
+          "away": {
+            "name": "DEN",
+            "score": "20"
           }
         }
       },
