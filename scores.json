@@ -183,7 +183,7 @@
       {
         "matchup": "APP @ CLEM",
         "kickoff": "9/7/2024, 7:00:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "CLEM",
@@ -202,7 +202,7 @@
         "score": {
           "home": {
             "name": "ORE",
-            "score": "7"
+            "score": "14"
           },
           "away": {
             "name": "BOIS",
@@ -221,7 +221,7 @@
           },
           "away": {
             "name": "NAU",
-            "score": "7"
+            "score": "10"
           }
         }
       },
