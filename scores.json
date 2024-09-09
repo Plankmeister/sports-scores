@@ -3,21 +3,6 @@
     "week": 1,
     "games": [
       {
-        "matchup": "DAL @ CLE",
-        "kickoff": "9/8/2024, 3:25:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "CLE",
-            "score": "17"
-          },
-          "away": {
-            "name": "DAL",
-            "score": "33"
-          }
-        }
-      },
-      {
         "matchup": "PIT @ ATL",
         "kickoff": "9/8/2024, 12:00:00 PM",
         "status": "Final",
@@ -164,6 +149,21 @@
           "away": {
             "name": "DEN",
             "score": "20"
+          }
+        }
+      },
+      {
+        "matchup": "DAL @ CLE",
+        "kickoff": "9/8/2024, 3:25:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "CLE",
+            "score": "17"
+          },
+          "away": {
+            "name": "DAL",
+            "score": "33"
           }
         }
       },
