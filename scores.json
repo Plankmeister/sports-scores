@@ -3,21 +3,6 @@
     "week": 1,
     "games": [
       {
-        "matchup": "LAR @ DET",
-        "kickoff": "9/8/2024, 7:20:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "DET",
-            "score": "26"
-          },
-          "away": {
-            "name": "LAR",
-            "score": "20"
-          }
-        }
-      },
-      {
         "matchup": "PIT @ ATL",
         "kickoff": "9/8/2024, 12:00:00 PM",
         "status": "Final",
@@ -193,6 +178,21 @@
           },
           "away": {
             "name": "WSH",
+            "score": "20"
+          }
+        }
+      },
+      {
+        "matchup": "LAR @ DET",
+        "kickoff": "9/8/2024, 7:20:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "DET",
+            "score": "26"
+          },
+          "away": {
+            "name": "LAR",
             "score": "20"
           }
         }
