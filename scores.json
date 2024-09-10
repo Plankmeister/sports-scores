@@ -5,8 +5,17 @@
       {
         "matchup": "NYJ @ SF",
         "kickoff": "9/9/2024, 7:15:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "SF",
+            "score": "0"
+          },
+          "away": {
+            "name": "NYJ",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "BAL @ KC",
