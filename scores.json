@@ -3,21 +3,6 @@
     "week": 1,
     "games": [
       {
-        "matchup": "NYJ @ SF",
-        "kickoff": "9/9/2024, 7:15:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "SF",
-            "score": "32"
-          },
-          "away": {
-            "name": "NYJ",
-            "score": "19"
-          }
-        }
-      },
-      {
         "matchup": "BAL @ KC",
         "kickoff": "9/5/2024, 7:40:00 PM",
         "status": "Final",
@@ -239,6 +224,21 @@
           "away": {
             "name": "LAR",
             "score": "20"
+          }
+        }
+      },
+      {
+        "matchup": "NYJ @ SF",
+        "kickoff": "9/9/2024, 7:15:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "SF",
+            "score": "32"
+          },
+          "away": {
+            "name": "NYJ",
+            "score": "19"
           }
         }
       }
