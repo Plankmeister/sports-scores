@@ -5,8 +5,17 @@
       {
         "matchup": "BUF @ MIA",
         "kickoff": "9/12/2024, 7:15:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MIA",
+            "score": "0"
+          },
+          "away": {
+            "name": "BUF",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "NO @ DAL",
