@@ -173,18 +173,9 @@
       },
       {
         "matchup": "BALL @ MIA",
-        "kickoff": "9/14/2024, 3:45:00 PM",
-        "status": "Live: Q0",
-        "score": {
-          "home": {
-            "name": "MIA",
-            "score": "0"
-          },
-          "away": {
-            "name": "BALL",
-            "score": "0"
-          }
-        }
+        "kickoff": "9/14/2024, 4:55:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
         "matchup": "ALA @ WIS",
