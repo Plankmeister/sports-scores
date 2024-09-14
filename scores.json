@@ -159,7 +159,7 @@
       {
         "matchup": "UTSA @ TEX",
         "kickoff": "9/14/2024, 6:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "TEX",
@@ -309,8 +309,17 @@
       {
         "matchup": "UGA @ UK",
         "kickoff": "9/14/2024, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "UK",
+            "score": "0"
+          },
+          "away": {
+            "name": "UGA",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "KENT @ TENN",
