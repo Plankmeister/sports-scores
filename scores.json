@@ -112,28 +112,13 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "TULN @ OU",
-        "kickoff": "9/14/2024, 2:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "OU",
-            "score": "34"
-          },
-          "away": {
-            "name": "TULN",
-            "score": "19"
-          }
-        }
-      },
-      {
         "matchup": "UTAH @ USU",
         "kickoff": "9/14/2024, 3:30:00 PM",
         "status": "Live: Q3",
         "score": {
           "home": {
             "name": "USU",
-            "score": "20"
+            "score": "21"
           },
           "away": {
             "name": "UTAH",
@@ -168,6 +153,21 @@
           "away": {
             "name": "MISS",
             "score": "14"
+          }
+        }
+      },
+      {
+        "matchup": "UTSA @ TEX",
+        "kickoff": "9/14/2024, 6:00:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "TEX",
+            "score": "7"
+          },
+          "away": {
+            "name": "UTSA",
+            "score": "0"
           }
         }
       },
@@ -232,6 +232,21 @@
         }
       },
       {
+        "matchup": "TULN @ OU",
+        "kickoff": "9/14/2024, 2:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "OU",
+            "score": "34"
+          },
+          "away": {
+            "name": "TULN",
+            "score": "19"
+          }
+        }
+      },
+      {
         "matchup": "LSU @ SC",
         "kickoff": "9/14/2024, 11:00:00 AM",
         "status": "Final",
@@ -273,21 +288,6 @@
           "away": {
             "name": "ND",
             "score": "66"
-          }
-        }
-      },
-      {
-        "matchup": "UTSA @ TEX",
-        "kickoff": "9/14/2024, 6:00:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "TEX",
-            "score": "0"
-          },
-          "away": {
-            "name": "UTSA",
-            "score": "0"
           }
         }
       },
