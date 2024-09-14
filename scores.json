@@ -133,7 +133,7 @@
         "score": {
           "home": {
             "name": "TLSA",
-            "score": "0"
+            "score": "3"
           },
           "away": {
             "name": "OKST",
@@ -159,7 +159,7 @@
       {
         "matchup": "ARST @ MICH",
         "kickoff": "9/14/2024, 11:00:00 AM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "MICH",
@@ -167,7 +167,7 @@
           },
           "away": {
             "name": "ARST",
-            "score": "16"
+            "score": "18"
           }
         }
       },
