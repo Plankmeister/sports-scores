@@ -172,6 +172,21 @@
         }
       },
       {
+        "matchup": "UNI @ NEB",
+        "kickoff": "9/14/2024, 6:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "NEB",
+            "score": "7"
+          },
+          "away": {
+            "name": "UNI",
+            "score": "0"
+          }
+        }
+      },
+      {
         "matchup": "ALA @ WIS",
         "kickoff": "9/14/2024, 11:00:00 AM",
         "status": "Final",
@@ -293,12 +308,6 @@
       },
       {
         "matchup": "UGA @ UK",
-        "kickoff": "9/14/2024, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "UNI @ NEB",
         "kickoff": "9/14/2024, 6:30:00 PM",
         "status": "Scheduled",
         "score": null
