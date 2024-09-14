@@ -112,21 +112,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "LSU @ SC",
-        "kickoff": "9/14/2024, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "SC",
-            "score": "33"
-          },
-          "away": {
-            "name": "LSU",
-            "score": "36"
-          }
-        }
-      },
-      {
         "matchup": "ORE @ ORST",
         "kickoff": "9/14/2024, 2:30:00 PM",
         "status": "Live: Q1",
@@ -140,12 +125,6 @@
             "score": "7"
           }
         }
-      },
-      {
-        "matchup": "BALL @ MIA",
-        "kickoff": "9/14/2024, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
       },
       {
         "matchup": "TULN @ OU",
@@ -173,7 +152,7 @@
           },
           "away": {
             "name": "ND",
-            "score": "7"
+            "score": "14"
           }
         }
       },
@@ -223,6 +202,21 @@
         }
       },
       {
+        "matchup": "LSU @ SC",
+        "kickoff": "9/14/2024, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "SC",
+            "score": "33"
+          },
+          "away": {
+            "name": "LSU",
+            "score": "36"
+          }
+        }
+      },
+      {
         "matchup": "ARST @ MICH",
         "kickoff": "9/14/2024, 11:00:00 AM",
         "status": "Final",
@@ -240,6 +234,12 @@
       {
         "matchup": "UTAH @ USU",
         "kickoff": "9/14/2024, 3:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "BALL @ MIA",
+        "kickoff": "9/14/2024, 3:45:00 PM",
         "status": "Scheduled",
         "score": null
       },
