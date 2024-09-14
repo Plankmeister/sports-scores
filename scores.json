@@ -159,7 +159,7 @@
       {
         "matchup": "ARST @ MICH",
         "kickoff": "9/14/2024, 11:00:00 AM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "MICH",
@@ -167,7 +167,7 @@
           },
           "away": {
             "name": "ARST",
-            "score": "0"
+            "score": "3"
           }
         }
       },
