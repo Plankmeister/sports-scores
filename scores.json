@@ -157,6 +157,21 @@
         }
       },
       {
+        "matchup": "BC @ MIZ",
+        "kickoff": "9/14/2024, 11:45:00 AM",
+        "status": "Live: Q4",
+        "score": {
+          "home": {
+            "name": "MIZ",
+            "score": "24"
+          },
+          "away": {
+            "name": "BC",
+            "score": "14"
+          }
+        }
+      },
+      {
         "matchup": "ARST @ MICH",
         "kickoff": "9/14/2024, 11:00:00 AM",
         "status": "Final",
@@ -168,21 +183,6 @@
           "away": {
             "name": "ARST",
             "score": "18"
-          }
-        }
-      },
-      {
-        "matchup": "BC @ MIZ",
-        "kickoff": "9/14/2024, 11:45:00 AM",
-        "status": "Live: Q3",
-        "score": {
-          "home": {
-            "name": "MIZ",
-            "score": "24"
-          },
-          "away": {
-            "name": "BC",
-            "score": "14"
           }
         }
       },
