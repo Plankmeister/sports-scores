@@ -112,21 +112,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "ORE @ ORST",
-        "kickoff": "9/14/2024, 2:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "ORST",
-            "score": "14"
-          },
-          "away": {
-            "name": "ORE",
-            "score": "49"
-          }
-        }
-      },
-      {
         "matchup": "TULN @ OU",
         "kickoff": "9/14/2024, 2:30:00 PM",
         "status": "Live: Q4",
@@ -142,21 +127,6 @@
         }
       },
       {
-        "matchup": "ND @ PUR",
-        "kickoff": "9/14/2024, 2:30:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "PUR",
-            "score": "7"
-          },
-          "away": {
-            "name": "ND",
-            "score": "66"
-          }
-        }
-      },
-      {
         "matchup": "UTAH @ USU",
         "kickoff": "9/14/2024, 3:30:00 PM",
         "status": "Live: Q3",
@@ -167,7 +137,7 @@
           },
           "away": {
             "name": "UTAH",
-            "score": "20"
+            "score": "26"
           }
         }
       },
@@ -232,6 +202,21 @@
         }
       },
       {
+        "matchup": "ORE @ ORST",
+        "kickoff": "9/14/2024, 2:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "ORST",
+            "score": "14"
+          },
+          "away": {
+            "name": "ORE",
+            "score": "49"
+          }
+        }
+      },
+      {
         "matchup": "OKST @ TLSA",
         "kickoff": "9/14/2024, 11:00:00 AM",
         "status": "Final",
@@ -273,6 +258,21 @@
           "away": {
             "name": "ARST",
             "score": "18"
+          }
+        }
+      },
+      {
+        "matchup": "ND @ PUR",
+        "kickoff": "9/14/2024, 2:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "PUR",
+            "score": "7"
+          },
+          "away": {
+            "name": "ND",
+            "score": "66"
           }
         }
       },
