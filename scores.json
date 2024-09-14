@@ -129,7 +129,7 @@
       {
         "matchup": "OKST @ TLSA",
         "kickoff": "9/14/2024, 11:00:00 AM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "TLSA",
@@ -152,14 +152,14 @@
           },
           "away": {
             "name": "LSU",
-            "score": "10"
+            "score": "16"
           }
         }
       },
       {
         "matchup": "ARST @ MICH",
         "kickoff": "9/14/2024, 11:00:00 AM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "MICH",
@@ -178,7 +178,7 @@
         "score": {
           "home": {
             "name": "MIZ",
-            "score": "3"
+            "score": "6"
           },
           "away": {
             "name": "BC",
