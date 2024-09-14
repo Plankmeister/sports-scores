@@ -167,7 +167,7 @@
           },
           "away": {
             "name": "UTAH",
-            "score": "17"
+            "score": "20"
           }
         }
       },
@@ -264,8 +264,17 @@
       {
         "matchup": "MISS @ WAKE",
         "kickoff": "9/14/2024, 5:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "WAKE",
+            "score": "0"
+          },
+          "away": {
+            "name": "MISS",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "UTSA @ TEX",
