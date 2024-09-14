@@ -189,8 +189,17 @@
       {
         "matchup": "ORE @ ORST",
         "kickoff": "9/14/2024, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ORST",
+            "score": "0"
+          },
+          "away": {
+            "name": "ORE",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "BALL @ MIA",
@@ -210,14 +219,32 @@
       {
         "matchup": "TULN @ OU",
         "kickoff": "9/14/2024, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "OU",
+            "score": "0"
+          },
+          "away": {
+            "name": "TULN",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "ND @ PUR",
         "kickoff": "9/14/2024, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "PUR",
+            "score": "0"
+          },
+          "away": {
+            "name": "ND",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "UTAH @ USU",
