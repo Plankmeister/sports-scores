@@ -122,22 +122,7 @@
           },
           "away": {
             "name": "LSU",
-            "score": "29"
-          }
-        }
-      },
-      {
-        "matchup": "BC @ MIZ",
-        "kickoff": "9/14/2024, 11:45:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "MIZ",
-            "score": "27"
-          },
-          "away": {
-            "name": "BC",
-            "score": "21"
+            "score": "36"
           }
         }
       },
@@ -152,7 +137,7 @@
           },
           "away": {
             "name": "ORE",
-            "score": "0"
+            "score": "6"
           }
         }
       },
@@ -213,6 +198,21 @@
           "away": {
             "name": "ALA",
             "score": "42"
+          }
+        }
+      },
+      {
+        "matchup": "BC @ MIZ",
+        "kickoff": "9/14/2024, 11:45:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "MIZ",
+            "score": "27"
+          },
+          "away": {
+            "name": "BC",
+            "score": "21"
           }
         }
       },
