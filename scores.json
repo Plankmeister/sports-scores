@@ -152,7 +152,22 @@
           },
           "away": {
             "name": "ND",
-            "score": "14"
+            "score": "21"
+          }
+        }
+      },
+      {
+        "matchup": "UTAH @ USU",
+        "kickoff": "9/14/2024, 3:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "USU",
+            "score": "0"
+          },
+          "away": {
+            "name": "UTAH",
+            "score": "0"
           }
         }
       },
@@ -232,25 +247,19 @@
         }
       },
       {
-        "matchup": "UTAH @ USU",
-        "kickoff": "9/14/2024, 3:30:00 PM",
-        "status": "Live: Q1",
+        "matchup": "BALL @ MIA",
+        "kickoff": "9/14/2024, 3:45:00 PM",
+        "status": "Live: Q0",
         "score": {
           "home": {
-            "name": "USU",
+            "name": "MIA",
             "score": "0"
           },
           "away": {
-            "name": "UTAH",
+            "name": "BALL",
             "score": "0"
           }
         }
-      },
-      {
-        "matchup": "BALL @ MIA",
-        "kickoff": "9/14/2024, 3:45:00 PM",
-        "status": "Scheduled",
-        "score": null
       },
       {
         "matchup": "MISS @ WAKE",
