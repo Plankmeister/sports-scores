@@ -112,6 +112,36 @@
   "collegeFootball": {
     "games": [
       {
+        "matchup": "LSU @ SC",
+        "kickoff": "9/14/2024, 11:00:00 AM",
+        "status": "Live: Q4",
+        "score": {
+          "home": {
+            "name": "SC",
+            "score": "33"
+          },
+          "away": {
+            "name": "LSU",
+            "score": "29"
+          }
+        }
+      },
+      {
+        "matchup": "BC @ MIZ",
+        "kickoff": "9/14/2024, 11:45:00 AM",
+        "status": "Live: Q4",
+        "score": {
+          "home": {
+            "name": "MIZ",
+            "score": "27"
+          },
+          "away": {
+            "name": "BC",
+            "score": "14"
+          }
+        }
+      },
+      {
         "matchup": "ALA @ WIS",
         "kickoff": "9/14/2024, 11:00:00 AM",
         "status": "Final",
@@ -142,36 +172,6 @@
         }
       },
       {
-        "matchup": "LSU @ SC",
-        "kickoff": "9/14/2024, 11:00:00 AM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "SC",
-            "score": "33"
-          },
-          "away": {
-            "name": "LSU",
-            "score": "29"
-          }
-        }
-      },
-      {
-        "matchup": "BC @ MIZ",
-        "kickoff": "9/14/2024, 11:45:00 AM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "MIZ",
-            "score": "24"
-          },
-          "away": {
-            "name": "BC",
-            "score": "14"
-          }
-        }
-      },
-      {
         "matchup": "ARST @ MICH",
         "kickoff": "9/14/2024, 11:00:00 AM",
         "status": "Final",
@@ -195,8 +195,17 @@
       {
         "matchup": "BALL @ MIA",
         "kickoff": "9/14/2024, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q0",
+        "score": {
+          "home": {
+            "name": "MIA",
+            "score": "0"
+          },
+          "away": {
+            "name": "BALL",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "TULN @ OU",
