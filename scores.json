@@ -114,11 +114,11 @@
       {
         "matchup": "BALL @ MIA",
         "kickoff": "9/14/2024, 4:55:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "MIA",
-            "score": "41"
+            "score": "48"
           },
           "away": {
             "name": "BALL",
@@ -159,7 +159,7 @@
       {
         "matchup": "UGA @ UK",
         "kickoff": "9/14/2024, 6:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "UK",
