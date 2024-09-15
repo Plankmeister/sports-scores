@@ -5,7 +5,7 @@
       {
         "matchup": "NO @ DAL",
         "kickoff": "9/15/2024, 12:00:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "DAL",
@@ -20,7 +20,7 @@
       {
         "matchup": "TB @ DET",
         "kickoff": "9/15/2024, 12:00:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "DET",
@@ -99,7 +99,7 @@
         "score": {
           "home": {
             "name": "WSH",
-            "score": "12"
+            "score": "15"
           },
           "away": {
             "name": "NYG",
@@ -129,7 +129,7 @@
         "score": {
           "home": {
             "name": "JAX",
-            "score": "3"
+            "score": "10"
           },
           "away": {
             "name": "CLE",
