@@ -20,7 +20,7 @@
       {
         "matchup": "TB @ DET",
         "kickoff": "9/15/2024, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "DET",
@@ -35,7 +35,7 @@
       {
         "matchup": "NYJ @ TEN",
         "kickoff": "9/15/2024, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "TEN",
@@ -118,7 +118,7 @@
           },
           "away": {
             "name": "LV",
-            "score": "22"
+            "score": "23"
           }
         }
       },
@@ -155,8 +155,17 @@
       {
         "matchup": "LAR @ ARI",
         "kickoff": "9/15/2024, 3:05:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ARI",
+            "score": "0"
+          },
+          "away": {
+            "name": "LAR",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "PIT @ DEN",
