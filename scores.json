@@ -5,7 +5,7 @@
       {
         "matchup": "LAR @ ARI",
         "kickoff": "9/15/2024, 3:05:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "ARI",
@@ -24,7 +24,7 @@
         "score": {
           "home": {
             "name": "DEN",
-            "score": "0"
+            "score": "3"
           },
           "away": {
             "name": "PIT",
@@ -35,11 +35,11 @@
       {
         "matchup": "CIN @ KC",
         "kickoff": "9/15/2024, 3:25:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "KC",
-            "score": "17"
+            "score": "23"
           },
           "away": {
             "name": "CIN",
