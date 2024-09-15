@@ -13,7 +13,7 @@
           },
           "away": {
             "name": "NO",
-            "score": "35"
+            "score": "41"
           }
         }
       },
@@ -28,7 +28,7 @@
           },
           "away": {
             "name": "TB",
-            "score": "13"
+            "score": "20"
           }
         }
       },
@@ -39,7 +39,7 @@
         "score": {
           "home": {
             "name": "GB",
-            "score": "13"
+            "score": "16"
           },
           "away": {
             "name": "IND",
@@ -58,7 +58,7 @@
           },
           "away": {
             "name": "NYJ",
-            "score": "14"
+            "score": "17"
           }
         }
       },
@@ -110,7 +110,7 @@
       {
         "matchup": "LAC @ CAR",
         "kickoff": "9/15/2024, 12:00:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "CAR",
