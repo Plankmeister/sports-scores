@@ -3,21 +3,6 @@
     "week": 2,
     "games": [
       {
-        "matchup": "BUF @ MIA",
-        "kickoff": "9/12/2024, 7:15:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "MIA",
-            "score": "10"
-          },
-          "away": {
-            "name": "BUF",
-            "score": "31"
-          }
-        }
-      },
-      {
         "matchup": "NO @ DAL",
         "kickoff": "9/15/2024, 12:00:00 PM",
         "status": "Scheduled",
@@ -100,6 +85,21 @@
         "kickoff": "9/15/2024, 7:20:00 PM",
         "status": "Scheduled",
         "score": null
+      },
+      {
+        "matchup": "BUF @ MIA",
+        "kickoff": "9/12/2024, 7:15:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "MIA",
+            "score": "10"
+          },
+          "away": {
+            "name": "BUF",
+            "score": "31"
+          }
+        }
       },
       {
         "matchup": "ATL @ PHI",
