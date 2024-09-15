@@ -118,7 +118,7 @@
         "score": {
           "home": {
             "name": "MIA",
-            "score": "48"
+            "score": "55"
           },
           "away": {
             "name": "BALL",
@@ -129,7 +129,7 @@
       {
         "matchup": "MISS @ WAKE",
         "kickoff": "9/14/2024, 5:30:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "WAKE",
@@ -178,7 +178,7 @@
         "score": {
           "home": {
             "name": "NEB",
-            "score": "14"
+            "score": "21"
           },
           "away": {
             "name": "UNI",
@@ -193,7 +193,7 @@
         "score": {
           "home": {
             "name": "TENN",
-            "score": "30"
+            "score": "37"
           },
           "away": {
             "name": "KENT",
