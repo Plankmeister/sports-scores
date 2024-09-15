@@ -3,36 +3,6 @@
     "week": 2,
     "games": [
       {
-        "matchup": "PIT @ DEN",
-        "kickoff": "9/15/2024, 3:25:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "DEN",
-            "score": "6"
-          },
-          "away": {
-            "name": "PIT",
-            "score": "13"
-          }
-        }
-      },
-      {
-        "matchup": "CIN @ KC",
-        "kickoff": "9/15/2024, 3:25:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "KC",
-            "score": "26"
-          },
-          "away": {
-            "name": "CIN",
-            "score": "25"
-          }
-        }
-      },
-      {
         "matchup": "NO @ DAL",
         "kickoff": "9/15/2024, 12:00:00 PM",
         "status": "Final",
@@ -194,6 +164,36 @@
           "away": {
             "name": "LAR",
             "score": "10"
+          }
+        }
+      },
+      {
+        "matchup": "PIT @ DEN",
+        "kickoff": "9/15/2024, 3:25:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "DEN",
+            "score": "6"
+          },
+          "away": {
+            "name": "PIT",
+            "score": "13"
+          }
+        }
+      },
+      {
+        "matchup": "CIN @ KC",
+        "kickoff": "9/15/2024, 3:25:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "KC",
+            "score": "26"
+          },
+          "away": {
+            "name": "CIN",
+            "score": "25"
           }
         }
       },
