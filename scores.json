@@ -112,21 +112,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "MISS @ WAKE",
-        "kickoff": "9/14/2024, 5:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "WAKE",
-            "score": "6"
-          },
-          "away": {
-            "name": "MISS",
-            "score": "40"
-          }
-        }
-      },
-      {
         "matchup": "UTSA @ TEX",
         "kickoff": "9/14/2024, 6:00:00 PM",
         "status": "Live: Q4",
@@ -159,7 +144,7 @@
       {
         "matchup": "UNI @ NEB",
         "kickoff": "9/14/2024, 6:30:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "NEB",
@@ -198,6 +183,21 @@
           "away": {
             "name": "ALA",
             "score": "42"
+          }
+        }
+      },
+      {
+        "matchup": "MISS @ WAKE",
+        "kickoff": "9/14/2024, 5:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "WAKE",
+            "score": "6"
+          },
+          "away": {
+            "name": "MISS",
+            "score": "40"
           }
         }
       },
