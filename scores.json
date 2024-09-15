@@ -50,7 +50,7 @@
       {
         "matchup": "SF @ MIN",
         "kickoff": "9/15/2024, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "MIN",
@@ -58,14 +58,14 @@
           },
           "away": {
             "name": "SF",
-            "score": "14"
+            "score": "17"
           }
         }
       },
       {
         "matchup": "SEA @ NE",
         "kickoff": "9/15/2024, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Live: Q5",
         "score": {
           "home": {
             "name": "NE",
@@ -103,7 +103,7 @@
           },
           "away": {
             "name": "CLE",
-            "score": "16"
+            "score": "18"
           }
         }
       },
@@ -118,7 +118,7 @@
           },
           "away": {
             "name": "LV",
-            "score": "16"
+            "score": "22"
           }
         }
       },
