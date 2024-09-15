@@ -127,21 +127,6 @@
         }
       },
       {
-        "matchup": "KENT @ TENN",
-        "kickoff": "9/14/2024, 6:45:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "TENN",
-            "score": "71"
-          },
-          "away": {
-            "name": "KENT",
-            "score": "0"
-          }
-        }
-      },
-      {
         "matchup": "UTSA @ TEX",
         "kickoff": "9/14/2024, 6:00:00 PM",
         "status": "Final",
@@ -198,6 +183,21 @@
           "away": {
             "name": "BC",
             "score": "21"
+          }
+        }
+      },
+      {
+        "matchup": "KENT @ TENN",
+        "kickoff": "9/14/2024, 6:45:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "TENN",
+            "score": "71"
+          },
+          "away": {
+            "name": "KENT",
+            "score": "0"
           }
         }
       },
