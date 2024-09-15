@@ -13,7 +13,7 @@
           },
           "away": {
             "name": "NO",
-            "score": "14"
+            "score": "21"
           }
         }
       },
@@ -69,7 +69,7 @@
         "score": {
           "home": {
             "name": "MIN",
-            "score": "3"
+            "score": "10"
           },
           "away": {
             "name": "SF",
@@ -99,7 +99,7 @@
         "score": {
           "home": {
             "name": "WSH",
-            "score": "3"
+            "score": "6"
           },
           "away": {
             "name": "NYG",
@@ -133,7 +133,7 @@
           },
           "away": {
             "name": "CLE",
-            "score": "7"
+            "score": "10"
           }
         }
       },
@@ -148,7 +148,7 @@
           },
           "away": {
             "name": "LV",
-            "score": "0"
+            "score": "3"
           }
         }
       },
