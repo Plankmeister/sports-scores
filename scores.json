@@ -112,21 +112,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "BALL @ MIA",
-        "kickoff": "9/14/2024, 4:55:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "MIA",
-            "score": "62"
-          },
-          "away": {
-            "name": "BALL",
-            "score": "0"
-          }
-        }
-      },
-      {
         "matchup": "MISS @ WAKE",
         "kickoff": "9/14/2024, 5:30:00 PM",
         "status": "Live: Q3",
@@ -243,6 +228,21 @@
           "away": {
             "name": "ORE",
             "score": "49"
+          }
+        }
+      },
+      {
+        "matchup": "BALL @ MIA",
+        "kickoff": "9/14/2024, 4:55:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "MIA",
+            "score": "62"
+          },
+          "away": {
+            "name": "BALL",
+            "score": "0"
           }
         }
       },
