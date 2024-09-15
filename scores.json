@@ -3,66 +3,6 @@
     "week": 2,
     "games": [
       {
-        "matchup": "NO @ DAL",
-        "kickoff": "9/15/2024, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "DAL",
-            "score": "19"
-          },
-          "away": {
-            "name": "NO",
-            "score": "44"
-          }
-        }
-      },
-      {
-        "matchup": "TB @ DET",
-        "kickoff": "9/15/2024, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "DET",
-            "score": "16"
-          },
-          "away": {
-            "name": "TB",
-            "score": "20"
-          }
-        }
-      },
-      {
-        "matchup": "NYJ @ TEN",
-        "kickoff": "9/15/2024, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "TEN",
-            "score": "17"
-          },
-          "away": {
-            "name": "NYJ",
-            "score": "24"
-          }
-        }
-      },
-      {
-        "matchup": "SF @ MIN",
-        "kickoff": "9/15/2024, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "MIN",
-            "score": "23"
-          },
-          "away": {
-            "name": "SF",
-            "score": "17"
-          }
-        }
-      },
-      {
         "matchup": "SEA @ NE",
         "kickoff": "9/15/2024, 12:00:00 PM",
         "status": "Live: Q5",
@@ -80,11 +20,11 @@
       {
         "matchup": "NYG @ WSH",
         "kickoff": "9/15/2024, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "WSH",
-            "score": "18"
+            "score": "21"
           },
           "away": {
             "name": "NYG",
@@ -123,6 +63,51 @@
         }
       },
       {
+        "matchup": "LAR @ ARI",
+        "kickoff": "9/15/2024, 3:05:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ARI",
+            "score": "0"
+          },
+          "away": {
+            "name": "LAR",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "NO @ DAL",
+        "kickoff": "9/15/2024, 12:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "DAL",
+            "score": "19"
+          },
+          "away": {
+            "name": "NO",
+            "score": "44"
+          }
+        }
+      },
+      {
+        "matchup": "TB @ DET",
+        "kickoff": "9/15/2024, 12:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "DET",
+            "score": "16"
+          },
+          "away": {
+            "name": "TB",
+            "score": "20"
+          }
+        }
+      },
+      {
         "matchup": "IND @ GB",
         "kickoff": "9/15/2024, 12:00:00 PM",
         "status": "Final",
@@ -138,6 +123,36 @@
         }
       },
       {
+        "matchup": "NYJ @ TEN",
+        "kickoff": "9/15/2024, 12:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "TEN",
+            "score": "17"
+          },
+          "away": {
+            "name": "NYJ",
+            "score": "24"
+          }
+        }
+      },
+      {
+        "matchup": "SF @ MIN",
+        "kickoff": "9/15/2024, 12:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "MIN",
+            "score": "23"
+          },
+          "away": {
+            "name": "SF",
+            "score": "17"
+          }
+        }
+      },
+      {
         "matchup": "LAC @ CAR",
         "kickoff": "9/15/2024, 12:00:00 PM",
         "status": "Final",
@@ -149,21 +164,6 @@
           "away": {
             "name": "LAC",
             "score": "26"
-          }
-        }
-      },
-      {
-        "matchup": "LAR @ ARI",
-        "kickoff": "9/15/2024, 3:05:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "ARI",
-            "score": "0"
-          },
-          "away": {
-            "name": "LAR",
-            "score": "0"
           }
         }
       },
