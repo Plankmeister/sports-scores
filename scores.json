@@ -114,7 +114,7 @@
       {
         "matchup": "MISS @ WAKE",
         "kickoff": "9/14/2024, 5:30:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "WAKE",
@@ -163,7 +163,7 @@
         "score": {
           "home": {
             "name": "NEB",
-            "score": "24"
+            "score": "27"
           },
           "away": {
             "name": "UNI",
