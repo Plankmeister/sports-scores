@@ -122,14 +122,14 @@
           },
           "away": {
             "name": "UTAH",
-            "score": "35"
+            "score": "38"
           }
         }
       },
       {
         "matchup": "BALL @ MIA",
         "kickoff": "9/14/2024, 4:55:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "MIA",
@@ -152,7 +152,7 @@
           },
           "away": {
             "name": "MISS",
-            "score": "20"
+            "score": "23"
           }
         }
       },
@@ -163,7 +163,7 @@
         "score": {
           "home": {
             "name": "TEX",
-            "score": "14"
+            "score": "21"
           },
           "away": {
             "name": "UTSA",
