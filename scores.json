@@ -112,21 +112,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "UTAH @ USU",
-        "kickoff": "9/14/2024, 3:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "USU",
-            "score": "21"
-          },
-          "away": {
-            "name": "UTAH",
-            "score": "38"
-          }
-        }
-      },
-      {
         "matchup": "BALL @ MIA",
         "kickoff": "9/14/2024, 4:55:00 PM",
         "status": "Live: Q3",
@@ -148,7 +133,7 @@
         "score": {
           "home": {
             "name": "WAKE",
-            "score": "3"
+            "score": "6"
           },
           "away": {
             "name": "MISS",
@@ -208,7 +193,7 @@
         "score": {
           "home": {
             "name": "TENN",
-            "score": "9"
+            "score": "16"
           },
           "away": {
             "name": "KENT",
@@ -258,6 +243,21 @@
           "away": {
             "name": "ORE",
             "score": "49"
+          }
+        }
+      },
+      {
+        "matchup": "UTAH @ USU",
+        "kickoff": "9/14/2024, 3:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "USU",
+            "score": "21"
+          },
+          "away": {
+            "name": "UTAH",
+            "score": "38"
           }
         }
       },
