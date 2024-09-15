@@ -13,7 +13,7 @@
           },
           "away": {
             "name": "NO",
-            "score": "0"
+            "score": "7"
           }
         }
       },
@@ -28,7 +28,7 @@
           },
           "away": {
             "name": "TB",
-            "score": "0"
+            "score": "3"
           }
         }
       },
@@ -39,7 +39,7 @@
         "score": {
           "home": {
             "name": "GB",
-            "score": "0"
+            "score": "3"
           },
           "away": {
             "name": "IND",
@@ -144,7 +144,7 @@
         "score": {
           "home": {
             "name": "BAL",
-            "score": "0"
+            "score": "3"
           },
           "away": {
             "name": "LV",
