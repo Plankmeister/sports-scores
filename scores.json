@@ -5,7 +5,7 @@
       {
         "matchup": "NO @ DAL",
         "kickoff": "9/15/2024, 12:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "DAL",
@@ -35,7 +35,7 @@
       {
         "matchup": "IND @ GB",
         "kickoff": "9/15/2024, 12:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "GB",
@@ -84,7 +84,7 @@
         "score": {
           "home": {
             "name": "NE",
-            "score": "7"
+            "score": "10"
           },
           "away": {
             "name": "SEA",
@@ -95,7 +95,7 @@
       {
         "matchup": "NYG @ WSH",
         "kickoff": "9/15/2024, 12:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "WSH",
@@ -110,7 +110,7 @@
       {
         "matchup": "LAC @ CAR",
         "kickoff": "9/15/2024, 12:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "CAR",
@@ -125,7 +125,7 @@
       {
         "matchup": "CLE @ JAX",
         "kickoff": "9/15/2024, 12:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "JAX",
@@ -140,7 +140,7 @@
       {
         "matchup": "LV @ BAL",
         "kickoff": "9/15/2024, 12:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "BAL",
