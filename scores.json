@@ -112,21 +112,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "UTSA @ TEX",
-        "kickoff": "9/14/2024, 6:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "TEX",
-            "score": "56"
-          },
-          "away": {
-            "name": "UTSA",
-            "score": "7"
-          }
-        }
-      },
-      {
         "matchup": "UGA @ UK",
         "kickoff": "9/14/2024, 6:30:00 PM",
         "status": "Live: Q4",
@@ -137,7 +122,7 @@
           },
           "away": {
             "name": "UGA",
-            "score": "6"
+            "score": "13"
           }
         }
       },
@@ -159,15 +144,30 @@
       {
         "matchup": "KENT @ TENN",
         "kickoff": "9/14/2024, 6:45:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "TENN",
-            "score": "68"
+            "score": "71"
           },
           "away": {
             "name": "KENT",
             "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "UTSA @ TEX",
+        "kickoff": "9/14/2024, 6:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "TEX",
+            "score": "56"
+          },
+          "away": {
+            "name": "UTSA",
+            "score": "7"
           }
         }
       },
