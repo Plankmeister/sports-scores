@@ -3,6 +3,27 @@
     "week": 2,
     "games": [
       {
+        "matchup": "ATL @ PHI",
+        "kickoff": "9/16/2024, 7:15:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "BUF @ MIA",
+        "kickoff": "9/12/2024, 7:15:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "MIA",
+            "score": "10"
+          },
+          "away": {
+            "name": "BUF",
+            "score": "31"
+          }
+        }
+      },
+      {
         "matchup": "NO @ DAL",
         "kickoff": "9/15/2024, 12:00:00 PM",
         "status": "Final",
@@ -211,271 +232,118 @@
             "score": "13"
           }
         }
-      },
-      {
-        "matchup": "BUF @ MIA",
-        "kickoff": "9/12/2024, 7:15:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "MIA",
-            "score": "10"
-          },
-          "away": {
-            "name": "BUF",
-            "score": "31"
-          }
-        }
-      },
-      {
-        "matchup": "ATL @ PHI",
-        "kickoff": "9/16/2024, 7:15:00 PM",
-        "status": "Scheduled",
-        "score": null
       }
     ]
   },
   "collegeFootball": {
     "games": [
       {
-        "matchup": "ARIZ @ KSU",
-        "kickoff": "9/13/2024, 7:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "KSU",
-            "score": "31"
-          },
-          "away": {
-            "name": "ARIZ",
-            "score": "7"
-          }
-        }
+        "matchup": "ILL @ NEB",
+        "kickoff": "9/20/2024, 7:00:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "UGA @ UK",
-        "kickoff": "9/14/2024, 6:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "UK",
-            "score": "12"
-          },
-          "away": {
-            "name": "UGA",
-            "score": "13"
-          }
-        }
+        "matchup": "MRSH @ OSU",
+        "kickoff": "9/21/2024, 11:00:00 AM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "UTSA @ TEX",
-        "kickoff": "9/14/2024, 6:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "TEX",
-            "score": "56"
-          },
-          "away": {
-            "name": "UTSA",
-            "score": "7"
-          }
-        }
+        "matchup": "NCSU @ CLEM",
+        "kickoff": "9/21/2024, 11:00:00 AM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "ALA @ WIS",
-        "kickoff": "9/14/2024, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "WIS",
-            "score": "10"
-          },
-          "away": {
-            "name": "ALA",
-            "score": "42"
-          }
-        }
+        "matchup": "ARST @ ISU",
+        "kickoff": "9/21/2024, 1:00:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "MISS @ WAKE",
-        "kickoff": "9/14/2024, 5:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "WAKE",
-            "score": "6"
-          },
-          "away": {
-            "name": "MISS",
-            "score": "40"
-          }
-        }
+        "matchup": "KENT @ PSU",
+        "kickoff": "9/21/2024, 2:30:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "BC @ MIZ",
-        "kickoff": "9/14/2024, 11:45:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "MIZ",
-            "score": "27"
-          },
-          "away": {
-            "name": "BC",
-            "score": "21"
-          }
-        }
+        "matchup": "USC @ MICH",
+        "kickoff": "9/21/2024, 2:30:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "KENT @ TENN",
-        "kickoff": "9/14/2024, 6:45:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "TENN",
-            "score": "71"
-          },
-          "away": {
-            "name": "KENT",
-            "score": "0"
-          }
-        }
+        "matchup": "M-OH @ ND",
+        "kickoff": "9/21/2024, 2:30:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "ORE @ ORST",
-        "kickoff": "9/14/2024, 2:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "ORST",
-            "score": "14"
-          },
-          "away": {
-            "name": "ORE",
-            "score": "49"
-          }
-        }
+        "matchup": "GT @ LOU",
+        "kickoff": "9/21/2024, 2:30:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "BALL @ MIA",
-        "kickoff": "9/14/2024, 4:55:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "MIA",
-            "score": "62"
-          },
-          "away": {
-            "name": "BALL",
-            "score": "0"
-          }
-        }
+        "matchup": "BUFF @ NIU",
+        "kickoff": "9/21/2024, 2:30:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "UTAH @ USU",
-        "kickoff": "9/14/2024, 3:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "USU",
-            "score": "21"
-          },
-          "away": {
-            "name": "UTAH",
-            "score": "38"
-          }
-        }
+        "matchup": "UCLA @ LSU",
+        "kickoff": "9/21/2024, 2:40:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "OKST @ TLSA",
-        "kickoff": "9/14/2024, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "TLSA",
-            "score": "10"
-          },
-          "away": {
-            "name": "OKST",
-            "score": "45"
-          }
-        }
+        "matchup": "UTAH @ OKST",
+        "kickoff": "9/21/2024, 3:00:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "TULN @ OU",
-        "kickoff": "9/14/2024, 2:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "OU",
-            "score": "34"
-          },
-          "away": {
-            "name": "TULN",
-            "score": "19"
-          }
-        }
+        "matchup": "VAN @ MIZ",
+        "kickoff": "9/21/2024, 3:15:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "LSU @ SC",
-        "kickoff": "9/14/2024, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "SC",
-            "score": "33"
-          },
-          "away": {
-            "name": "LSU",
-            "score": "36"
-          }
-        }
+        "matchup": "MIA @ USF",
+        "kickoff": "9/21/2024, 6:00:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "ARST @ MICH",
-        "kickoff": "9/14/2024, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "MICH",
-            "score": "28"
-          },
-          "away": {
-            "name": "ARST",
-            "score": "18"
-          }
-        }
+        "matchup": "TENN @ OU",
+        "kickoff": "9/21/2024, 6:30:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "ND @ PUR",
-        "kickoff": "9/14/2024, 2:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "PUR",
-            "score": "7"
-          },
-          "away": {
-            "name": "ND",
-            "score": "66"
-          }
-        }
+        "matchup": "BGSU @ TA&M",
+        "kickoff": "9/21/2024, 6:30:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "UNI @ NEB",
-        "kickoff": "9/14/2024, 6:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "NEB",
-            "score": "34"
-          },
-          "away": {
-            "name": "UNI",
-            "score": "3"
-          }
-        }
+        "matchup": "GASO @ MISS",
+        "kickoff": "9/21/2024, 6:45:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "ULM @ TEX",
+        "kickoff": "9/21/2024, 7:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "KSU @ BYU",
+        "kickoff": "9/21/2024, 9:30:00 PM",
+        "status": "Scheduled",
+        "score": null
       }
     ]
   }
