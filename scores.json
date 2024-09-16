@@ -200,8 +200,17 @@
       {
         "matchup": "CHI @ HOU",
         "kickoff": "9/15/2024, 7:20:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "HOU",
+            "score": "0"
+          },
+          "away": {
+            "name": "CHI",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "BUF @ MIA",
