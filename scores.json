@@ -283,6 +283,12 @@
         "score": null
       },
       {
+        "matchup": "UCLA @ LSU",
+        "kickoff": "9/21/2024, 2:40:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
         "matchup": "M-OH @ ND",
         "kickoff": "9/21/2024, 2:30:00 PM",
         "status": "Scheduled",
@@ -297,12 +303,6 @@
       {
         "matchup": "BUFF @ NIU",
         "kickoff": "9/21/2024, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "UCLA @ LSU",
-        "kickoff": "9/21/2024, 2:40:00 PM",
         "status": "Scheduled",
         "score": null
       },
