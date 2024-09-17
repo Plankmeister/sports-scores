@@ -3,21 +3,6 @@
     "week": 2,
     "games": [
       {
-        "matchup": "ATL @ PHI",
-        "kickoff": "9/16/2024, 7:15:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "PHI",
-            "score": "21"
-          },
-          "away": {
-            "name": "ATL",
-            "score": "22"
-          }
-        }
-      },
-      {
         "matchup": "BUF @ MIA",
         "kickoff": "9/12/2024, 7:15:00 PM",
         "status": "Final",
@@ -239,6 +224,21 @@
           "away": {
             "name": "CHI",
             "score": "13"
+          }
+        }
+      },
+      {
+        "matchup": "ATL @ PHI",
+        "kickoff": "9/16/2024, 7:15:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "PHI",
+            "score": "21"
+          },
+          "away": {
+            "name": "ATL",
+            "score": "22"
           }
         }
       }
