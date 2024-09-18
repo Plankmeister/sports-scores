@@ -1,246 +1,102 @@
 {
   "nfl": {
-    "week": 2,
+    "week": 3,
     "games": [
       {
-        "matchup": "BUF @ MIA",
-        "kickoff": "9/12/2024, 7:15:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "MIA",
-            "score": "10"
-          },
-          "away": {
-            "name": "BUF",
-            "score": "31"
-          }
-        }
+        "matchup": "NE @ NYJ",
+        "kickoff": "9/19/2024, 7:15:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "NO @ DAL",
-        "kickoff": "9/15/2024, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "DAL",
-            "score": "19"
-          },
-          "away": {
-            "name": "NO",
-            "score": "44"
-          }
-        }
+        "matchup": "NYG @ CLE",
+        "kickoff": "9/22/2024, 12:00:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "TB @ DET",
-        "kickoff": "9/15/2024, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "DET",
-            "score": "16"
-          },
-          "away": {
-            "name": "TB",
-            "score": "20"
-          }
-        }
+        "matchup": "GB @ TEN",
+        "kickoff": "9/22/2024, 12:00:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "IND @ GB",
-        "kickoff": "9/15/2024, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "GB",
-            "score": "16"
-          },
-          "away": {
-            "name": "IND",
-            "score": "10"
-          }
-        }
+        "matchup": "CHI @ IND",
+        "kickoff": "9/22/2024, 12:00:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "NYJ @ TEN",
-        "kickoff": "9/15/2024, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "TEN",
-            "score": "17"
-          },
-          "away": {
-            "name": "NYJ",
-            "score": "24"
-          }
-        }
+        "matchup": "HOU @ MIN",
+        "kickoff": "9/22/2024, 12:00:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "SF @ MIN",
-        "kickoff": "9/15/2024, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "MIN",
-            "score": "23"
-          },
-          "away": {
-            "name": "SF",
-            "score": "17"
-          }
-        }
+        "matchup": "PHI @ NO",
+        "kickoff": "9/22/2024, 12:00:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "SEA @ NE",
-        "kickoff": "9/15/2024, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "NE",
-            "score": "20"
-          },
-          "away": {
-            "name": "SEA",
-            "score": "23"
-          }
-        }
+        "matchup": "LAC @ PIT",
+        "kickoff": "9/22/2024, 12:00:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "NYG @ WSH",
-        "kickoff": "9/15/2024, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "WSH",
-            "score": "21"
-          },
-          "away": {
-            "name": "NYG",
-            "score": "18"
-          }
-        }
+        "matchup": "DEN @ TB",
+        "kickoff": "9/22/2024, 12:00:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "LAC @ CAR",
-        "kickoff": "9/15/2024, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "CAR",
-            "score": "3"
-          },
-          "away": {
-            "name": "LAC",
-            "score": "26"
-          }
-        }
+        "matchup": "CAR @ LV",
+        "kickoff": "9/22/2024, 3:05:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "CLE @ JAX",
-        "kickoff": "9/15/2024, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "JAX",
-            "score": "13"
-          },
-          "away": {
-            "name": "CLE",
-            "score": "18"
-          }
-        }
+        "matchup": "MIA @ SEA",
+        "kickoff": "9/22/2024, 3:05:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "LV @ BAL",
-        "kickoff": "9/15/2024, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "BAL",
-            "score": "23"
-          },
-          "away": {
-            "name": "LV",
-            "score": "26"
-          }
-        }
+        "matchup": "BAL @ DAL",
+        "kickoff": "9/22/2024, 3:25:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "LAR @ ARI",
-        "kickoff": "9/15/2024, 3:05:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "ARI",
-            "score": "41"
-          },
-          "away": {
-            "name": "LAR",
-            "score": "10"
-          }
-        }
+        "matchup": "SF @ LAR",
+        "kickoff": "9/22/2024, 3:25:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "PIT @ DEN",
-        "kickoff": "9/15/2024, 3:25:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "DEN",
-            "score": "6"
-          },
-          "away": {
-            "name": "PIT",
-            "score": "13"
-          }
-        }
+        "matchup": "DET @ ARI",
+        "kickoff": "9/22/2024, 3:25:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "CIN @ KC",
-        "kickoff": "9/15/2024, 3:25:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "KC",
-            "score": "26"
-          },
-          "away": {
-            "name": "CIN",
-            "score": "25"
-          }
-        }
+        "matchup": "KC @ ATL",
+        "kickoff": "9/22/2024, 7:20:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "CHI @ HOU",
-        "kickoff": "9/15/2024, 7:20:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "HOU",
-            "score": "19"
-          },
-          "away": {
-            "name": "CHI",
-            "score": "13"
-          }
-        }
+        "matchup": "JAX @ BUF",
+        "kickoff": "9/23/2024, 6:30:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "ATL @ PHI",
-        "kickoff": "9/16/2024, 7:15:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "PHI",
-            "score": "21"
-          },
-          "away": {
-            "name": "ATL",
-            "score": "22"
-          }
-        }
+        "matchup": "WSH @ CIN",
+        "kickoff": "9/23/2024, 7:15:00 PM",
+        "status": "Scheduled",
+        "score": null
       }
     ]
   },
