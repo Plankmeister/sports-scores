@@ -133,7 +133,7 @@
         "score": {
           "home": {
             "name": "MICH",
-            "score": "20"
+            "score": "27"
           },
           "away": {
             "name": "USC",
@@ -159,7 +159,7 @@
       {
         "matchup": "GT @ LOU",
         "kickoff": "9/21/2024, 2:30:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "LOU",
@@ -174,7 +174,7 @@
       {
         "matchup": "BUFF @ NIU",
         "kickoff": "9/21/2024, 2:30:00 PM",
-        "status": "Live: Q4",
+        "status": "Live: Q5",
         "score": {
           "home": {
             "name": "NIU",
@@ -197,7 +197,7 @@
           },
           "away": {
             "name": "UTAH",
-            "score": "16"
+            "score": "22"
           }
         }
       },
