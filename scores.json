@@ -144,8 +144,17 @@
       {
         "matchup": "ARST @ ISU",
         "kickoff": "9/21/2024, 1:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ISU",
+            "score": "0"
+          },
+          "away": {
+            "name": "ARST",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "KENT @ PSU",
