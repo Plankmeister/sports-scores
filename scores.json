@@ -112,36 +112,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "MRSH @ OSU",
-        "kickoff": "9/21/2024, 11:00:00 AM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "OSU",
-            "score": "49"
-          },
-          "away": {
-            "name": "MRSH",
-            "score": "14"
-          }
-        }
-      },
-      {
-        "matchup": "NCSU @ CLEM",
-        "kickoff": "9/21/2024, 11:00:00 AM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "CLEM",
-            "score": "59"
-          },
-          "away": {
-            "name": "NCSU",
-            "score": "35"
-          }
-        }
-      },
-      {
         "matchup": "ARST @ ISU",
         "kickoff": "9/21/2024, 1:00:00 PM",
         "status": "Live: Q2",
@@ -159,20 +129,32 @@
       {
         "matchup": "KENT @ PSU",
         "kickoff": "9/21/2024, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "PSU",
+            "score": "0"
+          },
+          "away": {
+            "name": "KENT",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "USC @ MICH",
         "kickoff": "9/21/2024, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "UCLA @ LSU",
-        "kickoff": "9/21/2024, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MICH",
+            "score": "0"
+          },
+          "away": {
+            "name": "USC",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "M-OH @ ND",
@@ -218,6 +200,42 @@
             "score": "0"
           }
         }
+      },
+      {
+        "matchup": "MRSH @ OSU",
+        "kickoff": "9/21/2024, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "OSU",
+            "score": "49"
+          },
+          "away": {
+            "name": "MRSH",
+            "score": "14"
+          }
+        }
+      },
+      {
+        "matchup": "NCSU @ CLEM",
+        "kickoff": "9/21/2024, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "CLEM",
+            "score": "59"
+          },
+          "away": {
+            "name": "NCSU",
+            "score": "35"
+          }
+        }
+      },
+      {
+        "matchup": "UCLA @ LSU",
+        "kickoff": "9/21/2024, 2:30:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
         "matchup": "UTAH @ OKST",
