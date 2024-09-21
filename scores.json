@@ -114,7 +114,7 @@
       {
         "matchup": "ARST @ ISU",
         "kickoff": "9/21/2024, 1:00:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "ISU",
@@ -157,6 +157,21 @@
         }
       },
       {
+        "matchup": "UCLA @ LSU",
+        "kickoff": "9/21/2024, 2:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "LSU",
+            "score": "7"
+          },
+          "away": {
+            "name": "UCLA",
+            "score": "0"
+          }
+        }
+      },
+      {
         "matchup": "M-OH @ ND",
         "kickoff": "9/21/2024, 2:30:00 PM",
         "status": "Live: Q1",
@@ -182,7 +197,7 @@
           },
           "away": {
             "name": "GT",
-            "score": "0"
+            "score": "7"
           }
         }
       },
@@ -193,7 +208,7 @@
         "score": {
           "home": {
             "name": "NIU",
-            "score": "0"
+            "score": "7"
           },
           "away": {
             "name": "BUFF",
@@ -232,21 +247,6 @@
         }
       },
       {
-        "matchup": "UCLA @ LSU",
-        "kickoff": "9/21/2024, 2:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "LSU",
-            "score": "7"
-          },
-          "away": {
-            "name": "UCLA",
-            "score": "0"
-          }
-        }
-      },
-      {
         "matchup": "UTAH @ OKST",
         "kickoff": "9/21/2024, 3:00:00 PM",
         "status": "Scheduled",
@@ -255,8 +255,17 @@
       {
         "matchup": "VAN @ MIZ",
         "kickoff": "9/21/2024, 3:15:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MIZ",
+            "score": "0"
+          },
+          "away": {
+            "name": "VAN",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "MIA @ USF",
