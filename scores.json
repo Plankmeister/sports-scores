@@ -189,7 +189,7 @@
       {
         "matchup": "GT @ LOU",
         "kickoff": "9/21/2024, 2:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "LOU",
@@ -223,10 +223,25 @@
         "score": {
           "home": {
             "name": "OKST",
-            "score": "0"
+            "score": "3"
           },
           "away": {
             "name": "UTAH",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "VAN @ MIZ",
+        "kickoff": "9/21/2024, 3:15:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MIZ",
+            "score": "0"
+          },
+          "away": {
+            "name": "VAN",
             "score": "0"
           }
         }
@@ -258,21 +273,6 @@
           "away": {
             "name": "NCSU",
             "score": "35"
-          }
-        }
-      },
-      {
-        "matchup": "VAN @ MIZ",
-        "kickoff": "9/21/2024, 3:15:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "MIZ",
-            "score": "0"
-          },
-          "away": {
-            "name": "VAN",
-            "score": "0"
           }
         }
       },
