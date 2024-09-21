@@ -118,7 +118,7 @@
         "score": {
           "home": {
             "name": "ISU",
-            "score": "31"
+            "score": "38"
           },
           "away": {
             "name": "ARST",
@@ -133,7 +133,7 @@
         "score": {
           "home": {
             "name": "PSU",
-            "score": "0"
+            "score": "7"
           },
           "away": {
             "name": "KENT",
@@ -148,7 +148,7 @@
         "score": {
           "home": {
             "name": "MICH",
-            "score": "0"
+            "score": "7"
           },
           "away": {
             "name": "USC",
@@ -193,7 +193,7 @@
         "score": {
           "home": {
             "name": "LOU",
-            "score": "0"
+            "score": "6"
           },
           "away": {
             "name": "GT",
@@ -212,6 +212,21 @@
           },
           "away": {
             "name": "BUFF",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "UTAH @ OKST",
+        "kickoff": "9/21/2024, 3:00:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "OKST",
+            "score": "0"
+          },
+          "away": {
+            "name": "UTAH",
             "score": "0"
           }
         }
@@ -245,12 +260,6 @@
             "score": "35"
           }
         }
-      },
-      {
-        "matchup": "UTAH @ OKST",
-        "kickoff": "9/21/2024, 3:00:00 PM",
-        "status": "Scheduled",
-        "score": null
       },
       {
         "matchup": "VAN @ MIZ",
