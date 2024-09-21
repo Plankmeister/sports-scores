@@ -112,21 +112,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "ARST @ ISU",
-        "kickoff": "9/21/2024, 1:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "ISU",
-            "score": "52"
-          },
-          "away": {
-            "name": "ARST",
-            "score": "7"
-          }
-        }
-      },
-      {
         "matchup": "KENT @ PSU",
         "kickoff": "9/21/2024, 2:30:00 PM",
         "status": "Live: Q2",
@@ -167,7 +152,7 @@
           },
           "away": {
             "name": "UCLA",
-            "score": "10"
+            "score": "17"
           }
         }
       },
@@ -204,7 +189,7 @@
       {
         "matchup": "BUFF @ NIU",
         "kickoff": "9/21/2024, 2:30:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "NIU",
@@ -258,6 +243,21 @@
           "away": {
             "name": "MRSH",
             "score": "14"
+          }
+        }
+      },
+      {
+        "matchup": "ARST @ ISU",
+        "kickoff": "9/21/2024, 1:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "ISU",
+            "score": "52"
+          },
+          "away": {
+            "name": "ARST",
+            "score": "7"
           }
         }
       },
