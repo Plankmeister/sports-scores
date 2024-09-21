@@ -114,11 +114,11 @@
       {
         "matchup": "ARST @ ISU",
         "kickoff": "9/21/2024, 1:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "ISU",
-            "score": "45"
+            "score": "52"
           },
           "away": {
             "name": "ARST",
@@ -197,7 +197,7 @@
           },
           "away": {
             "name": "GT",
-            "score": "7"
+            "score": "14"
           }
         }
       },
