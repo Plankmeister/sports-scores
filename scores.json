@@ -137,7 +137,7 @@
           },
           "away": {
             "name": "USC",
-            "score": "17"
+            "score": "24"
           }
         }
       },
@@ -159,7 +159,7 @@
       {
         "matchup": "M-OH @ ND",
         "kickoff": "9/21/2024, 2:30:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "ND",
@@ -227,7 +227,7 @@
           },
           "away": {
             "name": "VAN",
-            "score": "13"
+            "score": "20"
           }
         }
       },
