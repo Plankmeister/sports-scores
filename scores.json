@@ -112,24 +112,9 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "UTAH @ OKST",
-        "kickoff": "9/21/2024, 3:00:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "OKST",
-            "score": "19"
-          },
-          "away": {
-            "name": "UTAH",
-            "score": "22"
-          }
-        }
-      },
-      {
         "matchup": "VAN @ MIZ",
         "kickoff": "9/21/2024, 3:15:00 PM",
-        "status": "Live: Q4",
+        "status": "Live: Q5",
         "score": {
           "home": {
             "name": "MIZ",
@@ -148,11 +133,26 @@
         "score": {
           "home": {
             "name": "USF",
-            "score": "3"
+            "score": "9"
           },
           "away": {
             "name": "MIA",
             "score": "7"
+          }
+        }
+      },
+      {
+        "matchup": "BGSU @ TA&M",
+        "kickoff": "9/21/2024, 6:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "TA&M",
+            "score": "7"
+          },
+          "away": {
+            "name": "BGSU",
+            "score": "0"
           }
         }
       },
@@ -198,6 +198,21 @@
           "away": {
             "name": "USC",
             "score": "24"
+          }
+        }
+      },
+      {
+        "matchup": "UTAH @ OKST",
+        "kickoff": "9/21/2024, 3:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "OKST",
+            "score": "19"
+          },
+          "away": {
+            "name": "UTAH",
+            "score": "22"
           }
         }
       },
@@ -296,21 +311,6 @@
         "kickoff": "9/21/2024, 6:30:00 PM",
         "status": "Scheduled",
         "score": null
-      },
-      {
-        "matchup": "BGSU @ TA&M",
-        "kickoff": "9/21/2024, 6:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "TA&M",
-            "score": "0"
-          },
-          "away": {
-            "name": "BGSU",
-            "score": "0"
-          }
-        }
       },
       {
         "matchup": "GASO @ MISS",
