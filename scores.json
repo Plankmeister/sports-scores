@@ -114,7 +114,7 @@
       {
         "matchup": "KENT @ PSU",
         "kickoff": "9/21/2024, 2:30:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "PSU",
@@ -279,8 +279,17 @@
       {
         "matchup": "MIA @ USF",
         "kickoff": "9/21/2024, 6:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "USF",
+            "score": "0"
+          },
+          "away": {
+            "name": "MIA",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "TENN @ OU",
