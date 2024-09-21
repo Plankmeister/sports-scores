@@ -112,21 +112,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "KENT @ PSU",
-        "kickoff": "9/21/2024, 2:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "PSU",
-            "score": "56"
-          },
-          "away": {
-            "name": "KENT",
-            "score": "0"
-          }
-        }
-      },
-      {
         "matchup": "USC @ MICH",
         "kickoff": "9/21/2024, 2:30:00 PM",
         "status": "Live: Q4",
@@ -142,58 +127,13 @@
         }
       },
       {
-        "matchup": "UCLA @ LSU",
-        "kickoff": "9/21/2024, 2:30:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "LSU",
-            "score": "34"
-          },
-          "away": {
-            "name": "UCLA",
-            "score": "17"
-          }
-        }
-      },
-      {
-        "matchup": "GT @ LOU",
-        "kickoff": "9/21/2024, 2:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "LOU",
-            "score": "31"
-          },
-          "away": {
-            "name": "GT",
-            "score": "19"
-          }
-        }
-      },
-      {
-        "matchup": "BUFF @ NIU",
-        "kickoff": "9/21/2024, 2:30:00 PM",
-        "status": "Live: Q5",
-        "score": {
-          "home": {
-            "name": "NIU",
-            "score": "20"
-          },
-          "away": {
-            "name": "BUFF",
-            "score": "20"
-          }
-        }
-      },
-      {
         "matchup": "UTAH @ OKST",
         "kickoff": "9/21/2024, 3:00:00 PM",
         "status": "Live: Q4",
         "score": {
           "home": {
             "name": "OKST",
-            "score": "3"
+            "score": "11"
           },
           "away": {
             "name": "UTAH",
@@ -217,6 +157,21 @@
         }
       },
       {
+        "matchup": "MIA @ USF",
+        "kickoff": "9/21/2024, 6:00:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "USF",
+            "score": "0"
+          },
+          "away": {
+            "name": "MIA",
+            "score": "0"
+          }
+        }
+      },
+      {
         "matchup": "MRSH @ OSU",
         "kickoff": "9/21/2024, 11:00:00 AM",
         "status": "Final",
@@ -232,6 +187,36 @@
         }
       },
       {
+        "matchup": "KENT @ PSU",
+        "kickoff": "9/21/2024, 2:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "PSU",
+            "score": "56"
+          },
+          "away": {
+            "name": "KENT",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "UCLA @ LSU",
+        "kickoff": "9/21/2024, 2:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "LSU",
+            "score": "34"
+          },
+          "away": {
+            "name": "UCLA",
+            "score": "17"
+          }
+        }
+      },
+      {
         "matchup": "M-OH @ ND",
         "kickoff": "9/21/2024, 2:30:00 PM",
         "status": "Final",
@@ -243,6 +228,21 @@
           "away": {
             "name": "M-OH",
             "score": "3"
+          }
+        }
+      },
+      {
+        "matchup": "GT @ LOU",
+        "kickoff": "9/21/2024, 2:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "LOU",
+            "score": "31"
+          },
+          "away": {
+            "name": "GT",
+            "score": "19"
           }
         }
       },
@@ -277,17 +277,17 @@
         }
       },
       {
-        "matchup": "MIA @ USF",
-        "kickoff": "9/21/2024, 6:00:00 PM",
-        "status": "Live: Q1",
+        "matchup": "BUFF @ NIU",
+        "kickoff": "9/21/2024, 2:30:00 PM",
+        "status": "Final",
         "score": {
           "home": {
-            "name": "USF",
-            "score": "0"
+            "name": "NIU",
+            "score": "20"
           },
           "away": {
-            "name": "MIA",
-            "score": "0"
+            "name": "BUFF",
+            "score": "23"
           }
         }
       },
