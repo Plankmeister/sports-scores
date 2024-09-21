@@ -122,7 +122,7 @@
           },
           "away": {
             "name": "ARST",
-            "score": "0"
+            "score": "6"
           }
         }
       },
@@ -133,7 +133,7 @@
         "score": {
           "home": {
             "name": "PSU",
-            "score": "14"
+            "score": "21"
           },
           "away": {
             "name": "KENT",
@@ -193,7 +193,7 @@
         "score": {
           "home": {
             "name": "LOU",
-            "score": "14"
+            "score": "17"
           },
           "away": {
             "name": "GT",
@@ -208,7 +208,7 @@
         "score": {
           "home": {
             "name": "NIU",
-            "score": "7"
+            "score": "14"
           },
           "away": {
             "name": "BUFF",
