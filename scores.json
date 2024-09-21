@@ -114,14 +114,32 @@
       {
         "matchup": "MRSH @ OSU",
         "kickoff": "9/21/2024, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "OSU",
+            "score": "0"
+          },
+          "away": {
+            "name": "MRSH",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "NCSU @ CLEM",
         "kickoff": "9/21/2024, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "CLEM",
+            "score": "0"
+          },
+          "away": {
+            "name": "NCSU",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "ARST @ ISU",
