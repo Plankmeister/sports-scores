@@ -197,7 +197,7 @@
           },
           "away": {
             "name": "BUFF",
-            "score": "16"
+            "score": "17"
           }
         }
       },
@@ -223,7 +223,7 @@
         "score": {
           "home": {
             "name": "MIZ",
-            "score": "10"
+            "score": "13"
           },
           "away": {
             "name": "VAN",
