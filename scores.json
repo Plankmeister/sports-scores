@@ -148,7 +148,7 @@
         "score": {
           "home": {
             "name": "ISU",
-            "score": "24"
+            "score": "31"
           },
           "away": {
             "name": "ARST",
@@ -177,14 +177,32 @@
       {
         "matchup": "M-OH @ ND",
         "kickoff": "9/21/2024, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ND",
+            "score": "0"
+          },
+          "away": {
+            "name": "M-OH",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "GT @ LOU",
         "kickoff": "9/21/2024, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "LOU",
+            "score": "0"
+          },
+          "away": {
+            "name": "GT",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "BUFF @ NIU",
