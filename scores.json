@@ -137,7 +137,7 @@
           },
           "away": {
             "name": "NCSU",
-            "score": "28"
+            "score": "35"
           }
         }
       },
@@ -207,8 +207,17 @@
       {
         "matchup": "BUFF @ NIU",
         "kickoff": "9/21/2024, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "NIU",
+            "score": "0"
+          },
+          "away": {
+            "name": "BUFF",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "UTAH @ OKST",
