@@ -118,7 +118,7 @@
         "score": {
           "home": {
             "name": "PSU",
-            "score": "35"
+            "score": "42"
           },
           "away": {
             "name": "KENT",
@@ -137,14 +137,14 @@
           },
           "away": {
             "name": "USC",
-            "score": "3"
+            "score": "10"
           }
         }
       },
       {
         "matchup": "UCLA @ LSU",
         "kickoff": "9/21/2024, 2:30:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "LSU",
@@ -163,7 +163,7 @@
         "score": {
           "home": {
             "name": "ND",
-            "score": "14"
+            "score": "21"
           },
           "away": {
             "name": "M-OH",
@@ -182,7 +182,7 @@
           },
           "away": {
             "name": "GT",
-            "score": "14"
+            "score": "17"
           }
         }
       },
