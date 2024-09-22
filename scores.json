@@ -144,7 +144,7 @@
       {
         "matchup": "BGSU @ TA&M",
         "kickoff": "9/21/2024, 6:30:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "TA&M",
@@ -152,7 +152,7 @@
           },
           "away": {
             "name": "BGSU",
-            "score": "17"
+            "score": "20"
           }
         }
       },
@@ -197,7 +197,7 @@
           },
           "away": {
             "name": "KSU",
-            "score": "0"
+            "score": "3"
           }
         }
       },
