@@ -13,7 +13,7 @@
           },
           "away": {
             "name": "NYG",
-            "score": "0"
+            "score": "7"
           }
         }
       },
@@ -28,7 +28,7 @@
           },
           "away": {
             "name": "GB",
-            "score": "10"
+            "score": "17"
           }
         }
       },
@@ -54,7 +54,7 @@
         "score": {
           "home": {
             "name": "MIN",
-            "score": "7"
+            "score": "14"
           },
           "away": {
             "name": "HOU",
@@ -80,7 +80,7 @@
       {
         "matchup": "LAC @ PIT",
         "kickoff": "9/22/2024, 12:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "PIT",
@@ -103,7 +103,7 @@
           },
           "away": {
             "name": "DEN",
-            "score": "7"
+            "score": "14"
           }
         }
       },
