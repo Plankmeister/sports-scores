@@ -13,7 +13,7 @@
           },
           "away": {
             "name": "CAR",
-            "score": "33"
+            "score": "36"
           }
         }
       },
@@ -24,7 +24,7 @@
         "score": {
           "home": {
             "name": "SEA",
-            "score": "23"
+            "score": "24"
           },
           "away": {
             "name": "MIA",
@@ -54,7 +54,7 @@
         "score": {
           "home": {
             "name": "LAR",
-            "score": "14"
+            "score": "17"
           },
           "away": {
             "name": "SF",
