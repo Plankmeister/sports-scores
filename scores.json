@@ -112,21 +112,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "VAN @ MIZ",
-        "kickoff": "9/21/2024, 3:15:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "MIZ",
-            "score": "30"
-          },
-          "away": {
-            "name": "VAN",
-            "score": "27"
-          }
-        }
-      },
-      {
         "matchup": "MIA @ USF",
         "kickoff": "9/21/2024, 6:00:00 PM",
         "status": "Live: Q2",
@@ -187,6 +172,21 @@
         }
       },
       {
+        "matchup": "ULM @ TEX",
+        "kickoff": "9/21/2024, 7:00:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "TEX",
+            "score": "0"
+          },
+          "away": {
+            "name": "ULM",
+            "score": "0"
+          }
+        }
+      },
+      {
         "matchup": "MRSH @ OSU",
         "kickoff": "9/21/2024, 11:00:00 AM",
         "status": "Final",
@@ -198,6 +198,21 @@
           "away": {
             "name": "MRSH",
             "score": "14"
+          }
+        }
+      },
+      {
+        "matchup": "VAN @ MIZ",
+        "kickoff": "9/21/2024, 3:15:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "MIZ",
+            "score": "30"
+          },
+          "away": {
+            "name": "VAN",
+            "score": "27"
           }
         }
       },
@@ -333,21 +348,6 @@
           "away": {
             "name": "BUFF",
             "score": "23"
-          }
-        }
-      },
-      {
-        "matchup": "ULM @ TEX",
-        "kickoff": "9/21/2024, 7:00:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "TEX",
-            "score": "0"
-          },
-          "away": {
-            "name": "ULM",
-            "score": "0"
           }
         }
       },
