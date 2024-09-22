@@ -69,7 +69,7 @@
         "score": {
           "home": {
             "name": "NO",
-            "score": "6"
+            "score": "12"
           },
           "away": {
             "name": "PHI",
@@ -80,7 +80,7 @@
       {
         "matchup": "LAC @ PIT",
         "kickoff": "9/22/2024, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "PIT",
