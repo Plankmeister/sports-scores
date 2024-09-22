@@ -118,7 +118,7 @@
         "score": {
           "home": {
             "name": "MIZ",
-            "score": "27"
+            "score": "30"
           },
           "away": {
             "name": "VAN",
@@ -137,7 +137,22 @@
           },
           "away": {
             "name": "MIA",
-            "score": "7"
+            "score": "14"
+          }
+        }
+      },
+      {
+        "matchup": "TENN @ OU",
+        "kickoff": "9/21/2024, 6:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "OU",
+            "score": "0"
+          },
+          "away": {
+            "name": "TENN",
+            "score": "0"
           }
         }
       },
@@ -152,6 +167,21 @@
           },
           "away": {
             "name": "BGSU",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "GASO @ MISS",
+        "kickoff": "9/21/2024, 6:45:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MISS",
+            "score": "0"
+          },
+          "away": {
+            "name": "GASO",
             "score": "0"
           }
         }
@@ -305,27 +335,6 @@
             "score": "23"
           }
         }
-      },
-      {
-        "matchup": "TENN @ OU",
-        "kickoff": "9/21/2024, 6:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "OU",
-            "score": "0"
-          },
-          "away": {
-            "name": "TENN",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "GASO @ MISS",
-        "kickoff": "9/21/2024, 6:45:00 PM",
-        "status": "Scheduled",
-        "score": null
       },
       {
         "matchup": "ULM @ TEX",
