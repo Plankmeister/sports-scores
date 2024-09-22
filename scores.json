@@ -20,7 +20,7 @@
       {
         "matchup": "GB @ TEN",
         "kickoff": "9/22/2024, 12:00:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "TEN",
@@ -73,7 +73,7 @@
           },
           "away": {
             "name": "PHI",
-            "score": "0"
+            "score": "7"
           }
         }
       },
@@ -99,11 +99,11 @@
         "score": {
           "home": {
             "name": "TB",
-            "score": "0"
+            "score": "7"
           },
           "away": {
             "name": "DEN",
-            "score": "20"
+            "score": "23"
           }
         }
       },
