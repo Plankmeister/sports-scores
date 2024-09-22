@@ -50,7 +50,7 @@
       {
         "matchup": "PHI @ NO",
         "kickoff": "9/22/2024, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "NO",
@@ -110,14 +110,32 @@
       {
         "matchup": "CAR @ LV",
         "kickoff": "9/22/2024, 3:05:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "LV",
+            "score": "0"
+          },
+          "away": {
+            "name": "CAR",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "MIA @ SEA",
         "kickoff": "9/22/2024, 3:05:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "SEA",
+            "score": "0"
+          },
+          "away": {
+            "name": "MIA",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "BAL @ DAL",
