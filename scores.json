@@ -127,6 +127,21 @@
         }
       },
       {
+        "matchup": "ILL @ NEB",
+        "kickoff": "9/20/2024, 7:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "NEB",
+            "score": "24"
+          },
+          "away": {
+            "name": "ILL",
+            "score": "31"
+          }
+        }
+      },
+      {
         "matchup": "ULM @ TEX",
         "kickoff": "9/21/2024, 7:00:00 PM",
         "status": "Final",
@@ -363,21 +378,6 @@
           "away": {
             "name": "BGSU",
             "score": "20"
-          }
-        }
-      },
-      {
-        "matchup": "ILL @ NEB",
-        "kickoff": "9/20/2024, 7:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "NEB",
-            "score": "24"
-          },
-          "away": {
-            "name": "ILL",
-            "score": "31"
           }
         }
       }
