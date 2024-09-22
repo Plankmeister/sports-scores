@@ -167,7 +167,7 @@
           },
           "away": {
             "name": "GASO",
-            "score": "7"
+            "score": "10"
           }
         }
       },
@@ -178,7 +178,7 @@
         "score": {
           "home": {
             "name": "TEX",
-            "score": "35"
+            "score": "37"
           },
           "away": {
             "name": "ULM",
@@ -354,8 +354,17 @@
       {
         "matchup": "KSU @ BYU",
         "kickoff": "9/21/2024, 9:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "BYU",
+            "score": "0"
+          },
+          "away": {
+            "name": "KSU",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "ILL @ NEB",
