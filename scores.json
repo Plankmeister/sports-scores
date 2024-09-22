@@ -137,14 +137,14 @@
           },
           "away": {
             "name": "TENN",
-            "score": "0"
+            "score": "3"
           }
         }
       },
       {
         "matchup": "BGSU @ TA&M",
         "kickoff": "9/21/2024, 6:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "TA&M",
@@ -152,7 +152,7 @@
           },
           "away": {
             "name": "BGSU",
-            "score": "0"
+            "score": "3"
           }
         }
       },
