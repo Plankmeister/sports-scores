@@ -58,7 +58,7 @@
           },
           "away": {
             "name": "HOU",
-            "score": "0"
+            "score": "7"
           }
         }
       },
@@ -80,11 +80,11 @@
       {
         "matchup": "LAC @ PIT",
         "kickoff": "9/22/2024, 12:00:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "PIT",
-            "score": "10"
+            "score": "13"
           },
           "away": {
             "name": "LAC",
@@ -95,11 +95,11 @@
       {
         "matchup": "DEN @ TB",
         "kickoff": "9/22/2024, 12:00:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "TB",
-            "score": "7"
+            "score": "0"
           },
           "away": {
             "name": "DEN",
