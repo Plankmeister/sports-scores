@@ -114,7 +114,7 @@
       {
         "matchup": "VAN @ MIZ",
         "kickoff": "9/21/2024, 3:15:00 PM",
-        "status": "Live: Q5",
+        "status": "Final",
         "score": {
           "home": {
             "name": "MIZ",
@@ -178,7 +178,7 @@
         "score": {
           "home": {
             "name": "MISS",
-            "score": "0"
+            "score": "7"
           },
           "away": {
             "name": "GASO",
@@ -339,8 +339,17 @@
       {
         "matchup": "ULM @ TEX",
         "kickoff": "9/21/2024, 7:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "TEX",
+            "score": "0"
+          },
+          "away": {
+            "name": "ULM",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "KSU @ BYU",
