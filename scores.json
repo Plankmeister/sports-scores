@@ -3,36 +3,6 @@
     "week": 3,
     "games": [
       {
-        "matchup": "BAL @ DAL",
-        "kickoff": "9/22/2024, 3:25:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "DAL",
-            "score": "25"
-          },
-          "away": {
-            "name": "BAL",
-            "score": "28"
-          }
-        }
-      },
-      {
-        "matchup": "SF @ LAR",
-        "kickoff": "9/22/2024, 3:25:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "LAR",
-            "score": "27"
-          },
-          "away": {
-            "name": "SF",
-            "score": "24"
-          }
-        }
-      },
-      {
         "matchup": "NYG @ CLE",
         "kickoff": "9/22/2024, 12:00:00 PM",
         "status": "Final",
@@ -164,6 +134,36 @@
           "away": {
             "name": "MIA",
             "score": "3"
+          }
+        }
+      },
+      {
+        "matchup": "BAL @ DAL",
+        "kickoff": "9/22/2024, 3:25:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "DAL",
+            "score": "25"
+          },
+          "away": {
+            "name": "BAL",
+            "score": "28"
+          }
+        }
+      },
+      {
+        "matchup": "SF @ LAR",
+        "kickoff": "9/22/2024, 3:25:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "LAR",
+            "score": "27"
+          },
+          "away": {
+            "name": "SF",
+            "score": "24"
           }
         }
       },
