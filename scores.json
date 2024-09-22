@@ -122,7 +122,7 @@
           },
           "away": {
             "name": "MIA",
-            "score": "43"
+            "score": "50"
           }
         }
       },
@@ -138,21 +138,6 @@
           "away": {
             "name": "TENN",
             "score": "22"
-          }
-        }
-      },
-      {
-        "matchup": "BGSU @ TA&M",
-        "kickoff": "9/21/2024, 6:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "TA&M",
-            "score": "26"
-          },
-          "away": {
-            "name": "BGSU",
-            "score": "20"
           }
         }
       },
@@ -363,6 +348,21 @@
           "away": {
             "name": "BUFF",
             "score": "23"
+          }
+        }
+      },
+      {
+        "matchup": "BGSU @ TA&M",
+        "kickoff": "9/21/2024, 6:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "TA&M",
+            "score": "26"
+          },
+          "away": {
+            "name": "BGSU",
+            "score": "20"
           }
         }
       },
