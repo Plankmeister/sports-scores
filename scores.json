@@ -122,7 +122,7 @@
           },
           "away": {
             "name": "MIA",
-            "score": "36"
+            "score": "43"
           }
         }
       },
@@ -159,11 +159,11 @@
       {
         "matchup": "GASO @ MISS",
         "kickoff": "9/21/2024, 6:45:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "MISS",
-            "score": "38"
+            "score": "45"
           },
           "away": {
             "name": "GASO",
@@ -183,6 +183,21 @@
           "away": {
             "name": "ULM",
             "score": "3"
+          }
+        }
+      },
+      {
+        "matchup": "KSU @ BYU",
+        "kickoff": "9/21/2024, 9:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "BYU",
+            "score": "0"
+          },
+          "away": {
+            "name": "KSU",
+            "score": "0"
           }
         }
       },
@@ -348,21 +363,6 @@
           "away": {
             "name": "BUFF",
             "score": "23"
-          }
-        }
-      },
-      {
-        "matchup": "KSU @ BYU",
-        "kickoff": "9/21/2024, 9:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "BYU",
-            "score": "0"
-          },
-          "away": {
-            "name": "KSU",
-            "score": "0"
           }
         }
       },
