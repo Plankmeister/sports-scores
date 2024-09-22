@@ -133,7 +133,7 @@
         "score": {
           "home": {
             "name": "OU",
-            "score": "3"
+            "score": "9"
           },
           "away": {
             "name": "TENN",
@@ -174,11 +174,11 @@
       {
         "matchup": "ULM @ TEX",
         "kickoff": "9/21/2024, 7:00:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "TEX",
-            "score": "37"
+            "score": "44"
           },
           "away": {
             "name": "ULM",
