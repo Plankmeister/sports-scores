@@ -9,7 +9,7 @@
         "score": {
           "home": {
             "name": "DAL",
-            "score": "24"
+            "score": "25"
           },
           "away": {
             "name": "BAL",
@@ -20,11 +20,11 @@
       {
         "matchup": "SF @ LAR",
         "kickoff": "9/22/2024, 3:25:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "LAR",
-            "score": "24"
+            "score": "27"
           },
           "away": {
             "name": "SF",
