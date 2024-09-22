@@ -112,21 +112,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "KSU @ BYU",
-        "kickoff": "9/21/2024, 9:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "BYU",
-            "score": "38"
-          },
-          "away": {
-            "name": "KSU",
-            "score": "9"
-          }
-        }
-      },
-      {
         "matchup": "ILL @ NEB",
         "kickoff": "9/20/2024, 7:00:00 PM",
         "status": "Final",
@@ -273,6 +258,21 @@
           "away": {
             "name": "UTAH",
             "score": "22"
+          }
+        }
+      },
+      {
+        "matchup": "KSU @ BYU",
+        "kickoff": "9/21/2024, 9:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "BYU",
+            "score": "38"
+          },
+          "away": {
+            "name": "KSU",
+            "score": "9"
           }
         }
       },
