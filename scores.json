@@ -3,21 +3,6 @@
     "week": 3,
     "games": [
       {
-        "matchup": "CHI @ IND",
-        "kickoff": "9/22/2024, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "IND",
-            "score": "21"
-          },
-          "away": {
-            "name": "CHI",
-            "score": "16"
-          }
-        }
-      },
-      {
         "matchup": "CAR @ LV",
         "kickoff": "9/22/2024, 3:05:00 PM",
         "status": "Live: Q1",
@@ -39,10 +24,55 @@
         "score": {
           "home": {
             "name": "SEA",
-            "score": "3"
+            "score": "10"
           },
           "away": {
             "name": "MIA",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "BAL @ DAL",
+        "kickoff": "9/22/2024, 3:25:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "DAL",
+            "score": "0"
+          },
+          "away": {
+            "name": "BAL",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "SF @ LAR",
+        "kickoff": "9/22/2024, 3:25:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "LAR",
+            "score": "0"
+          },
+          "away": {
+            "name": "SF",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "DET @ ARI",
+        "kickoff": "9/22/2024, 3:25:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ARI",
+            "score": "0"
+          },
+          "away": {
+            "name": "DET",
             "score": "0"
           }
         }
@@ -74,6 +104,21 @@
           "away": {
             "name": "GB",
             "score": "30"
+          }
+        }
+      },
+      {
+        "matchup": "CHI @ IND",
+        "kickoff": "9/22/2024, 12:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "IND",
+            "score": "21"
+          },
+          "away": {
+            "name": "CHI",
+            "score": "16"
           }
         }
       },
@@ -136,24 +181,6 @@
             "score": "26"
           }
         }
-      },
-      {
-        "matchup": "BAL @ DAL",
-        "kickoff": "9/22/2024, 3:25:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "SF @ LAR",
-        "kickoff": "9/22/2024, 3:25:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "DET @ ARI",
-        "kickoff": "9/22/2024, 3:25:00 PM",
-        "status": "Scheduled",
-        "score": null
       },
       {
         "matchup": "KC @ ATL",
