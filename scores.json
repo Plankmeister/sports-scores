@@ -3,21 +3,6 @@
     "week": 3,
     "games": [
       {
-        "matchup": "KC @ ATL",
-        "kickoff": "9/22/2024, 7:20:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "ATL",
-            "score": "17"
-          },
-          "away": {
-            "name": "KC",
-            "score": "22"
-          }
-        }
-      },
-      {
         "matchup": "NYG @ CLE",
         "kickoff": "9/22/2024, 12:00:00 PM",
         "status": "Final",
@@ -194,6 +179,21 @@
           "away": {
             "name": "DET",
             "score": "20"
+          }
+        }
+      },
+      {
+        "matchup": "KC @ ATL",
+        "kickoff": "9/22/2024, 7:20:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "ATL",
+            "score": "17"
+          },
+          "away": {
+            "name": "KC",
+            "score": "22"
           }
         }
       },
