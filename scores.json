@@ -3,6 +3,33 @@
     "week": 3,
     "games": [
       {
+        "matchup": "JAX @ BUF",
+        "kickoff": "9/23/2024, 6:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "WSH @ CIN",
+        "kickoff": "9/23/2024, 7:15:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "NE @ NYJ",
+        "kickoff": "9/19/2024, 7:15:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "NYJ",
+            "score": "24"
+          },
+          "away": {
+            "name": "NE",
+            "score": "3"
+          }
+        }
+      },
+      {
         "matchup": "NYG @ CLE",
         "kickoff": "9/22/2024, 12:00:00 PM",
         "status": "Final",
@@ -196,33 +223,6 @@
             "score": "22"
           }
         }
-      },
-      {
-        "matchup": "NE @ NYJ",
-        "kickoff": "9/19/2024, 7:15:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "NYJ",
-            "score": "24"
-          },
-          "away": {
-            "name": "NE",
-            "score": "3"
-          }
-        }
-      },
-      {
-        "matchup": "JAX @ BUF",
-        "kickoff": "9/23/2024, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "WSH @ CIN",
-        "kickoff": "9/23/2024, 7:15:00 PM",
-        "status": "Scheduled",
-        "score": null
       }
     ]
   },
