@@ -13,15 +13,24 @@
           },
           "away": {
             "name": "JAX",
-            "score": "0"
+            "score": "3"
           }
         }
       },
       {
         "matchup": "WSH @ CIN",
         "kickoff": "9/23/2024, 7:15:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "CIN",
+            "score": "0"
+          },
+          "away": {
+            "name": "WSH",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "NE @ NYJ",
