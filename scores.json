@@ -3,36 +3,6 @@
     "week": 3,
     "games": [
       {
-        "matchup": "JAX @ BUF",
-        "kickoff": "9/23/2024, 6:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "BUF",
-            "score": "47"
-          },
-          "away": {
-            "name": "JAX",
-            "score": "10"
-          }
-        }
-      },
-      {
-        "matchup": "WSH @ CIN",
-        "kickoff": "9/23/2024, 7:15:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "CIN",
-            "score": "33"
-          },
-          "away": {
-            "name": "WSH",
-            "score": "38"
-          }
-        }
-      },
-      {
         "matchup": "NE @ NYJ",
         "kickoff": "9/19/2024, 7:15:00 PM",
         "status": "Final",
@@ -239,6 +209,36 @@
           "away": {
             "name": "KC",
             "score": "22"
+          }
+        }
+      },
+      {
+        "matchup": "JAX @ BUF",
+        "kickoff": "9/23/2024, 6:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "BUF",
+            "score": "47"
+          },
+          "away": {
+            "name": "JAX",
+            "score": "10"
+          }
+        }
+      },
+      {
+        "matchup": "WSH @ CIN",
+        "kickoff": "9/23/2024, 7:15:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "CIN",
+            "score": "33"
+          },
+          "away": {
+            "name": "WSH",
+            "score": "38"
           }
         }
       }
