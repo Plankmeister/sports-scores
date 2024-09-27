@@ -114,8 +114,17 @@
       {
         "matchup": "VT @ MIA",
         "kickoff": "9/27/2024, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MIA",
+            "score": "0"
+          },
+          "away": {
+            "name": "VT",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "UK @ MISS",
