@@ -5,8 +5,17 @@
       {
         "matchup": "DAL @ NYG",
         "kickoff": "9/26/2024, 7:15:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "NYG",
+            "score": "0"
+          },
+          "away": {
+            "name": "DAL",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "NO @ ATL",
