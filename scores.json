@@ -181,12 +181,6 @@
         "score": null
       },
       {
-        "matchup": "OSU @ MSU",
-        "kickoff": "9/28/2024, 6:00:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
         "matchup": "STAN @ CLEM",
         "kickoff": "9/28/2024, 6:00:00 PM",
         "status": "Scheduled",
@@ -200,6 +194,12 @@
       },
       {
         "matchup": "UGA @ ALA",
+        "kickoff": "9/28/2024, 6:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "OSU @ MSU",
         "kickoff": "9/28/2024, 6:30:00 PM",
         "status": "Scheduled",
         "score": null
