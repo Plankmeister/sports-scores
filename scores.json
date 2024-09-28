@@ -114,11 +114,11 @@
       {
         "matchup": "UK @ MISS",
         "kickoff": "9/28/2024, 11:00:00 AM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "MISS",
-            "score": "10"
+            "score": "17"
           },
           "away": {
             "name": "UK",
@@ -129,7 +129,7 @@
       {
         "matchup": "MINN @ MICH",
         "kickoff": "9/28/2024, 11:00:00 AM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "MICH",
@@ -137,7 +137,7 @@
           },
           "away": {
             "name": "MINN",
-            "score": "3"
+            "score": "10"
           }
         }
       },
@@ -148,7 +148,7 @@
         "score": {
           "home": {
             "name": "KSU",
-            "score": "28"
+            "score": "35"
           },
           "away": {
             "name": "OKST",
