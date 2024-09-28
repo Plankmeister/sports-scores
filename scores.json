@@ -122,7 +122,7 @@
           },
           "away": {
             "name": "WIS",
-            "score": "14"
+            "score": "21"
           }
         }
       },
@@ -133,7 +133,7 @@
         "score": {
           "home": {
             "name": "ND",
-            "score": "21"
+            "score": "24"
           },
           "away": {
             "name": "LOU",
@@ -148,7 +148,7 @@
         "score": {
           "home": {
             "name": "AUB",
-            "score": "7"
+            "score": "14"
           },
           "away": {
             "name": "OU",
