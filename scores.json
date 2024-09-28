@@ -142,6 +142,21 @@
         }
       },
       {
+        "matchup": "UGA @ ALA",
+        "kickoff": "9/28/2024, 6:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ALA",
+            "score": "0"
+          },
+          "away": {
+            "name": "UGA",
+            "score": "0"
+          }
+        }
+      },
+      {
         "matchup": "OSU @ MSU",
         "kickoff": "9/28/2024, 6:30:00 PM",
         "status": "Live: Q1",
@@ -305,12 +320,6 @@
             "score": "17"
           }
         }
-      },
-      {
-        "matchup": "UGA @ ALA",
-        "kickoff": "9/28/2024, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
       },
       {
         "matchup": "USA @ LSU",
