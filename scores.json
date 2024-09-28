@@ -127,9 +127,24 @@
         }
       },
       {
+        "matchup": "LOU @ ND",
+        "kickoff": "9/28/2024, 2:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ND",
+            "score": "0"
+          },
+          "away": {
+            "name": "LOU",
+            "score": "7"
+          }
+        }
+      },
+      {
         "matchup": "MINN @ MICH",
         "kickoff": "9/28/2024, 11:00:00 AM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "MICH",
@@ -144,7 +159,7 @@
       {
         "matchup": "OKST @ KSU",
         "kickoff": "9/28/2024, 11:00:00 AM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "KSU",
@@ -159,7 +174,7 @@
       {
         "matchup": "BYU @ BAY",
         "kickoff": "9/28/2024, 11:00:00 AM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "BAY",
@@ -176,21 +191,6 @@
         "kickoff": "9/28/2024, 2:30:00 PM",
         "status": "Scheduled",
         "score": null
-      },
-      {
-        "matchup": "LOU @ ND",
-        "kickoff": "9/28/2024, 2:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "ND",
-            "score": "0"
-          },
-          "away": {
-            "name": "LOU",
-            "score": "0"
-          }
-        }
       },
       {
         "matchup": "OU @ AUB",
