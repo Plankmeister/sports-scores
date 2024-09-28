@@ -112,36 +112,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "WIS @ USC",
-        "kickoff": "9/28/2024, 2:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "USC",
-            "score": "38"
-          },
-          "away": {
-            "name": "WIS",
-            "score": "21"
-          }
-        }
-      },
-      {
-        "matchup": "OU @ AUB",
-        "kickoff": "9/28/2024, 2:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "AUB",
-            "score": "21"
-          },
-          "away": {
-            "name": "OU",
-            "score": "27"
-          }
-        }
-      },
-      {
         "matchup": "MSST @ TEX",
         "kickoff": "9/28/2024, 3:15:00 PM",
         "status": "Live: Q4",
@@ -157,6 +127,21 @@
         }
       },
       {
+        "matchup": "STAN @ CLEM",
+        "kickoff": "9/28/2024, 6:00:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "CLEM",
+            "score": "7"
+          },
+          "away": {
+            "name": "STAN",
+            "score": "0"
+          }
+        }
+      },
+      {
         "matchup": "ISU @ HOU",
         "kickoff": "9/28/2024, 6:00:00 PM",
         "status": "Live: Q1",
@@ -167,7 +152,7 @@
           },
           "away": {
             "name": "ISU",
-            "score": "0"
+            "score": "3"
           }
         }
       },
@@ -202,6 +187,21 @@
         }
       },
       {
+        "matchup": "WIS @ USC",
+        "kickoff": "9/28/2024, 2:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "USC",
+            "score": "38"
+          },
+          "away": {
+            "name": "WIS",
+            "score": "21"
+          }
+        }
+      },
+      {
         "matchup": "LOU @ ND",
         "kickoff": "9/28/2024, 2:30:00 PM",
         "status": "Final",
@@ -232,6 +232,21 @@
         }
       },
       {
+        "matchup": "OU @ AUB",
+        "kickoff": "9/28/2024, 2:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "AUB",
+            "score": "21"
+          },
+          "away": {
+            "name": "OU",
+            "score": "27"
+          }
+        }
+      },
+      {
         "matchup": "BYU @ BAY",
         "kickoff": "9/28/2024, 11:00:00 AM",
         "status": "Final",
@@ -258,21 +273,6 @@
           "away": {
             "name": "ARK",
             "score": "17"
-          }
-        }
-      },
-      {
-        "matchup": "STAN @ CLEM",
-        "kickoff": "9/28/2024, 6:00:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "CLEM",
-            "score": "0"
-          },
-          "away": {
-            "name": "STAN",
-            "score": "0"
           }
         }
       },
