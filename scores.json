@@ -112,6 +112,66 @@
   "collegeFootball": {
     "games": [
       {
+        "matchup": "WIS @ USC",
+        "kickoff": "9/28/2024, 2:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "USC",
+            "score": "7"
+          },
+          "away": {
+            "name": "WIS",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "LOU @ ND",
+        "kickoff": "9/28/2024, 2:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ND",
+            "score": "7"
+          },
+          "away": {
+            "name": "LOU",
+            "score": "7"
+          }
+        }
+      },
+      {
+        "matchup": "OU @ AUB",
+        "kickoff": "9/28/2024, 2:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "AUB",
+            "score": "0"
+          },
+          "away": {
+            "name": "OU",
+            "score": "7"
+          }
+        }
+      },
+      {
+        "matchup": "ARK VS TA&M",
+        "kickoff": "9/28/2024, 2:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "TA&M",
+            "score": "0"
+          },
+          "away": {
+            "name": "ARK",
+            "score": "7"
+          }
+        }
+      },
+      {
         "matchup": "UK @ MISS",
         "kickoff": "9/28/2024, 11:00:00 AM",
         "status": "Final",
@@ -123,21 +183,6 @@
           "away": {
             "name": "UK",
             "score": "20"
-          }
-        }
-      },
-      {
-        "matchup": "LOU @ ND",
-        "kickoff": "9/28/2024, 2:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "ND",
-            "score": "0"
-          },
-          "away": {
-            "name": "LOU",
-            "score": "7"
           }
         }
       },
@@ -183,51 +228,6 @@
           "away": {
             "name": "BYU",
             "score": "34"
-          }
-        }
-      },
-      {
-        "matchup": "WIS @ USC",
-        "kickoff": "9/28/2024, 2:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "USC",
-            "score": "6"
-          },
-          "away": {
-            "name": "WIS",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "OU @ AUB",
-        "kickoff": "9/28/2024, 2:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "AUB",
-            "score": "0"
-          },
-          "away": {
-            "name": "OU",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "ARK VS TA&M",
-        "kickoff": "9/28/2024, 2:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "TA&M",
-            "score": "0"
-          },
-          "away": {
-            "name": "ARK",
-            "score": "7"
           }
         }
       },
