@@ -118,7 +118,7 @@
         "score": {
           "home": {
             "name": "USC",
-            "score": "31"
+            "score": "38"
           },
           "away": {
             "name": "WIS",
@@ -189,17 +189,8 @@
       {
         "matchup": "ISU @ HOU",
         "kickoff": "9/28/2024, 6:00:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "HOU",
-            "score": "0"
-          },
-          "away": {
-            "name": "ISU",
-            "score": "0"
-          }
-        }
+        "status": "Scheduled",
+        "score": null
       },
       {
         "matchup": "UK @ MISS",
