@@ -127,21 +127,6 @@
         }
       },
       {
-        "matchup": "LOU @ ND",
-        "kickoff": "9/28/2024, 2:30:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "ND",
-            "score": "31"
-          },
-          "away": {
-            "name": "LOU",
-            "score": "24"
-          }
-        }
-      },
-      {
         "matchup": "OU @ AUB",
         "kickoff": "9/28/2024, 2:30:00 PM",
         "status": "Live: Q4",
@@ -152,22 +137,7 @@
           },
           "away": {
             "name": "OU",
-            "score": "24"
-          }
-        }
-      },
-      {
-        "matchup": "ARK VS TA&M",
-        "kickoff": "9/28/2024, 2:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "TA&M",
-            "score": "21"
-          },
-          "away": {
-            "name": "ARK",
-            "score": "17"
+            "score": "27"
           }
         }
       },
@@ -178,7 +148,7 @@
         "score": {
           "home": {
             "name": "TEX",
-            "score": "21"
+            "score": "28"
           },
           "away": {
             "name": "MSST",
@@ -189,8 +159,17 @@
       {
         "matchup": "ISU @ HOU",
         "kickoff": "9/28/2024, 6:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "HOU",
+            "score": "0"
+          },
+          "away": {
+            "name": "ISU",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "UK @ MISS",
@@ -223,6 +202,21 @@
         }
       },
       {
+        "matchup": "LOU @ ND",
+        "kickoff": "9/28/2024, 2:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "ND",
+            "score": "31"
+          },
+          "away": {
+            "name": "LOU",
+            "score": "24"
+          }
+        }
+      },
+      {
         "matchup": "OKST @ KSU",
         "kickoff": "9/28/2024, 11:00:00 AM",
         "status": "Final",
@@ -249,6 +243,21 @@
           "away": {
             "name": "BYU",
             "score": "34"
+          }
+        }
+      },
+      {
+        "matchup": "ARK VS TA&M",
+        "kickoff": "9/28/2024, 2:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "TA&M",
+            "score": "21"
+          },
+          "away": {
+            "name": "ARK",
+            "score": "17"
           }
         }
       },
