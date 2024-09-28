@@ -152,7 +152,7 @@
           },
           "away": {
             "name": "OKST",
-            "score": "13"
+            "score": "20"
           }
         }
       },
@@ -180,8 +180,17 @@
       {
         "matchup": "LOU @ ND",
         "kickoff": "9/28/2024, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ND",
+            "score": "0"
+          },
+          "away": {
+            "name": "LOU",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "OU @ AUB",
