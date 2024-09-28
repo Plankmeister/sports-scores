@@ -193,7 +193,7 @@
         "score": {
           "home": {
             "name": "USC",
-            "score": "0"
+            "score": "6"
           },
           "away": {
             "name": "WIS",
@@ -204,8 +204,17 @@
       {
         "matchup": "OU @ AUB",
         "kickoff": "9/28/2024, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "AUB",
+            "score": "0"
+          },
+          "away": {
+            "name": "OU",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "ARK VS TA&M",
@@ -218,7 +227,7 @@
           },
           "away": {
             "name": "ARK",
-            "score": "0"
+            "score": "7"
           }
         }
       },
