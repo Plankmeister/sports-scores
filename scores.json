@@ -129,7 +129,7 @@
       {
         "matchup": "LOU @ ND",
         "kickoff": "9/28/2024, 2:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "ND",
@@ -168,6 +168,21 @@
           "away": {
             "name": "ARK",
             "score": "14"
+          }
+        }
+      },
+      {
+        "matchup": "MSST @ TEX",
+        "kickoff": "9/28/2024, 3:15:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "TEX",
+            "score": "0"
+          },
+          "away": {
+            "name": "MSST",
+            "score": "0"
           }
         }
       },
@@ -228,21 +243,6 @@
           "away": {
             "name": "BYU",
             "score": "34"
-          }
-        }
-      },
-      {
-        "matchup": "MSST @ TEX",
-        "kickoff": "9/28/2024, 3:15:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "TEX",
-            "score": "0"
-          },
-          "away": {
-            "name": "MSST",
-            "score": "0"
           }
         }
       },
