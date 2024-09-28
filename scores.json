@@ -118,7 +118,7 @@
         "score": {
           "home": {
             "name": "USC",
-            "score": "23"
+            "score": "24"
           },
           "away": {
             "name": "WIS",
@@ -129,7 +129,7 @@
       {
         "matchup": "LOU @ ND",
         "kickoff": "9/28/2024, 2:30:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "ND",
@@ -144,11 +144,11 @@
       {
         "matchup": "OU @ AUB",
         "kickoff": "9/28/2024, 2:30:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "AUB",
-            "score": "14"
+            "score": "21"
           },
           "away": {
             "name": "OU",
@@ -159,7 +159,7 @@
       {
         "matchup": "ARK VS TA&M",
         "kickoff": "9/28/2024, 2:30:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "TA&M",
@@ -167,7 +167,7 @@
           },
           "away": {
             "name": "ARK",
-            "score": "14"
+            "score": "17"
           }
         }
       },
