@@ -9,7 +9,7 @@
         "score": {
           "home": {
             "name": "ATL",
-            "score": "17"
+            "score": "20"
           },
           "away": {
             "name": "NO",
@@ -28,14 +28,14 @@
           },
           "away": {
             "name": "LAR",
-            "score": "6"
+            "score": "9"
           }
         }
       },
       {
         "matchup": "MIN @ GB",
         "kickoff": "9/29/2024, 12:00:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "GB",
@@ -65,7 +65,7 @@
       {
         "matchup": "DEN @ NYJ",
         "kickoff": "9/29/2024, 12:00:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "NYJ",
@@ -88,7 +88,7 @@
           },
           "away": {
             "name": "PHI",
-            "score": "13"
+            "score": "14"
           }
         }
       },
@@ -103,7 +103,7 @@
           },
           "away": {
             "name": "CIN",
-            "score": "21"
+            "score": "28"
           }
         }
       },
