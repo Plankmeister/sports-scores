@@ -159,7 +159,7 @@
       {
         "matchup": "ILL @ PSU",
         "kickoff": "9/28/2024, 6:30:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "PSU",
@@ -189,11 +189,11 @@
       {
         "matchup": "WSU @ BOIS",
         "kickoff": "9/28/2024, 9:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "BOIS",
-            "score": "7"
+            "score": "10"
           },
           "away": {
             "name": "WSU",
