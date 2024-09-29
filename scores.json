@@ -24,7 +24,7 @@
         "score": {
           "home": {
             "name": "CHI",
-            "score": "17"
+            "score": "24"
           },
           "away": {
             "name": "LAR",
@@ -50,11 +50,11 @@
       {
         "matchup": "PIT @ IND",
         "kickoff": "9/29/2024, 12:00:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "IND",
-            "score": "17"
+            "score": "23"
           },
           "away": {
             "name": "PIT",
@@ -73,7 +73,7 @@
           },
           "away": {
             "name": "DEN",
-            "score": "6"
+            "score": "7"
           }
         }
       },
@@ -99,7 +99,7 @@
         "score": {
           "home": {
             "name": "CAR",
-            "score": "14"
+            "score": "21"
           },
           "away": {
             "name": "CIN",
@@ -110,7 +110,7 @@
       {
         "matchup": "JAX @ HOU",
         "kickoff": "9/29/2024, 12:00:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "HOU",
