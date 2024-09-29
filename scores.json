@@ -20,7 +20,7 @@
       {
         "matchup": "NE @ SF",
         "kickoff": "9/29/2024, 3:05:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "SF",
@@ -35,7 +35,7 @@
       {
         "matchup": "CLE @ LV",
         "kickoff": "9/29/2024, 3:25:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "LV",
@@ -43,7 +43,7 @@
           },
           "away": {
             "name": "CLE",
-            "score": "10"
+            "score": "16"
           }
         }
       },
