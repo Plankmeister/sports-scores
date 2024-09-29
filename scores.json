@@ -129,7 +129,7 @@
       {
         "matchup": "USA @ LSU",
         "kickoff": "9/28/2024, 6:45:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "LSU",
@@ -159,7 +159,7 @@
       {
         "matchup": "ARIZ @ UTAH",
         "kickoff": "9/28/2024, 9:15:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "UTAH",
@@ -369,8 +369,17 @@
       {
         "matchup": "ORE @ UCLA",
         "kickoff": "9/28/2024, 10:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "UCLA",
+            "score": "0"
+          },
+          "away": {
+            "name": "ORE",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "VT @ MIA",
