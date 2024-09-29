@@ -112,21 +112,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "ORE @ UCLA",
-        "kickoff": "9/28/2024, 10:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "UCLA",
-            "score": "13"
-          },
-          "away": {
-            "name": "ORE",
-            "score": "34"
-          }
-        }
-      },
-      {
         "matchup": "VT @ MIA",
         "kickoff": "9/27/2024, 6:30:00 PM",
         "status": "Final",
@@ -198,6 +183,21 @@
           "away": {
             "name": "UK",
             "score": "20"
+          }
+        }
+      },
+      {
+        "matchup": "ORE @ UCLA",
+        "kickoff": "9/28/2024, 10:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "UCLA",
+            "score": "13"
+          },
+          "away": {
+            "name": "ORE",
+            "score": "34"
           }
         }
       },
