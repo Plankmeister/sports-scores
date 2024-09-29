@@ -9,7 +9,7 @@
         "score": {
           "home": {
             "name": "GB",
-            "score": "22"
+            "score": "29"
           },
           "away": {
             "name": "MIN",
@@ -28,7 +28,7 @@
           },
           "away": {
             "name": "WSH",
-            "score": "0"
+            "score": "7"
           }
         }
       },
@@ -155,14 +155,32 @@
       {
         "matchup": "CLE @ LV",
         "kickoff": "9/29/2024, 3:25:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "LV",
+            "score": "0"
+          },
+          "away": {
+            "name": "CLE",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "KC @ LAC",
         "kickoff": "9/29/2024, 3:25:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "LAC",
+            "score": "0"
+          },
+          "away": {
+            "name": "KC",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "BUF @ BAL",
