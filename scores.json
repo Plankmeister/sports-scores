@@ -35,7 +35,7 @@
       {
         "matchup": "PIT @ IND",
         "kickoff": "9/29/2024, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "IND",
@@ -84,7 +84,7 @@
         "score": {
           "home": {
             "name": "HOU",
-            "score": "17"
+            "score": "24"
           },
           "away": {
             "name": "JAX",
