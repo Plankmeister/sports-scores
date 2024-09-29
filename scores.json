@@ -152,7 +152,22 @@
           },
           "away": {
             "name": "ORE",
-            "score": "23"
+            "score": "25"
+          }
+        }
+      },
+      {
+        "matchup": "VT @ MIA",
+        "kickoff": "9/27/2024, 6:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "MIA",
+            "score": "38"
+          },
+          "away": {
+            "name": "VT",
+            "score": "34"
           }
         }
       },
@@ -378,21 +393,6 @@
           "away": {
             "name": "ARK",
             "score": "17"
-          }
-        }
-      },
-      {
-        "matchup": "VT @ MIA",
-        "kickoff": "9/27/2024, 6:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "MIA",
-            "score": "38"
-          },
-          "away": {
-            "name": "VT",
-            "score": "34"
           }
         }
       }
