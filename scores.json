@@ -3,21 +3,6 @@
     "week": 4,
     "games": [
       {
-        "matchup": "WSH @ ARI",
-        "kickoff": "9/29/2024, 3:05:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "ARI",
-            "score": "14"
-          },
-          "away": {
-            "name": "WSH",
-            "score": "42"
-          }
-        }
-      },
-      {
         "matchup": "NE @ SF",
         "kickoff": "9/29/2024, 3:05:00 PM",
         "status": "Live: Q4",
@@ -58,7 +43,7 @@
           },
           "away": {
             "name": "KC",
-            "score": "10"
+            "score": "17"
           }
         }
       },
@@ -179,6 +164,21 @@
           "away": {
             "name": "JAX",
             "score": "20"
+          }
+        }
+      },
+      {
+        "matchup": "WSH @ ARI",
+        "kickoff": "9/29/2024, 3:05:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "ARI",
+            "score": "14"
+          },
+          "away": {
+            "name": "WSH",
+            "score": "42"
           }
         }
       },
