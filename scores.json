@@ -114,7 +114,7 @@
       {
         "matchup": "STAN @ CLEM",
         "kickoff": "9/28/2024, 6:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "CLEM",
@@ -144,7 +144,7 @@
       {
         "matchup": "OSU @ MSU",
         "kickoff": "9/28/2024, 6:30:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "MSU",
@@ -198,6 +198,21 @@
           "away": {
             "name": "WSU",
             "score": "7"
+          }
+        }
+      },
+      {
+        "matchup": "ARIZ @ UTAH",
+        "kickoff": "9/28/2024, 9:15:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "UTAH",
+            "score": "0"
+          },
+          "away": {
+            "name": "ARIZ",
+            "score": "0"
           }
         }
       },
@@ -348,21 +363,6 @@
           "away": {
             "name": "ARK",
             "score": "17"
-          }
-        }
-      },
-      {
-        "matchup": "ARIZ @ UTAH",
-        "kickoff": "9/28/2024, 9:15:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "UTAH",
-            "score": "0"
-          },
-          "away": {
-            "name": "ARIZ",
-            "score": "0"
           }
         }
       },
