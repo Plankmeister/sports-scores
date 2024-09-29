@@ -118,26 +118,11 @@
         "score": {
           "home": {
             "name": "CLEM",
-            "score": "33"
+            "score": "40"
           },
           "away": {
             "name": "STAN",
             "score": "7"
-          }
-        }
-      },
-      {
-        "matchup": "ISU @ HOU",
-        "kickoff": "9/28/2024, 6:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "HOU",
-            "score": "0"
-          },
-          "away": {
-            "name": "ISU",
-            "score": "20"
           }
         }
       },
@@ -277,6 +262,21 @@
         }
       },
       {
+        "matchup": "ISU @ HOU",
+        "kickoff": "9/28/2024, 6:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "HOU",
+            "score": "0"
+          },
+          "away": {
+            "name": "ISU",
+            "score": "20"
+          }
+        }
+      },
+      {
         "matchup": "OKST @ KSU",
         "kickoff": "9/28/2024, 11:00:00 AM",
         "status": "Final",
@@ -339,8 +339,17 @@
       {
         "matchup": "WSU @ BOIS",
         "kickoff": "9/28/2024, 9:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "BOIS",
+            "score": "0"
+          },
+          "away": {
+            "name": "WSU",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "ARIZ @ UTAH",
