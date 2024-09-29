@@ -112,21 +112,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "WSU @ BOIS",
-        "kickoff": "9/28/2024, 9:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "BOIS",
-            "score": "45"
-          },
-          "away": {
-            "name": "WSU",
-            "score": "24"
-          }
-        }
-      },
-      {
         "matchup": "ARIZ @ UTAH",
         "kickoff": "9/28/2024, 9:15:00 PM",
         "status": "Live: Q4",
@@ -148,7 +133,7 @@
         "score": {
           "home": {
             "name": "UCLA",
-            "score": "13"
+            "score": "19"
           },
           "away": {
             "name": "ORE",
@@ -393,6 +378,21 @@
           "away": {
             "name": "ARK",
             "score": "17"
+          }
+        }
+      },
+      {
+        "matchup": "WSU @ BOIS",
+        "kickoff": "9/28/2024, 9:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "BOIS",
+            "score": "45"
+          },
+          "away": {
+            "name": "WSU",
+            "score": "24"
           }
         }
       }
