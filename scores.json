@@ -35,7 +35,7 @@
       {
         "matchup": "MIN @ GB",
         "kickoff": "9/29/2024, 12:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "GB",
@@ -80,11 +80,11 @@
       {
         "matchup": "PHI @ TB",
         "kickoff": "9/29/2024, 12:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "TB",
-            "score": "14"
+            "score": "21"
           },
           "away": {
             "name": "PHI",
@@ -99,7 +99,7 @@
         "score": {
           "home": {
             "name": "CAR",
-            "score": "0"
+            "score": "7"
           },
           "away": {
             "name": "CIN",
