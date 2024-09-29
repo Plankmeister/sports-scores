@@ -54,7 +54,7 @@
         "score": {
           "home": {
             "name": "IND",
-            "score": "23"
+            "score": "24"
           },
           "away": {
             "name": "PIT",
@@ -80,11 +80,11 @@
       {
         "matchup": "PHI @ TB",
         "kickoff": "9/29/2024, 12:00:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "TB",
-            "score": "30"
+            "score": "33"
           },
           "away": {
             "name": "PHI",
@@ -95,7 +95,7 @@
       {
         "matchup": "CIN @ CAR",
         "kickoff": "9/29/2024, 12:00:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "CAR",
