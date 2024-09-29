@@ -5,30 +5,15 @@
       {
         "matchup": "NO @ ATL",
         "kickoff": "9/29/2024, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "ATL",
-            "score": "23"
+            "score": "26"
           },
           "away": {
             "name": "NO",
             "score": "24"
-          }
-        }
-      },
-      {
-        "matchup": "LAR @ CHI",
-        "kickoff": "9/29/2024, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "CHI",
-            "score": "24"
-          },
-          "away": {
-            "name": "LAR",
-            "score": "18"
           }
         }
       },
@@ -78,21 +63,6 @@
         }
       },
       {
-        "matchup": "PHI @ TB",
-        "kickoff": "9/29/2024, 12:00:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "TB",
-            "score": "33"
-          },
-          "away": {
-            "name": "PHI",
-            "score": "16"
-          }
-        }
-      },
-      {
         "matchup": "CIN @ CAR",
         "kickoff": "9/29/2024, 12:00:00 PM",
         "status": "Live: Q4",
@@ -123,16 +93,64 @@
         }
       },
       {
+        "matchup": "LAR @ CHI",
+        "kickoff": "9/29/2024, 12:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "CHI",
+            "score": "24"
+          },
+          "away": {
+            "name": "LAR",
+            "score": "18"
+          }
+        }
+      },
+      {
+        "matchup": "PHI @ TB",
+        "kickoff": "9/29/2024, 12:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "TB",
+            "score": "33"
+          },
+          "away": {
+            "name": "PHI",
+            "score": "16"
+          }
+        }
+      },
+      {
         "matchup": "WSH @ ARI",
         "kickoff": "9/29/2024, 3:05:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ARI",
+            "score": "0"
+          },
+          "away": {
+            "name": "WSH",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "NE @ SF",
         "kickoff": "9/29/2024, 3:05:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "SF",
+            "score": "0"
+          },
+          "away": {
+            "name": "NE",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "CLE @ LV",
