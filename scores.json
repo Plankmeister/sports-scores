@@ -3,6 +3,33 @@
     "week": 4,
     "games": [
       {
+        "matchup": "TEN @ MIA",
+        "kickoff": "9/30/2024, 6:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "SEA @ DET",
+        "kickoff": "9/30/2024, 7:15:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "DAL @ NYG",
+        "kickoff": "9/26/2024, 7:15:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "NYG",
+            "score": "15"
+          },
+          "away": {
+            "name": "DAL",
+            "score": "20"
+          }
+        }
+      },
+      {
         "matchup": "NO @ ATL",
         "kickoff": "9/29/2024, 12:00:00 PM",
         "status": "Final",
@@ -196,33 +223,6 @@
             "score": "10"
           }
         }
-      },
-      {
-        "matchup": "DAL @ NYG",
-        "kickoff": "9/26/2024, 7:15:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "NYG",
-            "score": "15"
-          },
-          "away": {
-            "name": "DAL",
-            "score": "20"
-          }
-        }
-      },
-      {
-        "matchup": "TEN @ MIA",
-        "kickoff": "9/30/2024, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "SEA @ DET",
-        "kickoff": "9/30/2024, 7:15:00 PM",
-        "status": "Scheduled",
-        "score": null
       }
     ]
   },
