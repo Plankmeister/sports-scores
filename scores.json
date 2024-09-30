@@ -3,6 +3,21 @@
     "week": 4,
     "games": [
       {
+        "matchup": "BUF @ BAL",
+        "kickoff": "9/29/2024, 7:20:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "BAL",
+            "score": "7"
+          },
+          "away": {
+            "name": "BUF",
+            "score": "0"
+          }
+        }
+      },
+      {
         "matchup": "NO @ ATL",
         "kickoff": "9/29/2024, 12:00:00 PM",
         "status": "Final",
@@ -179,21 +194,6 @@
           "away": {
             "name": "KC",
             "score": "17"
-          }
-        }
-      },
-      {
-        "matchup": "BUF @ BAL",
-        "kickoff": "9/29/2024, 7:20:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "BAL",
-            "score": "6"
-          },
-          "away": {
-            "name": "BUF",
-            "score": "0"
           }
         }
       },
