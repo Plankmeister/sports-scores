@@ -3,36 +3,6 @@
     "week": 4,
     "games": [
       {
-        "matchup": "TEN @ MIA",
-        "kickoff": "9/30/2024, 6:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "MIA",
-            "score": "12"
-          },
-          "away": {
-            "name": "TEN",
-            "score": "31"
-          }
-        }
-      },
-      {
-        "matchup": "SEA @ DET",
-        "kickoff": "9/30/2024, 7:15:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "DET",
-            "score": "42"
-          },
-          "away": {
-            "name": "SEA",
-            "score": "29"
-          }
-        }
-      },
-      {
         "matchup": "DAL @ NYG",
         "kickoff": "9/26/2024, 7:15:00 PM",
         "status": "Final",
@@ -239,6 +209,36 @@
           "away": {
             "name": "BUF",
             "score": "10"
+          }
+        }
+      },
+      {
+        "matchup": "TEN @ MIA",
+        "kickoff": "9/30/2024, 6:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "MIA",
+            "score": "12"
+          },
+          "away": {
+            "name": "TEN",
+            "score": "31"
+          }
+        }
+      },
+      {
+        "matchup": "SEA @ DET",
+        "kickoff": "9/30/2024, 7:15:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "DET",
+            "score": "42"
+          },
+          "away": {
+            "name": "SEA",
+            "score": "29"
           }
         }
       }
