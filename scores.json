@@ -20,8 +20,17 @@
       {
         "matchup": "SEA @ DET",
         "kickoff": "9/30/2024, 7:15:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "DET",
+            "score": "0"
+          },
+          "away": {
+            "name": "SEA",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "DAL @ NYG",
