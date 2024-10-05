@@ -106,7 +106,7 @@
         "score": {
           "home": {
             "name": "PSU",
-            "score": "24"
+            "score": "27"
           },
           "away": {
             "name": "UCLA",
@@ -121,7 +121,7 @@
         "score": {
           "home": {
             "name": "TA&M",
-            "score": "34"
+            "score": "41"
           },
           "away": {
             "name": "MIZ",
@@ -132,7 +132,7 @@
       {
         "matchup": "SMU @ LOU",
         "kickoff": "10/5/2024, 11:00:00 AM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "LOU",
