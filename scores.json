@@ -100,21 +100,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "IOWA @ OSU",
-        "kickoff": "10/5/2024, 2:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "OSU",
-            "score": "35"
-          },
-          "away": {
-            "name": "IOWA",
-            "score": "7"
-          }
-        }
-      },
-      {
         "matchup": "AUB @ UGA",
         "kickoff": "10/5/2024, 2:30:00 PM",
         "status": "Live: Q4",
@@ -145,32 +130,32 @@
         }
       },
       {
-        "matchup": "IU @ NU",
-        "kickoff": "10/5/2024, 2:30:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "NU",
-            "score": "24"
-          },
-          "away": {
-            "name": "IU",
-            "score": "41"
-          }
-        }
-      },
-      {
         "matchup": "ALA @ VAN",
         "kickoff": "10/5/2024, 3:15:00 PM",
         "status": "Live: Q3",
         "score": {
           "home": {
             "name": "VAN",
-            "score": "23"
+            "score": "29"
           },
           "away": {
             "name": "ALA",
             "score": "21"
+          }
+        }
+      },
+      {
+        "matchup": "IOWA @ OSU",
+        "kickoff": "10/5/2024, 2:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "OSU",
+            "score": "35"
+          },
+          "away": {
+            "name": "IOWA",
+            "score": "7"
           }
         }
       },
@@ -216,6 +201,21 @@
           "away": {
             "name": "SMU",
             "score": "34"
+          }
+        }
+      },
+      {
+        "matchup": "IU @ NU",
+        "kickoff": "10/5/2024, 2:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "NU",
+            "score": "24"
+          },
+          "away": {
+            "name": "IU",
+            "score": "41"
           }
         }
       },
