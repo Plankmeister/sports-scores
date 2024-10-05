@@ -102,7 +102,7 @@
       {
         "matchup": "IOWA @ OSU",
         "kickoff": "10/5/2024, 2:30:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "OSU",
@@ -125,7 +125,7 @@
           },
           "away": {
             "name": "AUB",
-            "score": "10"
+            "score": "13"
           }
         }
       },
