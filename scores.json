@@ -106,7 +106,7 @@
         "score": {
           "home": {
             "name": "OSU",
-            "score": "14"
+            "score": "20"
           },
           "away": {
             "name": "IOWA",
@@ -117,11 +117,11 @@
       {
         "matchup": "AUB @ UGA",
         "kickoff": "10/5/2024, 2:30:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "UGA",
-            "score": "14"
+            "score": "0"
           },
           "away": {
             "name": "AUB",
@@ -155,7 +155,7 @@
           },
           "away": {
             "name": "IU",
-            "score": "17"
+            "score": "24"
           }
         }
       },
@@ -166,7 +166,7 @@
         "score": {
           "home": {
             "name": "VAN",
-            "score": "20"
+            "score": "23"
           },
           "away": {
             "name": "ALA",
