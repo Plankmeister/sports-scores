@@ -110,7 +110,7 @@
           },
           "away": {
             "name": "IOWA",
-            "score": "0"
+            "score": "6"
           }
         }
       },
@@ -121,7 +121,7 @@
         "score": {
           "home": {
             "name": "UGA",
-            "score": "21"
+            "score": "28"
           },
           "away": {
             "name": "AUB",
@@ -162,7 +162,7 @@
       {
         "matchup": "ALA @ VAN",
         "kickoff": "10/5/2024, 3:15:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "VAN",
