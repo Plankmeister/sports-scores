@@ -159,8 +159,17 @@
       {
         "matchup": "MISS @ SC",
         "kickoff": "10/5/2024, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "SC",
+            "score": "0"
+          },
+          "away": {
+            "name": "MISS",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "IU @ NU",
