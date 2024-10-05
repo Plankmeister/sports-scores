@@ -117,8 +117,17 @@
       {
         "matchup": "MIZ @ TA&M",
         "kickoff": "10/5/2024, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "TA&M",
+            "score": "0"
+          },
+          "away": {
+            "name": "MIZ",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "SMU @ LOU",
@@ -131,7 +140,7 @@
           },
           "away": {
             "name": "SMU",
-            "score": "0"
+            "score": "7"
           }
         }
       },
