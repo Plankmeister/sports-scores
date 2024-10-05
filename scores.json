@@ -102,7 +102,7 @@
       {
         "matchup": "MIZ @ TA&M",
         "kickoff": "10/5/2024, 11:00:00 AM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "TA&M",
@@ -110,7 +110,7 @@
           },
           "away": {
             "name": "MIZ",
-            "score": "7"
+            "score": "10"
           }
         }
       },
