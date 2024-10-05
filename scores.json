@@ -100,21 +100,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "ALA @ VAN",
-        "kickoff": "10/5/2024, 3:15:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "VAN",
-            "score": "40"
-          },
-          "away": {
-            "name": "ALA",
-            "score": "35"
-          }
-        }
-      },
-      {
         "matchup": "CLEM @ FSU",
         "kickoff": "10/5/2024, 6:00:00 PM",
         "status": "Live: Q1",
@@ -141,6 +126,81 @@
           "away": {
             "name": "USU",
             "score": "3"
+          }
+        }
+      },
+      {
+        "matchup": "TENN @ ARK",
+        "kickoff": "10/5/2024, 6:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ARK",
+            "score": "0"
+          },
+          "away": {
+            "name": "TENN",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "MICH @ WASH",
+        "kickoff": "10/5/2024, 6:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "WASH",
+            "score": "0"
+          },
+          "away": {
+            "name": "MICH",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "USC @ MINN",
+        "kickoff": "10/5/2024, 6:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MINN",
+            "score": "0"
+          },
+          "away": {
+            "name": "USC",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "BAY @ ISU",
+        "kickoff": "10/5/2024, 6:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ISU",
+            "score": "0"
+          },
+          "away": {
+            "name": "BAY",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "ALA @ VAN",
+        "kickoff": "10/5/2024, 3:15:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "VAN",
+            "score": "40"
+          },
+          "away": {
+            "name": "ALA",
+            "score": "35"
           }
         }
       },
@@ -246,57 +306,6 @@
           "away": {
             "name": "IU",
             "score": "41"
-          }
-        }
-      },
-      {
-        "matchup": "TENN @ ARK",
-        "kickoff": "10/5/2024, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "MICH @ WASH",
-        "kickoff": "10/5/2024, 6:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "WASH",
-            "score": "0"
-          },
-          "away": {
-            "name": "MICH",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "USC @ MINN",
-        "kickoff": "10/5/2024, 6:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "MINN",
-            "score": "0"
-          },
-          "away": {
-            "name": "USC",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "BAY @ ISU",
-        "kickoff": "10/5/2024, 6:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "ISU",
-            "score": "0"
-          },
-          "away": {
-            "name": "BAY",
-            "score": "0"
           }
         }
       },
