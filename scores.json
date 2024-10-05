@@ -100,21 +100,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "MSU @ ORE",
-        "kickoff": "10/4/2024, 8:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "ORE",
-            "score": "31"
-          },
-          "away": {
-            "name": "MSU",
-            "score": "10"
-          }
-        }
-      },
-      {
         "matchup": "SYR @ UNLV",
         "kickoff": "10/4/2024, 8:00:00 PM",
         "status": "Live: Q5",
@@ -125,7 +110,7 @@
           },
           "away": {
             "name": "SYR",
-            "score": "38"
+            "score": "44"
           }
         }
       },
@@ -218,6 +203,21 @@
         "kickoff": "10/5/2024, 9:30:00 PM",
         "status": "Scheduled",
         "score": null
+      },
+      {
+        "matchup": "MSU @ ORE",
+        "kickoff": "10/4/2024, 8:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "ORE",
+            "score": "31"
+          },
+          "away": {
+            "name": "MSU",
+            "score": "10"
+          }
+        }
       }
     ]
   }
