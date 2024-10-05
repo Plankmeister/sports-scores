@@ -147,8 +147,17 @@
       {
         "matchup": "IOWA @ OSU",
         "kickoff": "10/5/2024, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "OSU",
+            "score": "0"
+          },
+          "away": {
+            "name": "IOWA",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "AUB @ UGA",
@@ -174,8 +183,17 @@
       {
         "matchup": "IU @ NU",
         "kickoff": "10/5/2024, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "NU",
+            "score": "0"
+          },
+          "away": {
+            "name": "IU",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "ALA @ VAN",
