@@ -100,36 +100,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "AUB @ UGA",
-        "kickoff": "10/5/2024, 2:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "UGA",
-            "score": "31"
-          },
-          "away": {
-            "name": "AUB",
-            "score": "13"
-          }
-        }
-      },
-      {
-        "matchup": "MISS @ SC",
-        "kickoff": "10/5/2024, 2:30:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "SC",
-            "score": "3"
-          },
-          "away": {
-            "name": "MISS",
-            "score": "27"
-          }
-        }
-      },
-      {
         "matchup": "ALA @ VAN",
         "kickoff": "10/5/2024, 3:15:00 PM",
         "status": "Live: Q4",
@@ -145,6 +115,36 @@
         }
       },
       {
+        "matchup": "CLEM @ FSU",
+        "kickoff": "10/5/2024, 6:00:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "FSU",
+            "score": "0"
+          },
+          "away": {
+            "name": "CLEM",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "USU @ BOIS",
+        "kickoff": "10/5/2024, 6:00:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "BOIS",
+            "score": "7"
+          },
+          "away": {
+            "name": "USU",
+            "score": "0"
+          }
+        }
+      },
+      {
         "matchup": "IOWA @ OSU",
         "kickoff": "10/5/2024, 2:30:00 PM",
         "status": "Final",
@@ -156,6 +156,21 @@
           "away": {
             "name": "IOWA",
             "score": "7"
+          }
+        }
+      },
+      {
+        "matchup": "AUB @ UGA",
+        "kickoff": "10/5/2024, 2:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "UGA",
+            "score": "31"
+          },
+          "away": {
+            "name": "AUB",
+            "score": "13"
           }
         }
       },
@@ -190,6 +205,21 @@
         }
       },
       {
+        "matchup": "MISS @ SC",
+        "kickoff": "10/5/2024, 2:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "SC",
+            "score": "3"
+          },
+          "away": {
+            "name": "MISS",
+            "score": "27"
+          }
+        }
+      },
+      {
         "matchup": "SMU @ LOU",
         "kickoff": "10/5/2024, 11:00:00 AM",
         "status": "Final",
@@ -216,36 +246,6 @@
           "away": {
             "name": "IU",
             "score": "41"
-          }
-        }
-      },
-      {
-        "matchup": "CLEM @ FSU",
-        "kickoff": "10/5/2024, 6:00:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "FSU",
-            "score": "0"
-          },
-          "away": {
-            "name": "CLEM",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "USU @ BOIS",
-        "kickoff": "10/5/2024, 6:00:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "BOIS",
-            "score": "7"
-          },
-          "away": {
-            "name": "USU",
-            "score": "0"
           }
         }
       },
