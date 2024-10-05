@@ -140,14 +140,14 @@
           },
           "away": {
             "name": "MISS",
-            "score": "17"
+            "score": "24"
           }
         }
       },
       {
         "matchup": "IU @ NU",
         "kickoff": "10/5/2024, 2:30:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "NU",
