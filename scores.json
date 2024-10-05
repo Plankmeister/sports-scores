@@ -136,7 +136,7 @@
         "score": {
           "home": {
             "name": "VAN",
-            "score": "30"
+            "score": "33"
           },
           "away": {
             "name": "ALA",
@@ -228,8 +228,17 @@
       {
         "matchup": "USU @ BOIS",
         "kickoff": "10/5/2024, 6:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "BOIS",
+            "score": "0"
+          },
+          "away": {
+            "name": "USU",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "TENN @ ARK",
