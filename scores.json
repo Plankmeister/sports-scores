@@ -258,20 +258,47 @@
       {
         "matchup": "MICH @ WASH",
         "kickoff": "10/5/2024, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "WASH",
+            "score": "0"
+          },
+          "away": {
+            "name": "MICH",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "USC @ MINN",
         "kickoff": "10/5/2024, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MINN",
+            "score": "0"
+          },
+          "away": {
+            "name": "USC",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "BAY @ ISU",
         "kickoff": "10/5/2024, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ISU",
+            "score": "0"
+          },
+          "away": {
+            "name": "BAY",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "MIA @ CAL",
