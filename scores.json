@@ -160,6 +160,21 @@
         }
       },
       {
+        "matchup": "ALA @ VAN",
+        "kickoff": "10/5/2024, 3:15:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "VAN",
+            "score": "7"
+          },
+          "away": {
+            "name": "ALA",
+            "score": "0"
+          }
+        }
+      },
+      {
         "matchup": "UCLA @ PSU",
         "kickoff": "10/5/2024, 11:00:00 AM",
         "status": "Final",
@@ -201,21 +216,6 @@
           "away": {
             "name": "SMU",
             "score": "34"
-          }
-        }
-      },
-      {
-        "matchup": "ALA @ VAN",
-        "kickoff": "10/5/2024, 3:15:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "VAN",
-            "score": "0"
-          },
-          "away": {
-            "name": "ALA",
-            "score": "0"
           }
         }
       },
