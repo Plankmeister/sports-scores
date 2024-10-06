@@ -13,14 +13,14 @@
           },
           "away": {
             "name": "CAR",
-            "score": "7"
+            "score": "10"
           }
         }
       },
       {
         "matchup": "BAL @ CIN",
         "kickoff": "10/6/2024, 12:00:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "CIN",
@@ -65,7 +65,7 @@
       {
         "matchup": "IND @ JAX",
         "kickoff": "10/6/2024, 12:00:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "JAX",
@@ -73,7 +73,7 @@
           },
           "away": {
             "name": "IND",
-            "score": "10"
+            "score": "17"
           }
         }
       },
