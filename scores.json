@@ -69,7 +69,7 @@
         "score": {
           "home": {
             "name": "JAX",
-            "score": "34"
+            "score": "37"
           },
           "away": {
             "name": "IND",
@@ -110,14 +110,32 @@
       {
         "matchup": "LV @ DEN",
         "kickoff": "10/6/2024, 3:05:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "DEN",
+            "score": "0"
+          },
+          "away": {
+            "name": "LV",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "ARI @ SF",
         "kickoff": "10/6/2024, 3:05:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "SF",
+            "score": "0"
+          },
+          "away": {
+            "name": "ARI",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "GB @ LAR",
