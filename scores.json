@@ -5,7 +5,7 @@
       {
         "matchup": "CAR @ CHI",
         "kickoff": "10/6/2024, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "CHI",
@@ -28,14 +28,14 @@
           },
           "away": {
             "name": "BAL",
-            "score": "35"
+            "score": "38"
           }
         }
       },
       {
         "matchup": "MIA @ NE",
         "kickoff": "10/6/2024, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "NE",
@@ -65,7 +65,7 @@
       {
         "matchup": "IND @ JAX",
         "kickoff": "10/6/2024, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "JAX",
@@ -80,11 +80,11 @@
       {
         "matchup": "BUF @ HOU",
         "kickoff": "10/6/2024, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "HOU",
-            "score": "20"
+            "score": "23"
           },
           "away": {
             "name": "BUF",
@@ -118,7 +118,7 @@
           },
           "away": {
             "name": "LV",
-            "score": "0"
+            "score": "7"
           }
         }
       },
