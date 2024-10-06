@@ -3,36 +3,6 @@
     "week": 5,
     "games": [
       {
-        "matchup": "LV @ DEN",
-        "kickoff": "10/6/2024, 3:05:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "DEN",
-            "score": "34"
-          },
-          "away": {
-            "name": "LV",
-            "score": "18"
-          }
-        }
-      },
-      {
-        "matchup": "ARI @ SF",
-        "kickoff": "10/6/2024, 3:05:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "SF",
-            "score": "23"
-          },
-          "away": {
-            "name": "ARI",
-            "score": "24"
-          }
-        }
-      },
-      {
         "matchup": "GB @ LAR",
         "kickoff": "10/6/2024, 3:25:00 PM",
         "status": "Live: Q4",
@@ -58,7 +28,7 @@
           },
           "away": {
             "name": "NYG",
-            "score": "23"
+            "score": "29"
           }
         }
       },
@@ -164,6 +134,36 @@
           "away": {
             "name": "BUF",
             "score": "20"
+          }
+        }
+      },
+      {
+        "matchup": "LV @ DEN",
+        "kickoff": "10/6/2024, 3:05:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "DEN",
+            "score": "34"
+          },
+          "away": {
+            "name": "LV",
+            "score": "18"
+          }
+        }
+      },
+      {
+        "matchup": "ARI @ SF",
+        "kickoff": "10/6/2024, 3:05:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "SF",
+            "score": "23"
+          },
+          "away": {
+            "name": "ARI",
+            "score": "24"
           }
         }
       },
