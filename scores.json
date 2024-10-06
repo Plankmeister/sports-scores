@@ -3,6 +3,21 @@
     "week": 5,
     "games": [
       {
+        "matchup": "TB @ ATL",
+        "kickoff": "10/3/2024, 7:15:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "ATL",
+            "score": "36"
+          },
+          "away": {
+            "name": "TB",
+            "score": "30"
+          }
+        }
+      },
+      {
         "matchup": "NYJ VS MIN",
         "kickoff": "10/6/2024, 8:30:00 AM",
         "status": "Scheduled",
@@ -73,21 +88,6 @@
         "kickoff": "10/6/2024, 7:20:00 PM",
         "status": "Scheduled",
         "score": null
-      },
-      {
-        "matchup": "TB @ ATL",
-        "kickoff": "10/3/2024, 7:15:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "ATL",
-            "score": "36"
-          },
-          "away": {
-            "name": "TB",
-            "score": "30"
-          }
-        }
       },
       {
         "matchup": "NO @ KC",
