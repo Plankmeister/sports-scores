@@ -3,6 +3,66 @@
     "week": 5,
     "games": [
       {
+        "matchup": "BAL @ CIN",
+        "kickoff": "10/6/2024, 12:00:00 PM",
+        "status": "Live: Q5",
+        "score": {
+          "home": {
+            "name": "CIN",
+            "score": "38"
+          },
+          "away": {
+            "name": "BAL",
+            "score": "38"
+          }
+        }
+      },
+      {
+        "matchup": "LV @ DEN",
+        "kickoff": "10/6/2024, 3:05:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "DEN",
+            "score": "0"
+          },
+          "away": {
+            "name": "LV",
+            "score": "7"
+          }
+        }
+      },
+      {
+        "matchup": "ARI @ SF",
+        "kickoff": "10/6/2024, 3:05:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "SF",
+            "score": "0"
+          },
+          "away": {
+            "name": "ARI",
+            "score": "7"
+          }
+        }
+      },
+      {
+        "matchup": "NYJ VS MIN",
+        "kickoff": "10/6/2024, 8:30:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "MIN",
+            "score": "23"
+          },
+          "away": {
+            "name": "NYJ",
+            "score": "17"
+          }
+        }
+      },
+      {
         "matchup": "CAR @ CHI",
         "kickoff": "10/6/2024, 12:00:00 PM",
         "status": "Final",
@@ -14,21 +74,6 @@
           "away": {
             "name": "CAR",
             "score": "10"
-          }
-        }
-      },
-      {
-        "matchup": "BAL @ CIN",
-        "kickoff": "10/6/2024, 12:00:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "CIN",
-            "score": "38"
-          },
-          "away": {
-            "name": "BAL",
-            "score": "38"
           }
         }
       },
@@ -89,51 +134,6 @@
           "away": {
             "name": "BUF",
             "score": "20"
-          }
-        }
-      },
-      {
-        "matchup": "NYJ VS MIN",
-        "kickoff": "10/6/2024, 8:30:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "MIN",
-            "score": "23"
-          },
-          "away": {
-            "name": "NYJ",
-            "score": "17"
-          }
-        }
-      },
-      {
-        "matchup": "LV @ DEN",
-        "kickoff": "10/6/2024, 3:05:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "DEN",
-            "score": "0"
-          },
-          "away": {
-            "name": "LV",
-            "score": "7"
-          }
-        }
-      },
-      {
-        "matchup": "ARI @ SF",
-        "kickoff": "10/6/2024, 3:05:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "SF",
-            "score": "0"
-          },
-          "away": {
-            "name": "ARI",
-            "score": "7"
           }
         }
       },
