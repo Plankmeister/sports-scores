@@ -3,6 +3,36 @@
     "week": 5,
     "games": [
       {
+        "matchup": "BAL @ CIN",
+        "kickoff": "10/6/2024, 12:00:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "CIN",
+            "score": "0"
+          },
+          "away": {
+            "name": "BAL",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "IND @ JAX",
+        "kickoff": "10/6/2024, 12:00:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "JAX",
+            "score": "0"
+          },
+          "away": {
+            "name": "IND",
+            "score": "0"
+          }
+        }
+      },
+      {
         "matchup": "NYJ VS MIN",
         "kickoff": "10/6/2024, 8:30:00 AM",
         "status": "Final",
@@ -20,38 +50,62 @@
       {
         "matchup": "CAR @ CHI",
         "kickoff": "10/6/2024, 12:00:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "BAL @ CIN",
-        "kickoff": "10/6/2024, 12:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "CHI",
+            "score": "0"
+          },
+          "away": {
+            "name": "CAR",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "MIA @ NE",
         "kickoff": "10/6/2024, 12:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "NE",
+            "score": "0"
+          },
+          "away": {
+            "name": "MIA",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "CLE @ WSH",
         "kickoff": "10/6/2024, 12:00:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "IND @ JAX",
-        "kickoff": "10/6/2024, 12:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "WSH",
+            "score": "0"
+          },
+          "away": {
+            "name": "CLE",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "BUF @ HOU",
         "kickoff": "10/6/2024, 12:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "HOU",
+            "score": "0"
+          },
+          "away": {
+            "name": "BUF",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "LV @ DEN",
