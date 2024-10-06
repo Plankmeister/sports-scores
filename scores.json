@@ -20,7 +20,7 @@
       {
         "matchup": "ARI @ SF",
         "kickoff": "10/6/2024, 3:05:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "SF",
@@ -43,7 +43,7 @@
           },
           "away": {
             "name": "GB",
-            "score": "17"
+            "score": "24"
           }
         }
       },
@@ -58,7 +58,7 @@
           },
           "away": {
             "name": "NYG",
-            "score": "17"
+            "score": "20"
           }
         }
       },
