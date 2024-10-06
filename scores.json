@@ -24,7 +24,7 @@
         "score": {
           "home": {
             "name": "CIN",
-            "score": "24"
+            "score": "31"
           },
           "away": {
             "name": "BAL",
@@ -35,7 +35,7 @@
       {
         "matchup": "MIA @ NE",
         "kickoff": "10/6/2024, 12:00:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "NE",
@@ -69,7 +69,7 @@
         "score": {
           "home": {
             "name": "JAX",
-            "score": "20"
+            "score": "27"
           },
           "away": {
             "name": "IND",
@@ -80,7 +80,7 @@
       {
         "matchup": "BUF @ HOU",
         "kickoff": "10/6/2024, 12:00:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "HOU",
