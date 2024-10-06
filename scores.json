@@ -115,51 +115,6 @@
         }
       },
       {
-        "matchup": "MICH @ WASH",
-        "kickoff": "10/5/2024, 6:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "WASH",
-            "score": "27"
-          },
-          "away": {
-            "name": "MICH",
-            "score": "17"
-          }
-        }
-      },
-      {
-        "matchup": "USC @ MINN",
-        "kickoff": "10/5/2024, 6:30:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "MINN",
-            "score": "24"
-          },
-          "away": {
-            "name": "USC",
-            "score": "17"
-          }
-        }
-      },
-      {
-        "matchup": "BAY @ ISU",
-        "kickoff": "10/5/2024, 6:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "ISU",
-            "score": "43"
-          },
-          "away": {
-            "name": "BAY",
-            "score": "21"
-          }
-        }
-      },
-      {
         "matchup": "MIA @ CAL",
         "kickoff": "10/5/2024, 9:30:00 PM",
         "status": "Live: Q1",
@@ -250,6 +205,36 @@
         }
       },
       {
+        "matchup": "MICH @ WASH",
+        "kickoff": "10/5/2024, 6:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "WASH",
+            "score": "27"
+          },
+          "away": {
+            "name": "MICH",
+            "score": "17"
+          }
+        }
+      },
+      {
+        "matchup": "USC @ MINN",
+        "kickoff": "10/5/2024, 6:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "MINN",
+            "score": "24"
+          },
+          "away": {
+            "name": "USC",
+            "score": "17"
+          }
+        }
+      },
+      {
         "matchup": "MISS @ SC",
         "kickoff": "10/5/2024, 2:30:00 PM",
         "status": "Final",
@@ -276,6 +261,21 @@
           "away": {
             "name": "CLEM",
             "score": "29"
+          }
+        }
+      },
+      {
+        "matchup": "BAY @ ISU",
+        "kickoff": "10/5/2024, 6:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "ISU",
+            "score": "43"
+          },
+          "away": {
+            "name": "BAY",
+            "score": "21"
           }
         }
       },
