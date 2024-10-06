@@ -100,36 +100,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "CLEM @ FSU",
-        "kickoff": "10/5/2024, 6:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "FSU",
-            "score": "13"
-          },
-          "away": {
-            "name": "CLEM",
-            "score": "29"
-          }
-        }
-      },
-      {
-        "matchup": "USU @ BOIS",
-        "kickoff": "10/5/2024, 6:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "BOIS",
-            "score": "62"
-          },
-          "away": {
-            "name": "USU",
-            "score": "30"
-          }
-        }
-      },
-      {
         "matchup": "TENN @ ARK",
         "kickoff": "10/5/2024, 6:30:00 PM",
         "status": "Live: Q4",
@@ -151,7 +121,7 @@
         "score": {
           "home": {
             "name": "WASH",
-            "score": "24"
+            "score": "27"
           },
           "away": {
             "name": "MICH",
@@ -181,11 +151,26 @@
         "score": {
           "home": {
             "name": "ISU",
-            "score": "40"
+            "score": "43"
           },
           "away": {
             "name": "BAY",
             "score": "21"
+          }
+        }
+      },
+      {
+        "matchup": "MIA @ CAL",
+        "kickoff": "10/5/2024, 9:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "CAL",
+            "score": "0"
+          },
+          "away": {
+            "name": "MIA",
+            "score": "0"
           }
         }
       },
@@ -280,6 +265,36 @@
         }
       },
       {
+        "matchup": "CLEM @ FSU",
+        "kickoff": "10/5/2024, 6:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "FSU",
+            "score": "13"
+          },
+          "away": {
+            "name": "CLEM",
+            "score": "29"
+          }
+        }
+      },
+      {
+        "matchup": "USU @ BOIS",
+        "kickoff": "10/5/2024, 6:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "BOIS",
+            "score": "62"
+          },
+          "away": {
+            "name": "USU",
+            "score": "30"
+          }
+        }
+      },
+      {
         "matchup": "SMU @ LOU",
         "kickoff": "10/5/2024, 11:00:00 AM",
         "status": "Final",
@@ -306,21 +321,6 @@
           "away": {
             "name": "IU",
             "score": "41"
-          }
-        }
-      },
-      {
-        "matchup": "MIA @ CAL",
-        "kickoff": "10/5/2024, 9:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "CAL",
-            "score": "0"
-          },
-          "away": {
-            "name": "MIA",
-            "score": "0"
           }
         }
       },
