@@ -102,7 +102,7 @@
       {
         "matchup": "TENN @ ARK",
         "kickoff": "10/5/2024, 6:30:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "ARK",
@@ -121,7 +121,7 @@
         "score": {
           "home": {
             "name": "CAL",
-            "score": "7"
+            "score": "14"
           },
           "away": {
             "name": "MIA",
