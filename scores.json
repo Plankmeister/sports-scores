@@ -3,6 +3,21 @@
     "week": 5,
     "games": [
       {
+        "matchup": "DAL @ PIT",
+        "kickoff": "10/6/2024, 8:45:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "PIT",
+            "score": "0"
+          },
+          "away": {
+            "name": "DAL",
+            "score": "3"
+          }
+        }
+      },
+      {
         "matchup": "NYJ VS MIN",
         "kickoff": "10/6/2024, 8:30:00 AM",
         "status": "Final",
@@ -164,21 +179,6 @@
           "away": {
             "name": "NYG",
             "score": "29"
-          }
-        }
-      },
-      {
-        "matchup": "DAL @ PIT",
-        "kickoff": "10/6/2024, 8:45:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "PIT",
-            "score": "0"
-          },
-          "away": {
-            "name": "DAL",
-            "score": "0"
           }
         }
       },
