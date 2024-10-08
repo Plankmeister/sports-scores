@@ -3,21 +3,6 @@
     "week": 5,
     "games": [
       {
-        "matchup": "NO @ KC",
-        "kickoff": "10/7/2024, 7:15:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "KC",
-            "score": "26"
-          },
-          "away": {
-            "name": "NO",
-            "score": "13"
-          }
-        }
-      },
-      {
         "matchup": "TB @ ATL",
         "kickoff": "10/3/2024, 7:15:00 PM",
         "status": "Final",
@@ -209,6 +194,21 @@
           "away": {
             "name": "DAL",
             "score": "20"
+          }
+        }
+      },
+      {
+        "matchup": "NO @ KC",
+        "kickoff": "10/7/2024, 7:15:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "KC",
+            "score": "26"
+          },
+          "away": {
+            "name": "NO",
+            "score": "13"
           }
         }
       }
