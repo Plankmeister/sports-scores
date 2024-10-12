@@ -100,36 +100,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "STAN @ ND",
-        "kickoff": "10/12/2024, 2:30:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "ND",
-            "score": "49"
-          },
-          "away": {
-            "name": "STAN",
-            "score": "7"
-          }
-        }
-      },
-      {
-        "matchup": "ARIZ @ BYU",
-        "kickoff": "10/12/2024, 3:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "BYU",
-            "score": "41"
-          },
-          "away": {
-            "name": "ARIZ",
-            "score": "19"
-          }
-        }
-      },
-      {
         "matchup": "MSST @ UGA",
         "kickoff": "10/12/2024, 3:15:00 PM",
         "status": "Live: Q4",
@@ -140,14 +110,14 @@
           },
           "away": {
             "name": "MSST",
-            "score": "24"
+            "score": "31"
           }
         }
       },
       {
         "matchup": "FLA @ TENN",
         "kickoff": "10/12/2024, 6:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "TENN",
@@ -156,6 +126,36 @@
           "away": {
             "name": "FLA",
             "score": "3"
+          }
+        }
+      },
+      {
+        "matchup": "OSU @ ORE",
+        "kickoff": "10/12/2024, 6:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ORE",
+            "score": "0"
+          },
+          "away": {
+            "name": "OSU",
+            "score": "7"
+          }
+        }
+      },
+      {
+        "matchup": "MISS @ LSU",
+        "kickoff": "10/12/2024, 6:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "LSU",
+            "score": "0"
+          },
+          "away": {
+            "name": "MISS",
+            "score": "0"
           }
         }
       },
@@ -220,6 +220,36 @@
         }
       },
       {
+        "matchup": "STAN @ ND",
+        "kickoff": "10/12/2024, 2:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "ND",
+            "score": "49"
+          },
+          "away": {
+            "name": "STAN",
+            "score": "7"
+          }
+        }
+      },
+      {
+        "matchup": "ARIZ @ BYU",
+        "kickoff": "10/12/2024, 3:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "BYU",
+            "score": "41"
+          },
+          "away": {
+            "name": "ARIZ",
+            "score": "19"
+          }
+        }
+      },
+      {
         "matchup": "MIZ @ MASS",
         "kickoff": "10/12/2024, 11:00:00 AM",
         "status": "Final",
@@ -263,27 +293,6 @@
             "score": "49"
           }
         }
-      },
-      {
-        "matchup": "OSU @ ORE",
-        "kickoff": "10/12/2024, 6:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "ORE",
-            "score": "0"
-          },
-          "away": {
-            "name": "OSU",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "MISS @ LSU",
-        "kickoff": "10/12/2024, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
       },
       {
         "matchup": "ISU @ WVU",
