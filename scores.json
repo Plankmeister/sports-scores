@@ -110,7 +110,7 @@
           },
           "away": {
             "name": "TEX",
-            "score": "7"
+            "score": "14"
           }
         }
       },
@@ -125,7 +125,7 @@
           },
           "away": {
             "name": "PSU",
-            "score": "3"
+            "score": "6"
           }
         }
       },
@@ -136,7 +136,7 @@
         "score": {
           "home": {
             "name": "ND",
-            "score": "14"
+            "score": "21"
           },
           "away": {
             "name": "STAN",
@@ -166,7 +166,7 @@
         "score": {
           "home": {
             "name": "ILL",
-            "score": "17"
+            "score": "24"
           },
           "away": {
             "name": "PUR",
