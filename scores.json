@@ -114,8 +114,17 @@
       {
         "matchup": "MIZ @ MASS",
         "kickoff": "10/12/2024, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MASS",
+            "score": "0"
+          },
+          "away": {
+            "name": "MIZ",
+            "score": "7"
+          }
+        }
       },
       {
         "matchup": "TEX VS OU",
