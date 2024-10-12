@@ -102,8 +102,17 @@
       {
         "matchup": "UTAH @ ASU",
         "kickoff": "10/11/2024, 9:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ASU",
+            "score": "0"
+          },
+          "away": {
+            "name": "UTAH",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "SC @ ALA",
