@@ -121,7 +121,7 @@
         "score": {
           "home": {
             "name": "USC",
-            "score": "0"
+            "score": "7"
           },
           "away": {
             "name": "PSU",
@@ -151,7 +151,7 @@
         "score": {
           "home": {
             "name": "PITT",
-            "score": "0"
+            "score": "7"
           },
           "away": {
             "name": "CAL",
@@ -166,7 +166,7 @@
         "score": {
           "home": {
             "name": "ILL",
-            "score": "3"
+            "score": "10"
           },
           "away": {
             "name": "PUR",
@@ -222,8 +222,17 @@
       {
         "matchup": "ARIZ @ BYU",
         "kickoff": "10/12/2024, 3:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "BYU",
+            "score": "0"
+          },
+          "away": {
+            "name": "ARIZ",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "MSST @ UGA",
