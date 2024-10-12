@@ -102,7 +102,7 @@
       {
         "matchup": "PSU @ USC",
         "kickoff": "10/12/2024, 2:30:00 PM",
-        "status": "Live: Q5",
+        "status": "Final",
         "score": {
           "home": {
             "name": "USC",
@@ -110,7 +110,7 @@
           },
           "away": {
             "name": "PSU",
-            "score": "30"
+            "score": "33"
           }
         }
       },
@@ -121,7 +121,7 @@
         "score": {
           "home": {
             "name": "ND",
-            "score": "42"
+            "score": "49"
           },
           "away": {
             "name": "STAN",
