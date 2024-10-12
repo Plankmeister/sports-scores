@@ -159,8 +159,17 @@
       {
         "matchup": "STAN @ ND",
         "kickoff": "10/12/2024, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ND",
+            "score": "0"
+          },
+          "away": {
+            "name": "STAN",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "CAL @ PITT",
