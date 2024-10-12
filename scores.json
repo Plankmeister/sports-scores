@@ -100,21 +100,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "TEX VS OU",
-        "kickoff": "10/12/2024, 2:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "OU",
-            "score": "3"
-          },
-          "away": {
-            "name": "TEX",
-            "score": "34"
-          }
-        }
-      },
-      {
         "matchup": "PSU @ USC",
         "kickoff": "10/12/2024, 2:30:00 PM",
         "status": "Live: Q5",
@@ -132,7 +117,7 @@
       {
         "matchup": "STAN @ ND",
         "kickoff": "10/12/2024, 2:30:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "ND",
@@ -147,15 +132,15 @@
       {
         "matchup": "PUR @ ILL",
         "kickoff": "10/12/2024, 2:30:00 PM",
-        "status": "Live: Q5",
+        "status": "Final",
         "score": {
           "home": {
             "name": "ILL",
-            "score": "49"
+            "score": "50"
           },
           "away": {
             "name": "PUR",
-            "score": "43"
+            "score": "49"
           }
         }
       },
@@ -186,6 +171,36 @@
           "away": {
             "name": "MSST",
             "score": "24"
+          }
+        }
+      },
+      {
+        "matchup": "FLA @ TENN",
+        "kickoff": "10/12/2024, 6:00:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "TENN",
+            "score": "0"
+          },
+          "away": {
+            "name": "FLA",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "TEX VS OU",
+        "kickoff": "10/12/2024, 2:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "OU",
+            "score": "3"
+          },
+          "away": {
+            "name": "TEX",
+            "score": "34"
           }
         }
       },
@@ -246,21 +261,6 @@
           "away": {
             "name": "CAL",
             "score": "15"
-          }
-        }
-      },
-      {
-        "matchup": "FLA @ TENN",
-        "kickoff": "10/12/2024, 6:00:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "TENN",
-            "score": "0"
-          },
-          "away": {
-            "name": "FLA",
-            "score": "0"
           }
         }
       },
