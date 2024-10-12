@@ -125,7 +125,7 @@
           },
           "away": {
             "name": "PSU",
-            "score": "23"
+            "score": "30"
           }
         }
       },
@@ -147,7 +147,7 @@
       {
         "matchup": "CAL @ PITT",
         "kickoff": "10/12/2024, 2:30:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "PITT",
@@ -170,7 +170,7 @@
           },
           "away": {
             "name": "PUR",
-            "score": "34"
+            "score": "41"
           }
         }
       },
@@ -200,7 +200,7 @@
           },
           "away": {
             "name": "MSST",
-            "score": "17"
+            "score": "24"
           }
         }
       },
