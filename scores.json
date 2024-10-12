@@ -117,7 +117,7 @@
       {
         "matchup": "PSU @ USC",
         "kickoff": "10/12/2024, 2:30:00 PM",
-        "status": "Live: Q4",
+        "status": "Live: Q5",
         "score": {
           "home": {
             "name": "USC",
@@ -147,11 +147,11 @@
       {
         "matchup": "PUR @ ILL",
         "kickoff": "10/12/2024, 2:30:00 PM",
-        "status": "Live: Q4",
+        "status": "Live: Q5",
         "score": {
           "home": {
             "name": "ILL",
-            "score": "40"
+            "score": "49"
           },
           "away": {
             "name": "PUR",
@@ -170,7 +170,7 @@
           },
           "away": {
             "name": "ARIZ",
-            "score": "13"
+            "score": "19"
           }
         }
       },
