@@ -102,7 +102,7 @@
       {
         "matchup": "TEX VS OU",
         "kickoff": "10/12/2024, 2:30:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "OU",
@@ -166,7 +166,7 @@
         "score": {
           "home": {
             "name": "BYU",
-            "score": "27"
+            "score": "34"
           },
           "away": {
             "name": "ARIZ",
@@ -177,7 +177,7 @@
       {
         "matchup": "MSST @ UGA",
         "kickoff": "10/12/2024, 3:15:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "UGA",
@@ -252,8 +252,17 @@
       {
         "matchup": "FLA @ TENN",
         "kickoff": "10/12/2024, 6:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "TENN",
+            "score": "0"
+          },
+          "away": {
+            "name": "FLA",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "OSU @ ORE",
