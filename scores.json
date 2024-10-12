@@ -100,55 +100,19 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "SC @ ALA",
-        "kickoff": "10/12/2024, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "ALA",
-            "score": "27"
-          },
-          "away": {
-            "name": "SC",
-            "score": "25"
-          }
-        }
-      },
-      {
-        "matchup": "CLEM @ WAKE",
-        "kickoff": "10/12/2024, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "WAKE",
-            "score": "14"
-          },
-          "away": {
-            "name": "CLEM",
-            "score": "49"
-          }
-        }
-      },
-      {
-        "matchup": "MIZ @ MASS",
-        "kickoff": "10/12/2024, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "MASS",
-            "score": "3"
-          },
-          "away": {
-            "name": "MIZ",
-            "score": "45"
-          }
-        }
-      },
-      {
         "matchup": "TEX VS OU",
         "kickoff": "10/12/2024, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "OU",
+            "score": "0"
+          },
+          "away": {
+            "name": "TEX",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "PSU @ USC",
@@ -207,6 +171,51 @@
           "away": {
             "name": "PUR",
             "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "SC @ ALA",
+        "kickoff": "10/12/2024, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "ALA",
+            "score": "27"
+          },
+          "away": {
+            "name": "SC",
+            "score": "25"
+          }
+        }
+      },
+      {
+        "matchup": "CLEM @ WAKE",
+        "kickoff": "10/12/2024, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "WAKE",
+            "score": "14"
+          },
+          "away": {
+            "name": "CLEM",
+            "score": "49"
+          }
+        }
+      },
+      {
+        "matchup": "MIZ @ MASS",
+        "kickoff": "10/12/2024, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "MASS",
+            "score": "3"
+          },
+          "away": {
+            "name": "MIZ",
+            "score": "45"
           }
         }
       },
