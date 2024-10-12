@@ -174,14 +174,32 @@
       {
         "matchup": "CAL @ PITT",
         "kickoff": "10/12/2024, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "PITT",
+            "score": "0"
+          },
+          "away": {
+            "name": "CAL",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "PUR @ ILL",
         "kickoff": "10/12/2024, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ILL",
+            "score": "0"
+          },
+          "away": {
+            "name": "PUR",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "ARIZ @ BYU",
