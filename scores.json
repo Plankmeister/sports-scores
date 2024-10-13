@@ -297,8 +297,17 @@
       {
         "matchup": "ISU @ WVU",
         "kickoff": "10/12/2024, 7:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "WVU",
+            "score": "0"
+          },
+          "away": {
+            "name": "ISU",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "KSU @ COLO",
