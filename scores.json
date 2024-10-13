@@ -13,7 +13,7 @@
           },
           "away": {
             "name": "TB",
-            "score": "44"
+            "score": "51"
           }
         }
       },
@@ -140,14 +140,32 @@
       {
         "matchup": "DET @ DAL",
         "kickoff": "10/13/2024, 3:25:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "DAL",
+            "score": "0"
+          },
+          "away": {
+            "name": "DET",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "ATL @ CAR",
         "kickoff": "10/13/2024, 3:25:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "CAR",
+            "score": "0"
+          },
+          "away": {
+            "name": "ATL",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "CIN @ NYG",
