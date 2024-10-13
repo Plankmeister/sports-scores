@@ -35,7 +35,7 @@
       {
         "matchup": "HOU @ NE",
         "kickoff": "10/13/2024, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "NE",
@@ -58,7 +58,7 @@
           },
           "away": {
             "name": "TB",
-            "score": "37"
+            "score": "44"
           }
         }
       },
@@ -133,7 +133,7 @@
           },
           "away": {
             "name": "PIT",
-            "score": "0"
+            "score": "3"
           }
         }
       },
