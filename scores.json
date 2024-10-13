@@ -110,14 +110,14 @@
           },
           "away": {
             "name": "MISS",
-            "score": "20"
+            "score": "23"
           }
         }
       },
       {
         "matchup": "ISU @ WVU",
         "kickoff": "10/12/2024, 7:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "WVU",
@@ -155,7 +155,7 @@
           },
           "away": {
             "name": "BOIS",
-            "score": "0"
+            "score": "3"
           }
         }
       },
