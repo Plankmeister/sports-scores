@@ -18,21 +18,6 @@
         }
       },
       {
-        "matchup": "ATL @ CAR",
-        "kickoff": "10/13/2024, 3:25:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "CAR",
-            "score": "20"
-          },
-          "away": {
-            "name": "ATL",
-            "score": "38"
-          }
-        }
-      },
-      {
         "matchup": "JAX VS CHI",
         "kickoff": "10/13/2024, 8:30:00 AM",
         "status": "Final",
@@ -164,6 +149,21 @@
           "away": {
             "name": "PIT",
             "score": "32"
+          }
+        }
+      },
+      {
+        "matchup": "ATL @ CAR",
+        "kickoff": "10/13/2024, 3:25:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "CAR",
+            "score": "20"
+          },
+          "away": {
+            "name": "ATL",
+            "score": "38"
           }
         }
       },
