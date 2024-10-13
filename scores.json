@@ -24,11 +24,11 @@
         "score": {
           "home": {
             "name": "TEN",
-            "score": "7"
+            "score": "10"
           },
           "away": {
             "name": "IND",
-            "score": "0"
+            "score": "7"
           }
         }
       },
@@ -54,7 +54,7 @@
         "score": {
           "home": {
             "name": "NO",
-            "score": "3"
+            "score": "10"
           },
           "away": {
             "name": "TB",
@@ -84,7 +84,7 @@
         "score": {
           "home": {
             "name": "BAL",
-            "score": "3"
+            "score": "10"
           },
           "away": {
             "name": "WSH",
