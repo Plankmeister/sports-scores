@@ -5,7 +5,7 @@
       {
         "matchup": "TB @ NO",
         "kickoff": "10/13/2024, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "NO",
@@ -28,7 +28,7 @@
           },
           "away": {
             "name": "LAC",
-            "score": "3"
+            "score": "10"
           }
         }
       },
