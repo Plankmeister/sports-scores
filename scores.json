@@ -5,11 +5,11 @@
       {
         "matchup": "ARI @ GB",
         "kickoff": "10/13/2024, 12:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "GB",
-            "score": "7"
+            "score": "14"
           },
           "away": {
             "name": "ARI",
@@ -20,7 +20,7 @@
       {
         "matchup": "IND @ TEN",
         "kickoff": "10/13/2024, 12:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "TEN",
@@ -50,7 +50,7 @@
       {
         "matchup": "TB @ NO",
         "kickoff": "10/13/2024, 12:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "NO",
@@ -69,7 +69,7 @@
         "score": {
           "home": {
             "name": "PHI",
-            "score": "0"
+            "score": "3"
           },
           "away": {
             "name": "CLE",
