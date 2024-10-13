@@ -121,7 +121,7 @@
         "score": {
           "home": {
             "name": "ORE",
-            "score": "12"
+            "score": "15"
           },
           "away": {
             "name": "OSU",
@@ -140,14 +140,14 @@
           },
           "away": {
             "name": "MISS",
-            "score": "3"
+            "score": "10"
           }
         }
       },
       {
         "matchup": "ISU @ WVU",
         "kickoff": "10/12/2024, 7:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "WVU",
