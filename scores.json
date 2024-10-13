@@ -100,21 +100,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "FLA @ TENN",
-        "kickoff": "10/12/2024, 6:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "TENN",
-            "score": "23"
-          },
-          "away": {
-            "name": "FLA",
-            "score": "17"
-          }
-        }
-      },
-      {
         "matchup": "OSU @ ORE",
         "kickoff": "10/12/2024, 6:30:00 PM",
         "status": "Live: Q4",
@@ -231,6 +216,21 @@
           "away": {
             "name": "SC",
             "score": "25"
+          }
+        }
+      },
+      {
+        "matchup": "FLA @ TENN",
+        "kickoff": "10/12/2024, 6:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "TENN",
+            "score": "23"
+          },
+          "away": {
+            "name": "FLA",
+            "score": "17"
           }
         }
       },
