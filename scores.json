@@ -110,7 +110,7 @@
           },
           "away": {
             "name": "FLA",
-            "score": "10"
+            "score": "16"
           }
         }
       },
@@ -312,8 +312,17 @@
       {
         "matchup": "KSU @ COLO",
         "kickoff": "10/12/2024, 9:25:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "COLO",
+            "score": "0"
+          },
+          "away": {
+            "name": "KSU",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "BOIS @ HAW",
