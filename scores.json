@@ -102,7 +102,7 @@
       {
         "matchup": "OSU @ ORE",
         "kickoff": "10/12/2024, 6:30:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "ORE",
@@ -136,7 +136,7 @@
         "score": {
           "home": {
             "name": "WVU",
-            "score": "10"
+            "score": "16"
           },
           "away": {
             "name": "ISU",
