@@ -170,8 +170,17 @@
       {
         "matchup": "CIN @ NYG",
         "kickoff": "10/13/2024, 7:20:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "NYG",
+            "score": "0"
+          },
+          "away": {
+            "name": "CIN",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "SF @ SEA",
