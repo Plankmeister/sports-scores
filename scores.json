@@ -3,6 +3,27 @@
     "week": 6,
     "games": [
       {
+        "matchup": "BUF @ NYJ",
+        "kickoff": "10/14/2024, 7:15:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "SF @ SEA",
+        "kickoff": "10/10/2024, 7:15:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "SEA",
+            "score": "24"
+          },
+          "away": {
+            "name": "SF",
+            "score": "36"
+          }
+        }
+      },
+      {
         "matchup": "JAX VS CHI",
         "kickoff": "10/13/2024, 8:30:00 AM",
         "status": "Final",
@@ -181,27 +202,6 @@
             "score": "17"
           }
         }
-      },
-      {
-        "matchup": "SF @ SEA",
-        "kickoff": "10/10/2024, 7:15:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "SEA",
-            "score": "24"
-          },
-          "away": {
-            "name": "SF",
-            "score": "36"
-          }
-        }
-      },
-      {
-        "matchup": "BUF @ NYJ",
-        "kickoff": "10/14/2024, 7:15:00 PM",
-        "status": "Scheduled",
-        "score": null
       }
     ]
   },
