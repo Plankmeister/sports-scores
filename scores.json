@@ -3,21 +3,6 @@
     "week": 6,
     "games": [
       {
-        "matchup": "BUF @ NYJ",
-        "kickoff": "10/14/2024, 7:15:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "NYJ",
-            "score": "20"
-          },
-          "away": {
-            "name": "BUF",
-            "score": "23"
-          }
-        }
-      },
-      {
         "matchup": "SF @ SEA",
         "kickoff": "10/10/2024, 7:15:00 PM",
         "status": "Final",
@@ -209,6 +194,21 @@
           "away": {
             "name": "CIN",
             "score": "17"
+          }
+        }
+      },
+      {
+        "matchup": "BUF @ NYJ",
+        "kickoff": "10/14/2024, 7:15:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "NYJ",
+            "score": "20"
+          },
+          "away": {
+            "name": "BUF",
+            "score": "23"
           }
         }
       }
