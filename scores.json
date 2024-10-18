@@ -5,8 +5,17 @@
       {
         "matchup": "DEN @ NO",
         "kickoff": "10/17/2024, 7:15:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "NO",
+            "score": "0"
+          },
+          "away": {
+            "name": "DEN",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "NE VS JAX",
