@@ -108,7 +108,7 @@
       {
         "matchup": "ALA @ TENN",
         "kickoff": "10/19/2024, 2:30:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "TENN",
@@ -123,7 +123,7 @@
       {
         "matchup": "ND VS GT",
         "kickoff": "10/19/2024, 2:30:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "GT",
@@ -157,7 +157,7 @@
         "score": {
           "home": {
             "name": "NAVY",
-            "score": "38"
+            "score": "44"
           },
           "away": {
             "name": "CLT",
