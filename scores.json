@@ -108,7 +108,7 @@
       {
         "matchup": "MIA @ LOU",
         "kickoff": "10/19/2024, 11:00:00 AM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "LOU",
@@ -127,7 +127,7 @@
         "score": {
           "home": {
             "name": "CLEM",
-            "score": "38"
+            "score": "41"
           },
           "away": {
             "name": "UVA",
@@ -142,7 +142,7 @@
         "score": {
           "home": {
             "name": "IU",
-            "score": "48"
+            "score": "49"
           },
           "away": {
             "name": "NEB",
