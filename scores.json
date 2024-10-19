@@ -243,8 +243,17 @@
       {
         "matchup": "TA&M @ MSST",
         "kickoff": "10/19/2024, 3:15:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MSST",
+            "score": "0"
+          },
+          "away": {
+            "name": "TA&M",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "LSU @ ARK",
