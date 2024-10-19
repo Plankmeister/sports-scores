@@ -108,8 +108,17 @@
       {
         "matchup": "MIA @ LOU",
         "kickoff": "10/19/2024, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "LOU",
+            "score": "0"
+          },
+          "away": {
+            "name": "MIA",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "UVA @ CLEM",
@@ -129,8 +138,17 @@
       {
         "matchup": "NEB @ IU",
         "kickoff": "10/19/2024, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "IU",
+            "score": "0"
+          },
+          "away": {
+            "name": "NEB",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "AUB @ MIZ",
@@ -154,7 +172,7 @@
         "score": {
           "home": {
             "name": "ARMY",
-            "score": "0"
+            "score": "7"
           },
           "away": {
             "name": "ECU",
