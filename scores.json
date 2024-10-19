@@ -112,7 +112,7 @@
         "score": {
           "home": {
             "name": "LOU",
-            "score": "44"
+            "score": "45"
           },
           "away": {
             "name": "MIA",
@@ -228,8 +228,17 @@
       {
         "matchup": "ALA @ TENN",
         "kickoff": "10/19/2024, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "TENN",
+            "score": "0"
+          },
+          "away": {
+            "name": "ALA",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "TA&M @ MSST",
