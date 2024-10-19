@@ -108,7 +108,7 @@
       {
         "matchup": "ALA @ TENN",
         "kickoff": "10/19/2024, 2:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "TENN",
@@ -161,7 +161,7 @@
           },
           "away": {
             "name": "CLT",
-            "score": "0"
+            "score": "3"
           }
         }
       },
