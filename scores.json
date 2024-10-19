@@ -271,12 +271,6 @@
         }
       },
       {
-        "matchup": "UGA @ TEX",
-        "kickoff": "10/19/2024, 6:49:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
         "matchup": "UCF @ ISU",
         "kickoff": "10/19/2024, 6:30:00 PM",
         "status": "Scheduled",
@@ -285,6 +279,12 @@
       {
         "matchup": "KSU @ WVU",
         "kickoff": "10/19/2024, 6:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "UGA @ TEX",
+        "kickoff": "10/19/2024, 6:49:00 PM",
         "status": "Scheduled",
         "score": null
       },
