@@ -131,14 +131,14 @@
           },
           "away": {
             "name": "ND",
-            "score": "0"
+            "score": "7"
           }
         }
       },
       {
         "matchup": "MICH @ ILL",
         "kickoff": "10/19/2024, 2:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "ILL",
@@ -153,11 +153,11 @@
       {
         "matchup": "CLT @ NAVY",
         "kickoff": "10/19/2024, 2:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "NAVY",
-            "score": "24"
+            "score": "31"
           },
           "away": {
             "name": "CLT",
