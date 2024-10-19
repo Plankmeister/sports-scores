@@ -108,7 +108,7 @@
       {
         "matchup": "ALA @ TENN",
         "kickoff": "10/19/2024, 2:30:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "TENN",
@@ -146,7 +146,7 @@
           },
           "away": {
             "name": "LSU",
-            "score": "7"
+            "score": "10"
           }
         }
       },
