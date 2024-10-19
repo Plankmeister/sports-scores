@@ -121,24 +121,9 @@
         }
       },
       {
-        "matchup": "ND VS GT",
-        "kickoff": "10/19/2024, 2:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "GT",
-            "score": "13"
-          },
-          "away": {
-            "name": "ND",
-            "score": "31"
-          }
-        }
-      },
-      {
         "matchup": "MICH @ ILL",
         "kickoff": "10/19/2024, 2:30:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "ILL",
@@ -153,7 +138,7 @@
       {
         "matchup": "CLT @ NAVY",
         "kickoff": "10/19/2024, 2:30:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "NAVY",
@@ -172,7 +157,7 @@
         "score": {
           "home": {
             "name": "MSST",
-            "score": "17"
+            "score": "24"
           },
           "away": {
             "name": "TA&M",
@@ -206,6 +191,21 @@
           },
           "away": {
             "name": "UVA",
+            "score": "31"
+          }
+        }
+      },
+      {
+        "matchup": "ND VS GT",
+        "kickoff": "10/19/2024, 2:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "GT",
+            "score": "13"
+          },
+          "away": {
+            "name": "ND",
             "score": "31"
           }
         }
