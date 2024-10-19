@@ -189,8 +189,17 @@
       {
         "matchup": "ND VS GT",
         "kickoff": "10/19/2024, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "GT",
+            "score": "0"
+          },
+          "away": {
+            "name": "ND",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "MICH @ ILL",
