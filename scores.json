@@ -138,7 +138,7 @@
       {
         "matchup": "MICH @ ILL",
         "kickoff": "10/19/2024, 2:30:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "ILL",
@@ -153,7 +153,7 @@
       {
         "matchup": "CLT @ NAVY",
         "kickoff": "10/19/2024, 2:30:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "NAVY",
@@ -176,7 +176,7 @@
           },
           "away": {
             "name": "TA&M",
-            "score": "14"
+            "score": "21"
           }
         }
       },
