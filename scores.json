@@ -106,21 +106,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "ALA @ TENN",
-        "kickoff": "10/19/2024, 2:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "TENN",
-            "score": "24"
-          },
-          "away": {
-            "name": "ALA",
-            "score": "17"
-          }
-        }
-      },
-      {
         "matchup": "TA&M @ MSST",
         "kickoff": "10/19/2024, 3:15:00 PM",
         "status": "Live: Q4",
@@ -162,6 +147,21 @@
           "away": {
             "name": "MIA",
             "score": "52"
+          }
+        }
+      },
+      {
+        "matchup": "ALA @ TENN",
+        "kickoff": "10/19/2024, 2:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "TENN",
+            "score": "24"
+          },
+          "away": {
+            "name": "ALA",
+            "score": "17"
           }
         }
       },
@@ -273,14 +273,32 @@
       {
         "matchup": "UCF @ ISU",
         "kickoff": "10/19/2024, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ISU",
+            "score": "0"
+          },
+          "away": {
+            "name": "UCF",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "KSU @ WVU",
         "kickoff": "10/19/2024, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "WVU",
+            "score": "0"
+          },
+          "away": {
+            "name": "KSU",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "UGA @ TEX",
