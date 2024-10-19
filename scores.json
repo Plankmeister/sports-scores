@@ -114,8 +114,17 @@
       {
         "matchup": "UVA @ CLEM",
         "kickoff": "10/19/2024, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "CLEM",
+            "score": "0"
+          },
+          "away": {
+            "name": "UVA",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "NEB @ IU",
@@ -126,14 +135,32 @@
       {
         "matchup": "AUB @ MIZ",
         "kickoff": "10/19/2024, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MIZ",
+            "score": "0"
+          },
+          "away": {
+            "name": "AUB",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "ECU @ ARMY",
         "kickoff": "10/19/2024, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ARMY",
+            "score": "0"
+          },
+          "away": {
+            "name": "ECU",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "ALA @ TENN",
