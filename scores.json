@@ -116,7 +116,7 @@
           },
           "away": {
             "name": "MIA",
-            "score": "3"
+            "score": "10"
           }
         }
       },
@@ -131,7 +131,7 @@
           },
           "away": {
             "name": "UVA",
-            "score": "0"
+            "score": "3"
           }
         }
       },
@@ -168,11 +168,11 @@
       {
         "matchup": "ECU @ ARMY",
         "kickoff": "10/19/2024, 11:00:00 AM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "ARMY",
-            "score": "7"
+            "score": "10"
           },
           "away": {
             "name": "ECU",
