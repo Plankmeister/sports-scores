@@ -127,7 +127,7 @@
         "score": {
           "home": {
             "name": "CLEM",
-            "score": "17"
+            "score": "24"
           },
           "away": {
             "name": "UVA",
@@ -138,7 +138,7 @@
       {
         "matchup": "NEB @ IU",
         "kickoff": "10/19/2024, 11:00:00 AM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "IU",
@@ -161,7 +161,7 @@
           },
           "away": {
             "name": "AUB",
-            "score": "3"
+            "score": "10"
           }
         }
       },
@@ -172,7 +172,7 @@
         "score": {
           "home": {
             "name": "ARMY",
-            "score": "24"
+            "score": "31"
           },
           "away": {
             "name": "ECU",
