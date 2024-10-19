@@ -106,21 +106,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "OKST @ BYU",
-        "kickoff": "10/18/2024, 9:15:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "BYU",
-            "score": "38"
-          },
-          "away": {
-            "name": "OKST",
-            "score": "35"
-          }
-        }
-      },
-      {
         "matchup": "MIA @ LOU",
         "kickoff": "10/19/2024, 11:00:00 AM",
         "status": "Scheduled",
@@ -221,6 +206,21 @@
           },
           "away": {
             "name": "ORE",
+            "score": "35"
+          }
+        }
+      },
+      {
+        "matchup": "OKST @ BYU",
+        "kickoff": "10/18/2024, 9:15:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "BYU",
+            "score": "38"
+          },
+          "away": {
+            "name": "OKST",
             "score": "35"
           }
         }
