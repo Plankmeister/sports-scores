@@ -108,7 +108,7 @@
       {
         "matchup": "LSU @ ARK",
         "kickoff": "10/19/2024, 6:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "ARK",
@@ -123,7 +123,7 @@
       {
         "matchup": "UCF @ ISU",
         "kickoff": "10/19/2024, 6:30:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "ISU",
@@ -157,7 +157,7 @@
         "score": {
           "home": {
             "name": "TEX",
-            "score": "8"
+            "score": "14"
           },
           "away": {
             "name": "UGA",
