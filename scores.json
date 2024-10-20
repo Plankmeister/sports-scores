@@ -116,7 +116,7 @@
           },
           "away": {
             "name": "LSU",
-            "score": "13"
+            "score": "16"
           }
         }
       },
@@ -142,7 +142,7 @@
         "score": {
           "home": {
             "name": "WVU",
-            "score": "0"
+            "score": "3"
           },
           "away": {
             "name": "KSU",
@@ -162,6 +162,21 @@
           "away": {
             "name": "UGA",
             "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "SMU @ STAN",
+        "kickoff": "10/19/2024, 7:00:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "STAN",
+            "score": "0"
+          },
+          "away": {
+            "name": "SMU",
+            "score": "7"
           }
         }
       },
@@ -312,21 +327,6 @@
           "away": {
             "name": "CLT",
             "score": "17"
-          }
-        }
-      },
-      {
-        "matchup": "SMU @ STAN",
-        "kickoff": "10/19/2024, 7:00:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "STAN",
-            "score": "0"
-          },
-          "away": {
-            "name": "SMU",
-            "score": "7"
           }
         }
       },
