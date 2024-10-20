@@ -20,7 +20,7 @@
       {
         "matchup": "CAR @ WSH",
         "kickoff": "10/20/2024, 3:05:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "WSH",
@@ -35,7 +35,7 @@
       {
         "matchup": "KC @ SF",
         "kickoff": "10/20/2024, 3:25:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "SF",
@@ -43,7 +43,7 @@
           },
           "away": {
             "name": "KC",
-            "score": "14"
+            "score": "21"
           }
         }
       },
