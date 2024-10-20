@@ -5,11 +5,11 @@
       {
         "matchup": "TEN @ BUF",
         "kickoff": "10/20/2024, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "BUF",
-            "score": "33"
+            "score": "34"
           },
           "away": {
             "name": "TEN",
@@ -35,7 +35,7 @@
       {
         "matchup": "DET @ MIN",
         "kickoff": "10/20/2024, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "MIN",
@@ -144,7 +144,7 @@
         "score": {
           "home": {
             "name": "WSH",
-            "score": "0"
+            "score": "6"
           },
           "away": {
             "name": "CAR",
