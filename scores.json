@@ -3,21 +3,6 @@
     "week": 7,
     "games": [
       {
-        "matchup": "TEN @ BUF",
-        "kickoff": "10/20/2024, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "BUF",
-            "score": "34"
-          },
-          "away": {
-            "name": "TEN",
-            "score": "10"
-          }
-        }
-      },
-      {
         "matchup": "CIN @ CLE",
         "kickoff": "10/20/2024, 12:00:00 PM",
         "status": "Live: Q4",
@@ -33,21 +18,6 @@
         }
       },
       {
-        "matchup": "DET @ MIN",
-        "kickoff": "10/20/2024, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "MIN",
-            "score": "29"
-          },
-          "away": {
-            "name": "DET",
-            "score": "31"
-          }
-        }
-      },
-      {
         "matchup": "LV @ LAR",
         "kickoff": "10/20/2024, 3:05:00 PM",
         "status": "Live: Q1",
@@ -58,6 +28,21 @@
           },
           "away": {
             "name": "LV",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "CAR @ WSH",
+        "kickoff": "10/20/2024, 3:05:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "WSH",
+            "score": "7"
+          },
+          "away": {
+            "name": "CAR",
             "score": "0"
           }
         }
@@ -93,6 +78,21 @@
         }
       },
       {
+        "matchup": "TEN @ BUF",
+        "kickoff": "10/20/2024, 12:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "BUF",
+            "score": "34"
+          },
+          "away": {
+            "name": "TEN",
+            "score": "10"
+          }
+        }
+      },
+      {
         "matchup": "HOU @ GB",
         "kickoff": "10/20/2024, 12:00:00 PM",
         "status": "Final",
@@ -123,6 +123,21 @@
         }
       },
       {
+        "matchup": "DET @ MIN",
+        "kickoff": "10/20/2024, 12:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "MIN",
+            "score": "29"
+          },
+          "away": {
+            "name": "DET",
+            "score": "31"
+          }
+        }
+      },
+      {
         "matchup": "PHI @ NYG",
         "kickoff": "10/20/2024, 12:00:00 PM",
         "status": "Final",
@@ -134,21 +149,6 @@
           "away": {
             "name": "PHI",
             "score": "28"
-          }
-        }
-      },
-      {
-        "matchup": "CAR @ WSH",
-        "kickoff": "10/20/2024, 3:05:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "WSH",
-            "score": "7"
-          },
-          "away": {
-            "name": "CAR",
-            "score": "0"
           }
         }
       },
