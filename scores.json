@@ -106,6 +106,36 @@
   "collegeFootball": {
     "games": [
       {
+        "matchup": "ORE @ PUR",
+        "kickoff": "10/18/2024, 7:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "PUR",
+            "score": "0"
+          },
+          "away": {
+            "name": "ORE",
+            "score": "35"
+          }
+        }
+      },
+      {
+        "matchup": "OKST @ BYU",
+        "kickoff": "10/18/2024, 9:15:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "BYU",
+            "score": "38"
+          },
+          "away": {
+            "name": "OKST",
+            "score": "35"
+          }
+        }
+      },
+      {
         "matchup": "UGA @ TEX",
         "kickoff": "10/19/2024, 6:49:00 PM",
         "status": "Final",
@@ -327,36 +357,6 @@
           "away": {
             "name": "CLT",
             "score": "17"
-          }
-        }
-      },
-      {
-        "matchup": "ORE @ PUR",
-        "kickoff": "10/18/2024, 7:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "PUR",
-            "score": "0"
-          },
-          "away": {
-            "name": "ORE",
-            "score": "35"
-          }
-        }
-      },
-      {
-        "matchup": "OKST @ BYU",
-        "kickoff": "10/18/2024, 9:15:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "BYU",
-            "score": "38"
-          },
-          "away": {
-            "name": "OKST",
-            "score": "35"
           }
         }
       }
