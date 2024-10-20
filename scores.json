@@ -9,7 +9,7 @@
         "score": {
           "home": {
             "name": "ATL",
-            "score": "7"
+            "score": "13"
           },
           "away": {
             "name": "SEA",
@@ -50,7 +50,7 @@
       {
         "matchup": "HOU @ GB",
         "kickoff": "10/20/2024, 12:00:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "GB",
@@ -65,7 +65,7 @@
       {
         "matchup": "MIA @ IND",
         "kickoff": "10/20/2024, 12:00:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "IND",
@@ -80,7 +80,7 @@
       {
         "matchup": "DET @ MIN",
         "kickoff": "10/20/2024, 12:00:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "MIN",
@@ -95,7 +95,7 @@
       {
         "matchup": "PHI @ NYG",
         "kickoff": "10/20/2024, 12:00:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "NYG",
