@@ -106,21 +106,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "UCF @ ISU",
-        "kickoff": "10/19/2024, 6:30:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "ISU",
-            "score": "38"
-          },
-          "away": {
-            "name": "UCF",
-            "score": "35"
-          }
-        }
-      },
-      {
         "matchup": "UGA @ TEX",
         "kickoff": "10/19/2024, 6:49:00 PM",
         "status": "Live: Q4",
@@ -132,21 +117,6 @@
           "away": {
             "name": "UGA",
             "score": "30"
-          }
-        }
-      },
-      {
-        "matchup": "SMU @ STAN",
-        "kickoff": "10/19/2024, 7:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "STAN",
-            "score": "10"
-          },
-          "away": {
-            "name": "SMU",
-            "score": "40"
           }
         }
       },
@@ -192,6 +162,21 @@
           "away": {
             "name": "LSU",
             "score": "34"
+          }
+        }
+      },
+      {
+        "matchup": "UCF @ ISU",
+        "kickoff": "10/19/2024, 6:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "ISU",
+            "score": "38"
+          },
+          "away": {
+            "name": "UCF",
+            "score": "35"
           }
         }
       },
@@ -282,6 +267,21 @@
           "away": {
             "name": "AUB",
             "score": "17"
+          }
+        }
+      },
+      {
+        "matchup": "SMU @ STAN",
+        "kickoff": "10/19/2024, 7:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "STAN",
+            "score": "10"
+          },
+          "away": {
+            "name": "SMU",
+            "score": "40"
           }
         }
       },
