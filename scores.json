@@ -123,7 +123,7 @@
       {
         "matchup": "UCF @ ISU",
         "kickoff": "10/19/2024, 6:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "ISU",
@@ -138,7 +138,7 @@
       {
         "matchup": "KSU @ WVU",
         "kickoff": "10/19/2024, 6:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "WVU",
@@ -146,7 +146,7 @@
           },
           "away": {
             "name": "KSU",
-            "score": "10"
+            "score": "17"
           }
         }
       },
@@ -161,7 +161,7 @@
           },
           "away": {
             "name": "UGA",
-            "score": "0"
+            "score": "7"
           }
         }
       },
