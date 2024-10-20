@@ -131,7 +131,7 @@
           },
           "away": {
             "name": "KSU",
-            "score": "38"
+            "score": "45"
           }
         }
       },
@@ -146,14 +146,14 @@
           },
           "away": {
             "name": "UGA",
-            "score": "23"
+            "score": "30"
           }
         }
       },
       {
         "matchup": "SMU @ STAN",
         "kickoff": "10/19/2024, 7:00:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "STAN",
