@@ -116,7 +116,7 @@
           },
           "away": {
             "name": "LSU",
-            "score": "24"
+            "score": "27"
           }
         }
       },
@@ -153,7 +153,7 @@
       {
         "matchup": "UGA @ TEX",
         "kickoff": "10/19/2024, 6:49:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "TEX",
