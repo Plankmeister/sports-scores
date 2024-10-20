@@ -5,7 +5,7 @@
       {
         "matchup": "CIN @ CLE",
         "kickoff": "10/20/2024, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "CLE",
@@ -155,8 +155,17 @@
       {
         "matchup": "KC @ SF",
         "kickoff": "10/20/2024, 3:25:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "SF",
+            "score": "0"
+          },
+          "away": {
+            "name": "KC",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "NYJ @ PIT",
