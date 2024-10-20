@@ -13,7 +13,7 @@
           },
           "away": {
             "name": "SEA",
-            "score": "17"
+            "score": "24"
           }
         }
       },
@@ -43,7 +43,7 @@
           },
           "away": {
             "name": "CIN",
-            "score": "7"
+            "score": "13"
           }
         }
       },
@@ -54,7 +54,7 @@
         "score": {
           "home": {
             "name": "GB",
-            "score": "14"
+            "score": "21"
           },
           "away": {
             "name": "HOU",
@@ -69,7 +69,7 @@
         "score": {
           "home": {
             "name": "IND",
-            "score": "3"
+            "score": "10"
           },
           "away": {
             "name": "MIA",
@@ -84,7 +84,7 @@
         "score": {
           "home": {
             "name": "MIN",
-            "score": "10"
+            "score": "17"
           },
           "away": {
             "name": "DET",
