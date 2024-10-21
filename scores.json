@@ -170,8 +170,17 @@
       {
         "matchup": "NYJ @ PIT",
         "kickoff": "10/20/2024, 7:20:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "PIT",
+            "score": "0"
+          },
+          "away": {
+            "name": "NYJ",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "DEN @ NO",
