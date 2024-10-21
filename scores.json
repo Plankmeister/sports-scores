@@ -3,6 +3,21 @@
     "week": 7,
     "games": [
       {
+        "matchup": "NYJ @ PIT",
+        "kickoff": "10/20/2024, 7:20:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "PIT",
+            "score": "3"
+          },
+          "away": {
+            "name": "NYJ",
+            "score": "0"
+          }
+        }
+      },
+      {
         "matchup": "NE VS JAX",
         "kickoff": "10/20/2024, 8:30:00 AM",
         "status": "Final",
@@ -164,21 +179,6 @@
           "away": {
             "name": "KC",
             "score": "28"
-          }
-        }
-      },
-      {
-        "matchup": "NYJ @ PIT",
-        "kickoff": "10/20/2024, 7:20:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "PIT",
-            "score": "3"
-          },
-          "away": {
-            "name": "NYJ",
-            "score": "0"
           }
         }
       },
