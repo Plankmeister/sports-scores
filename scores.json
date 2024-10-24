@@ -105,8 +105,17 @@
       {
         "matchup": "SYR @ PITT",
         "kickoff": "10/24/2024, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "PITT",
+            "score": "0"
+          },
+          "away": {
+            "name": "SYR",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "BOIS @ UNLV",
