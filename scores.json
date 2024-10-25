@@ -112,6 +112,12 @@
   "collegeFootball": {
     "games": [
       {
+        "matchup": "BOIS @ UNLV",
+        "kickoff": "10/25/2024, 9:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
         "matchup": "SYR @ PITT",
         "kickoff": "10/24/2024, 6:30:00 PM",
         "status": "Final",
@@ -125,12 +131,6 @@
             "score": "13"
           }
         }
-      },
-      {
-        "matchup": "BOIS @ UNLV",
-        "kickoff": "10/25/2024, 9:30:00 PM",
-        "status": "Scheduled",
-        "score": null
       },
       {
         "matchup": "NEB @ OSU",
