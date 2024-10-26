@@ -118,7 +118,7 @@
         "score": {
           "home": {
             "name": "OSU",
-            "score": "20"
+            "score": "21"
           },
           "away": {
             "name": "NEB",
@@ -144,7 +144,7 @@
       {
         "matchup": "WASH @ IU",
         "kickoff": "10/26/2024, 11:00:00 AM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "IU",
