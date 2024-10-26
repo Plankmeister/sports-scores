@@ -114,7 +114,7 @@
       {
         "matchup": "OU @ MISS",
         "kickoff": "10/26/2024, 11:00:00 AM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "MISS",
@@ -137,7 +137,7 @@
           },
           "away": {
             "name": "BYU",
-            "score": "6"
+            "score": "7"
           }
         }
       },
@@ -193,7 +193,7 @@
         "score": {
           "home": {
             "name": "ORE",
-            "score": "0"
+            "score": "6"
           },
           "away": {
             "name": "ILL",
@@ -204,8 +204,17 @@
       {
         "matchup": "MIZ @ ALA",
         "kickoff": "10/26/2024, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ALA",
+            "score": "0"
+          },
+          "away": {
+            "name": "MIZ",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "TEX @ VAN",
