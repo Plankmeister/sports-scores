@@ -112,21 +112,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "NEB @ OSU",
-        "kickoff": "10/26/2024, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "OSU",
-            "score": "21"
-          },
-          "away": {
-            "name": "NEB",
-            "score": "17"
-          }
-        }
-      },
-      {
         "matchup": "OU @ MISS",
         "kickoff": "10/26/2024, 11:00:00 AM",
         "status": "Live: Q4",
@@ -138,6 +123,36 @@
           "away": {
             "name": "OU",
             "score": "14"
+          }
+        }
+      },
+      {
+        "matchup": "BYU @ UCF",
+        "kickoff": "10/26/2024, 2:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "UCF",
+            "score": "0"
+          },
+          "away": {
+            "name": "BYU",
+            "score": "6"
+          }
+        }
+      },
+      {
+        "matchup": "NEB @ OSU",
+        "kickoff": "10/26/2024, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "OSU",
+            "score": "21"
+          },
+          "away": {
+            "name": "NEB",
+            "score": "17"
           }
         }
       },
@@ -174,20 +189,14 @@
       {
         "matchup": "ILL @ ORE",
         "kickoff": "10/26/2024, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "BYU @ UCF",
-        "kickoff": "10/26/2024, 2:30:00 PM",
         "status": "Live: Q1",
         "score": {
           "home": {
-            "name": "UCF",
+            "name": "ORE",
             "score": "0"
           },
           "away": {
-            "name": "BYU",
+            "name": "ILL",
             "score": "0"
           }
         }
