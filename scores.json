@@ -114,7 +114,7 @@
       {
         "matchup": "NEB @ OSU",
         "kickoff": "10/26/2024, 11:00:00 AM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "OSU",
@@ -129,7 +129,7 @@
       {
         "matchup": "ND VS NAVY",
         "kickoff": "10/26/2024, 11:00:00 AM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "NAVY",
@@ -163,7 +163,7 @@
         "score": {
           "home": {
             "name": "MISS",
-            "score": "22"
+            "score": "23"
           },
           "away": {
             "name": "OU",
