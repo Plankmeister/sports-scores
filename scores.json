@@ -112,51 +112,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "ILL @ ORE",
-        "kickoff": "10/26/2024, 2:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "ORE",
-            "score": "38"
-          },
-          "away": {
-            "name": "ILL",
-            "score": "9"
-          }
-        }
-      },
-      {
-        "matchup": "BYU @ UCF",
-        "kickoff": "10/26/2024, 2:30:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "UCF",
-            "score": "24"
-          },
-          "away": {
-            "name": "BYU",
-            "score": "37"
-          }
-        }
-      },
-      {
-        "matchup": "MIZ @ ALA",
-        "kickoff": "10/26/2024, 2:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "ALA",
-            "score": "34"
-          },
-          "away": {
-            "name": "MIZ",
-            "score": "0"
-          }
-        }
-      },
-      {
         "matchup": "TEX @ VAN",
         "kickoff": "10/26/2024, 3:15:00 PM",
         "status": "Live: Q4",
@@ -172,6 +127,36 @@
         }
       },
       {
+        "matchup": "FSU @ MIA",
+        "kickoff": "10/26/2024, 6:00:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MIA",
+            "score": "6"
+          },
+          "away": {
+            "name": "FSU",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "ILL @ ORE",
+        "kickoff": "10/26/2024, 2:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "ORE",
+            "score": "38"
+          },
+          "away": {
+            "name": "ILL",
+            "score": "9"
+          }
+        }
+      },
+      {
         "matchup": "NEB @ OSU",
         "kickoff": "10/26/2024, 11:00:00 AM",
         "status": "Final",
@@ -183,6 +168,21 @@
           "away": {
             "name": "NEB",
             "score": "17"
+          }
+        }
+      },
+      {
+        "matchup": "BYU @ UCF",
+        "kickoff": "10/26/2024, 2:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "UCF",
+            "score": "24"
+          },
+          "away": {
+            "name": "BYU",
+            "score": "37"
           }
         }
       },
@@ -217,6 +217,21 @@
         }
       },
       {
+        "matchup": "MIZ @ ALA",
+        "kickoff": "10/26/2024, 2:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "ALA",
+            "score": "34"
+          },
+          "away": {
+            "name": "MIZ",
+            "score": "0"
+          }
+        }
+      },
+      {
         "matchup": "OU @ MISS",
         "kickoff": "10/26/2024, 11:00:00 AM",
         "status": "Final",
@@ -230,12 +245,6 @@
             "score": "14"
           }
         }
-      },
-      {
-        "matchup": "FSU @ MIA",
-        "kickoff": "10/26/2024, 6:00:00 PM",
-        "status": "Scheduled",
-        "score": null
       },
       {
         "matchup": "PSU @ WIS",
