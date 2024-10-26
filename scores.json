@@ -142,21 +142,6 @@
         }
       },
       {
-        "matchup": "WASH @ IU",
-        "kickoff": "10/26/2024, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "IU",
-            "score": "31"
-          },
-          "away": {
-            "name": "WASH",
-            "score": "17"
-          }
-        }
-      },
-      {
         "matchup": "OU @ MISS",
         "kickoff": "10/26/2024, 11:00:00 AM",
         "status": "Live: Q4",
@@ -168,6 +153,21 @@
           "away": {
             "name": "OU",
             "score": "14"
+          }
+        }
+      },
+      {
+        "matchup": "WASH @ IU",
+        "kickoff": "10/26/2024, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "IU",
+            "score": "31"
+          },
+          "away": {
+            "name": "WASH",
+            "score": "17"
           }
         }
       },
