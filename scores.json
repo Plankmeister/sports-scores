@@ -127,21 +127,6 @@
         }
       },
       {
-        "matchup": "ND VS NAVY",
-        "kickoff": "10/26/2024, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "NAVY",
-            "score": "14"
-          },
-          "away": {
-            "name": "ND",
-            "score": "51"
-          }
-        }
-      },
-      {
         "matchup": "OU @ MISS",
         "kickoff": "10/26/2024, 11:00:00 AM",
         "status": "Live: Q4",
@@ -153,6 +138,21 @@
           "away": {
             "name": "OU",
             "score": "14"
+          }
+        }
+      },
+      {
+        "matchup": "ND VS NAVY",
+        "kickoff": "10/26/2024, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "NAVY",
+            "score": "14"
+          },
+          "away": {
+            "name": "ND",
+            "score": "51"
           }
         }
       },
