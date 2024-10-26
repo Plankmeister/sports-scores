@@ -112,6 +112,21 @@
   "collegeFootball": {
     "games": [
       {
+        "matchup": "NEB @ OSU",
+        "kickoff": "10/26/2024, 11:00:00 AM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "OSU",
+            "score": "0"
+          },
+          "away": {
+            "name": "NEB",
+            "score": "0"
+          }
+        }
+      },
+      {
         "matchup": "ND VS NAVY",
         "kickoff": "10/26/2024, 11:00:00 AM",
         "status": "Live: Q1",
@@ -152,21 +167,6 @@
           },
           "away": {
             "name": "OU",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "NEB @ OSU",
-        "kickoff": "10/26/2024, 11:00:00 AM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "OSU",
-            "score": "0"
-          },
-          "away": {
-            "name": "NEB",
             "score": "0"
           }
         }
