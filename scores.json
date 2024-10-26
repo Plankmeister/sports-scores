@@ -133,7 +133,7 @@
         "score": {
           "home": {
             "name": "NAVY",
-            "score": "7"
+            "score": "14"
           },
           "away": {
             "name": "ND",
@@ -148,7 +148,7 @@
         "score": {
           "home": {
             "name": "IU",
-            "score": "17"
+            "score": "24"
           },
           "away": {
             "name": "WASH",
@@ -159,7 +159,7 @@
       {
         "matchup": "OU @ MISS",
         "kickoff": "10/26/2024, 11:00:00 AM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "MISS",
