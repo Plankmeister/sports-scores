@@ -118,7 +118,7 @@
         "score": {
           "home": {
             "name": "OSU",
-            "score": "14"
+            "score": "20"
           },
           "away": {
             "name": "NEB",
@@ -137,7 +137,7 @@
           },
           "away": {
             "name": "ND",
-            "score": "44"
+            "score": "51"
           }
         }
       },
@@ -159,11 +159,11 @@
       {
         "matchup": "OU @ MISS",
         "kickoff": "10/26/2024, 11:00:00 AM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "MISS",
-            "score": "23"
+            "score": "26"
           },
           "away": {
             "name": "OU",
