@@ -180,8 +180,17 @@
       {
         "matchup": "BYU @ UCF",
         "kickoff": "10/26/2024, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "UCF",
+            "score": "0"
+          },
+          "away": {
+            "name": "BYU",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "MIZ @ ALA",
