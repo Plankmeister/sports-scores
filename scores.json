@@ -122,14 +122,14 @@
           },
           "away": {
             "name": "ILL",
-            "score": "0"
+            "score": "3"
           }
         }
       },
       {
         "matchup": "BYU @ UCF",
         "kickoff": "10/26/2024, 2:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "UCF",
@@ -137,7 +137,7 @@
           },
           "away": {
             "name": "BYU",
-            "score": "7"
+            "score": "10"
           }
         }
       },
@@ -219,8 +219,17 @@
       {
         "matchup": "TEX @ VAN",
         "kickoff": "10/26/2024, 3:15:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "VAN",
+            "score": "0"
+          },
+          "away": {
+            "name": "TEX",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "FSU @ MIA",
