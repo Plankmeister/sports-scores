@@ -157,6 +157,21 @@
         }
       },
       {
+        "matchup": "TEX @ VAN",
+        "kickoff": "10/26/2024, 3:15:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "VAN",
+            "score": "0"
+          },
+          "away": {
+            "name": "TEX",
+            "score": "0"
+          }
+        }
+      },
+      {
         "matchup": "NEB @ OSU",
         "kickoff": "10/26/2024, 11:00:00 AM",
         "status": "Final",
@@ -213,21 +228,6 @@
           "away": {
             "name": "OU",
             "score": "14"
-          }
-        }
-      },
-      {
-        "matchup": "TEX @ VAN",
-        "kickoff": "10/26/2024, 3:15:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "VAN",
-            "score": "0"
-          },
-          "away": {
-            "name": "TEX",
-            "score": "0"
           }
         }
       },
