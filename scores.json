@@ -126,14 +126,32 @@
       {
         "matchup": "WASH @ IU",
         "kickoff": "10/26/2024, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "IU",
+            "score": "0"
+          },
+          "away": {
+            "name": "WASH",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "OU @ MISS",
         "kickoff": "10/26/2024, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MISS",
+            "score": "0"
+          },
+          "away": {
+            "name": "OU",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "ILL @ ORE",
