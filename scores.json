@@ -112,21 +112,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "TEX @ VAN",
-        "kickoff": "10/26/2024, 3:15:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "VAN",
-            "score": "24"
-          },
-          "away": {
-            "name": "TEX",
-            "score": "27"
-          }
-        }
-      },
-      {
         "matchup": "FSU @ MIA",
         "kickoff": "10/26/2024, 6:00:00 PM",
         "status": "Live: Q1",
@@ -137,6 +122,21 @@
           },
           "away": {
             "name": "FSU",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "PSU @ WIS",
+        "kickoff": "10/26/2024, 6:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "WIS",
+            "score": "0"
+          },
+          "away": {
+            "name": "PSU",
             "score": "0"
           }
         }
@@ -168,6 +168,21 @@
           "away": {
             "name": "NEB",
             "score": "17"
+          }
+        }
+      },
+      {
+        "matchup": "TEX @ VAN",
+        "kickoff": "10/26/2024, 3:15:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "VAN",
+            "score": "24"
+          },
+          "away": {
+            "name": "TEX",
+            "score": "27"
           }
         }
       },
@@ -245,12 +260,6 @@
             "score": "14"
           }
         }
-      },
-      {
-        "matchup": "PSU @ WIS",
-        "kickoff": "10/26/2024, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
       },
       {
         "matchup": "LSU @ TA&M",
