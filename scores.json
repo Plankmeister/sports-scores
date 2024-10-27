@@ -24,7 +24,7 @@
         "score": {
           "home": {
             "name": "CLE",
-            "score": "3"
+            "score": "6"
           },
           "away": {
             "name": "BAL",
@@ -39,7 +39,7 @@
         "score": {
           "home": {
             "name": "DET",
-            "score": "21"
+            "score": "28"
           },
           "away": {
             "name": "TEN",
@@ -73,7 +73,7 @@
           },
           "away": {
             "name": "NYJ",
-            "score": "6"
+            "score": "12"
           }
         }
       },
@@ -114,7 +114,7 @@
         "score": {
           "home": {
             "name": "HOU",
-            "score": "9"
+            "score": "10"
           },
           "away": {
             "name": "IND",
