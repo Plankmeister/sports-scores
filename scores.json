@@ -3,28 +3,13 @@
     "week": 8,
     "games": [
       {
-        "matchup": "PHI @ CIN",
-        "kickoff": "10/27/2024, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "CIN",
-            "score": "17"
-          },
-          "away": {
-            "name": "PHI",
-            "score": "37"
-          }
-        }
-      },
-      {
         "matchup": "BAL @ CLE",
         "kickoff": "10/27/2024, 12:00:00 PM",
         "status": "Live: Q4",
         "score": {
           "home": {
             "name": "CLE",
-            "score": "23"
+            "score": "29"
           },
           "away": {
             "name": "BAL",
@@ -33,24 +18,9 @@
         }
       },
       {
-        "matchup": "TEN @ DET",
-        "kickoff": "10/27/2024, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "DET",
-            "score": "52"
-          },
-          "away": {
-            "name": "TEN",
-            "score": "14"
-          }
-        }
-      },
-      {
         "matchup": "ARI @ MIA",
         "kickoff": "10/27/2024, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "MIA",
@@ -58,7 +28,7 @@
           },
           "away": {
             "name": "ARI",
-            "score": "25"
+            "score": "28"
           }
         }
       },
@@ -69,26 +39,11 @@
         "score": {
           "home": {
             "name": "NE",
-            "score": "17"
+            "score": "25"
           },
           "away": {
             "name": "NYJ",
             "score": "22"
-          }
-        }
-      },
-      {
-        "matchup": "ATL @ TB",
-        "kickoff": "10/27/2024, 12:00:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "TB",
-            "score": "26"
-          },
-          "away": {
-            "name": "ATL",
-            "score": "31"
           }
         }
       },
@@ -99,7 +54,7 @@
         "score": {
           "home": {
             "name": "JAX",
-            "score": "20"
+            "score": "27"
           },
           "away": {
             "name": "GB",
@@ -123,16 +78,79 @@
         }
       },
       {
+        "matchup": "PHI @ CIN",
+        "kickoff": "10/27/2024, 12:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "CIN",
+            "score": "17"
+          },
+          "away": {
+            "name": "PHI",
+            "score": "37"
+          }
+        }
+      },
+      {
+        "matchup": "TEN @ DET",
+        "kickoff": "10/27/2024, 12:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "DET",
+            "score": "52"
+          },
+          "away": {
+            "name": "TEN",
+            "score": "14"
+          }
+        }
+      },
+      {
+        "matchup": "ATL @ TB",
+        "kickoff": "10/27/2024, 12:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "TB",
+            "score": "26"
+          },
+          "away": {
+            "name": "ATL",
+            "score": "31"
+          }
+        }
+      },
+      {
         "matchup": "NO @ LAC",
         "kickoff": "10/27/2024, 3:05:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "LAC",
+            "score": "0"
+          },
+          "away": {
+            "name": "NO",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "BUF @ SEA",
         "kickoff": "10/27/2024, 3:05:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "SEA",
+            "score": "0"
+          },
+          "away": {
+            "name": "BUF",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "CAR @ DEN",
