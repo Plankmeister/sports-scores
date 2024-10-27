@@ -20,7 +20,7 @@
       {
         "matchup": "CAR @ DEN",
         "kickoff": "10/27/2024, 3:25:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "DEN",
@@ -58,7 +58,7 @@
           },
           "away": {
             "name": "CHI",
-            "score": "7"
+            "score": "15"
           }
         }
       },
