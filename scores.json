@@ -3,6 +3,66 @@
     "week": 8,
     "games": [
       {
+        "matchup": "IND @ HOU",
+        "kickoff": "10/27/2024, 12:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "HOU",
+            "score": "23"
+          },
+          "away": {
+            "name": "IND",
+            "score": "20"
+          }
+        }
+      },
+      {
+        "matchup": "NO @ LAC",
+        "kickoff": "10/27/2024, 3:05:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "LAC",
+            "score": "0"
+          },
+          "away": {
+            "name": "NO",
+            "score": "2"
+          }
+        }
+      },
+      {
+        "matchup": "BUF @ SEA",
+        "kickoff": "10/27/2024, 3:05:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "SEA",
+            "score": "0"
+          },
+          "away": {
+            "name": "BUF",
+            "score": "6"
+          }
+        }
+      },
+      {
+        "matchup": "PHI @ CIN",
+        "kickoff": "10/27/2024, 12:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "CIN",
+            "score": "17"
+          },
+          "away": {
+            "name": "PHI",
+            "score": "37"
+          }
+        }
+      },
+      {
         "matchup": "BAL @ CLE",
         "kickoff": "10/27/2024, 12:00:00 PM",
         "status": "Final",
@@ -14,6 +74,21 @@
           "away": {
             "name": "BAL",
             "score": "24"
+          }
+        }
+      },
+      {
+        "matchup": "TEN @ DET",
+        "kickoff": "10/27/2024, 12:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "DET",
+            "score": "52"
+          },
+          "away": {
+            "name": "TEN",
+            "score": "14"
           }
         }
       },
@@ -48,66 +123,6 @@
         }
       },
       {
-        "matchup": "GB @ JAX",
-        "kickoff": "10/27/2024, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "JAX",
-            "score": "27"
-          },
-          "away": {
-            "name": "GB",
-            "score": "30"
-          }
-        }
-      },
-      {
-        "matchup": "IND @ HOU",
-        "kickoff": "10/27/2024, 12:00:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "HOU",
-            "score": "23"
-          },
-          "away": {
-            "name": "IND",
-            "score": "20"
-          }
-        }
-      },
-      {
-        "matchup": "PHI @ CIN",
-        "kickoff": "10/27/2024, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "CIN",
-            "score": "17"
-          },
-          "away": {
-            "name": "PHI",
-            "score": "37"
-          }
-        }
-      },
-      {
-        "matchup": "TEN @ DET",
-        "kickoff": "10/27/2024, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "DET",
-            "score": "52"
-          },
-          "away": {
-            "name": "TEN",
-            "score": "14"
-          }
-        }
-      },
-      {
         "matchup": "ATL @ TB",
         "kickoff": "10/27/2024, 12:00:00 PM",
         "status": "Final",
@@ -123,32 +138,17 @@
         }
       },
       {
-        "matchup": "NO @ LAC",
-        "kickoff": "10/27/2024, 3:05:00 PM",
-        "status": "Live: Q1",
+        "matchup": "GB @ JAX",
+        "kickoff": "10/27/2024, 12:00:00 PM",
+        "status": "Final",
         "score": {
           "home": {
-            "name": "LAC",
-            "score": "0"
+            "name": "JAX",
+            "score": "27"
           },
           "away": {
-            "name": "NO",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "BUF @ SEA",
-        "kickoff": "10/27/2024, 3:05:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "SEA",
-            "score": "0"
-          },
-          "away": {
-            "name": "BUF",
-            "score": "0"
+            "name": "GB",
+            "score": "30"
           }
         }
       },
