@@ -112,6 +112,36 @@
   "collegeFootball": {
     "games": [
       {
+        "matchup": "SYR @ PITT",
+        "kickoff": "10/24/2024, 6:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "PITT",
+            "score": "41"
+          },
+          "away": {
+            "name": "SYR",
+            "score": "13"
+          }
+        }
+      },
+      {
+        "matchup": "BOIS @ UNLV",
+        "kickoff": "10/25/2024, 9:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "UNLV",
+            "score": "24"
+          },
+          "away": {
+            "name": "BOIS",
+            "score": "29"
+          }
+        }
+      },
+      {
         "matchup": "ILL @ ORE",
         "kickoff": "10/26/2024, 2:30:00 PM",
         "status": "Final",
@@ -303,36 +333,6 @@
           "away": {
             "name": "SMU",
             "score": "28"
-          }
-        }
-      },
-      {
-        "matchup": "SYR @ PITT",
-        "kickoff": "10/24/2024, 6:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "PITT",
-            "score": "41"
-          },
-          "away": {
-            "name": "SYR",
-            "score": "13"
-          }
-        }
-      },
-      {
-        "matchup": "BOIS @ UNLV",
-        "kickoff": "10/25/2024, 9:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "UNLV",
-            "score": "24"
-          },
-          "away": {
-            "name": "BOIS",
-            "score": "29"
           }
         }
       }
