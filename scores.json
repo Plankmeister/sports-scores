@@ -5,7 +5,7 @@
       {
         "matchup": "PHI @ CIN",
         "kickoff": "10/27/2024, 12:00:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "CIN",
@@ -39,7 +39,7 @@
         "score": {
           "home": {
             "name": "DET",
-            "score": "49"
+            "score": "52"
           },
           "away": {
             "name": "TEN",
@@ -50,7 +50,7 @@
       {
         "matchup": "ARI @ MIA",
         "kickoff": "10/27/2024, 12:00:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "MIA",
@@ -65,7 +65,7 @@
       {
         "matchup": "NYJ @ NE",
         "kickoff": "10/27/2024, 12:00:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "NE",
@@ -103,7 +103,7 @@
           },
           "away": {
             "name": "GB",
-            "score": "13"
+            "score": "20"
           }
         }
       },
@@ -118,7 +118,7 @@
           },
           "away": {
             "name": "IND",
-            "score": "10"
+            "score": "13"
           }
         }
       },
