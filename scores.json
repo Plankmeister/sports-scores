@@ -112,36 +112,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "KU @ KSU",
-        "kickoff": "10/26/2024, 7:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "KSU",
-            "score": "29"
-          },
-          "away": {
-            "name": "KU",
-            "score": "27"
-          }
-        }
-      },
-      {
-        "matchup": "SMU @ DUKE",
-        "kickoff": "10/26/2024, 7:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "DUKE",
-            "score": "27"
-          },
-          "away": {
-            "name": "SMU",
-            "score": "28"
-          }
-        }
-      },
-      {
         "matchup": "ILL @ ORE",
         "kickoff": "10/26/2024, 2:30:00 PM",
         "status": "Final",
@@ -292,6 +262,21 @@
         }
       },
       {
+        "matchup": "KU @ KSU",
+        "kickoff": "10/26/2024, 7:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "KSU",
+            "score": "29"
+          },
+          "away": {
+            "name": "KU",
+            "score": "27"
+          }
+        }
+      },
+      {
         "matchup": "OU @ MISS",
         "kickoff": "10/26/2024, 11:00:00 AM",
         "status": "Final",
@@ -303,6 +288,21 @@
           "away": {
             "name": "OU",
             "score": "14"
+          }
+        }
+      },
+      {
+        "matchup": "SMU @ DUKE",
+        "kickoff": "10/26/2024, 7:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "DUKE",
+            "score": "27"
+          },
+          "away": {
+            "name": "SMU",
+            "score": "28"
           }
         }
       },
