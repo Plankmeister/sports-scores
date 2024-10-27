@@ -20,7 +20,7 @@
       {
         "matchup": "BAL @ CLE",
         "kickoff": "10/27/2024, 12:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "CLE",
@@ -28,7 +28,7 @@
           },
           "away": {
             "name": "BAL",
-            "score": "0"
+            "score": "3"
           }
         }
       },
@@ -39,7 +39,7 @@
         "score": {
           "home": {
             "name": "DET",
-            "score": "7"
+            "score": "14"
           },
           "away": {
             "name": "TEN",
