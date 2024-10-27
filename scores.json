@@ -13,7 +13,7 @@
           },
           "away": {
             "name": "PHI",
-            "score": "3"
+            "score": "10"
           }
         }
       },
@@ -28,7 +28,7 @@
           },
           "away": {
             "name": "BAL",
-            "score": "3"
+            "score": "10"
           }
         }
       },
@@ -39,7 +39,7 @@
         "score": {
           "home": {
             "name": "DET",
-            "score": "28"
+            "score": "35"
           },
           "away": {
             "name": "TEN",
@@ -54,7 +54,7 @@
         "score": {
           "home": {
             "name": "MIA",
-            "score": "10"
+            "score": "13"
           },
           "away": {
             "name": "ARI",
@@ -65,7 +65,7 @@
       {
         "matchup": "NYJ @ NE",
         "kickoff": "10/27/2024, 12:00:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "NE",
@@ -84,7 +84,7 @@
         "score": {
           "home": {
             "name": "TB",
-            "score": "14"
+            "score": "17"
           },
           "away": {
             "name": "ATL",
