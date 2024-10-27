@@ -13,7 +13,7 @@
           },
           "away": {
             "name": "PHI",
-            "score": "24"
+            "score": "27"
           }
         }
       },
@@ -54,7 +54,7 @@
         "score": {
           "home": {
             "name": "MIA",
-            "score": "20"
+            "score": "27"
           },
           "away": {
             "name": "ARI",
@@ -80,7 +80,7 @@
       {
         "matchup": "ATL @ TB",
         "kickoff": "10/27/2024, 12:00:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "TB",
