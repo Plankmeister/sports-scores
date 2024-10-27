@@ -122,7 +122,7 @@
           },
           "away": {
             "name": "FSU",
-            "score": "0"
+            "score": "7"
           }
         }
       },
@@ -279,14 +279,32 @@
       {
         "matchup": "KU @ KSU",
         "kickoff": "10/26/2024, 7:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "KSU",
+            "score": "0"
+          },
+          "away": {
+            "name": "KU",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "SMU @ DUKE",
         "kickoff": "10/26/2024, 7:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "DUKE",
+            "score": "0"
+          },
+          "away": {
+            "name": "SMU",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "SYR @ PITT",
