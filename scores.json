@@ -114,7 +114,7 @@
       {
         "matchup": "LSU @ TA&M",
         "kickoff": "10/26/2024, 6:30:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "TA&M",
@@ -133,7 +133,7 @@
         "score": {
           "home": {
             "name": "KSU",
-            "score": "26"
+            "score": "29"
           },
           "away": {
             "name": "KU",
