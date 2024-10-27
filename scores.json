@@ -39,7 +39,7 @@
         "score": {
           "home": {
             "name": "DET",
-            "score": "35"
+            "score": "42"
           },
           "away": {
             "name": "TEN",
@@ -54,7 +54,7 @@
         "score": {
           "home": {
             "name": "MIA",
-            "score": "13"
+            "score": "20"
           },
           "away": {
             "name": "ARI",
@@ -73,7 +73,7 @@
           },
           "away": {
             "name": "NYJ",
-            "score": "13"
+            "score": "16"
           }
         }
       },
@@ -95,7 +95,7 @@
       {
         "matchup": "GB @ JAX",
         "kickoff": "10/27/2024, 12:00:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "JAX",
@@ -110,7 +110,7 @@
       {
         "matchup": "IND @ HOU",
         "kickoff": "10/27/2024, 12:00:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "HOU",
