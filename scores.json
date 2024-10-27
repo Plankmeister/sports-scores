@@ -152,7 +152,37 @@
           },
           "away": {
             "name": "LSU",
-            "score": "3"
+            "score": "9"
+          }
+        }
+      },
+      {
+        "matchup": "KU @ KSU",
+        "kickoff": "10/26/2024, 7:00:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "KSU",
+            "score": "0"
+          },
+          "away": {
+            "name": "KU",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "SMU @ DUKE",
+        "kickoff": "10/26/2024, 7:00:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "DUKE",
+            "score": "0"
+          },
+          "away": {
+            "name": "SMU",
+            "score": "0"
           }
         }
       },
@@ -273,36 +303,6 @@
           "away": {
             "name": "OU",
             "score": "14"
-          }
-        }
-      },
-      {
-        "matchup": "KU @ KSU",
-        "kickoff": "10/26/2024, 7:00:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "KSU",
-            "score": "0"
-          },
-          "away": {
-            "name": "KU",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "SMU @ DUKE",
-        "kickoff": "10/26/2024, 7:00:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "DUKE",
-            "score": "0"
-          },
-          "away": {
-            "name": "SMU",
-            "score": "0"
           }
         }
       },
