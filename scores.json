@@ -43,7 +43,7 @@
           },
           "away": {
             "name": "BUF",
-            "score": "6"
+            "score": "7"
           }
         }
       },
@@ -155,20 +155,47 @@
       {
         "matchup": "CAR @ DEN",
         "kickoff": "10/27/2024, 3:25:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "DEN",
+            "score": "0"
+          },
+          "away": {
+            "name": "CAR",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "KC @ LV",
         "kickoff": "10/27/2024, 3:25:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "LV",
+            "score": "0"
+          },
+          "away": {
+            "name": "KC",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "CHI @ WSH",
         "kickoff": "10/27/2024, 3:25:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "WSH",
+            "score": "0"
+          },
+          "away": {
+            "name": "CHI",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "DAL @ SF",
