@@ -118,7 +118,7 @@
         "score": {
           "home": {
             "name": "MIA",
-            "score": "7"
+            "score": "14"
           },
           "away": {
             "name": "FSU",
@@ -137,6 +137,21 @@
           },
           "away": {
             "name": "PSU",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "LSU @ TA&M",
+        "kickoff": "10/26/2024, 6:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "TA&M",
+            "score": "0"
+          },
+          "away": {
+            "name": "LSU",
             "score": "0"
           }
         }
@@ -258,21 +273,6 @@
           "away": {
             "name": "OU",
             "score": "14"
-          }
-        }
-      },
-      {
-        "matchup": "LSU @ TA&M",
-        "kickoff": "10/26/2024, 6:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "TA&M",
-            "score": "0"
-          },
-          "away": {
-            "name": "LSU",
-            "score": "0"
           }
         }
       },
