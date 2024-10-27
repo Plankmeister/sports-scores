@@ -35,7 +35,7 @@
       {
         "matchup": "TEN @ DET",
         "kickoff": "10/27/2024, 12:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "DET",
@@ -43,7 +43,7 @@
           },
           "away": {
             "name": "TEN",
-            "score": "7"
+            "score": "14"
           }
         }
       },
@@ -58,7 +58,7 @@
           },
           "away": {
             "name": "ARI",
-            "score": "0"
+            "score": "7"
           }
         }
       },
@@ -84,7 +84,7 @@
         "score": {
           "home": {
             "name": "TB",
-            "score": "7"
+            "score": "14"
           },
           "away": {
             "name": "ATL",
@@ -118,7 +118,7 @@
           },
           "away": {
             "name": "IND",
-            "score": "3"
+            "score": "10"
           }
         }
       },
