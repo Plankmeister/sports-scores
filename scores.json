@@ -129,7 +129,7 @@
       {
         "matchup": "PSU @ WIS",
         "kickoff": "10/26/2024, 6:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "WIS",
@@ -137,7 +137,7 @@
           },
           "away": {
             "name": "PSU",
-            "score": "0"
+            "score": "7"
           }
         }
       },
@@ -148,11 +148,11 @@
         "score": {
           "home": {
             "name": "TA&M",
-            "score": "0"
+            "score": "6"
           },
           "away": {
             "name": "LSU",
-            "score": "9"
+            "score": "10"
           }
         }
       },
@@ -167,7 +167,7 @@
           },
           "away": {
             "name": "KU",
-            "score": "0"
+            "score": "7"
           }
         }
       },
