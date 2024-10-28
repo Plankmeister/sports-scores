@@ -3,21 +3,6 @@
     "week": 8,
     "games": [
       {
-        "matchup": "DAL @ SF",
-        "kickoff": "10/27/2024, 7:20:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "SF",
-            "score": "30"
-          },
-          "away": {
-            "name": "DAL",
-            "score": "24"
-          }
-        }
-      },
-      {
         "matchup": "PHI @ CIN",
         "kickoff": "10/27/2024, 12:00:00 PM",
         "status": "Final",
@@ -209,6 +194,21 @@
           "away": {
             "name": "CHI",
             "score": "15"
+          }
+        }
+      },
+      {
+        "matchup": "DAL @ SF",
+        "kickoff": "10/27/2024, 7:20:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "SF",
+            "score": "30"
+          },
+          "away": {
+            "name": "DAL",
+            "score": "24"
           }
         }
       },
