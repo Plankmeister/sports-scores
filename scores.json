@@ -238,229 +238,94 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "SYR @ PITT",
-        "kickoff": "10/24/2024, 6:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "PITT",
-            "score": "41"
-          },
-          "away": {
-            "name": "SYR",
-            "score": "13"
-          }
-        }
+        "matchup": "SDSU @ BOIS",
+        "kickoff": "11/1/2024, 7:00:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "BOIS @ UNLV",
-        "kickoff": "10/25/2024, 9:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "UNLV",
-            "score": "24"
-          },
-          "away": {
-            "name": "BOIS",
-            "score": "29"
-          }
-        }
+        "matchup": "OSU @ PSU",
+        "kickoff": "11/2/2024, 11:00:00 AM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "ILL @ ORE",
-        "kickoff": "10/26/2024, 2:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "ORE",
-            "score": "38"
-          },
-          "away": {
-            "name": "ILL",
-            "score": "9"
-          }
-        }
+        "matchup": "DUKE @ MIA",
+        "kickoff": "11/2/2024, 11:00:00 AM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "PSU @ WIS",
-        "kickoff": "10/26/2024, 6:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "WIS",
-            "score": "13"
-          },
-          "away": {
-            "name": "PSU",
-            "score": "28"
-          }
-        }
+        "matchup": "MISS @ ARK",
+        "kickoff": "11/2/2024, 11:00:00 AM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "NEB @ OSU",
-        "kickoff": "10/26/2024, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "OSU",
-            "score": "21"
-          },
-          "away": {
-            "name": "NEB",
-            "score": "17"
-          }
-        }
+        "matchup": "AFA @ ARMY",
+        "kickoff": "11/2/2024, 11:00:00 AM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "TEX @ VAN",
-        "kickoff": "10/26/2024, 3:15:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "VAN",
-            "score": "24"
-          },
-          "away": {
-            "name": "TEX",
-            "score": "27"
-          }
-        }
+        "matchup": "MINN @ ILL",
+        "kickoff": "11/2/2024, 11:00:00 AM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "FSU @ MIA",
-        "kickoff": "10/26/2024, 6:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "MIA",
-            "score": "36"
-          },
-          "away": {
-            "name": "FSU",
-            "score": "14"
-          }
-        }
+        "matchup": "ORE @ MICH",
+        "kickoff": "11/2/2024, 2:30:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "LSU @ TA&M",
-        "kickoff": "10/26/2024, 6:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "TA&M",
-            "score": "38"
-          },
-          "away": {
-            "name": "LSU",
-            "score": "23"
-          }
-        }
+        "matchup": "FLA VS UGA",
+        "kickoff": "11/2/2024, 2:30:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "BYU @ UCF",
-        "kickoff": "10/26/2024, 2:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "UCF",
-            "score": "24"
-          },
-          "away": {
-            "name": "BYU",
-            "score": "37"
-          }
-        }
+        "matchup": "TTU @ ISU",
+        "kickoff": "11/2/2024, 2:30:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "ND VS NAVY",
-        "kickoff": "10/26/2024, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "NAVY",
-            "score": "14"
-          },
-          "away": {
-            "name": "ND",
-            "score": "51"
-          }
-        }
+        "matchup": "IU @ MSU",
+        "kickoff": "11/2/2024, 2:30:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "WASH @ IU",
-        "kickoff": "10/26/2024, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "IU",
-            "score": "31"
-          },
-          "away": {
-            "name": "WASH",
-            "score": "17"
-          }
-        }
+        "matchup": "KSU @ HOU",
+        "kickoff": "11/2/2024, 2:30:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "MIZ @ ALA",
-        "kickoff": "10/26/2024, 2:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "ALA",
-            "score": "34"
-          },
-          "away": {
-            "name": "MIZ",
-            "score": "0"
-          }
-        }
+        "matchup": "TA&M @ SC",
+        "kickoff": "11/2/2024, 6:30:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "KU @ KSU",
-        "kickoff": "10/26/2024, 7:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "KSU",
-            "score": "29"
-          },
-          "away": {
-            "name": "KU",
-            "score": "27"
-          }
-        }
+        "matchup": "LOU @ CLEM",
+        "kickoff": "11/2/2024, 6:30:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "OU @ MISS",
-        "kickoff": "10/26/2024, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "MISS",
-            "score": "26"
-          },
-          "away": {
-            "name": "OU",
-            "score": "14"
-          }
-        }
+        "matchup": "UK @ TENN",
+        "kickoff": "11/2/2024, 6:45:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "SMU @ DUKE",
-        "kickoff": "10/26/2024, 7:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "DUKE",
-            "score": "27"
-          },
-          "away": {
-            "name": "SMU",
-            "score": "28"
-          }
-        }
+        "matchup": "PITT @ SMU",
+        "kickoff": "11/2/2024, 7:00:00 PM",
+        "status": "Scheduled",
+        "score": null
       }
     ]
   }
