@@ -221,7 +221,7 @@
       {
         "matchup": "DAL @ SF",
         "kickoff": "10/27/2024, 7:20:00 PM",
-        "status": "Final",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "SF",
@@ -229,7 +229,7 @@
           },
           "away": {
             "name": "DAL",
-            "score": "24"
+            "score": "17"
           }
         }
       }
