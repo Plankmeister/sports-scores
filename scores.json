@@ -3,21 +3,6 @@
     "week": 8,
     "games": [
       {
-        "matchup": "NYG @ PIT",
-        "kickoff": "10/28/2024, 7:15:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "PIT",
-            "score": "26"
-          },
-          "away": {
-            "name": "NYG",
-            "score": "18"
-          }
-        }
-      },
-      {
         "matchup": "MIN @ LAR",
         "kickoff": "10/24/2024, 7:15:00 PM",
         "status": "Final",
@@ -239,6 +224,21 @@
           "away": {
             "name": "DAL",
             "score": "24"
+          }
+        }
+      },
+      {
+        "matchup": "NYG @ PIT",
+        "kickoff": "10/28/2024, 7:15:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "PIT",
+            "score": "26"
+          },
+          "away": {
+            "name": "NYG",
+            "score": "18"
           }
         }
       }
