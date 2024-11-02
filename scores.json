@@ -106,43 +106,13 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "MISS @ ARK",
-        "kickoff": "11/2/2024, 11:00:00 AM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "ARK",
-            "score": "0"
-          },
-          "away": {
-            "name": "MISS",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "MINN @ ILL",
-        "kickoff": "11/2/2024, 11:00:00 AM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "ILL",
-            "score": "0"
-          },
-          "away": {
-            "name": "MINN",
-            "score": "0"
-          }
-        }
-      },
-      {
         "matchup": "OSU @ PSU",
         "kickoff": "11/2/2024, 11:00:00 AM",
         "status": "Live: Q1",
         "score": {
           "home": {
             "name": "PSU",
-            "score": "0"
+            "score": "3"
           },
           "away": {
             "name": "OSU",
@@ -166,16 +136,46 @@
         }
       },
       {
+        "matchup": "MISS @ ARK",
+        "kickoff": "11/2/2024, 11:00:00 AM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ARK",
+            "score": "0"
+          },
+          "away": {
+            "name": "MISS",
+            "score": "7"
+          }
+        }
+      },
+      {
         "matchup": "AFA @ ARMY",
         "kickoff": "11/2/2024, 11:00:00 AM",
         "status": "Live: Q1",
         "score": {
           "home": {
             "name": "ARMY",
-            "score": "0"
+            "score": "3"
           },
           "away": {
             "name": "AFA",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "MINN @ ILL",
+        "kickoff": "11/2/2024, 11:00:00 AM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ILL",
+            "score": "0"
+          },
+          "away": {
+            "name": "MINN",
             "score": "0"
           }
         }
