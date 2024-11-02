@@ -131,14 +131,14 @@
           },
           "away": {
             "name": "DUKE",
-            "score": "28"
+            "score": "31"
           }
         }
       },
       {
         "matchup": "MISS @ ARK",
         "kickoff": "11/2/2024, 11:00:00 AM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "ARK",
@@ -157,7 +157,7 @@
         "score": {
           "home": {
             "name": "ARMY",
-            "score": "13"
+            "score": "20"
           },
           "away": {
             "name": "AFA",
@@ -172,7 +172,7 @@
         "score": {
           "home": {
             "name": "ILL",
-            "score": "10"
+            "score": "17"
           },
           "away": {
             "name": "MINN",
