@@ -116,14 +116,14 @@
           },
           "away": {
             "name": "OSU",
-            "score": "7"
+            "score": "14"
           }
         }
       },
       {
         "matchup": "DUKE @ MIA",
         "kickoff": "11/2/2024, 11:00:00 AM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "MIA",
@@ -146,7 +146,7 @@
           },
           "away": {
             "name": "MISS",
-            "score": "14"
+            "score": "21"
           }
         }
       },
