@@ -146,22 +146,7 @@
           },
           "away": {
             "name": "MISS",
-            "score": "56"
-          }
-        }
-      },
-      {
-        "matchup": "AFA @ ARMY",
-        "kickoff": "11/2/2024, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "ARMY",
-            "score": "20"
-          },
-          "away": {
-            "name": "AFA",
-            "score": "3"
+            "score": "63"
           }
         }
       },
@@ -177,6 +162,21 @@
           "away": {
             "name": "MINN",
             "score": "22"
+          }
+        }
+      },
+      {
+        "matchup": "AFA @ ARMY",
+        "kickoff": "11/2/2024, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "ARMY",
+            "score": "20"
+          },
+          "away": {
+            "name": "AFA",
+            "score": "3"
           }
         }
       },
