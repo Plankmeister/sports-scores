@@ -121,32 +121,32 @@
         }
       },
       {
-        "matchup": "MISS @ ARK",
-        "kickoff": "11/2/2024, 11:00:00 AM",
-        "status": "Final",
+        "matchup": "IU @ MSU",
+        "kickoff": "11/2/2024, 2:30:00 PM",
+        "status": "Live: Q1",
         "score": {
           "home": {
-            "name": "ARK",
-            "score": "31"
+            "name": "MSU",
+            "score": "3"
           },
           "away": {
-            "name": "MISS",
-            "score": "63"
+            "name": "IU",
+            "score": "0"
           }
         }
       },
       {
-        "matchup": "MINN @ ILL",
-        "kickoff": "11/2/2024, 11:00:00 AM",
-        "status": "Final",
+        "matchup": "KSU @ HOU",
+        "kickoff": "11/2/2024, 2:30:00 PM",
+        "status": "Live: Q1",
         "score": {
           "home": {
-            "name": "ILL",
-            "score": "17"
+            "name": "HOU",
+            "score": "0"
           },
           "away": {
-            "name": "MINN",
-            "score": "25"
+            "name": "KSU",
+            "score": "0"
           }
         }
       },
@@ -166,6 +166,21 @@
         }
       },
       {
+        "matchup": "MISS @ ARK",
+        "kickoff": "11/2/2024, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "ARK",
+            "score": "31"
+          },
+          "away": {
+            "name": "MISS",
+            "score": "63"
+          }
+        }
+      },
+      {
         "matchup": "AFA @ ARMY",
         "kickoff": "11/2/2024, 11:00:00 AM",
         "status": "Final",
@@ -181,10 +196,34 @@
         }
       },
       {
+        "matchup": "MINN @ ILL",
+        "kickoff": "11/2/2024, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "ILL",
+            "score": "17"
+          },
+          "away": {
+            "name": "MINN",
+            "score": "25"
+          }
+        }
+      },
+      {
         "matchup": "ORE @ MICH",
         "kickoff": "11/2/2024, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MICH",
+            "score": "0"
+          },
+          "away": {
+            "name": "ORE",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "FLA VS UGA",
@@ -195,35 +234,14 @@
       {
         "matchup": "TTU @ ISU",
         "kickoff": "11/2/2024, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "IU @ MSU",
-        "kickoff": "11/2/2024, 2:30:00 PM",
         "status": "Live: Q1",
         "score": {
           "home": {
-            "name": "MSU",
+            "name": "ISU",
             "score": "0"
           },
           "away": {
-            "name": "IU",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "KSU @ HOU",
-        "kickoff": "11/2/2024, 2:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "HOU",
-            "score": "0"
-          },
-          "away": {
-            "name": "KSU",
+            "name": "TTU",
             "score": "0"
           }
         }
