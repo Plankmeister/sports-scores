@@ -121,28 +121,13 @@
         }
       },
       {
-        "matchup": "TTU @ ISU",
-        "kickoff": "11/2/2024, 2:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "ISU",
-            "score": "22"
-          },
-          "away": {
-            "name": "TTU",
-            "score": "23"
-          }
-        }
-      },
-      {
         "matchup": "KSU @ HOU",
         "kickoff": "11/2/2024, 2:30:00 PM",
         "status": "Live: Q4",
         "score": {
           "home": {
             "name": "HOU",
-            "score": "17"
+            "score": "24"
           },
           "away": {
             "name": "KSU",
@@ -192,6 +177,21 @@
           "away": {
             "name": "DUKE",
             "score": "31"
+          }
+        }
+      },
+      {
+        "matchup": "TTU @ ISU",
+        "kickoff": "11/2/2024, 2:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "ISU",
+            "score": "22"
+          },
+          "away": {
+            "name": "TTU",
+            "score": "23"
           }
         }
       },
