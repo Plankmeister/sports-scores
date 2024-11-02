@@ -106,21 +106,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "FLA VS UGA",
-        "kickoff": "11/2/2024, 2:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "UGA",
-            "score": "34"
-          },
-          "away": {
-            "name": "FLA",
-            "score": "20"
-          }
-        }
-      },
-      {
         "matchup": "KSU @ HOU",
         "kickoff": "11/2/2024, 2:30:00 PM",
         "status": "Live: Q4",
@@ -136,6 +121,21 @@
         }
       },
       {
+        "matchup": "LOU @ CLEM",
+        "kickoff": "11/2/2024, 6:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "CLEM",
+            "score": "0"
+          },
+          "away": {
+            "name": "LOU",
+            "score": "0"
+          }
+        }
+      },
+      {
         "matchup": "ORE @ MICH",
         "kickoff": "11/2/2024, 2:30:00 PM",
         "status": "Final",
@@ -147,6 +147,21 @@
           "away": {
             "name": "ORE",
             "score": "38"
+          }
+        }
+      },
+      {
+        "matchup": "FLA VS UGA",
+        "kickoff": "11/2/2024, 2:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "UGA",
+            "score": "34"
+          },
+          "away": {
+            "name": "FLA",
+            "score": "20"
           }
         }
       },
@@ -260,21 +275,6 @@
         "kickoff": "11/2/2024, 6:30:00 PM",
         "status": "Scheduled",
         "score": null
-      },
-      {
-        "matchup": "LOU @ CLEM",
-        "kickoff": "11/2/2024, 6:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "CLEM",
-            "score": "0"
-          },
-          "away": {
-            "name": "LOU",
-            "score": "0"
-          }
-        }
       },
       {
         "matchup": "UK @ TENN",
