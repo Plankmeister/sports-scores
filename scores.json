@@ -108,7 +108,7 @@
       {
         "matchup": "ORE @ MICH",
         "kickoff": "11/2/2024, 2:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "MICH",
@@ -116,7 +116,7 @@
           },
           "away": {
             "name": "ORE",
-            "score": "7"
+            "score": "14"
           }
         }
       },
@@ -127,7 +127,7 @@
         "score": {
           "home": {
             "name": "UGA",
-            "score": "0"
+            "score": "3"
           },
           "away": {
             "name": "FLA",
@@ -138,7 +138,7 @@
       {
         "matchup": "TTU @ ISU",
         "kickoff": "11/2/2024, 2:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "ISU",
