@@ -106,21 +106,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "SDSU @ BOIS",
-        "kickoff": "11/1/2024, 7:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "BOIS",
-            "score": "56"
-          },
-          "away": {
-            "name": "SDSU",
-            "score": "24"
-          }
-        }
-      },
-      {
         "matchup": "OSU @ PSU",
         "kickoff": "11/2/2024, 11:00:00 AM",
         "status": "Scheduled",
@@ -203,6 +188,21 @@
         "kickoff": "11/2/2024, 7:00:00 PM",
         "status": "Scheduled",
         "score": null
+      },
+      {
+        "matchup": "SDSU @ BOIS",
+        "kickoff": "11/1/2024, 7:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "BOIS",
+            "score": "56"
+          },
+          "away": {
+            "name": "SDSU",
+            "score": "24"
+          }
+        }
       }
     ]
   }
