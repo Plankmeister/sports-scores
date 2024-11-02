@@ -273,8 +273,17 @@
       {
         "matchup": "TA&M @ SC",
         "kickoff": "11/2/2024, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "SC",
+            "score": "0"
+          },
+          "away": {
+            "name": "TA&M",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "UK @ TENN",
