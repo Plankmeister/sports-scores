@@ -123,7 +123,7 @@
       {
         "matchup": "MISS @ ARK",
         "kickoff": "11/2/2024, 11:00:00 AM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "ARK",
@@ -216,8 +216,17 @@
       {
         "matchup": "KSU @ HOU",
         "kickoff": "11/2/2024, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "HOU",
+            "score": "0"
+          },
+          "away": {
+            "name": "KSU",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "TA&M @ SC",
