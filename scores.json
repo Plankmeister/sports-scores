@@ -142,7 +142,7 @@
         "score": {
           "home": {
             "name": "ISU",
-            "score": "6"
+            "score": "13"
           },
           "away": {
             "name": "TTU",
@@ -168,11 +168,11 @@
       {
         "matchup": "KSU @ HOU",
         "kickoff": "11/2/2024, 2:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "HOU",
-            "score": "0"
+            "score": "7"
           },
           "away": {
             "name": "KSU",
