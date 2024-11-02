@@ -106,21 +106,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "ORE @ MICH",
-        "kickoff": "11/2/2024, 2:30:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "MICH",
-            "score": "17"
-          },
-          "away": {
-            "name": "ORE",
-            "score": "38"
-          }
-        }
-      },
-      {
         "matchup": "FLA VS UGA",
         "kickoff": "11/2/2024, 2:30:00 PM",
         "status": "Live: Q4",
@@ -151,24 +136,9 @@
         }
       },
       {
-        "matchup": "IU @ MSU",
-        "kickoff": "11/2/2024, 2:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "MSU",
-            "score": "10"
-          },
-          "away": {
-            "name": "IU",
-            "score": "47"
-          }
-        }
-      },
-      {
         "matchup": "KSU @ HOU",
         "kickoff": "11/2/2024, 2:30:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "HOU",
@@ -177,6 +147,21 @@
           "away": {
             "name": "KSU",
             "score": "19"
+          }
+        }
+      },
+      {
+        "matchup": "ORE @ MICH",
+        "kickoff": "11/2/2024, 2:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "MICH",
+            "score": "17"
+          },
+          "away": {
+            "name": "ORE",
+            "score": "38"
           }
         }
       },
@@ -207,6 +192,21 @@
           "away": {
             "name": "DUKE",
             "score": "31"
+          }
+        }
+      },
+      {
+        "matchup": "IU @ MSU",
+        "kickoff": "11/2/2024, 2:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "MSU",
+            "score": "10"
+          },
+          "away": {
+            "name": "IU",
+            "score": "47"
           }
         }
       },
