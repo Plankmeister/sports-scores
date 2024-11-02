@@ -228,8 +228,17 @@
       {
         "matchup": "FLA VS UGA",
         "kickoff": "11/2/2024, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "UGA",
+            "score": "0"
+          },
+          "away": {
+            "name": "FLA",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "TTU @ ISU",
