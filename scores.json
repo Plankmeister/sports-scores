@@ -106,6 +106,36 @@
   "collegeFootball": {
     "games": [
       {
+        "matchup": "MISS @ ARK",
+        "kickoff": "11/2/2024, 11:00:00 AM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ARK",
+            "score": "0"
+          },
+          "away": {
+            "name": "MISS",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "MINN @ ILL",
+        "kickoff": "11/2/2024, 11:00:00 AM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ILL",
+            "score": "0"
+          },
+          "away": {
+            "name": "MINN",
+            "score": "0"
+          }
+        }
+      },
+      {
         "matchup": "OSU @ PSU",
         "kickoff": "11/2/2024, 11:00:00 AM",
         "status": "Scheduled",
@@ -118,19 +148,7 @@
         "score": null
       },
       {
-        "matchup": "MISS @ ARK",
-        "kickoff": "11/2/2024, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
         "matchup": "AFA @ ARMY",
-        "kickoff": "11/2/2024, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "MINN @ ILL",
         "kickoff": "11/2/2024, 11:00:00 AM",
         "status": "Scheduled",
         "score": null
