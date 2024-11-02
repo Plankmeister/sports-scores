@@ -116,7 +116,7 @@
           },
           "away": {
             "name": "ORE",
-            "score": "31"
+            "score": "38"
           }
         }
       },
@@ -142,7 +142,7 @@
         "score": {
           "home": {
             "name": "ISU",
-            "score": "16"
+            "score": "22"
           },
           "away": {
             "name": "TTU",
@@ -153,7 +153,7 @@
       {
         "matchup": "IU @ MSU",
         "kickoff": "11/2/2024, 2:30:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "MSU",
@@ -176,7 +176,7 @@
           },
           "away": {
             "name": "KSU",
-            "score": "16"
+            "score": "19"
           }
         }
       },
