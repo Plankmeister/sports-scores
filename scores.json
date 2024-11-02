@@ -106,28 +106,13 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "OSU @ PSU",
-        "kickoff": "11/2/2024, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "PSU",
-            "score": "13"
-          },
-          "away": {
-            "name": "OSU",
-            "score": "20"
-          }
-        }
-      },
-      {
         "matchup": "DUKE @ MIA",
         "kickoff": "11/2/2024, 11:00:00 AM",
         "status": "Live: Q4",
         "score": {
           "home": {
             "name": "MIA",
-            "score": "46"
+            "score": "53"
           },
           "away": {
             "name": "DUKE",
@@ -142,7 +127,7 @@
         "score": {
           "home": {
             "name": "ARK",
-            "score": "24"
+            "score": "31"
           },
           "away": {
             "name": "MISS",
@@ -161,7 +146,22 @@
           },
           "away": {
             "name": "MINN",
-            "score": "22"
+            "score": "25"
+          }
+        }
+      },
+      {
+        "matchup": "OSU @ PSU",
+        "kickoff": "11/2/2024, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "PSU",
+            "score": "13"
+          },
+          "away": {
+            "name": "OSU",
+            "score": "20"
           }
         }
       },
