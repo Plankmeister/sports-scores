@@ -138,20 +138,47 @@
       {
         "matchup": "OSU @ PSU",
         "kickoff": "11/2/2024, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "PSU",
+            "score": "0"
+          },
+          "away": {
+            "name": "OSU",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "DUKE @ MIA",
         "kickoff": "11/2/2024, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MIA",
+            "score": "0"
+          },
+          "away": {
+            "name": "DUKE",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "AFA @ ARMY",
         "kickoff": "11/2/2024, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ARMY",
+            "score": "0"
+          },
+          "away": {
+            "name": "AFA",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "ORE @ MICH",
