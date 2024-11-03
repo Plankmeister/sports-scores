@@ -28,7 +28,7 @@
           },
           "away": {
             "name": "MIA",
-            "score": "20"
+            "score": "27"
           }
         }
       },
@@ -58,7 +58,7 @@
           },
           "away": {
             "name": "LAC",
-            "score": "26"
+            "score": "27"
           }
         }
       },
@@ -74,21 +74,6 @@
           "away": {
             "name": "NE",
             "score": "10"
-          }
-        }
-      },
-      {
-        "matchup": "WSH @ NYG",
-        "kickoff": "11/3/2024, 12:00:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "NYG",
-            "score": "22"
-          },
-          "away": {
-            "name": "WSH",
-            "score": "27"
           }
         }
       },
@@ -119,6 +104,21 @@
           "away": {
             "name": "DEN",
             "score": "10"
+          }
+        }
+      },
+      {
+        "matchup": "WSH @ NYG",
+        "kickoff": "11/3/2024, 12:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "NYG",
+            "score": "22"
+          },
+          "away": {
+            "name": "WSH",
+            "score": "27"
           }
         }
       },
