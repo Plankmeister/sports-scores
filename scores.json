@@ -9,7 +9,7 @@
         "score": {
           "home": {
             "name": "PHI",
-            "score": "7"
+            "score": "10"
           },
           "away": {
             "name": "JAX",
@@ -28,14 +28,14 @@
           },
           "away": {
             "name": "CHI",
-            "score": "0"
+            "score": "3"
           }
         }
       },
       {
         "matchup": "DET @ GB",
         "kickoff": "11/3/2024, 3:25:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "GB",
