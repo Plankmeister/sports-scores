@@ -13,7 +13,7 @@
           },
           "away": {
             "name": "DAL",
-            "score": "13"
+            "score": "21"
           }
         }
       },
@@ -24,7 +24,7 @@
         "score": {
           "home": {
             "name": "BUF",
-            "score": "27"
+            "score": "30"
           },
           "away": {
             "name": "MIA",
@@ -50,11 +50,11 @@
       {
         "matchup": "LAC @ CLE",
         "kickoff": "11/3/2024, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "CLE",
-            "score": "3"
+            "score": "10"
           },
           "away": {
             "name": "LAC",
@@ -73,7 +73,7 @@
           },
           "away": {
             "name": "NE",
-            "score": "10"
+            "score": "17"
           }
         }
       },
@@ -84,7 +84,7 @@
         "score": {
           "home": {
             "name": "CAR",
-            "score": "17"
+            "score": "23"
           },
           "away": {
             "name": "NO",
@@ -95,7 +95,7 @@
       {
         "matchup": "DEN @ BAL",
         "kickoff": "11/3/2024, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "BAL",
