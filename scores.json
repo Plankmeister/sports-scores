@@ -136,6 +136,36 @@
         }
       },
       {
+        "matchup": "UK @ TENN",
+        "kickoff": "11/2/2024, 6:45:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "TENN",
+            "score": "0"
+          },
+          "away": {
+            "name": "UK",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "PITT @ SMU",
+        "kickoff": "11/2/2024, 7:00:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "SMU",
+            "score": "7"
+          },
+          "away": {
+            "name": "PITT",
+            "score": "0"
+          }
+        }
+      },
+      {
         "matchup": "ORE @ MICH",
         "kickoff": "11/2/2024, 2:30:00 PM",
         "status": "Final",
@@ -282,36 +312,6 @@
           "away": {
             "name": "MINN",
             "score": "25"
-          }
-        }
-      },
-      {
-        "matchup": "UK @ TENN",
-        "kickoff": "11/2/2024, 6:45:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "TENN",
-            "score": "0"
-          },
-          "away": {
-            "name": "UK",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "PITT @ SMU",
-        "kickoff": "11/2/2024, 7:00:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "SMU",
-            "score": "0"
-          },
-          "away": {
-            "name": "PITT",
-            "score": "0"
           }
         }
       },
