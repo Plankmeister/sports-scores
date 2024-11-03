@@ -5,7 +5,7 @@
       {
         "matchup": "LV @ CIN",
         "kickoff": "11/3/2024, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "CIN",
@@ -13,7 +13,7 @@
           },
           "away": {
             "name": "LV",
-            "score": "23"
+            "score": "24"
           }
         }
       },
@@ -24,7 +24,7 @@
         "score": {
           "home": {
             "name": "TEN",
-            "score": "17"
+            "score": "20"
           },
           "away": {
             "name": "NE",
@@ -54,7 +54,7 @@
         "score": {
           "home": {
             "name": "PHI",
-            "score": "0"
+            "score": "7"
           },
           "away": {
             "name": "JAX",
