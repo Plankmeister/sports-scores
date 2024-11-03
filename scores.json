@@ -43,14 +43,14 @@
           },
           "away": {
             "name": "DET",
-            "score": "17"
+            "score": "24"
           }
         }
       },
       {
         "matchup": "LAR @ SEA",
         "kickoff": "11/3/2024, 3:25:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "SEA",
