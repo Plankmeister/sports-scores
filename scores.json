@@ -155,14 +155,32 @@
       {
         "matchup": "DET @ GB",
         "kickoff": "11/3/2024, 3:25:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "GB",
+            "score": "0"
+          },
+          "away": {
+            "name": "DET",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "LAR @ SEA",
         "kickoff": "11/3/2024, 3:25:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "SEA",
+            "score": "0"
+          },
+          "away": {
+            "name": "LAR",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "IND @ MIN",
