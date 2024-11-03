@@ -106,17 +106,17 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "KSU @ HOU",
-        "kickoff": "11/2/2024, 2:30:00 PM",
-        "status": "Final",
+        "matchup": "TA&M @ SC",
+        "kickoff": "11/2/2024, 6:30:00 PM",
+        "status": "Live: Q1",
         "score": {
           "home": {
-            "name": "HOU",
-            "score": "24"
+            "name": "SC",
+            "score": "7"
           },
           "away": {
-            "name": "KSU",
-            "score": "19"
+            "name": "TA&M",
+            "score": "0"
           }
         }
       },
@@ -226,6 +226,21 @@
         }
       },
       {
+        "matchup": "KSU @ HOU",
+        "kickoff": "11/2/2024, 2:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "HOU",
+            "score": "24"
+          },
+          "away": {
+            "name": "KSU",
+            "score": "19"
+          }
+        }
+      },
+      {
         "matchup": "MISS @ ARK",
         "kickoff": "11/2/2024, 11:00:00 AM",
         "status": "Final",
@@ -271,25 +286,19 @@
         }
       },
       {
-        "matchup": "TA&M @ SC",
-        "kickoff": "11/2/2024, 6:30:00 PM",
+        "matchup": "UK @ TENN",
+        "kickoff": "11/2/2024, 6:45:00 PM",
         "status": "Live: Q1",
         "score": {
           "home": {
-            "name": "SC",
+            "name": "TENN",
             "score": "0"
           },
           "away": {
-            "name": "TA&M",
+            "name": "UK",
             "score": "0"
           }
         }
-      },
-      {
-        "matchup": "UK @ TENN",
-        "kickoff": "11/2/2024, 6:45:00 PM",
-        "status": "Scheduled",
-        "score": null
       },
       {
         "matchup": "PITT @ SMU",
