@@ -3,43 +3,13 @@
     "week": 9,
     "games": [
       {
-        "matchup": "DAL @ ATL",
-        "kickoff": "11/3/2024, 12:00:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "ATL",
-            "score": "27"
-          },
-          "away": {
-            "name": "DAL",
-            "score": "21"
-          }
-        }
-      },
-      {
-        "matchup": "MIA @ BUF",
-        "kickoff": "11/3/2024, 12:00:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "BUF",
-            "score": "30"
-          },
-          "away": {
-            "name": "MIA",
-            "score": "27"
-          }
-        }
-      },
-      {
         "matchup": "LV @ CIN",
         "kickoff": "11/3/2024, 12:00:00 PM",
         "status": "Live: Q4",
         "score": {
           "home": {
             "name": "CIN",
-            "score": "38"
+            "score": "41"
           },
           "away": {
             "name": "LV",
@@ -48,24 +18,9 @@
         }
       },
       {
-        "matchup": "LAC @ CLE",
-        "kickoff": "11/3/2024, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "CLE",
-            "score": "10"
-          },
-          "away": {
-            "name": "LAC",
-            "score": "27"
-          }
-        }
-      },
-      {
         "matchup": "NE @ TEN",
         "kickoff": "11/3/2024, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Live: Q5",
         "score": {
           "home": {
             "name": "TEN",
@@ -93,17 +48,77 @@
         }
       },
       {
-        "matchup": "DEN @ BAL",
+        "matchup": "JAX @ PHI",
+        "kickoff": "11/3/2024, 3:05:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "PHI",
+            "score": "0"
+          },
+          "away": {
+            "name": "JAX",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "CHI @ ARI",
+        "kickoff": "11/3/2024, 3:05:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ARI",
+            "score": "0"
+          },
+          "away": {
+            "name": "CHI",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "DAL @ ATL",
         "kickoff": "11/3/2024, 12:00:00 PM",
         "status": "Final",
         "score": {
           "home": {
-            "name": "BAL",
-            "score": "41"
+            "name": "ATL",
+            "score": "27"
           },
           "away": {
-            "name": "DEN",
+            "name": "DAL",
+            "score": "21"
+          }
+        }
+      },
+      {
+        "matchup": "MIA @ BUF",
+        "kickoff": "11/3/2024, 12:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "BUF",
+            "score": "30"
+          },
+          "away": {
+            "name": "MIA",
+            "score": "27"
+          }
+        }
+      },
+      {
+        "matchup": "LAC @ CLE",
+        "kickoff": "11/3/2024, 12:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "CLE",
             "score": "10"
+          },
+          "away": {
+            "name": "LAC",
+            "score": "27"
           }
         }
       },
@@ -123,16 +138,19 @@
         }
       },
       {
-        "matchup": "JAX @ PHI",
-        "kickoff": "11/3/2024, 3:05:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "CHI @ ARI",
-        "kickoff": "11/3/2024, 3:05:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "matchup": "DEN @ BAL",
+        "kickoff": "11/3/2024, 12:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "BAL",
+            "score": "41"
+          },
+          "away": {
+            "name": "DEN",
+            "score": "10"
+          }
+        }
       },
       {
         "matchup": "DET @ GB",
