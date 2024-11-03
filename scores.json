@@ -13,7 +13,7 @@
           },
           "away": {
             "name": "LV",
-            "score": "17"
+            "score": "23"
           }
         }
       },
@@ -35,7 +35,7 @@
       {
         "matchup": "NO @ CAR",
         "kickoff": "11/3/2024, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "CAR",
