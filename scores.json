@@ -106,36 +106,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "TA&M @ SC",
-        "kickoff": "11/2/2024, 6:30:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "SC",
-            "score": "44"
-          },
-          "away": {
-            "name": "TA&M",
-            "score": "20"
-          }
-        }
-      },
-      {
-        "matchup": "LOU @ CLEM",
-        "kickoff": "11/2/2024, 6:30:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "CLEM",
-            "score": "21"
-          },
-          "away": {
-            "name": "LOU",
-            "score": "33"
-          }
-        }
-      },
-      {
         "matchup": "UK @ TENN",
         "kickoff": "11/2/2024, 6:45:00 PM",
         "status": "Live: Q4",
@@ -226,6 +196,21 @@
         }
       },
       {
+        "matchup": "TA&M @ SC",
+        "kickoff": "11/2/2024, 6:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "SC",
+            "score": "44"
+          },
+          "away": {
+            "name": "TA&M",
+            "score": "20"
+          }
+        }
+      },
+      {
         "matchup": "TTU @ ISU",
         "kickoff": "11/2/2024, 2:30:00 PM",
         "status": "Final",
@@ -237,6 +222,21 @@
           "away": {
             "name": "TTU",
             "score": "23"
+          }
+        }
+      },
+      {
+        "matchup": "LOU @ CLEM",
+        "kickoff": "11/2/2024, 6:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "CLEM",
+            "score": "21"
+          },
+          "away": {
+            "name": "LOU",
+            "score": "33"
           }
         }
       },
