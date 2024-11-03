@@ -106,6 +106,21 @@
   "collegeFootball": {
     "games": [
       {
+        "matchup": "SDSU @ BOIS",
+        "kickoff": "11/1/2024, 7:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "BOIS",
+            "score": "56"
+          },
+          "away": {
+            "name": "SDSU",
+            "score": "24"
+          }
+        }
+      },
+      {
         "matchup": "ORE @ MICH",
         "kickoff": "11/2/2024, 2:30:00 PM",
         "status": "Final",
@@ -312,21 +327,6 @@
           "away": {
             "name": "MINN",
             "score": "25"
-          }
-        }
-      },
-      {
-        "matchup": "SDSU @ BOIS",
-        "kickoff": "11/1/2024, 7:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "BOIS",
-            "score": "56"
-          },
-          "away": {
-            "name": "SDSU",
-            "score": "24"
           }
         }
       }
