@@ -123,7 +123,7 @@
       {
         "matchup": "LOU @ CLEM",
         "kickoff": "11/2/2024, 6:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "CLEM",
@@ -161,7 +161,7 @@
           },
           "away": {
             "name": "PITT",
-            "score": "0"
+            "score": "3"
           }
         }
       },
