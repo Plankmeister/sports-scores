@@ -9,7 +9,7 @@
         "score": {
           "home": {
             "name": "ATL",
-            "score": "7"
+            "score": "14"
           },
           "away": {
             "name": "DAL",
@@ -28,7 +28,7 @@
           },
           "away": {
             "name": "MIA",
-            "score": "3"
+            "score": "10"
           }
         }
       },
@@ -54,7 +54,7 @@
         "score": {
           "home": {
             "name": "CLE",
-            "score": "0"
+            "score": "3"
           },
           "away": {
             "name": "LAC",
@@ -99,7 +99,7 @@
         "score": {
           "home": {
             "name": "CAR",
-            "score": "0"
+            "score": "7"
           },
           "away": {
             "name": "NO",
@@ -118,7 +118,7 @@
           },
           "away": {
             "name": "DEN",
-            "score": "0"
+            "score": "7"
           }
         }
       },
