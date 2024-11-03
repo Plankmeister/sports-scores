@@ -303,8 +303,17 @@
       {
         "matchup": "PITT @ SMU",
         "kickoff": "11/2/2024, 7:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "SMU",
+            "score": "0"
+          },
+          "away": {
+            "name": "PITT",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "SDSU @ BOIS",
