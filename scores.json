@@ -3,27 +3,6 @@
     "week": 9,
     "games": [
       {
-        "matchup": "TB @ KC",
-        "kickoff": "11/4/2024, 7:15:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "HOU @ NYJ",
-        "kickoff": "10/31/2024, 7:15:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "NYJ",
-            "score": "21"
-          },
-          "away": {
-            "name": "HOU",
-            "score": "13"
-          }
-        }
-      },
-      {
         "matchup": "DAL @ ATL",
         "kickoff": "11/3/2024, 12:00:00 PM",
         "status": "Final",
@@ -217,6 +196,27 @@
             "score": "13"
           }
         }
+      },
+      {
+        "matchup": "HOU @ NYJ",
+        "kickoff": "10/31/2024, 7:15:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "NYJ",
+            "score": "21"
+          },
+          "away": {
+            "name": "HOU",
+            "score": "13"
+          }
+        }
+      },
+      {
+        "matchup": "TB @ KC",
+        "kickoff": "11/4/2024, 7:15:00 PM",
+        "status": "Scheduled",
+        "score": null
       }
     ]
   },
