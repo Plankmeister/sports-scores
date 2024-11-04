@@ -185,8 +185,17 @@
       {
         "matchup": "IND @ MIN",
         "kickoff": "11/3/2024, 7:20:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MIN",
+            "score": "0"
+          },
+          "away": {
+            "name": "IND",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "HOU @ NYJ",
