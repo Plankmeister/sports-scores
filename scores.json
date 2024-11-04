@@ -3,6 +3,21 @@
     "week": 9,
     "games": [
       {
+        "matchup": "IND @ MIN",
+        "kickoff": "11/3/2024, 7:20:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MIN",
+            "score": "0"
+          },
+          "away": {
+            "name": "IND",
+            "score": "0"
+          }
+        }
+      },
+      {
         "matchup": "DAL @ ATL",
         "kickoff": "11/3/2024, 12:00:00 PM",
         "status": "Final",
@@ -179,21 +194,6 @@
           "away": {
             "name": "LAR",
             "score": "26"
-          }
-        }
-      },
-      {
-        "matchup": "IND @ MIN",
-        "kickoff": "11/3/2024, 7:20:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "MIN",
-            "score": "0"
-          },
-          "away": {
-            "name": "IND",
-            "score": "0"
           }
         }
       },
