@@ -3,21 +3,6 @@
     "week": 9,
     "games": [
       {
-        "matchup": "LAR @ SEA",
-        "kickoff": "11/3/2024, 3:25:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "SEA",
-            "score": "20"
-          },
-          "away": {
-            "name": "LAR",
-            "score": "26"
-          }
-        }
-      },
-      {
         "matchup": "DAL @ ATL",
         "kickoff": "11/3/2024, 12:00:00 PM",
         "status": "Final",
@@ -179,6 +164,21 @@
           "away": {
             "name": "DET",
             "score": "24"
+          }
+        }
+      },
+      {
+        "matchup": "LAR @ SEA",
+        "kickoff": "11/3/2024, 3:25:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "SEA",
+            "score": "20"
+          },
+          "away": {
+            "name": "LAR",
+            "score": "26"
           }
         }
       },
