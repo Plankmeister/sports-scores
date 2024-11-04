@@ -3,21 +3,6 @@
     "week": 9,
     "games": [
       {
-        "matchup": "JAX @ PHI",
-        "kickoff": "11/3/2024, 3:05:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "PHI",
-            "score": "28"
-          },
-          "away": {
-            "name": "JAX",
-            "score": "23"
-          }
-        }
-      },
-      {
         "matchup": "DET @ GB",
         "kickoff": "11/3/2024, 3:25:00 PM",
         "status": "Live: Q4",
@@ -164,6 +149,21 @@
           "away": {
             "name": "DEN",
             "score": "10"
+          }
+        }
+      },
+      {
+        "matchup": "JAX @ PHI",
+        "kickoff": "11/3/2024, 3:05:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "PHI",
+            "score": "28"
+          },
+          "away": {
+            "name": "JAX",
+            "score": "23"
           }
         }
       },
