@@ -3,21 +3,6 @@
     "week": 9,
     "games": [
       {
-        "matchup": "TB @ KC",
-        "kickoff": "11/4/2024, 7:15:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "KC",
-            "score": "30"
-          },
-          "away": {
-            "name": "TB",
-            "score": "24"
-          }
-        }
-      },
-      {
         "matchup": "HOU @ NYJ",
         "kickoff": "10/31/2024, 7:15:00 PM",
         "status": "Final",
@@ -224,6 +209,21 @@
           "away": {
             "name": "IND",
             "score": "13"
+          }
+        }
+      },
+      {
+        "matchup": "TB @ KC",
+        "kickoff": "11/4/2024, 7:15:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "KC",
+            "score": "30"
+          },
+          "away": {
+            "name": "TB",
+            "score": "24"
           }
         }
       }
