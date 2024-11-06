@@ -232,12 +232,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "FLA @ TEX",
-        "kickoff": "11/9/2024, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
         "matchup": "PUR @ OSU",
         "kickoff": "11/9/2024, 11:00:00 AM",
         "status": "Scheduled",
@@ -245,6 +239,12 @@
       },
       {
         "matchup": "MIA @ GT",
+        "kickoff": "11/9/2024, 11:00:00 AM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "FLA @ TEX",
         "kickoff": "11/9/2024, 11:00:00 AM",
         "status": "Scheduled",
         "score": null
@@ -262,7 +262,7 @@
         "score": null
       },
       {
-        "matchup": "ARMY @ UNT",
+        "matchup": "ISU @ KU",
         "kickoff": "11/9/2024, 2:30:00 PM",
         "status": "Scheduled",
         "score": null
@@ -274,7 +274,7 @@
         "score": null
       },
       {
-        "matchup": "ISU @ KU",
+        "matchup": "ARMY @ UNT",
         "kickoff": "11/9/2024, 2:30:00 PM",
         "status": "Scheduled",
         "score": null
@@ -286,8 +286,8 @@
         "score": null
       },
       {
-        "matchup": "SC @ VAN",
-        "kickoff": "11/9/2024, 3:15:00 PM",
+        "matchup": "MD @ ORE",
+        "kickoff": "11/9/2024, 6:00:00 PM",
         "status": "Scheduled",
         "score": null
       },
@@ -298,8 +298,8 @@
         "score": null
       },
       {
-        "matchup": "MD @ ORE",
-        "kickoff": "11/9/2024, 6:00:00 PM",
+        "matchup": "FSU @ ND",
+        "kickoff": "11/9/2024, 6:30:00 PM",
         "status": "Scheduled",
         "score": null
       },
@@ -310,8 +310,8 @@
         "score": null
       },
       {
-        "matchup": "FSU @ ND",
-        "kickoff": "11/9/2024, 6:30:00 PM",
+        "matchup": "OU @ MIZ",
+        "kickoff": "11/9/2024, 6:45:00 PM",
         "status": "Scheduled",
         "score": null
       },
@@ -322,13 +322,13 @@
         "score": null
       },
       {
-        "matchup": "UVA @ PITT",
+        "matchup": "NEV @ BOIS",
         "kickoff": "11/9/2024, 7:00:00 PM",
         "status": "Scheduled",
         "score": null
       },
       {
-        "matchup": "NEV @ BOIS",
+        "matchup": "UVA @ PITT",
         "kickoff": "11/9/2024, 7:00:00 PM",
         "status": "Scheduled",
         "score": null
