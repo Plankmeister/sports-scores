@@ -106,7 +106,7 @@
         "score": {
           "home": {
             "name": "MISS",
-            "score": "22"
+            "score": "25"
           },
           "away": {
             "name": "UGA",
@@ -121,7 +121,7 @@
         "score": {
           "home": {
             "name": "IU",
-            "score": "17"
+            "score": "20"
           },
           "away": {
             "name": "MICH",
@@ -170,14 +170,14 @@
           },
           "away": {
             "name": "CLEM",
-            "score": "21"
+            "score": "24"
           }
         }
       },
       {
         "matchup": "COLO @ TTU",
         "kickoff": "11/9/2024, 3:00:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "TTU",
