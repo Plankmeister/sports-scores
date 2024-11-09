@@ -102,7 +102,7 @@
       {
         "matchup": "MIA @ GT",
         "kickoff": "11/9/2024, 11:00:00 AM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "GT",
@@ -140,7 +140,7 @@
           },
           "away": {
             "name": "ISU",
-            "score": "0"
+            "score": "7"
           }
         }
       },
@@ -151,7 +151,7 @@
         "score": {
           "home": {
             "name": "UNT",
-            "score": "0"
+            "score": "3"
           },
           "away": {
             "name": "ARMY",
