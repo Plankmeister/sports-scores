@@ -100,17 +100,17 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "MIA @ GT",
-        "kickoff": "11/9/2024, 11:00:00 AM",
-        "status": "Final",
+        "matchup": "UGA @ MISS",
+        "kickoff": "11/9/2024, 2:30:00 PM",
+        "status": "Live: Q1",
         "score": {
           "home": {
-            "name": "GT",
-            "score": "28"
+            "name": "MISS",
+            "score": "0"
           },
           "away": {
-            "name": "MIA",
-            "score": "23"
+            "name": "UGA",
+            "score": "7"
           }
         }
       },
@@ -190,6 +190,21 @@
         }
       },
       {
+        "matchup": "MIA @ GT",
+        "kickoff": "11/9/2024, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "GT",
+            "score": "28"
+          },
+          "away": {
+            "name": "MIA",
+            "score": "23"
+          }
+        }
+      },
+      {
         "matchup": "FLA @ TEX",
         "kickoff": "11/9/2024, 11:00:00 AM",
         "status": "Final",
@@ -201,21 +216,6 @@
           "away": {
             "name": "FLA",
             "score": "17"
-          }
-        }
-      },
-      {
-        "matchup": "UGA @ MISS",
-        "kickoff": "11/9/2024, 2:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "MISS",
-            "score": "0"
-          },
-          "away": {
-            "name": "UGA",
-            "score": "0"
           }
         }
       },
