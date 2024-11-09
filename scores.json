@@ -100,21 +100,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "PUR @ OSU",
-        "kickoff": "11/9/2024, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "OSU",
-            "score": "45"
-          },
-          "away": {
-            "name": "PUR",
-            "score": "0"
-          }
-        }
-      },
-      {
         "matchup": "MIA @ GT",
         "kickoff": "11/9/2024, 11:00:00 AM",
         "status": "Live: Q4",
@@ -125,7 +110,7 @@
           },
           "away": {
             "name": "MIA",
-            "score": "16"
+            "score": "23"
           }
         }
       },
@@ -141,6 +126,21 @@
           "away": {
             "name": "FLA",
             "score": "17"
+          }
+        }
+      },
+      {
+        "matchup": "PUR @ OSU",
+        "kickoff": "11/9/2024, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "OSU",
+            "score": "45"
+          },
+          "away": {
+            "name": "PUR",
+            "score": "0"
           }
         }
       },
