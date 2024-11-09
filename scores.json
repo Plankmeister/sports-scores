@@ -106,7 +106,7 @@
         "score": {
           "home": {
             "name": "GT",
-            "score": "6"
+            "score": "7"
           },
           "away": {
             "name": "MIA",
@@ -132,8 +132,17 @@
       {
         "matchup": "PUR @ OSU",
         "kickoff": "11/9/2024, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "OSU",
+            "score": "0"
+          },
+          "away": {
+            "name": "PUR",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "UGA @ MISS",
