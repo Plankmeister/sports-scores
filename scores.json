@@ -102,11 +102,11 @@
       {
         "matchup": "PUR @ OSU",
         "kickoff": "11/9/2024, 11:00:00 AM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "OSU",
-            "score": "38"
+            "score": "44"
           },
           "away": {
             "name": "PUR",
@@ -140,7 +140,7 @@
           },
           "away": {
             "name": "FLA",
-            "score": "3"
+            "score": "10"
           }
         }
       },
