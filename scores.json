@@ -115,46 +115,19 @@
         }
       },
       {
-        "matchup": "FLA @ TEX",
-        "kickoff": "11/9/2024, 11:00:00 AM",
-        "status": "Final",
+        "matchup": "MICH @ IU",
+        "kickoff": "11/9/2024, 2:30:00 PM",
+        "status": "Live: Q1",
         "score": {
           "home": {
-            "name": "TEX",
-            "score": "49"
+            "name": "IU",
+            "score": "0"
           },
           "away": {
-            "name": "FLA",
-            "score": "17"
-          }
-        }
-      },
-      {
-        "matchup": "PUR @ OSU",
-        "kickoff": "11/9/2024, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "OSU",
-            "score": "45"
-          },
-          "away": {
-            "name": "PUR",
+            "name": "MICH",
             "score": "0"
           }
         }
-      },
-      {
-        "matchup": "UGA @ MISS",
-        "kickoff": "11/9/2024, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "MICH @ IU",
-        "kickoff": "11/9/2024, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
       },
       {
         "matchup": "ISU @ KU",
@@ -167,6 +140,21 @@
           },
           "away": {
             "name": "ISU",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "ARMY @ UNT",
+        "kickoff": "11/9/2024, 2:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "UNT",
+            "score": "0"
+          },
+          "away": {
+            "name": "ARMY",
             "score": "0"
           }
         }
@@ -187,19 +175,40 @@
         }
       },
       {
-        "matchup": "ARMY @ UNT",
-        "kickoff": "11/9/2024, 2:30:00 PM",
-        "status": "Live: Q1",
+        "matchup": "PUR @ OSU",
+        "kickoff": "11/9/2024, 11:00:00 AM",
+        "status": "Final",
         "score": {
           "home": {
-            "name": "UNT",
-            "score": "0"
+            "name": "OSU",
+            "score": "45"
           },
           "away": {
-            "name": "ARMY",
+            "name": "PUR",
             "score": "0"
           }
         }
+      },
+      {
+        "matchup": "FLA @ TEX",
+        "kickoff": "11/9/2024, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "TEX",
+            "score": "49"
+          },
+          "away": {
+            "name": "FLA",
+            "score": "17"
+          }
+        }
+      },
+      {
+        "matchup": "UGA @ MISS",
+        "kickoff": "11/9/2024, 2:30:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
         "matchup": "COLO @ TTU",
