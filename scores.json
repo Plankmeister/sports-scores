@@ -106,7 +106,7 @@
         "score": {
           "home": {
             "name": "MISS",
-            "score": "16"
+            "score": "22"
           },
           "away": {
             "name": "UGA",
@@ -125,7 +125,7 @@
           },
           "away": {
             "name": "MICH",
-            "score": "3"
+            "score": "6"
           }
         }
       },
@@ -140,14 +140,14 @@
           },
           "away": {
             "name": "ISU",
-            "score": "13"
+            "score": "20"
           }
         }
       },
       {
         "matchup": "ARMY @ UNT",
         "kickoff": "11/9/2024, 2:30:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "UNT",
@@ -177,7 +177,7 @@
       {
         "matchup": "COLO @ TTU",
         "kickoff": "11/9/2024, 3:00:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "TTU",
