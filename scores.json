@@ -117,7 +117,7 @@
       {
         "matchup": "MIA @ GT",
         "kickoff": "11/9/2024, 11:00:00 AM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "GT",
@@ -132,11 +132,11 @@
       {
         "matchup": "FLA @ TEX",
         "kickoff": "11/9/2024, 11:00:00 AM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "TEX",
-            "score": "42"
+            "score": "49"
           },
           "away": {
             "name": "FLA",
