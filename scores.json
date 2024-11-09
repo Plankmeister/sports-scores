@@ -136,7 +136,7 @@
         "score": {
           "home": {
             "name": "KU",
-            "score": "0"
+            "score": "7"
           },
           "away": {
             "name": "ISU",
@@ -207,8 +207,17 @@
       {
         "matchup": "UGA @ MISS",
         "kickoff": "11/9/2024, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MISS",
+            "score": "0"
+          },
+          "away": {
+            "name": "UGA",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "COLO @ TTU",
