@@ -3,6 +3,51 @@
     "week": 10,
     "games": [
       {
+        "matchup": "PIT @ WSH",
+        "kickoff": "11/10/2024, 12:00:00 PM",
+        "status": "Live: Q4",
+        "score": {
+          "home": {
+            "name": "WSH",
+            "score": "27"
+          },
+          "away": {
+            "name": "PIT",
+            "score": "28"
+          }
+        }
+      },
+      {
+        "matchup": "TEN @ LAC",
+        "kickoff": "11/10/2024, 3:05:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "LAC",
+            "score": "0"
+          },
+          "away": {
+            "name": "TEN",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "NYG VS CAR",
+        "kickoff": "11/10/2024, 8:30:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "CAR",
+            "score": "20"
+          },
+          "away": {
+            "name": "NYG",
+            "score": "17"
+          }
+        }
+      },
+      {
         "matchup": "NE @ CHI",
         "kickoff": "11/10/2024, 12:00:00 PM",
         "status": "Final",
@@ -29,6 +74,21 @@
           "away": {
             "name": "BUF",
             "score": "30"
+          }
+        }
+      },
+      {
+        "matchup": "DEN @ KC",
+        "kickoff": "11/10/2024, 12:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "KC",
+            "score": "16"
+          },
+          "away": {
+            "name": "DEN",
+            "score": "14"
           }
         }
       },
@@ -63,21 +123,6 @@
         }
       },
       {
-        "matchup": "PIT @ WSH",
-        "kickoff": "11/10/2024, 12:00:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "WSH",
-            "score": "27"
-          },
-          "away": {
-            "name": "PIT",
-            "score": "28"
-          }
-        }
-      },
-      {
         "matchup": "MIN @ JAX",
         "kickoff": "11/10/2024, 12:00:00 PM",
         "status": "Final",
@@ -89,51 +134,6 @@
           "away": {
             "name": "MIN",
             "score": "12"
-          }
-        }
-      },
-      {
-        "matchup": "NYG VS CAR",
-        "kickoff": "11/10/2024, 8:30:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "CAR",
-            "score": "20"
-          },
-          "away": {
-            "name": "NYG",
-            "score": "17"
-          }
-        }
-      },
-      {
-        "matchup": "DEN @ KC",
-        "kickoff": "11/10/2024, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "KC",
-            "score": "16"
-          },
-          "away": {
-            "name": "DEN",
-            "score": "14"
-          }
-        }
-      },
-      {
-        "matchup": "TEN @ LAC",
-        "kickoff": "11/10/2024, 3:05:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "LAC",
-            "score": "0"
-          },
-          "away": {
-            "name": "TEN",
-            "score": "0"
           }
         }
       },
