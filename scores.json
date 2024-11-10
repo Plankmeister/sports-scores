@@ -100,36 +100,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "BYU @ UTAH",
-        "kickoff": "11/9/2024, 9:15:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "UTAH",
-            "score": "21"
-          },
-          "away": {
-            "name": "BYU",
-            "score": "22"
-          }
-        }
-      },
-      {
-        "matchup": "USU @ WSU",
-        "kickoff": "11/9/2024, 9:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "WSU",
-            "score": "49"
-          },
-          "away": {
-            "name": "USU",
-            "score": "28"
-          }
-        }
-      },
-      {
         "matchup": "MD @ ORE",
         "kickoff": "11/9/2024, 6:00:00 PM",
         "status": "Final",
@@ -250,6 +220,21 @@
         }
       },
       {
+        "matchup": "BYU @ UTAH",
+        "kickoff": "11/9/2024, 9:15:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "UTAH",
+            "score": "21"
+          },
+          "away": {
+            "name": "BYU",
+            "score": "22"
+          }
+        }
+      },
+      {
         "matchup": "FSU @ ND",
         "kickoff": "11/9/2024, 6:30:00 PM",
         "status": "Final",
@@ -336,6 +321,21 @@
           "away": {
             "name": "COLO",
             "score": "41"
+          }
+        }
+      },
+      {
+        "matchup": "USU @ WSU",
+        "kickoff": "11/9/2024, 9:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "WSU",
+            "score": "49"
+          },
+          "away": {
+            "name": "USU",
+            "score": "28"
           }
         }
       },
