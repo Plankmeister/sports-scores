@@ -20,11 +20,11 @@
       {
         "matchup": "BUF @ IND",
         "kickoff": "11/10/2024, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "IND",
-            "score": "13"
+            "score": "20"
           },
           "away": {
             "name": "BUF",
@@ -73,14 +73,14 @@
           },
           "away": {
             "name": "PIT",
-            "score": "21"
+            "score": "28"
           }
         }
       },
       {
         "matchup": "MIN @ JAX",
         "kickoff": "11/10/2024, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "JAX",
@@ -125,8 +125,17 @@
       {
         "matchup": "TEN @ LAC",
         "kickoff": "11/10/2024, 3:05:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "LAC",
+            "score": "0"
+          },
+          "away": {
+            "name": "TEN",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "PHI @ DAL",
