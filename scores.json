@@ -110,7 +110,7 @@
           },
           "away": {
             "name": "COLO",
-            "score": "34"
+            "score": "41"
           }
         }
       },
@@ -121,7 +121,7 @@
         "score": {
           "home": {
             "name": "ORE",
-            "score": "7"
+            "score": "14"
           },
           "away": {
             "name": "MD",
@@ -282,8 +282,17 @@
       {
         "matchup": "ALA @ LSU",
         "kickoff": "11/9/2024, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "LSU",
+            "score": "0"
+          },
+          "away": {
+            "name": "ALA",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "OU @ MIZ",
