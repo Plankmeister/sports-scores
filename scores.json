@@ -267,8 +267,17 @@
       {
         "matchup": "FSU @ ND",
         "kickoff": "11/9/2024, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ND",
+            "score": "0"
+          },
+          "away": {
+            "name": "FSU",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "ALA @ LSU",
