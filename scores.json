@@ -100,21 +100,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "FSU @ ND",
-        "kickoff": "11/9/2024, 6:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "ND",
-            "score": "52"
-          },
-          "away": {
-            "name": "FSU",
-            "score": "3"
-          }
-        }
-      },
-      {
         "matchup": "ALA @ LSU",
         "kickoff": "11/9/2024, 6:30:00 PM",
         "status": "Live: Q4",
@@ -141,21 +126,6 @@
           "away": {
             "name": "OU",
             "score": "23"
-          }
-        }
-      },
-      {
-        "matchup": "WASH @ PSU",
-        "kickoff": "11/9/2024, 7:00:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "PSU",
-            "score": "35"
-          },
-          "away": {
-            "name": "WASH",
-            "score": "6"
           }
         }
       },
@@ -196,7 +166,7 @@
         "score": {
           "home": {
             "name": "UTAH",
-            "score": "0"
+            "score": "7"
           },
           "away": {
             "name": "BYU",
@@ -295,6 +265,21 @@
         }
       },
       {
+        "matchup": "WASH @ PSU",
+        "kickoff": "11/9/2024, 7:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "PSU",
+            "score": "35"
+          },
+          "away": {
+            "name": "WASH",
+            "score": "6"
+          }
+        }
+      },
+      {
         "matchup": "MSST @ TENN",
         "kickoff": "11/9/2024, 6:00:00 PM",
         "status": "Final",
@@ -321,6 +306,21 @@
           "away": {
             "name": "MICH",
             "score": "15"
+          }
+        }
+      },
+      {
+        "matchup": "FSU @ ND",
+        "kickoff": "11/9/2024, 6:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "ND",
+            "score": "52"
+          },
+          "away": {
+            "name": "FSU",
+            "score": "3"
           }
         }
       },
