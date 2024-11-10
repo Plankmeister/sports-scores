@@ -5,7 +5,7 @@
       {
         "matchup": "NE @ CHI",
         "kickoff": "11/10/2024, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "CHI",
@@ -35,7 +35,7 @@
       {
         "matchup": "ATL @ NO",
         "kickoff": "11/10/2024, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "NO",
@@ -50,7 +50,7 @@
       {
         "matchup": "SF @ TB",
         "kickoff": "11/10/2024, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "TB",
@@ -58,7 +58,7 @@
           },
           "away": {
             "name": "SF",
-            "score": "20"
+            "score": "23"
           }
         }
       },
