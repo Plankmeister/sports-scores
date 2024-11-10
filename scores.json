@@ -106,7 +106,7 @@
         "score": {
           "home": {
             "name": "ORE",
-            "score": "14"
+            "score": "20"
           },
           "away": {
             "name": "MD",
@@ -125,7 +125,7 @@
           },
           "away": {
             "name": "MSST",
-            "score": "0"
+            "score": "7"
           }
         }
       },
@@ -162,7 +162,7 @@
       {
         "matchup": "OU @ MIZ",
         "kickoff": "11/9/2024, 6:45:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "MIZ",
@@ -170,7 +170,7 @@
           },
           "away": {
             "name": "OU",
-            "score": "0"
+            "score": "3"
           }
         }
       },
@@ -181,7 +181,7 @@
         "score": {
           "home": {
             "name": "PSU",
-            "score": "6"
+            "score": "7"
           },
           "away": {
             "name": "WASH",
@@ -196,7 +196,7 @@
         "score": {
           "home": {
             "name": "BOIS",
-            "score": "7"
+            "score": "14"
           },
           "away": {
             "name": "NEV",
