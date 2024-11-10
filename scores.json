@@ -100,51 +100,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "UGA @ MISS",
-        "kickoff": "11/9/2024, 2:30:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "MISS",
-            "score": "28"
-          },
-          "away": {
-            "name": "UGA",
-            "score": "10"
-          }
-        }
-      },
-      {
-        "matchup": "MICH @ IU",
-        "kickoff": "11/9/2024, 2:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "IU",
-            "score": "20"
-          },
-          "away": {
-            "name": "MICH",
-            "score": "15"
-          }
-        }
-      },
-      {
-        "matchup": "CLEM @ VT",
-        "kickoff": "11/9/2024, 2:35:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "VT",
-            "score": "14"
-          },
-          "away": {
-            "name": "CLEM",
-            "score": "24"
-          }
-        }
-      },
-      {
         "matchup": "COLO @ TTU",
         "kickoff": "11/9/2024, 3:00:00 PM",
         "status": "Live: Q4",
@@ -155,7 +110,22 @@
           },
           "away": {
             "name": "COLO",
-            "score": "31"
+            "score": "34"
+          }
+        }
+      },
+      {
+        "matchup": "MD @ ORE",
+        "kickoff": "11/9/2024, 6:00:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ORE",
+            "score": "0"
+          },
+          "away": {
+            "name": "MD",
+            "score": "3"
           }
         }
       },
@@ -171,6 +141,21 @@
           "away": {
             "name": "PUR",
             "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "UGA @ MISS",
+        "kickoff": "11/9/2024, 2:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "MISS",
+            "score": "28"
+          },
+          "away": {
+            "name": "UGA",
+            "score": "10"
           }
         }
       },
@@ -205,6 +190,21 @@
         }
       },
       {
+        "matchup": "MICH @ IU",
+        "kickoff": "11/9/2024, 2:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "IU",
+            "score": "20"
+          },
+          "away": {
+            "name": "MICH",
+            "score": "15"
+          }
+        }
+      },
+      {
         "matchup": "ISU @ KU",
         "kickoff": "11/9/2024, 2:30:00 PM",
         "status": "Final",
@@ -220,6 +220,21 @@
         }
       },
       {
+        "matchup": "CLEM @ VT",
+        "kickoff": "11/9/2024, 2:35:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "VT",
+            "score": "14"
+          },
+          "away": {
+            "name": "CLEM",
+            "score": "24"
+          }
+        }
+      },
+      {
         "matchup": "ARMY @ UNT",
         "kickoff": "11/9/2024, 2:30:00 PM",
         "status": "Final",
@@ -231,21 +246,6 @@
           "away": {
             "name": "ARMY",
             "score": "14"
-          }
-        }
-      },
-      {
-        "matchup": "MD @ ORE",
-        "kickoff": "11/9/2024, 6:00:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "ORE",
-            "score": "0"
-          },
-          "away": {
-            "name": "MD",
-            "score": "0"
           }
         }
       },
