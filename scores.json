@@ -28,7 +28,7 @@
           },
           "away": {
             "name": "BUF",
-            "score": "17"
+            "score": "20"
           }
         }
       },
@@ -65,7 +65,7 @@
       {
         "matchup": "SF @ TB",
         "kickoff": "11/10/2024, 12:00:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "TB",
@@ -84,7 +84,7 @@
         "score": {
           "home": {
             "name": "WSH",
-            "score": "10"
+            "score": "17"
           },
           "away": {
             "name": "PIT",
@@ -95,7 +95,7 @@
       {
         "matchup": "MIN @ JAX",
         "kickoff": "11/10/2024, 12:00:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "JAX",
