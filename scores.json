@@ -100,21 +100,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "COLO @ TTU",
-        "kickoff": "11/9/2024, 3:00:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "TTU",
-            "score": "27"
-          },
-          "away": {
-            "name": "COLO",
-            "score": "41"
-          }
-        }
-      },
-      {
         "matchup": "MD @ ORE",
         "kickoff": "11/9/2024, 6:00:00 PM",
         "status": "Live: Q2",
@@ -155,6 +140,36 @@
           },
           "away": {
             "name": "FSU",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "ALA @ LSU",
+        "kickoff": "11/9/2024, 6:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "LSU",
+            "score": "0"
+          },
+          "away": {
+            "name": "ALA",
+            "score": "7"
+          }
+        }
+      },
+      {
+        "matchup": "OU @ MIZ",
+        "kickoff": "11/9/2024, 6:45:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MIZ",
+            "score": "0"
+          },
+          "away": {
+            "name": "OU",
             "score": "0"
           }
         }
@@ -250,6 +265,21 @@
         }
       },
       {
+        "matchup": "COLO @ TTU",
+        "kickoff": "11/9/2024, 3:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "TTU",
+            "score": "27"
+          },
+          "away": {
+            "name": "COLO",
+            "score": "41"
+          }
+        }
+      },
+      {
         "matchup": "CLEM @ VT",
         "kickoff": "11/9/2024, 2:35:00 PM",
         "status": "Final",
@@ -280,27 +310,6 @@
         }
       },
       {
-        "matchup": "ALA @ LSU",
-        "kickoff": "11/9/2024, 6:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "LSU",
-            "score": "0"
-          },
-          "away": {
-            "name": "ALA",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "OU @ MIZ",
-        "kickoff": "11/9/2024, 6:45:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
         "matchup": "WASH @ PSU",
         "kickoff": "11/9/2024, 7:00:00 PM",
         "status": "Scheduled",
@@ -309,8 +318,17 @@
       {
         "matchup": "NEV @ BOIS",
         "kickoff": "11/9/2024, 7:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "BOIS",
+            "score": "0"
+          },
+          "away": {
+            "name": "NEV",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "UVA @ PITT",
