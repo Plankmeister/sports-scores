@@ -28,7 +28,7 @@
           },
           "away": {
             "name": "BUF",
-            "score": "20"
+            "score": "23"
           }
         }
       },
@@ -73,7 +73,7 @@
           },
           "away": {
             "name": "SF",
-            "score": "13"
+            "score": "19"
           }
         }
       },
@@ -84,7 +84,7 @@
         "score": {
           "home": {
             "name": "WSH",
-            "score": "24"
+            "score": "27"
           },
           "away": {
             "name": "PIT",
