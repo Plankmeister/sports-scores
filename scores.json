@@ -3,21 +3,6 @@
     "week": 10,
     "games": [
       {
-        "matchup": "MIA @ LAR",
-        "kickoff": "11/11/2024, 7:15:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "LAR",
-            "score": "15"
-          },
-          "away": {
-            "name": "MIA",
-            "score": "23"
-          }
-        }
-      },
-      {
         "matchup": "CIN @ BAL",
         "kickoff": "11/7/2024, 7:15:00 PM",
         "status": "Final",
@@ -209,6 +194,21 @@
           "away": {
             "name": "DET",
             "score": "26"
+          }
+        }
+      },
+      {
+        "matchup": "MIA @ LAR",
+        "kickoff": "11/11/2024, 7:15:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "LAR",
+            "score": "15"
+          },
+          "away": {
+            "name": "MIA",
+            "score": "23"
           }
         }
       }
