@@ -229,13 +229,19 @@
         "score": null
       },
       {
+        "matchup": "UTAH @ COLO",
+        "kickoff": "11/16/2024, 11:00:00 AM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
         "matchup": "CLEM @ PITT",
         "kickoff": "11/16/2024, 11:00:00 AM",
         "status": "Scheduled",
         "score": null
       },
       {
-        "matchup": "UTAH @ COLO",
+        "matchup": "TULN @ NAVY",
         "kickoff": "11/16/2024, 11:00:00 AM",
         "status": "Scheduled",
         "score": null
@@ -265,13 +271,13 @@
         "score": null
       },
       {
-        "matchup": "LSU @ FLA",
+        "matchup": "LOU @ STAN",
         "kickoff": "11/16/2024, 2:30:00 PM",
         "status": "Scheduled",
         "score": null
       },
       {
-        "matchup": "LOU @ STAN",
+        "matchup": "LSU @ FLA",
         "kickoff": "11/16/2024, 2:30:00 PM",
         "status": "Scheduled",
         "score": null
@@ -309,12 +315,6 @@
       {
         "matchup": "NMSU @ TA&M",
         "kickoff": "11/16/2024, 6:45:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "CIN @ ISU",
-        "kickoff": "11/16/2024, 7:00:00 PM",
         "status": "Scheduled",
         "score": null
       },
