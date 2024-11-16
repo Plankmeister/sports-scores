@@ -100,21 +100,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "MER @ ALA",
-        "kickoff": "11/16/2024, 1:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "ALA",
-            "score": "52"
-          },
-          "away": {
-            "name": "MER",
-            "score": "7"
-          }
-        }
-      },
-      {
         "matchup": "PSU @ PUR",
         "kickoff": "11/16/2024, 2:30:00 PM",
         "status": "Live: Q2",
@@ -151,7 +136,7 @@
         "score": {
           "home": {
             "name": "SMU",
-            "score": "17"
+            "score": "20"
           },
           "away": {
             "name": "BC",
@@ -231,6 +216,21 @@
           "away": {
             "name": "TEX",
             "score": "20"
+          }
+        }
+      },
+      {
+        "matchup": "MER @ ALA",
+        "kickoff": "11/16/2024, 1:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "ALA",
+            "score": "52"
+          },
+          "away": {
+            "name": "MER",
+            "score": "7"
           }
         }
       },
