@@ -110,14 +110,14 @@
           },
           "away": {
             "name": "OSU",
-            "score": "21"
+            "score": "28"
           }
         }
       },
       {
         "matchup": "TEX @ ARK",
         "kickoff": "11/16/2024, 11:00:00 AM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "ARK",
@@ -155,14 +155,14 @@
           },
           "away": {
             "name": "CLEM",
-            "score": "14"
+            "score": "17"
           }
         }
       },
       {
         "matchup": "TULN @ NAVY",
         "kickoff": "11/16/2024, 11:00:00 AM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "NAVY",
