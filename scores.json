@@ -106,7 +106,7 @@
         "score": {
           "home": {
             "name": "COLO",
-            "score": "42"
+            "score": "49"
           },
           "away": {
             "name": "UTAH",
@@ -198,8 +198,17 @@
       {
         "matchup": "UVA @ ND",
         "kickoff": "11/16/2024, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ND",
+            "score": "0"
+          },
+          "away": {
+            "name": "UVA",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "BC @ SMU",
