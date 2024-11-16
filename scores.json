@@ -100,21 +100,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "OSU @ NU",
-        "kickoff": "11/16/2024, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "NU",
-            "score": "7"
-          },
-          "away": {
-            "name": "OSU",
-            "score": "31"
-          }
-        }
-      },
-      {
         "matchup": "TEX @ ARK",
         "kickoff": "11/16/2024, 11:00:00 AM",
         "status": "Live: Q4",
@@ -181,11 +166,26 @@
         "score": {
           "home": {
             "name": "ALA",
-            "score": "27"
+            "score": "28"
           },
           "away": {
             "name": "MER",
             "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "OSU @ NU",
+        "kickoff": "11/16/2024, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "NU",
+            "score": "7"
+          },
+          "away": {
+            "name": "OSU",
+            "score": "31"
           }
         }
       },
