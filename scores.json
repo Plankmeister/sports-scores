@@ -110,7 +110,7 @@
           },
           "away": {
             "name": "OSU",
-            "score": "6"
+            "score": "7"
           }
         }
       },
@@ -125,14 +125,14 @@
           },
           "away": {
             "name": "TEX",
-            "score": "7"
+            "score": "10"
           }
         }
       },
       {
         "matchup": "UTAH @ COLO",
         "kickoff": "11/16/2024, 11:00:00 AM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "COLO",
