@@ -155,18 +155,18 @@
           },
           "away": {
             "name": "LOU",
-            "score": "34"
+            "score": "35"
           }
         }
       },
       {
         "matchup": "LSU @ FLA",
         "kickoff": "11/16/2024, 2:30:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "FLA",
-            "score": "13"
+            "score": "20"
           },
           "away": {
             "name": "LSU",
