@@ -102,7 +102,7 @@
       {
         "matchup": "CLEM @ PITT",
         "kickoff": "11/16/2024, 11:00:00 AM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "PITT",
@@ -121,7 +121,7 @@
         "score": {
           "home": {
             "name": "ALA",
-            "score": "37"
+            "score": "38"
           },
           "away": {
             "name": "MER",
@@ -166,7 +166,7 @@
         "score": {
           "home": {
             "name": "SMU",
-            "score": "0"
+            "score": "7"
           },
           "away": {
             "name": "BC",
@@ -181,7 +181,7 @@
         "score": {
           "home": {
             "name": "STAN",
-            "score": "3"
+            "score": "9"
           },
           "away": {
             "name": "LOU",
