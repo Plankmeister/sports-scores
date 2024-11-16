@@ -100,21 +100,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "CLEM @ PITT",
-        "kickoff": "11/16/2024, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "PITT",
-            "score": "20"
-          },
-          "away": {
-            "name": "CLEM",
-            "score": "24"
-          }
-        }
-      },
-      {
         "matchup": "MER @ ALA",
         "kickoff": "11/16/2024, 1:00:00 PM",
         "status": "Live: Q3",
@@ -147,7 +132,7 @@
       {
         "matchup": "UVA @ ND",
         "kickoff": "11/16/2024, 2:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "ND",
@@ -185,7 +170,7 @@
           },
           "away": {
             "name": "LOU",
-            "score": "0"
+            "score": "7"
           }
         }
       },
@@ -245,6 +230,21 @@
           },
           "away": {
             "name": "UTAH",
+            "score": "24"
+          }
+        }
+      },
+      {
+        "matchup": "CLEM @ PITT",
+        "kickoff": "11/16/2024, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "PITT",
+            "score": "20"
+          },
+          "away": {
+            "name": "CLEM",
             "score": "24"
           }
         }
