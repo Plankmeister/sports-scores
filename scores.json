@@ -117,7 +117,7 @@
       {
         "matchup": "TEX @ ARK",
         "kickoff": "11/16/2024, 11:00:00 AM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "ARK",
@@ -140,7 +140,7 @@
           },
           "away": {
             "name": "UTAH",
-            "score": "9"
+            "score": "16"
           }
         }
       },
@@ -162,7 +162,7 @@
       {
         "matchup": "TULN @ NAVY",
         "kickoff": "11/16/2024, 11:00:00 AM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "NAVY",
@@ -181,7 +181,7 @@
         "score": {
           "home": {
             "name": "ALA",
-            "score": "7"
+            "score": "14"
           },
           "away": {
             "name": "MER",
