@@ -132,11 +132,11 @@
       {
         "matchup": "UTAH @ COLO",
         "kickoff": "11/16/2024, 11:00:00 AM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "COLO",
-            "score": "28"
+            "score": "34"
           },
           "away": {
             "name": "UTAH",
@@ -170,7 +170,7 @@
           },
           "away": {
             "name": "TULN",
-            "score": "28"
+            "score": "35"
           }
         }
       },
@@ -181,7 +181,7 @@
         "score": {
           "home": {
             "name": "ALA",
-            "score": "14"
+            "score": "21"
           },
           "away": {
             "name": "MER",
