@@ -102,8 +102,17 @@
       {
         "matchup": "OSU @ NU",
         "kickoff": "11/16/2024, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "NU",
+            "score": "0"
+          },
+          "away": {
+            "name": "OSU",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "TEX @ ARK",
