@@ -102,7 +102,7 @@
       {
         "matchup": "MER @ ALA",
         "kickoff": "11/16/2024, 1:00:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "ALA",
@@ -177,7 +177,7 @@
       {
         "matchup": "LSU @ FLA",
         "kickoff": "11/16/2024, 2:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "FLA",
@@ -186,6 +186,21 @@
           "away": {
             "name": "LSU",
             "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "MIZ @ SC",
+        "kickoff": "11/16/2024, 3:15:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "SC",
+            "score": "0"
+          },
+          "away": {
+            "name": "MIZ",
+            "score": "3"
           }
         }
       },
@@ -261,21 +276,6 @@
           "away": {
             "name": "TULN",
             "score": "35"
-          }
-        }
-      },
-      {
-        "matchup": "MIZ @ SC",
-        "kickoff": "11/16/2024, 3:15:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "SC",
-            "score": "0"
-          },
-          "away": {
-            "name": "MIZ",
-            "score": "3"
           }
         }
       },
