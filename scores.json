@@ -106,11 +106,11 @@
         "score": {
           "home": {
             "name": "PITT",
-            "score": "17"
+            "score": "20"
           },
           "away": {
             "name": "CLEM",
-            "score": "17"
+            "score": "24"
           }
         }
       },
@@ -121,7 +121,7 @@
         "score": {
           "home": {
             "name": "ALA",
-            "score": "31"
+            "score": "37"
           },
           "away": {
             "name": "MER",
@@ -140,7 +140,7 @@
           },
           "away": {
             "name": "PSU",
-            "score": "6"
+            "score": "7"
           }
         }
       },
