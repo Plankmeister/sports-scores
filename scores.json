@@ -117,20 +117,47 @@
       {
         "matchup": "TEX @ ARK",
         "kickoff": "11/16/2024, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ARK",
+            "score": "0"
+          },
+          "away": {
+            "name": "TEX",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "UTAH @ COLO",
         "kickoff": "11/16/2024, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "COLO",
+            "score": "0"
+          },
+          "away": {
+            "name": "UTAH",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "CLEM @ PITT",
         "kickoff": "11/16/2024, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "PITT",
+            "score": "0"
+          },
+          "away": {
+            "name": "CLEM",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "TULN @ NAVY",
