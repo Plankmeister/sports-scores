@@ -110,7 +110,7 @@
           },
           "away": {
             "name": "PSU",
-            "score": "35"
+            "score": "42"
           }
         }
       },
@@ -136,7 +136,7 @@
         "score": {
           "home": {
             "name": "SMU",
-            "score": "28"
+            "score": "31"
           },
           "away": {
             "name": "BC",
@@ -151,7 +151,7 @@
         "score": {
           "home": {
             "name": "STAN",
-            "score": "13"
+            "score": "21"
           },
           "away": {
             "name": "LOU",
@@ -166,7 +166,7 @@
         "score": {
           "home": {
             "name": "FLA",
-            "score": "10"
+            "score": "13"
           },
           "away": {
             "name": "LSU",
