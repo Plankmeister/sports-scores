@@ -177,8 +177,17 @@
       {
         "matchup": "MER @ ALA",
         "kickoff": "11/16/2024, 1:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ALA",
+            "score": "0"
+          },
+          "away": {
+            "name": "MER",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "PSU @ PUR",
