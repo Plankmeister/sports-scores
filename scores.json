@@ -102,7 +102,7 @@
       {
         "matchup": "BOIS @ SJSU",
         "kickoff": "11/16/2024, 6:00:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "SJSU",
@@ -117,7 +117,7 @@
       {
         "matchup": "ASU @ KSU",
         "kickoff": "11/16/2024, 6:00:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "KSU",
@@ -136,7 +136,7 @@
         "score": {
           "home": {
             "name": "WIS",
-            "score": "10"
+            "score": "13"
           },
           "away": {
             "name": "ORE",
@@ -357,8 +357,17 @@
       {
         "matchup": "WSU @ UNM",
         "kickoff": "11/16/2024, 8:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "UNM",
+            "score": "0"
+          },
+          "away": {
+            "name": "WSU",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "KU @ BYU",
