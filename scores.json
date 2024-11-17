@@ -13,7 +13,7 @@
           },
           "away": {
             "name": "ATL",
-            "score": "3"
+            "score": "6"
           }
         }
       },
@@ -35,7 +35,7 @@
       {
         "matchup": "KC @ BUF",
         "kickoff": "11/17/2024, 3:25:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "BUF",
@@ -43,7 +43,7 @@
           },
           "away": {
             "name": "KC",
-            "score": "0"
+            "score": "6"
           }
         }
       },
