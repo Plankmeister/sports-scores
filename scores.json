@@ -342,8 +342,17 @@
       {
         "matchup": "NMSU @ TA&M",
         "kickoff": "11/16/2024, 6:45:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "TA&M",
+            "score": "0"
+          },
+          "away": {
+            "name": "NMSU",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "WSU @ UNM",
