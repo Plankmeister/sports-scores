@@ -28,14 +28,14 @@
           },
           "away": {
             "name": "SEA",
-            "score": "6"
+            "score": "13"
           }
         }
       },
       {
         "matchup": "KC @ BUF",
         "kickoff": "11/17/2024, 3:25:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "BUF",
