@@ -132,7 +132,7 @@
       {
         "matchup": "ORE @ WIS",
         "kickoff": "11/16/2024, 6:30:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "WIS",
@@ -140,7 +140,7 @@
           },
           "away": {
             "name": "ORE",
-            "score": "6"
+            "score": "13"
           }
         }
       },
@@ -166,7 +166,7 @@
         "score": {
           "home": {
             "name": "TA&M",
-            "score": "24"
+            "score": "31"
           },
           "away": {
             "name": "NMSU",
