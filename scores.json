@@ -100,36 +100,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "BOIS @ SJSU",
-        "kickoff": "11/16/2024, 6:00:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "SJSU",
-            "score": "21"
-          },
-          "away": {
-            "name": "BOIS",
-            "score": "42"
-          }
-        }
-      },
-      {
-        "matchup": "ASU @ KSU",
-        "kickoff": "11/16/2024, 6:00:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "KSU",
-            "score": "14"
-          },
-          "away": {
-            "name": "ASU",
-            "score": "24"
-          }
-        }
-      },
-      {
         "matchup": "ORE @ WIS",
         "kickoff": "11/16/2024, 6:30:00 PM",
         "status": "Live: Q4",
@@ -185,7 +155,22 @@
           },
           "away": {
             "name": "WSU",
-            "score": "14"
+            "score": "20"
+          }
+        }
+      },
+      {
+        "matchup": "KU @ BYU",
+        "kickoff": "11/16/2024, 9:15:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "BYU",
+            "score": "0"
+          },
+          "away": {
+            "name": "KU",
+            "score": "0"
           }
         }
       },
@@ -265,6 +250,21 @@
         }
       },
       {
+        "matchup": "BOIS @ SJSU",
+        "kickoff": "11/16/2024, 6:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "SJSU",
+            "score": "21"
+          },
+          "away": {
+            "name": "BOIS",
+            "score": "42"
+          }
+        }
+      },
+      {
         "matchup": "BC @ SMU",
         "kickoff": "11/16/2024, 2:30:00 PM",
         "status": "Final",
@@ -276,6 +276,21 @@
           "away": {
             "name": "BC",
             "score": "28"
+          }
+        }
+      },
+      {
+        "matchup": "ASU @ KSU",
+        "kickoff": "11/16/2024, 6:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "KSU",
+            "score": "14"
+          },
+          "away": {
+            "name": "ASU",
+            "score": "24"
           }
         }
       },
@@ -368,12 +383,6 @@
             "score": "35"
           }
         }
-      },
-      {
-        "matchup": "KU @ BYU",
-        "kickoff": "11/16/2024, 9:15:00 PM",
-        "status": "Scheduled",
-        "score": null
       }
     ]
   }
