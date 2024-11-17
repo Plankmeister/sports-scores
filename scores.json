@@ -147,7 +147,7 @@
       {
         "matchup": "TENN @ UGA",
         "kickoff": "11/16/2024, 6:30:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "UGA",
@@ -185,7 +185,7 @@
           },
           "away": {
             "name": "WSU",
-            "score": "0"
+            "score": "7"
           }
         }
       },
