@@ -162,7 +162,7 @@
       {
         "matchup": "NMSU @ TA&M",
         "kickoff": "11/16/2024, 6:45:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "TA&M",
@@ -170,6 +170,21 @@
           },
           "away": {
             "name": "NMSU",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "WSU @ UNM",
+        "kickoff": "11/16/2024, 8:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "UNM",
+            "score": "0"
+          },
+          "away": {
+            "name": "WSU",
             "score": "0"
           }
         }
@@ -351,21 +366,6 @@
           "away": {
             "name": "TULN",
             "score": "35"
-          }
-        }
-      },
-      {
-        "matchup": "WSU @ UNM",
-        "kickoff": "11/16/2024, 8:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "UNM",
-            "score": "0"
-          },
-          "away": {
-            "name": "WSU",
-            "score": "0"
           }
         }
       },
