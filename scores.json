@@ -100,21 +100,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "WSU @ UNM",
-        "kickoff": "11/16/2024, 8:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "UNM",
-            "score": "38"
-          },
-          "away": {
-            "name": "WSU",
-            "score": "35"
-          }
-        }
-      },
-      {
         "matchup": "KU @ BYU",
         "kickoff": "11/16/2024, 9:15:00 PM",
         "status": "Live: Q4",
@@ -306,6 +291,21 @@
           "away": {
             "name": "UTAH",
             "score": "24"
+          }
+        }
+      },
+      {
+        "matchup": "WSU @ UNM",
+        "kickoff": "11/16/2024, 8:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "UNM",
+            "score": "38"
+          },
+          "away": {
+            "name": "WSU",
+            "score": "35"
           }
         }
       },
