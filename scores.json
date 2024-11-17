@@ -312,8 +312,17 @@
       {
         "matchup": "ORE @ WIS",
         "kickoff": "11/16/2024, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "WIS",
+            "score": "0"
+          },
+          "away": {
+            "name": "ORE",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "TENN @ UGA",
