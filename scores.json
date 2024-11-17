@@ -5,7 +5,7 @@
       {
         "matchup": "ATL @ DEN",
         "kickoff": "11/17/2024, 3:05:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "DEN",
@@ -20,7 +20,7 @@
       {
         "matchup": "SEA @ SF",
         "kickoff": "11/17/2024, 3:05:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "SF",
@@ -159,7 +159,7 @@
         "score": {
           "home": {
             "name": "BUF",
-            "score": "0"
+            "score": "6"
           },
           "away": {
             "name": "KC",
