@@ -100,36 +100,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "PSU @ PUR",
-        "kickoff": "11/16/2024, 2:30:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "PUR",
-            "score": "10"
-          },
-          "away": {
-            "name": "PSU",
-            "score": "49"
-          }
-        }
-      },
-      {
-        "matchup": "UVA @ ND",
-        "kickoff": "11/16/2024, 2:30:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "ND",
-            "score": "35"
-          },
-          "away": {
-            "name": "UVA",
-            "score": "14"
-          }
-        }
-      },
-      {
         "matchup": "BC @ SMU",
         "kickoff": "11/16/2024, 2:30:00 PM",
         "status": "Live: Q4",
@@ -151,7 +121,7 @@
         "score": {
           "home": {
             "name": "STAN",
-            "score": "28"
+            "score": "35"
           },
           "away": {
             "name": "LOU",
@@ -185,9 +155,30 @@
           },
           "away": {
             "name": "MIZ",
-            "score": "12"
+            "score": "15"
           }
         }
+      },
+      {
+        "matchup": "BOIS @ SJSU",
+        "kickoff": "11/16/2024, 6:00:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "SJSU",
+            "score": "0"
+          },
+          "away": {
+            "name": "BOIS",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "ASU @ KSU",
+        "kickoff": "11/16/2024, 6:00:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
         "matchup": "OSU @ NU",
@@ -216,6 +207,36 @@
           "away": {
             "name": "TEX",
             "score": "20"
+          }
+        }
+      },
+      {
+        "matchup": "PSU @ PUR",
+        "kickoff": "11/16/2024, 2:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "PUR",
+            "score": "10"
+          },
+          "away": {
+            "name": "PSU",
+            "score": "49"
+          }
+        }
+      },
+      {
+        "matchup": "UVA @ ND",
+        "kickoff": "11/16/2024, 2:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "ND",
+            "score": "35"
+          },
+          "away": {
+            "name": "UVA",
+            "score": "14"
           }
         }
       },
@@ -276,36 +297,6 @@
           "away": {
             "name": "TULN",
             "score": "35"
-          }
-        }
-      },
-      {
-        "matchup": "BOIS @ SJSU",
-        "kickoff": "11/16/2024, 6:00:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "SJSU",
-            "score": "0"
-          },
-          "away": {
-            "name": "BOIS",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "ASU @ KSU",
-        "kickoff": "11/16/2024, 6:00:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "KSU",
-            "score": "0"
-          },
-          "away": {
-            "name": "ASU",
-            "score": "0"
           }
         }
       },
