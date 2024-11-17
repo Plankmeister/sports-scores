@@ -100,21 +100,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "TENN @ UGA",
-        "kickoff": "11/16/2024, 6:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "UGA",
-            "score": "31"
-          },
-          "away": {
-            "name": "TENN",
-            "score": "17"
-          }
-        }
-      },
-      {
         "matchup": "WSU @ UNM",
         "kickoff": "11/16/2024, 8:30:00 PM",
         "status": "Live: Q2",
@@ -201,6 +186,21 @@
           "away": {
             "name": "PSU",
             "score": "49"
+          }
+        }
+      },
+      {
+        "matchup": "TENN @ UGA",
+        "kickoff": "11/16/2024, 6:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "UGA",
+            "score": "31"
+          },
+          "away": {
+            "name": "TENN",
+            "score": "17"
           }
         }
       },
