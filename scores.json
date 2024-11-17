@@ -100,21 +100,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "ORE @ WIS",
-        "kickoff": "11/16/2024, 6:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "WIS",
-            "score": "13"
-          },
-          "away": {
-            "name": "ORE",
-            "score": "16"
-          }
-        }
-      },
-      {
         "matchup": "TENN @ UGA",
         "kickoff": "11/16/2024, 6:30:00 PM",
         "status": "Live: Q4",
@@ -126,21 +111,6 @@
           "away": {
             "name": "TENN",
             "score": "17"
-          }
-        }
-      },
-      {
-        "matchup": "NMSU @ TA&M",
-        "kickoff": "11/16/2024, 6:45:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "TA&M",
-            "score": "38"
-          },
-          "away": {
-            "name": "NMSU",
-            "score": "3"
           }
         }
       },
@@ -171,6 +141,21 @@
           "away": {
             "name": "KU",
             "score": "7"
+          }
+        }
+      },
+      {
+        "matchup": "ORE @ WIS",
+        "kickoff": "11/16/2024, 6:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "WIS",
+            "score": "13"
+          },
+          "away": {
+            "name": "ORE",
+            "score": "16"
           }
         }
       },
@@ -276,6 +261,21 @@
           "away": {
             "name": "BC",
             "score": "28"
+          }
+        }
+      },
+      {
+        "matchup": "NMSU @ TA&M",
+        "kickoff": "11/16/2024, 6:45:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "TA&M",
+            "score": "38"
+          },
+          "away": {
+            "name": "NMSU",
+            "score": "3"
           }
         }
       },
