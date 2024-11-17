@@ -33,6 +33,21 @@
         }
       },
       {
+        "matchup": "KC @ BUF",
+        "kickoff": "11/17/2024, 3:25:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "BUF",
+            "score": "6"
+          },
+          "away": {
+            "name": "KC",
+            "score": "0"
+          }
+        }
+      },
+      {
         "matchup": "GB @ CHI",
         "kickoff": "11/17/2024, 12:00:00 PM",
         "status": "Final",
@@ -149,21 +164,6 @@
           "away": {
             "name": "BAL",
             "score": "16"
-          }
-        }
-      },
-      {
-        "matchup": "KC @ BUF",
-        "kickoff": "11/17/2024, 3:25:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "BUF",
-            "score": "6"
-          },
-          "away": {
-            "name": "KC",
-            "score": "0"
           }
         }
       },
