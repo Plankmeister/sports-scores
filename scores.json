@@ -3,21 +3,6 @@
     "week": 11,
     "games": [
       {
-        "matchup": "WSH @ PHI",
-        "kickoff": "11/14/2024, 7:15:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "PHI",
-            "score": "26"
-          },
-          "away": {
-            "name": "WSH",
-            "score": "18"
-          }
-        }
-      },
-      {
         "matchup": "GB @ CHI",
         "kickoff": "11/17/2024, 12:00:00 PM",
         "status": "Scheduled",
@@ -88,6 +73,21 @@
         "kickoff": "11/17/2024, 7:20:00 PM",
         "status": "Scheduled",
         "score": null
+      },
+      {
+        "matchup": "WSH @ PHI",
+        "kickoff": "11/14/2024, 7:15:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "PHI",
+            "score": "26"
+          },
+          "away": {
+            "name": "WSH",
+            "score": "18"
+          }
+        }
       },
       {
         "matchup": "HOU @ DAL",
