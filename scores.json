@@ -5,7 +5,7 @@
       {
         "matchup": "ATL @ DEN",
         "kickoff": "11/17/2024, 3:05:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "DEN",
@@ -43,7 +43,7 @@
           },
           "away": {
             "name": "KC",
-            "score": "14"
+            "score": "21"
           }
         }
       },
