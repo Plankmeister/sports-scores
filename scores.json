@@ -5,8 +5,17 @@
       {
         "matchup": "HOU @ DAL",
         "kickoff": "11/18/2024, 7:15:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "DAL",
+            "score": "0"
+          },
+          "away": {
+            "name": "HOU",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "WSH @ PHI",
