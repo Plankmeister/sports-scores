@@ -3,21 +3,6 @@
     "week": 11,
     "games": [
       {
-        "matchup": "HOU @ DAL",
-        "kickoff": "11/18/2024, 7:15:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "DAL",
-            "score": "10"
-          },
-          "away": {
-            "name": "HOU",
-            "score": "34"
-          }
-        }
-      },
-      {
         "matchup": "WSH @ PHI",
         "kickoff": "11/14/2024, 7:15:00 PM",
         "status": "Final",
@@ -209,6 +194,21 @@
           "away": {
             "name": "CIN",
             "score": "27"
+          }
+        }
+      },
+      {
+        "matchup": "HOU @ DAL",
+        "kickoff": "11/18/2024, 7:15:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "DAL",
+            "score": "10"
+          },
+          "away": {
+            "name": "HOU",
+            "score": "34"
           }
         }
       }
