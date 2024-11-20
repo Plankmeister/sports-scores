@@ -217,6 +217,12 @@
   "collegeFootball": {
     "games": [
       {
+        "matchup": "UNLV @ SJSU",
+        "kickoff": "11/22/2024, 9:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
         "matchup": "IU @ OSU",
         "kickoff": "11/23/2024, 11:00:00 AM",
         "status": "Scheduled",
@@ -236,6 +242,12 @@
       },
       {
         "matchup": "SMU @ UVA",
+        "kickoff": "11/23/2024, 11:00:00 AM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "ILL @ RUTG",
         "kickoff": "11/23/2024, 11:00:00 AM",
         "status": "Scheduled",
         "score": null
@@ -283,12 +295,6 @@
         "score": null
       },
       {
-        "matchup": "PITT @ LOU",
-        "kickoff": "11/23/2024, 3:00:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
         "matchup": "WOF @ SC",
         "kickoff": "11/23/2024, 3:00:00 PM",
         "status": "Scheduled",
@@ -313,12 +319,6 @@
         "score": null
       },
       {
-        "matchup": "WSU @ ORST",
-        "kickoff": "11/23/2024, 6:00:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
         "matchup": "ALA @ OU",
         "kickoff": "11/23/2024, 6:30:00 PM",
         "status": "Scheduled",
@@ -331,14 +331,8 @@
         "score": null
       },
       {
-        "matchup": "VAN @ LSU",
-        "kickoff": "11/23/2024, 6:45:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "CIN @ KSU",
-        "kickoff": "11/23/2024, 7:00:00 PM",
+        "matchup": "ISU @ UTAH",
+        "kickoff": "11/23/2024, 6:30:00 PM",
         "status": "Scheduled",
         "score": null
       }
