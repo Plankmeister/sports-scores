@@ -134,7 +134,7 @@
           },
           "away": {
             "name": "PSU",
-            "score": "0"
+            "score": "7"
           }
         }
       },
@@ -145,7 +145,7 @@
         "score": {
           "home": {
             "name": "ASU",
-            "score": "7"
+            "score": "14"
           },
           "away": {
             "name": "BYU",
@@ -160,7 +160,7 @@
         "score": {
           "home": {
             "name": "KU",
-            "score": "10"
+            "score": "16"
           },
           "away": {
             "name": "COLO",
@@ -190,7 +190,7 @@
         "score": {
           "home": {
             "name": "SC",
-            "score": "6"
+            "score": "7"
           },
           "away": {
             "name": "WOF",
