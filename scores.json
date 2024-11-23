@@ -115,7 +115,7 @@
         "score": {
           "home": {
             "name": "RUTG",
-            "score": "24"
+            "score": "30"
           },
           "away": {
             "name": "ILL",
@@ -130,7 +130,7 @@
         "score": {
           "home": {
             "name": "UGA",
-            "score": "45"
+            "score": "52"
           },
           "away": {
             "name": "MASS",
@@ -237,14 +237,32 @@
       {
         "matchup": "COLO @ KU",
         "kickoff": "11/23/2024, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "KU",
+            "score": "0"
+          },
+          "away": {
+            "name": "COLO",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "CIT @ CLEM",
         "kickoff": "11/23/2024, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "CLEM",
+            "score": "0"
+          },
+          "away": {
+            "name": "CIT",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "WOF @ SC",
