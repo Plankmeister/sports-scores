@@ -115,7 +115,7 @@
         "score": {
           "home": {
             "name": "MIA",
-            "score": "17"
+            "score": "20"
           },
           "away": {
             "name": "WAKE",
@@ -149,7 +149,7 @@
           },
           "away": {
             "name": "SMU",
-            "score": "14"
+            "score": "17"
           }
         }
       },
@@ -171,7 +171,7 @@
       {
         "matchup": "MASS @ UGA",
         "kickoff": "11/23/2024, 11:45:00 AM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "UGA",
