@@ -126,7 +126,7 @@
       {
         "matchup": "MISS @ FLA",
         "kickoff": "11/23/2024, 11:00:00 AM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "FLA",
@@ -149,14 +149,14 @@
           },
           "away": {
             "name": "SMU",
-            "score": "17"
+            "score": "20"
           }
         }
       },
       {
         "matchup": "ILL @ RUTG",
         "kickoff": "11/23/2024, 11:00:00 AM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "RUTG",
@@ -179,7 +179,7 @@
           },
           "away": {
             "name": "MASS",
-            "score": "7"
+            "score": "13"
           }
         }
       },
@@ -190,7 +190,7 @@
         "score": {
           "home": {
             "name": "TENN",
-            "score": "7"
+            "score": "14"
           },
           "away": {
             "name": "UTEP",
