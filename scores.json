@@ -111,7 +111,7 @@
       {
         "matchup": "WAKE @ MIA",
         "kickoff": "11/23/2024, 11:00:00 AM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "MIA",
@@ -141,7 +141,7 @@
       {
         "matchup": "SMU @ UVA",
         "kickoff": "11/23/2024, 11:00:00 AM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "UVA",
@@ -190,7 +190,7 @@
         "score": {
           "home": {
             "name": "TENN",
-            "score": "6"
+            "score": "7"
           },
           "away": {
             "name": "UTEP",
