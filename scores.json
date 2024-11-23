@@ -100,26 +100,11 @@
         "score": {
           "home": {
             "name": "OSU",
-            "score": "31"
+            "score": "38"
           },
           "away": {
             "name": "IU",
             "score": "15"
-          }
-        }
-      },
-      {
-        "matchup": "WAKE @ MIA",
-        "kickoff": "11/23/2024, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "MIA",
-            "score": "42"
-          },
-          "away": {
-            "name": "WAKE",
-            "score": "14"
           }
         }
       },
@@ -135,21 +120,6 @@
           "away": {
             "name": "MISS",
             "score": "17"
-          }
-        }
-      },
-      {
-        "matchup": "SMU @ UVA",
-        "kickoff": "11/23/2024, 11:00:00 AM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "UVA",
-            "score": "7"
-          },
-          "away": {
-            "name": "SMU",
-            "score": "33"
           }
         }
       },
@@ -195,6 +165,36 @@
           "away": {
             "name": "UTEP",
             "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "WAKE @ MIA",
+        "kickoff": "11/23/2024, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "MIA",
+            "score": "42"
+          },
+          "away": {
+            "name": "WAKE",
+            "score": "14"
+          }
+        }
+      },
+      {
+        "matchup": "SMU @ UVA",
+        "kickoff": "11/23/2024, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "UVA",
+            "score": "7"
+          },
+          "away": {
+            "name": "SMU",
+            "score": "33"
           }
         }
       },
