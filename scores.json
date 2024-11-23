@@ -94,21 +94,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "IU @ OSU",
-        "kickoff": "11/23/2024, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "OSU",
-            "score": "38"
-          },
-          "away": {
-            "name": "IU",
-            "score": "15"
-          }
-        }
-      },
-      {
         "matchup": "MISS @ FLA",
         "kickoff": "11/23/2024, 11:00:00 AM",
         "status": "Live: Q4",
@@ -169,6 +154,21 @@
         }
       },
       {
+        "matchup": "IU @ OSU",
+        "kickoff": "11/23/2024, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "OSU",
+            "score": "38"
+          },
+          "away": {
+            "name": "IU",
+            "score": "15"
+          }
+        }
+      },
+      {
         "matchup": "WAKE @ MIA",
         "kickoff": "11/23/2024, 11:00:00 AM",
         "status": "Final",
@@ -213,8 +213,17 @@
       {
         "matchup": "BYU @ ASU",
         "kickoff": "11/23/2024, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ASU",
+            "score": "0"
+          },
+          "away": {
+            "name": "BYU",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "COLO @ KU",
