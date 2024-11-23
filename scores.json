@@ -104,14 +104,14 @@
           },
           "away": {
             "name": "UK",
-            "score": "7"
+            "score": "14"
           }
         }
       },
       {
         "matchup": "PSU @ MINN",
         "kickoff": "11/23/2024, 2:30:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "MINN",
@@ -164,7 +164,7 @@
           },
           "away": {
             "name": "CIT",
-            "score": "7"
+            "score": "14"
           }
         }
       },
@@ -175,7 +175,7 @@
         "score": {
           "home": {
             "name": "SC",
-            "score": "28"
+            "score": "35"
           },
           "away": {
             "name": "WOF",
@@ -186,7 +186,7 @@
       {
         "matchup": "MIZ @ MSST",
         "kickoff": "11/23/2024, 3:15:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "MSST",
@@ -194,7 +194,7 @@
           },
           "away": {
             "name": "MIZ",
-            "score": "28"
+            "score": "34"
           }
         }
       },
