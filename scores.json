@@ -94,28 +94,13 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "MISS @ FLA",
-        "kickoff": "11/23/2024, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "FLA",
-            "score": "24"
-          },
-          "away": {
-            "name": "MISS",
-            "score": "17"
-          }
-        }
-      },
-      {
         "matchup": "ILL @ RUTG",
         "kickoff": "11/23/2024, 11:00:00 AM",
         "status": "Live: Q4",
         "score": {
           "home": {
             "name": "RUTG",
-            "score": "30"
+            "score": "31"
           },
           "away": {
             "name": "ILL",
@@ -145,10 +130,85 @@
         "score": {
           "home": {
             "name": "TENN",
-            "score": "42"
+            "score": "49"
           },
           "away": {
             "name": "UTEP",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "UK @ TEX",
+        "kickoff": "11/23/2024, 2:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "TEX",
+            "score": "0"
+          },
+          "away": {
+            "name": "UK",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "PSU @ MINN",
+        "kickoff": "11/23/2024, 2:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MINN",
+            "score": "6"
+          },
+          "away": {
+            "name": "PSU",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "BYU @ ASU",
+        "kickoff": "11/23/2024, 2:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ASU",
+            "score": "7"
+          },
+          "away": {
+            "name": "BYU",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "COLO @ KU",
+        "kickoff": "11/23/2024, 2:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "KU",
+            "score": "7"
+          },
+          "away": {
+            "name": "COLO",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "CIT @ CLEM",
+        "kickoff": "11/23/2024, 2:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "CLEM",
+            "score": "0"
+          },
+          "away": {
+            "name": "CIT",
             "score": "0"
           }
         }
@@ -184,6 +244,21 @@
         }
       },
       {
+        "matchup": "MISS @ FLA",
+        "kickoff": "11/23/2024, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "FLA",
+            "score": "24"
+          },
+          "away": {
+            "name": "MISS",
+            "score": "17"
+          }
+        }
+      },
+      {
         "matchup": "SMU @ UVA",
         "kickoff": "11/23/2024, 11:00:00 AM",
         "status": "Final",
@@ -195,72 +270,6 @@
           "away": {
             "name": "SMU",
             "score": "33"
-          }
-        }
-      },
-      {
-        "matchup": "UK @ TEX",
-        "kickoff": "11/23/2024, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "PSU @ MINN",
-        "kickoff": "11/23/2024, 2:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "MINN",
-            "score": "0"
-          },
-          "away": {
-            "name": "PSU",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "BYU @ ASU",
-        "kickoff": "11/23/2024, 2:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "ASU",
-            "score": "0"
-          },
-          "away": {
-            "name": "BYU",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "COLO @ KU",
-        "kickoff": "11/23/2024, 2:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "KU",
-            "score": "0"
-          },
-          "away": {
-            "name": "COLO",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "CIT @ CLEM",
-        "kickoff": "11/23/2024, 2:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "CLEM",
-            "score": "0"
-          },
-          "away": {
-            "name": "CIT",
-            "score": "0"
           }
         }
       },
