@@ -94,36 +94,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "ILL @ RUTG",
-        "kickoff": "11/23/2024, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "RUTG",
-            "score": "31"
-          },
-          "away": {
-            "name": "ILL",
-            "score": "38"
-          }
-        }
-      },
-      {
-        "matchup": "MASS @ UGA",
-        "kickoff": "11/23/2024, 11:45:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "UGA",
-            "score": "59"
-          },
-          "away": {
-            "name": "MASS",
-            "score": "21"
-          }
-        }
-      },
-      {
         "matchup": "UTEP @ TENN",
         "kickoff": "11/23/2024, 12:00:00 PM",
         "status": "Live: Q4",
@@ -156,11 +126,11 @@
       {
         "matchup": "PSU @ MINN",
         "kickoff": "11/23/2024, 2:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "MINN",
-            "score": "7"
+            "score": "10"
           },
           "away": {
             "name": "PSU",
@@ -186,7 +156,7 @@
       {
         "matchup": "COLO @ KU",
         "kickoff": "11/23/2024, 2:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "KU",
@@ -201,7 +171,7 @@
       {
         "matchup": "CIT @ CLEM",
         "kickoff": "11/23/2024, 2:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "CLEM",
@@ -225,6 +195,21 @@
           "away": {
             "name": "WOF",
             "score": "3"
+          }
+        }
+      },
+      {
+        "matchup": "MIZ @ MSST",
+        "kickoff": "11/23/2024, 3:15:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MSST",
+            "score": "0"
+          },
+          "away": {
+            "name": "MIZ",
+            "score": "0"
           }
         }
       },
@@ -274,6 +259,21 @@
         }
       },
       {
+        "matchup": "MASS @ UGA",
+        "kickoff": "11/23/2024, 11:45:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "UGA",
+            "score": "59"
+          },
+          "away": {
+            "name": "MASS",
+            "score": "21"
+          }
+        }
+      },
+      {
         "matchup": "SMU @ UVA",
         "kickoff": "11/23/2024, 11:00:00 AM",
         "status": "Final",
@@ -289,10 +289,19 @@
         }
       },
       {
-        "matchup": "MIZ @ MSST",
-        "kickoff": "11/23/2024, 3:15:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "matchup": "ILL @ RUTG",
+        "kickoff": "11/23/2024, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "RUTG",
+            "score": "31"
+          },
+          "away": {
+            "name": "ILL",
+            "score": "38"
+          }
+        }
       },
       {
         "matchup": "ARMY VS ND",
