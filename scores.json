@@ -115,7 +115,7 @@
         "score": {
           "home": {
             "name": "MINN",
-            "score": "10"
+            "score": "17"
           },
           "away": {
             "name": "PSU",
@@ -134,7 +134,7 @@
           },
           "away": {
             "name": "BYU",
-            "score": "0"
+            "score": "3"
           }
         }
       },
@@ -149,7 +149,7 @@
           },
           "away": {
             "name": "COLO",
-            "score": "7"
+            "score": "14"
           }
         }
       },
@@ -186,8 +186,17 @@
       {
         "matchup": "MIZ @ MSST",
         "kickoff": "11/23/2024, 3:15:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MSST",
+            "score": "3"
+          },
+          "away": {
+            "name": "MIZ",
+            "score": "14"
+          }
+        }
       },
       {
         "matchup": "IU @ OSU",
