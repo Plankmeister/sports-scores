@@ -160,7 +160,7 @@
         "score": {
           "home": {
             "name": "CLEM",
-            "score": "45"
+            "score": "51"
           },
           "away": {
             "name": "CIT",
@@ -171,7 +171,7 @@
       {
         "matchup": "WOF @ SC",
         "kickoff": "11/23/2024, 3:00:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "SC",
@@ -179,7 +179,7 @@
           },
           "away": {
             "name": "WOF",
-            "score": "9"
+            "score": "12"
           }
         }
       },
@@ -190,7 +190,7 @@
         "score": {
           "home": {
             "name": "MSST",
-            "score": "13"
+            "score": "20"
           },
           "away": {
             "name": "MIZ",
