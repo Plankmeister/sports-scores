@@ -96,7 +96,7 @@
       {
         "matchup": "IU @ OSU",
         "kickoff": "11/23/2024, 11:00:00 AM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "OSU",
@@ -115,7 +115,7 @@
         "score": {
           "home": {
             "name": "MIA",
-            "score": "10"
+            "score": "17"
           },
           "away": {
             "name": "WAKE",
@@ -126,11 +126,11 @@
       {
         "matchup": "MISS @ FLA",
         "kickoff": "11/23/2024, 11:00:00 AM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "FLA",
-            "score": "0"
+            "score": "7"
           },
           "away": {
             "name": "MISS",
@@ -156,7 +156,7 @@
       {
         "matchup": "ILL @ RUTG",
         "kickoff": "11/23/2024, 11:00:00 AM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "RUTG",
@@ -164,15 +164,24 @@
           },
           "away": {
             "name": "ILL",
-            "score": "0"
+            "score": "3"
           }
         }
       },
       {
         "matchup": "MASS @ UGA",
         "kickoff": "11/23/2024, 11:45:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "UGA",
+            "score": "0"
+          },
+          "away": {
+            "name": "MASS",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "UTEP @ TENN",
