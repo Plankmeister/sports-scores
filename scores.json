@@ -102,8 +102,17 @@
       {
         "matchup": "WAKE @ MIA",
         "kickoff": "11/23/2024, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MIA",
+            "score": "0"
+          },
+          "away": {
+            "name": "WAKE",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "MISS @ FLA",
@@ -120,8 +129,17 @@
       {
         "matchup": "ILL @ RUTG",
         "kickoff": "11/23/2024, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "RUTG",
+            "score": "0"
+          },
+          "away": {
+            "name": "ILL",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "MASS @ UGA",
