@@ -100,7 +100,7 @@
         "score": {
           "home": {
             "name": "OSU",
-            "score": "28"
+            "score": "31"
           },
           "away": {
             "name": "IU",
@@ -115,7 +115,7 @@
         "score": {
           "home": {
             "name": "MIA",
-            "score": "28"
+            "score": "35"
           },
           "away": {
             "name": "WAKE",
@@ -156,11 +156,11 @@
       {
         "matchup": "ILL @ RUTG",
         "kickoff": "11/23/2024, 11:00:00 AM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "RUTG",
-            "score": "17"
+            "score": "24"
           },
           "away": {
             "name": "ILL",
