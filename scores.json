@@ -104,14 +104,14 @@
           },
           "away": {
             "name": "ILL",
-            "score": "30"
+            "score": "36"
           }
         }
       },
       {
         "matchup": "MASS @ UGA",
         "kickoff": "11/23/2024, 11:45:00 AM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "UGA",
@@ -205,11 +205,26 @@
         "score": {
           "home": {
             "name": "CLEM",
-            "score": "7"
+            "score": "14"
           },
           "away": {
             "name": "CIT",
             "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "WOF @ SC",
+        "kickoff": "11/23/2024, 3:00:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "SC",
+            "score": "0"
+          },
+          "away": {
+            "name": "WOF",
+            "score": "3"
           }
         }
       },
@@ -272,12 +287,6 @@
             "score": "33"
           }
         }
-      },
-      {
-        "matchup": "WOF @ SC",
-        "kickoff": "11/23/2024, 3:00:00 PM",
-        "status": "Scheduled",
-        "score": null
       },
       {
         "matchup": "MIZ @ MSST",
