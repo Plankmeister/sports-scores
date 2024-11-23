@@ -100,7 +100,7 @@
         "score": {
           "home": {
             "name": "MIA",
-            "score": "6"
+            "score": "7"
           },
           "away": {
             "name": "WAKE",
@@ -141,8 +141,17 @@
       {
         "matchup": "IU @ OSU",
         "kickoff": "11/23/2024, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "OSU",
+            "score": "0"
+          },
+          "away": {
+            "name": "IU",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "MISS @ FLA",
