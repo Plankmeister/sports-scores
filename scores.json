@@ -96,7 +96,7 @@
       {
         "matchup": "IU @ OSU",
         "kickoff": "11/23/2024, 11:00:00 AM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "OSU",
@@ -134,14 +134,14 @@
           },
           "away": {
             "name": "MISS",
-            "score": "14"
+            "score": "17"
           }
         }
       },
       {
         "matchup": "SMU @ UVA",
         "kickoff": "11/23/2024, 11:00:00 AM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "UVA",
@@ -149,7 +149,7 @@
           },
           "away": {
             "name": "SMU",
-            "score": "20"
+            "score": "26"
           }
         }
       },
@@ -175,7 +175,7 @@
         "score": {
           "home": {
             "name": "UGA",
-            "score": "28"
+            "score": "31"
           },
           "away": {
             "name": "MASS",
