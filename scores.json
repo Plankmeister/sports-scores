@@ -134,7 +134,7 @@
           },
           "away": {
             "name": "MISS",
-            "score": "7"
+            "score": "14"
           }
         }
       },
@@ -175,7 +175,7 @@
         "score": {
           "home": {
             "name": "UGA",
-            "score": "0"
+            "score": "7"
           },
           "away": {
             "name": "MASS",
@@ -186,8 +186,17 @@
       {
         "matchup": "UTEP @ TENN",
         "kickoff": "11/23/2024, 12:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "TENN",
+            "score": "0"
+          },
+          "away": {
+            "name": "UTEP",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "UK @ TEX",
