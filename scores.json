@@ -94,12 +94,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "IU @ OSU",
-        "kickoff": "11/23/2024, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
         "matchup": "WAKE @ MIA",
         "kickoff": "11/23/2024, 11:00:00 AM",
         "status": "Live: Q1",
@@ -115,16 +109,19 @@
         }
       },
       {
-        "matchup": "MISS @ FLA",
-        "kickoff": "11/23/2024, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
         "matchup": "SMU @ UVA",
         "kickoff": "11/23/2024, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "UVA",
+            "score": "0"
+          },
+          "away": {
+            "name": "SMU",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "ILL @ RUTG",
@@ -137,6 +134,27 @@
           },
           "away": {
             "name": "ILL",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "IU @ OSU",
+        "kickoff": "11/23/2024, 11:00:00 AM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "MISS @ FLA",
+        "kickoff": "11/23/2024, 11:00:00 AM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "FLA",
+            "score": "0"
+          },
+          "away": {
+            "name": "MISS",
             "score": "0"
           }
         }
