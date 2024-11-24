@@ -94,51 +94,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "UK @ TEX",
-        "kickoff": "11/23/2024, 2:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "TEX",
-            "score": "31"
-          },
-          "away": {
-            "name": "UK",
-            "score": "14"
-          }
-        }
-      },
-      {
-        "matchup": "BYU @ ASU",
-        "kickoff": "11/23/2024, 2:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "ASU",
-            "score": "28"
-          },
-          "away": {
-            "name": "BYU",
-            "score": "23"
-          }
-        }
-      },
-      {
-        "matchup": "WOF @ SC",
-        "kickoff": "11/23/2024, 3:00:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "SC",
-            "score": "56"
-          },
-          "away": {
-            "name": "WOF",
-            "score": "12"
-          }
-        }
-      },
-      {
         "matchup": "MIZ @ MSST",
         "kickoff": "11/23/2024, 3:15:00 PM",
         "status": "Live: Q4",
@@ -154,6 +109,36 @@
         }
       },
       {
+        "matchup": "ARMY VS ND",
+        "kickoff": "11/23/2024, 6:00:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ND",
+            "score": "0"
+          },
+          "away": {
+            "name": "ARMY",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "BOIS @ WYO",
+        "kickoff": "11/23/2024, 6:00:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "WYO",
+            "score": "3"
+          },
+          "away": {
+            "name": "BOIS",
+            "score": "0"
+          }
+        }
+      },
+      {
         "matchup": "IU @ OSU",
         "kickoff": "11/23/2024, 11:00:00 AM",
         "status": "Final",
@@ -165,6 +150,21 @@
           "away": {
             "name": "IU",
             "score": "15"
+          }
+        }
+      },
+      {
+        "matchup": "UK @ TEX",
+        "kickoff": "11/23/2024, 2:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "TEX",
+            "score": "31"
+          },
+          "away": {
+            "name": "UK",
+            "score": "14"
           }
         }
       },
@@ -259,6 +259,21 @@
         }
       },
       {
+        "matchup": "BYU @ ASU",
+        "kickoff": "11/23/2024, 2:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "ASU",
+            "score": "28"
+          },
+          "away": {
+            "name": "BYU",
+            "score": "23"
+          }
+        }
+      },
+      {
         "matchup": "COLO @ KU",
         "kickoff": "11/23/2024, 2:30:00 PM",
         "status": "Final",
@@ -289,6 +304,21 @@
         }
       },
       {
+        "matchup": "WOF @ SC",
+        "kickoff": "11/23/2024, 3:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "SC",
+            "score": "56"
+          },
+          "away": {
+            "name": "WOF",
+            "score": "12"
+          }
+        }
+      },
+      {
         "matchup": "ILL @ RUTG",
         "kickoff": "11/23/2024, 11:00:00 AM",
         "status": "Final",
@@ -300,36 +330,6 @@
           "away": {
             "name": "ILL",
             "score": "38"
-          }
-        }
-      },
-      {
-        "matchup": "ARMY VS ND",
-        "kickoff": "11/23/2024, 6:00:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "ND",
-            "score": "0"
-          },
-          "away": {
-            "name": "ARMY",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "BOIS @ WYO",
-        "kickoff": "11/23/2024, 6:00:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "WYO",
-            "score": "3"
-          },
-          "away": {
-            "name": "BOIS",
-            "score": "0"
           }
         }
       },
