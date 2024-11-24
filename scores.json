@@ -9,7 +9,7 @@
         "score": {
           "home": {
             "name": "CHI",
-            "score": "0"
+            "score": "7"
           },
           "away": {
             "name": "MIN",
@@ -28,7 +28,7 @@
           },
           "away": {
             "name": "DET",
-            "score": "0"
+            "score": "7"
           }
         }
       },
@@ -58,7 +58,7 @@
           },
           "away": {
             "name": "TB",
-            "score": "7"
+            "score": "10"
           }
         }
       },
@@ -95,7 +95,7 @@
       {
         "matchup": "TEN @ HOU",
         "kickoff": "11/24/2024, 12:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "HOU",
