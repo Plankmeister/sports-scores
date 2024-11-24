@@ -13,14 +13,14 @@
           },
           "away": {
             "name": "DEN",
-            "score": "3"
+            "score": "6"
           }
         }
       },
       {
         "matchup": "SF @ GB",
         "kickoff": "11/24/2024, 3:25:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "GB",
@@ -35,7 +35,7 @@
       {
         "matchup": "ARI @ SEA",
         "kickoff": "11/24/2024, 3:25:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "SEA",
