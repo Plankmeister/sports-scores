@@ -130,7 +130,7 @@
         "score": {
           "home": {
             "name": "AUB",
-            "score": "0"
+            "score": "7"
           },
           "away": {
             "name": "TA&M",
@@ -145,7 +145,7 @@
         "score": {
           "home": {
             "name": "UTAH",
-            "score": "0"
+            "score": "3"
           },
           "away": {
             "name": "ISU",
@@ -366,8 +366,17 @@
       {
         "matchup": "ALA @ OU",
         "kickoff": "11/23/2024, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "OU",
+            "score": "0"
+          },
+          "away": {
+            "name": "ALA",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "UNLV @ SJSU",
