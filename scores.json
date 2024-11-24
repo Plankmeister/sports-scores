@@ -104,22 +104,7 @@
           },
           "away": {
             "name": "ARMY",
-            "score": "7"
-          }
-        }
-      },
-      {
-        "matchup": "BOIS @ WYO",
-        "kickoff": "11/23/2024, 6:00:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "WYO",
-            "score": "13"
-          },
-          "away": {
-            "name": "BOIS",
-            "score": "17"
+            "score": "14"
           }
         }
       },
@@ -160,7 +145,7 @@
         "score": {
           "home": {
             "name": "UTAH",
-            "score": "21"
+            "score": "28"
           },
           "away": {
             "name": "ISU",
@@ -270,6 +255,21 @@
           "away": {
             "name": "UTEP",
             "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "BOIS @ WYO",
+        "kickoff": "11/23/2024, 6:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "WYO",
+            "score": "13"
+          },
+          "away": {
+            "name": "BOIS",
+            "score": "17"
           }
         }
       },
