@@ -20,7 +20,7 @@
       {
         "matchup": "DET @ IND",
         "kickoff": "11/24/2024, 12:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "IND",
@@ -39,7 +39,7 @@
         "score": {
           "home": {
             "name": "MIA",
-            "score": "0"
+            "score": "7"
           },
           "away": {
             "name": "NE",
@@ -50,7 +50,7 @@
       {
         "matchup": "TB @ NYG",
         "kickoff": "11/24/2024, 12:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "NYG",
@@ -80,11 +80,11 @@
       {
         "matchup": "KC @ CAR",
         "kickoff": "11/24/2024, 12:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "CAR",
-            "score": "3"
+            "score": "6"
           },
           "away": {
             "name": "KC",
