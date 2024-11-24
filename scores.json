@@ -124,21 +124,6 @@
         }
       },
       {
-        "matchup": "ISU @ UTAH",
-        "kickoff": "11/23/2024, 6:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "UTAH",
-            "score": "28"
-          },
-          "away": {
-            "name": "ISU",
-            "score": "31"
-          }
-        }
-      },
-      {
         "matchup": "IU @ OSU",
         "kickoff": "11/23/2024, 11:00:00 AM",
         "status": "Final",
@@ -345,6 +330,21 @@
           "away": {
             "name": "WOF",
             "score": "12"
+          }
+        }
+      },
+      {
+        "matchup": "ISU @ UTAH",
+        "kickoff": "11/23/2024, 6:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "UTAH",
+            "score": "28"
+          },
+          "away": {
+            "name": "ISU",
+            "score": "31"
           }
         }
       },
