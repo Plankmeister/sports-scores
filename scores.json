@@ -13,7 +13,7 @@
           },
           "away": {
             "name": "MIN",
-            "score": "0"
+            "score": "7"
           }
         }
       },
@@ -24,7 +24,7 @@
         "score": {
           "home": {
             "name": "IND",
-            "score": "3"
+            "score": "6"
           },
           "away": {
             "name": "DET",
@@ -39,7 +39,7 @@
         "score": {
           "home": {
             "name": "MIA",
-            "score": "7"
+            "score": "14"
           },
           "away": {
             "name": "NE",
@@ -103,7 +103,7 @@
           },
           "away": {
             "name": "TEN",
-            "score": "16"
+            "score": "17"
           }
         }
       },
