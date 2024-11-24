@@ -3,21 +3,6 @@
     "week": 12,
     "games": [
       {
-        "matchup": "PIT @ CLE",
-        "kickoff": "11/21/2024, 7:15:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "CLE",
-            "score": "24"
-          },
-          "away": {
-            "name": "PIT",
-            "score": "19"
-          }
-        }
-      },
-      {
         "matchup": "MIN @ CHI",
         "kickoff": "11/24/2024, 12:00:00 PM",
         "status": "Scheduled",
@@ -84,6 +69,21 @@
         "score": null
       },
       {
+        "matchup": "PIT @ CLE",
+        "kickoff": "11/21/2024, 7:15:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "CLE",
+            "score": "24"
+          },
+          "away": {
+            "name": "PIT",
+            "score": "19"
+          }
+        }
+      },
+      {
         "matchup": "BAL @ LAC",
         "kickoff": "11/25/2024, 7:15:00 PM",
         "status": "Scheduled",
@@ -93,6 +93,21 @@
   },
   "collegeFootball": {
     "games": [
+      {
+        "matchup": "UNLV @ SJSU",
+        "kickoff": "11/22/2024, 9:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "SJSU",
+            "score": "16"
+          },
+          "away": {
+            "name": "UNLV",
+            "score": "27"
+          }
+        }
+      },
       {
         "matchup": "IU @ OSU",
         "kickoff": "11/23/2024, 11:00:00 AM",
@@ -375,21 +390,6 @@
           "away": {
             "name": "ILL",
             "score": "38"
-          }
-        }
-      },
-      {
-        "matchup": "UNLV @ SJSU",
-        "kickoff": "11/22/2024, 9:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "SJSU",
-            "score": "16"
-          },
-          "away": {
-            "name": "UNLV",
-            "score": "27"
           }
         }
       }
