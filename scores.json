@@ -130,7 +130,7 @@
         "score": {
           "home": {
             "name": "SC",
-            "score": "49"
+            "score": "56"
           },
           "away": {
             "name": "WOF",
@@ -306,8 +306,17 @@
       {
         "matchup": "ARMY VS ND",
         "kickoff": "11/23/2024, 6:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ND",
+            "score": "0"
+          },
+          "away": {
+            "name": "ARMY",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "BOIS @ WYO",
@@ -316,7 +325,7 @@
         "score": {
           "home": {
             "name": "WYO",
-            "score": "0"
+            "score": "3"
           },
           "away": {
             "name": "BOIS",
