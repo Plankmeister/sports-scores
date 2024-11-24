@@ -28,7 +28,7 @@
           },
           "away": {
             "name": "DET",
-            "score": "14"
+            "score": "21"
           }
         }
       },
@@ -58,7 +58,7 @@
           },
           "away": {
             "name": "TB",
-            "score": "23"
+            "score": "30"
           }
         }
       },
@@ -73,7 +73,7 @@
           },
           "away": {
             "name": "DAL",
-            "score": "3"
+            "score": "10"
           }
         }
       },
@@ -84,7 +84,7 @@
         "score": {
           "home": {
             "name": "CAR",
-            "score": "9"
+            "score": "15"
           },
           "away": {
             "name": "KC",
