@@ -5,7 +5,7 @@
       {
         "matchup": "MIN @ CHI",
         "kickoff": "11/24/2024, 12:00:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "CHI",
@@ -43,7 +43,7 @@
           },
           "away": {
             "name": "NE",
-            "score": "0"
+            "score": "7"
           }
         }
       },
@@ -84,7 +84,7 @@
         "score": {
           "home": {
             "name": "CAR",
-            "score": "16"
+            "score": "19"
           },
           "away": {
             "name": "KC",
