@@ -94,21 +94,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "ALA @ OU",
-        "kickoff": "11/23/2024, 6:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "OU",
-            "score": "24"
-          },
-          "away": {
-            "name": "ALA",
-            "score": "3"
-          }
-        }
-      },
-      {
         "matchup": "TA&M @ AUB",
         "kickoff": "11/23/2024, 6:30:00 PM",
         "status": "Live: Q4",
@@ -180,6 +165,21 @@
           "away": {
             "name": "ARMY",
             "score": "14"
+          }
+        }
+      },
+      {
+        "matchup": "ALA @ OU",
+        "kickoff": "11/23/2024, 6:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "OU",
+            "score": "24"
+          },
+          "away": {
+            "name": "ALA",
+            "score": "3"
           }
         }
       },
