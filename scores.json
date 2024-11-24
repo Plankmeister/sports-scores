@@ -96,7 +96,7 @@
       {
         "matchup": "UK @ TEX",
         "kickoff": "11/23/2024, 2:30:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "TEX",
@@ -111,7 +111,7 @@
       {
         "matchup": "BYU @ ASU",
         "kickoff": "11/23/2024, 2:30:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "ASU",
@@ -312,8 +312,17 @@
       {
         "matchup": "BOIS @ WYO",
         "kickoff": "11/23/2024, 6:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "WYO",
+            "score": "0"
+          },
+          "away": {
+            "name": "BOIS",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "ALA @ OU",
