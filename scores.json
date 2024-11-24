@@ -50,7 +50,7 @@
       {
         "matchup": "TB @ NYG",
         "kickoff": "11/24/2024, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "NYG",
@@ -73,7 +73,7 @@
           },
           "away": {
             "name": "DAL",
-            "score": "13"
+            "score": "20"
           }
         }
       },
