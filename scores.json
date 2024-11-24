@@ -94,21 +94,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "TA&M @ AUB",
-        "kickoff": "11/23/2024, 6:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "AUB",
-            "score": "43"
-          },
-          "away": {
-            "name": "TA&M",
-            "score": "41"
-          }
-        }
-      },
-      {
         "matchup": "IU @ OSU",
         "kickoff": "11/23/2024, 11:00:00 AM",
         "status": "Final",
@@ -285,6 +270,21 @@
           "away": {
             "name": "BYU",
             "score": "23"
+          }
+        }
+      },
+      {
+        "matchup": "TA&M @ AUB",
+        "kickoff": "11/23/2024, 6:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "AUB",
+            "score": "43"
+          },
+          "away": {
+            "name": "TA&M",
+            "score": "41"
           }
         }
       },
