@@ -5,7 +5,7 @@
       {
         "matchup": "MIN @ CHI",
         "kickoff": "11/24/2024, 12:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "CHI",
@@ -65,7 +65,7 @@
       {
         "matchup": "DAL @ WSH",
         "kickoff": "11/24/2024, 12:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "WSH",
@@ -103,7 +103,7 @@
           },
           "away": {
             "name": "TEN",
-            "score": "10"
+            "score": "16"
           }
         }
       },
