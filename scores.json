@@ -3,21 +3,6 @@
     "week": 12,
     "games": [
       {
-        "matchup": "BAL @ LAC",
-        "kickoff": "11/25/2024, 7:15:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "LAC",
-            "score": "23"
-          },
-          "away": {
-            "name": "BAL",
-            "score": "30"
-          }
-        }
-      },
-      {
         "matchup": "PIT @ CLE",
         "kickoff": "11/21/2024, 7:15:00 PM",
         "status": "Final",
@@ -194,6 +179,21 @@
           "away": {
             "name": "PHI",
             "score": "37"
+          }
+        }
+      },
+      {
+        "matchup": "BAL @ LAC",
+        "kickoff": "11/25/2024, 7:15:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "LAC",
+            "score": "23"
+          },
+          "away": {
+            "name": "BAL",
+            "score": "30"
           }
         }
       }
