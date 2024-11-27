@@ -250,12 +250,6 @@
         "score": null
       },
       {
-        "matchup": "UTSA @ ARMY",
-        "kickoff": "11/30/2024, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
         "matchup": "ILL @ NU",
         "kickoff": "11/30/2024, 11:00:00 AM",
         "status": "Scheduled",
@@ -274,12 +268,6 @@
         "score": null
       },
       {
-        "matchup": "AUB @ ALA",
-        "kickoff": "11/30/2024, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
         "matchup": "MIA @ SYR",
         "kickoff": "11/30/2024, 2:30:00 PM",
         "status": "Scheduled",
@@ -287,6 +275,12 @@
       },
       {
         "matchup": "CAL @ SMU",
+        "kickoff": "11/30/2024, 2:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "AUB @ ALA",
         "kickoff": "11/30/2024, 2:30:00 PM",
         "status": "Scheduled",
         "score": null
