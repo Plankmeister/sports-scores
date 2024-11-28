@@ -5,8 +5,17 @@
       {
         "matchup": "CHI @ DET",
         "kickoff": "11/28/2024, 11:30:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "DET",
+            "score": "0"
+          },
+          "away": {
+            "name": "CHI",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "NYG @ DAL",
