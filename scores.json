@@ -20,8 +20,17 @@
       {
         "matchup": "NYG @ DAL",
         "kickoff": "11/28/2024, 3:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "DAL",
+            "score": "0"
+          },
+          "away": {
+            "name": "NYG",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "MIA @ GB",
