@@ -132,14 +132,32 @@
       {
         "matchup": "ORST @ BOIS",
         "kickoff": "11/29/2024, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "BOIS",
+            "score": "0"
+          },
+          "away": {
+            "name": "ORST",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "OKST @ COLO",
         "kickoff": "11/29/2024, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "COLO",
+            "score": "0"
+          },
+          "away": {
+            "name": "OKST",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "MSST @ MISS",
