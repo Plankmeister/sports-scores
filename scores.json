@@ -35,8 +35,17 @@
       {
         "matchup": "MIA @ GB",
         "kickoff": "11/28/2024, 7:20:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "GB",
+            "score": "0"
+          },
+          "away": {
+            "name": "MIA",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "LV @ KC",
@@ -123,7 +132,7 @@
       {
         "matchup": "MEM @ TULN",
         "kickoff": "11/28/2024, 6:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "TULN",
