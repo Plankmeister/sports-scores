@@ -123,8 +123,17 @@
       {
         "matchup": "MEM @ TULN",
         "kickoff": "11/28/2024, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "TULN",
+            "score": "0"
+          },
+          "away": {
+            "name": "MEM",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "ORST @ BOIS",
