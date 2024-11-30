@@ -139,21 +139,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "MSST @ MISS",
-        "kickoff": "11/29/2024, 2:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "MISS",
-            "score": "26"
-          },
-          "away": {
-            "name": "MSST",
-            "score": "14"
-          }
-        }
-      },
-      {
         "matchup": "ORST @ BOIS",
         "kickoff": "11/29/2024, 11:00:00 AM",
         "status": "Final",
@@ -165,6 +150,21 @@
           "away": {
             "name": "ORST",
             "score": "18"
+          }
+        }
+      },
+      {
+        "matchup": "MSST @ MISS",
+        "kickoff": "11/29/2024, 2:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "MISS",
+            "score": "26"
+          },
+          "away": {
+            "name": "MSST",
+            "score": "14"
           }
         }
       },
