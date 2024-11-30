@@ -179,7 +179,7 @@
           },
           "away": {
             "name": "MIA",
-            "score": "7"
+            "score": "14"
           }
         }
       },
@@ -190,7 +190,7 @@
         "score": {
           "home": {
             "name": "SMU",
-            "score": "7"
+            "score": "14"
           },
           "away": {
             "name": "CAL",
@@ -224,7 +224,7 @@
           },
           "away": {
             "name": "ASU",
-            "score": "7"
+            "score": "14"
           }
         }
       },
@@ -235,7 +235,7 @@
         "score": {
           "home": {
             "name": "MIZ",
-            "score": "0"
+            "score": "7"
           },
           "away": {
             "name": "ARK",
