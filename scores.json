@@ -141,7 +141,7 @@
       {
         "matchup": "MICH @ OSU",
         "kickoff": "11/30/2024, 11:00:00 AM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "OSU",
@@ -175,7 +175,7 @@
         "score": {
           "home": {
             "name": "CLEM",
-            "score": "7"
+            "score": "14"
           },
           "away": {
             "name": "SC",
@@ -194,7 +194,7 @@
           },
           "away": {
             "name": "ILL",
-            "score": "21"
+            "score": "28"
           }
         }
       },
