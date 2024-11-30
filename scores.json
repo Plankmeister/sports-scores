@@ -190,11 +190,26 @@
         "score": {
           "home": {
             "name": "NU",
-            "score": "20"
+            "score": "26"
           },
           "away": {
             "name": "ILL",
             "score": "38"
+          }
+        }
+      },
+      {
+        "matchup": "CAL @ SMU",
+        "kickoff": "11/30/2024, 2:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "SMU",
+            "score": "0"
+          },
+          "away": {
+            "name": "CAL",
+            "score": "0"
           }
         }
       },
@@ -212,12 +227,6 @@
       },
       {
         "matchup": "MIA @ SYR",
-        "kickoff": "11/30/2024, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "CAL @ SMU",
         "kickoff": "11/30/2024, 2:30:00 PM",
         "status": "Scheduled",
         "score": null
