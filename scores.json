@@ -141,7 +141,7 @@
       {
         "matchup": "MICH @ OSU",
         "kickoff": "11/30/2024, 11:00:00 AM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "OSU",
@@ -149,7 +149,7 @@
           },
           "away": {
             "name": "MICH",
-            "score": "10"
+            "score": "13"
           }
         }
       },
@@ -171,7 +171,7 @@
       {
         "matchup": "SC @ CLEM",
         "kickoff": "11/30/2024, 11:00:00 AM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "CLEM",
@@ -190,7 +190,7 @@
         "score": {
           "home": {
             "name": "NU",
-            "score": "26"
+            "score": "28"
           },
           "away": {
             "name": "ILL",
@@ -201,17 +201,8 @@
       {
         "matchup": "CAL @ SMU",
         "kickoff": "11/30/2024, 2:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "SMU",
-            "score": "0"
-          },
-          "away": {
-            "name": "CAL",
-            "score": "0"
-          }
-        }
+        "status": "Scheduled",
+        "score": null
       },
       {
         "matchup": "MD @ PSU",
