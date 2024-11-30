@@ -141,7 +141,7 @@
       {
         "matchup": "MD @ PSU",
         "kickoff": "11/30/2024, 2:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "PSU",
@@ -160,7 +160,7 @@
         "score": {
           "home": {
             "name": "USC",
-            "score": "0"
+            "score": "6"
           },
           "away": {
             "name": "ND",
@@ -179,7 +179,7 @@
           },
           "away": {
             "name": "MIA",
-            "score": "14"
+            "score": "21"
           }
         }
       },
@@ -205,7 +205,7 @@
         "score": {
           "home": {
             "name": "ALA",
-            "score": "0"
+            "score": "7"
           },
           "away": {
             "name": "AUB",
@@ -239,7 +239,7 @@
           },
           "away": {
             "name": "ARK",
-            "score": "0"
+            "score": "7"
           }
         }
       },
