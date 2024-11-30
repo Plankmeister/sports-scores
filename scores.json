@@ -164,7 +164,7 @@
           },
           "away": {
             "name": "ND",
-            "score": "14"
+            "score": "21"
           }
         }
       },
@@ -216,7 +216,7 @@
       {
         "matchup": "ASU @ ARIZ",
         "kickoff": "11/30/2024, 2:30:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "ARIZ",
@@ -239,7 +239,7 @@
           },
           "away": {
             "name": "ARK",
-            "score": "7"
+            "score": "14"
           }
         }
       },
