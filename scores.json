@@ -139,22 +139,19 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "MICH @ OSU",
-        "kickoff": "11/30/2024, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
         "matchup": "TENN @ VAN",
         "kickoff": "11/30/2024, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "SC @ CLEM",
-        "kickoff": "11/30/2024, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "VAN",
+            "score": "7"
+          },
+          "away": {
+            "name": "TENN",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "ILL VS NU",
@@ -163,10 +160,31 @@
         "score": {
           "home": {
             "name": "NU",
-            "score": "0"
+            "score": "3"
           },
           "away": {
             "name": "ILL",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "MICH @ OSU",
+        "kickoff": "11/30/2024, 11:00:00 AM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "SC @ CLEM",
+        "kickoff": "11/30/2024, 11:00:00 AM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "CLEM",
+            "score": "0"
+          },
+          "away": {
+            "name": "SC",
             "score": "0"
           }
         }
