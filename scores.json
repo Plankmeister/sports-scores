@@ -186,7 +186,7 @@
       {
         "matchup": "ILL VS NU",
         "kickoff": "11/30/2024, 11:00:00 AM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "NU",
@@ -201,8 +201,17 @@
       {
         "matchup": "CAL @ SMU",
         "kickoff": "11/30/2024, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "SMU",
+            "score": "0"
+          },
+          "away": {
+            "name": "CAL",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "MD @ PSU",
@@ -219,8 +228,17 @@
       {
         "matchup": "MIA @ SYR",
         "kickoff": "11/30/2024, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "SYR",
+            "score": "0"
+          },
+          "away": {
+            "name": "MIA",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "AUB @ ALA",
@@ -237,8 +255,17 @@
       {
         "matchup": "ARK @ MIZ",
         "kickoff": "11/30/2024, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MIZ",
+            "score": "0"
+          },
+          "away": {
+            "name": "ARK",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "PUR @ IU",
