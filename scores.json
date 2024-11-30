@@ -164,15 +164,24 @@
           },
           "away": {
             "name": "ILL",
-            "score": "0"
+            "score": "7"
           }
         }
       },
       {
         "matchup": "MICH @ OSU",
         "kickoff": "11/30/2024, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "OSU",
+            "score": "0"
+          },
+          "away": {
+            "name": "MICH",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "SC @ CLEM",
