@@ -186,7 +186,7 @@
       {
         "matchup": "CAL @ SMU",
         "kickoff": "11/30/2024, 2:30:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "SMU",
@@ -194,7 +194,7 @@
           },
           "away": {
             "name": "CAL",
-            "score": "3"
+            "score": "6"
           }
         }
       },
@@ -209,7 +209,7 @@
           },
           "away": {
             "name": "AUB",
-            "score": "6"
+            "score": "14"
           }
         }
       },
