@@ -156,7 +156,7 @@
       {
         "matchup": "ND @ USC",
         "kickoff": "11/30/2024, 2:30:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "USC",
@@ -179,14 +179,14 @@
           },
           "away": {
             "name": "MIA",
-            "score": "21"
+            "score": "28"
           }
         }
       },
       {
         "matchup": "CAL @ SMU",
         "kickoff": "11/30/2024, 2:30:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "SMU",
