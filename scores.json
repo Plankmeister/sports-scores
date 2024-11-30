@@ -139,6 +139,21 @@
   "collegeFootball": {
     "games": [
       {
+        "matchup": "GT @ UGA",
+        "kickoff": "11/29/2024, 6:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "UGA",
+            "score": "0"
+          },
+          "away": {
+            "name": "GT",
+            "score": "0"
+          }
+        }
+      },
+      {
         "matchup": "ORST @ BOIS",
         "kickoff": "11/29/2024, 11:00:00 AM",
         "status": "Final",
@@ -179,21 +194,6 @@
           },
           "away": {
             "name": "OKST",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "GT @ UGA",
-        "kickoff": "11/29/2024, 6:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "UGA",
-            "score": "0"
-          },
-          "away": {
-            "name": "GT",
             "score": "0"
           }
         }
