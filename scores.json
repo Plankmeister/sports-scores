@@ -156,7 +156,7 @@
       {
         "matchup": "TENN @ VAN",
         "kickoff": "11/30/2024, 11:00:00 AM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "VAN",
@@ -179,7 +179,7 @@
           },
           "away": {
             "name": "SC",
-            "score": "6"
+            "score": "7"
           }
         }
       },
