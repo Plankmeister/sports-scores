@@ -141,7 +141,7 @@
       {
         "matchup": "TENN @ VAN",
         "kickoff": "11/30/2024, 11:00:00 AM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "VAN",
@@ -164,7 +164,7 @@
           },
           "away": {
             "name": "MD",
-            "score": "0"
+            "score": "7"
           }
         }
       },
@@ -179,7 +179,7 @@
           },
           "away": {
             "name": "MIA",
-            "score": "0"
+            "score": "7"
           }
         }
       },
