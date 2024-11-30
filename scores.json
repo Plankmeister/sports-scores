@@ -139,36 +139,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "TENN @ VAN",
-        "kickoff": "11/30/2024, 11:00:00 AM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "VAN",
-            "score": "14"
-          },
-          "away": {
-            "name": "TENN",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "ILL VS NU",
-        "kickoff": "11/30/2024, 11:00:00 AM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "NU",
-            "score": "3"
-          },
-          "away": {
-            "name": "ILL",
-            "score": "7"
-          }
-        }
-      },
-      {
         "matchup": "MICH @ OSU",
         "kickoff": "11/30/2024, 11:00:00 AM",
         "status": "Live: Q1",
@@ -179,6 +149,21 @@
           },
           "away": {
             "name": "MICH",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "TENN @ VAN",
+        "kickoff": "11/30/2024, 11:00:00 AM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "VAN",
+            "score": "14"
+          },
+          "away": {
+            "name": "TENN",
             "score": "0"
           }
         }
@@ -195,6 +180,21 @@
           "away": {
             "name": "SC",
             "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "ILL VS NU",
+        "kickoff": "11/30/2024, 11:00:00 AM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "NU",
+            "score": "3"
+          },
+          "away": {
+            "name": "ILL",
+            "score": "7"
           }
         }
       },
