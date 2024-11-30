@@ -139,21 +139,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "MICH @ OSU",
-        "kickoff": "11/30/2024, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "OSU",
-            "score": "10"
-          },
-          "away": {
-            "name": "MICH",
-            "score": "13"
-          }
-        }
-      },
-      {
         "matchup": "TENN @ VAN",
         "kickoff": "11/30/2024, 11:00:00 AM",
         "status": "Live: Q4",
@@ -165,6 +150,81 @@
           "away": {
             "name": "TENN",
             "score": "36"
+          }
+        }
+      },
+      {
+        "matchup": "MD @ PSU",
+        "kickoff": "11/30/2024, 2:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "PSU",
+            "score": "0"
+          },
+          "away": {
+            "name": "MD",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "MIA @ SYR",
+        "kickoff": "11/30/2024, 2:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "SYR",
+            "score": "0"
+          },
+          "away": {
+            "name": "MIA",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "CAL @ SMU",
+        "kickoff": "11/30/2024, 2:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "SMU",
+            "score": "0"
+          },
+          "away": {
+            "name": "CAL",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "ARK @ MIZ",
+        "kickoff": "11/30/2024, 2:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MIZ",
+            "score": "0"
+          },
+          "away": {
+            "name": "ARK",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "MICH @ OSU",
+        "kickoff": "11/30/2024, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "OSU",
+            "score": "10"
+          },
+          "away": {
+            "name": "MICH",
+            "score": "13"
           }
         }
       },
@@ -199,43 +259,16 @@
         }
       },
       {
-        "matchup": "CAL @ SMU",
-        "kickoff": "11/30/2024, 2:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "SMU",
-            "score": "0"
-          },
-          "away": {
-            "name": "CAL",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "MD @ PSU",
-        "kickoff": "11/30/2024, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
         "matchup": "ND @ USC",
         "kickoff": "11/30/2024, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "MIA @ SYR",
-        "kickoff": "11/30/2024, 2:30:00 PM",
         "status": "Live: Q1",
         "score": {
           "home": {
-            "name": "SYR",
+            "name": "USC",
             "score": "0"
           },
           "away": {
-            "name": "MIA",
+            "name": "ND",
             "score": "0"
           }
         }
@@ -249,20 +282,14 @@
       {
         "matchup": "ASU @ ARIZ",
         "kickoff": "11/30/2024, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "ARK @ MIZ",
-        "kickoff": "11/30/2024, 2:30:00 PM",
         "status": "Live: Q1",
         "score": {
           "home": {
-            "name": "MIZ",
+            "name": "ARIZ",
             "score": "0"
           },
           "away": {
-            "name": "ARK",
+            "name": "ASU",
             "score": "0"
           }
         }
