@@ -139,21 +139,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "MD @ PSU",
-        "kickoff": "11/30/2024, 2:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "PSU",
-            "score": "44"
-          },
-          "away": {
-            "name": "MD",
-            "score": "7"
-          }
-        }
-      },
-      {
         "matchup": "ND @ USC",
         "kickoff": "11/30/2024, 2:30:00 PM",
         "status": "Live: Q4",
@@ -179,7 +164,7 @@
           },
           "away": {
             "name": "MIA",
-            "score": "35"
+            "score": "38"
           }
         }
       },
@@ -190,7 +175,7 @@
         "score": {
           "home": {
             "name": "SMU",
-            "score": "31"
+            "score": "38"
           },
           "away": {
             "name": "CAL",
@@ -216,7 +201,7 @@
       {
         "matchup": "ASU @ ARIZ",
         "kickoff": "11/30/2024, 2:30:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "ARIZ",
@@ -235,7 +220,7 @@
         "score": {
           "home": {
             "name": "MIZ",
-            "score": "20"
+            "score": "28"
           },
           "away": {
             "name": "ARK",
@@ -255,6 +240,21 @@
           "away": {
             "name": "MICH",
             "score": "13"
+          }
+        }
+      },
+      {
+        "matchup": "MD @ PSU",
+        "kickoff": "11/30/2024, 2:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "PSU",
+            "score": "44"
+          },
+          "away": {
+            "name": "MD",
+            "score": "7"
           }
         }
       },
