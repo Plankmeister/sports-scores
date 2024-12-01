@@ -160,7 +160,7 @@
         "score": {
           "home": {
             "name": "ORE",
-            "score": "21"
+            "score": "27"
           },
           "away": {
             "name": "WASH",
@@ -179,7 +179,7 @@
           },
           "away": {
             "name": "TEX",
-            "score": "7"
+            "score": "14"
           }
         }
       },
@@ -201,11 +201,11 @@
       {
         "matchup": "NEV @ UNLV",
         "kickoff": "11/30/2024, 7:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "UNLV",
-            "score": "10"
+            "score": "17"
           },
           "away": {
             "name": "NEV",
