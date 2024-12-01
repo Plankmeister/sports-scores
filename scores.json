@@ -139,21 +139,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "HOU @ BYU",
-        "kickoff": "11/30/2024, 9:15:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "BYU",
-            "score": "30"
-          },
-          "away": {
-            "name": "HOU",
-            "score": "18"
-          }
-        }
-      },
-      {
         "matchup": "MEM @ TULN",
         "kickoff": "11/28/2024, 6:30:00 PM",
         "status": "Final",
@@ -420,6 +405,21 @@
           "away": {
             "name": "KSU",
             "score": "21"
+          }
+        }
+      },
+      {
+        "matchup": "HOU @ BYU",
+        "kickoff": "11/30/2024, 9:15:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "BYU",
+            "score": "30"
+          },
+          "away": {
+            "name": "HOU",
+            "score": "18"
           }
         }
       },
