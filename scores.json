@@ -145,7 +145,7 @@
         "score": {
           "home": {
             "name": "IU",
-            "score": "14"
+            "score": "20"
           },
           "away": {
             "name": "PUR",
@@ -156,7 +156,7 @@
       {
         "matchup": "WASH @ ORE",
         "kickoff": "11/30/2024, 6:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "ORE",
@@ -209,7 +209,7 @@
           },
           "away": {
             "name": "NEV",
-            "score": "0"
+            "score": "7"
           }
         }
       },
