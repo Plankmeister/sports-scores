@@ -154,6 +154,36 @@
         }
       },
       {
+        "matchup": "WASH @ ORE",
+        "kickoff": "11/30/2024, 6:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ORE",
+            "score": "0"
+          },
+          "away": {
+            "name": "WASH",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "KSU @ ISU",
+        "kickoff": "11/30/2024, 6:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ISU",
+            "score": "0"
+          },
+          "away": {
+            "name": "KSU",
+            "score": "0"
+          }
+        }
+      },
+      {
         "matchup": "MICH @ OSU",
         "kickoff": "11/30/2024, 11:00:00 AM",
         "status": "Final",
@@ -319,31 +349,10 @@
         }
       },
       {
-        "matchup": "WASH @ ORE",
-        "kickoff": "11/30/2024, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
         "matchup": "TEX @ TA&M",
         "kickoff": "11/30/2024, 6:30:00 PM",
         "status": "Scheduled",
         "score": null
-      },
-      {
-        "matchup": "KSU @ ISU",
-        "kickoff": "11/30/2024, 6:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "ISU",
-            "score": "0"
-          },
-          "away": {
-            "name": "KSU",
-            "score": "0"
-          }
-        }
       },
       {
         "matchup": "NEV @ UNLV",
