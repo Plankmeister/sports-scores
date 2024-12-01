@@ -141,7 +141,7 @@
       {
         "matchup": "PUR @ IU",
         "kickoff": "11/30/2024, 6:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "IU",
@@ -164,6 +164,21 @@
           },
           "away": {
             "name": "WASH",
+            "score": "3"
+          }
+        }
+      },
+      {
+        "matchup": "TEX @ TA&M",
+        "kickoff": "11/30/2024, 6:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "TA&M",
+            "score": "0"
+          },
+          "away": {
+            "name": "TEX",
             "score": "0"
           }
         }
@@ -239,7 +254,7 @@
           },
           "away": {
             "name": "MIA",
-            "score": "28"
+            "score": "38"
           }
         }
       },
@@ -345,21 +360,6 @@
           "away": {
             "name": "ILL",
             "score": "38"
-          }
-        }
-      },
-      {
-        "matchup": "TEX @ TA&M",
-        "kickoff": "11/30/2024, 6:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "TA&M",
-            "score": "0"
-          },
-          "away": {
-            "name": "TEX",
-            "score": "0"
           }
         }
       },
