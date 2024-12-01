@@ -175,7 +175,7 @@
         "score": {
           "home": {
             "name": "ISU",
-            "score": "0"
+            "score": "7"
           },
           "away": {
             "name": "KSU",
@@ -239,7 +239,7 @@
           },
           "away": {
             "name": "MIA",
-            "score": "38"
+            "score": "28"
           }
         }
       },
@@ -351,8 +351,17 @@
       {
         "matchup": "TEX @ TA&M",
         "kickoff": "11/30/2024, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "TA&M",
+            "score": "0"
+          },
+          "away": {
+            "name": "TEX",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "NEV @ UNLV",
