@@ -39,7 +39,7 @@
         "score": {
           "home": {
             "name": "MIN",
-            "score": "13"
+            "score": "16"
           },
           "away": {
             "name": "ARI",
@@ -50,7 +50,7 @@
       {
         "matchup": "IND @ NE",
         "kickoff": "12/1/2024, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "NE",
@@ -73,18 +73,18 @@
           },
           "away": {
             "name": "SEA",
-            "score": "16"
+            "score": "19"
           }
         }
       },
       {
         "matchup": "TEN @ WSH",
         "kickoff": "12/1/2024, 12:00:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "WSH",
-            "score": "28"
+            "score": "34"
           },
           "away": {
             "name": "TEN",
