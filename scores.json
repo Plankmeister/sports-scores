@@ -43,7 +43,7 @@
           },
           "away": {
             "name": "ARI",
-            "score": "3"
+            "score": "6"
           }
         }
       },
@@ -69,11 +69,11 @@
         "score": {
           "home": {
             "name": "NYJ",
-            "score": "14"
+            "score": "20"
           },
           "away": {
             "name": "SEA",
-            "score": "0"
+            "score": "7"
           }
         }
       },
@@ -84,7 +84,7 @@
         "score": {
           "home": {
             "name": "WSH",
-            "score": "27"
+            "score": "28"
           },
           "away": {
             "name": "TEN",
@@ -103,7 +103,7 @@
           },
           "away": {
             "name": "HOU",
-            "score": "3"
+            "score": "6"
           }
         }
       },
