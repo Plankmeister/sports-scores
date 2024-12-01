@@ -3,21 +3,6 @@
     "week": 13,
     "games": [
       {
-        "matchup": "LAC @ ATL",
-        "kickoff": "12/1/2024, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "ATL",
-            "score": "13"
-          },
-          "away": {
-            "name": "LAC",
-            "score": "17"
-          }
-        }
-      },
-      {
         "matchup": "PIT @ CIN",
         "kickoff": "12/1/2024, 12:00:00 PM",
         "status": "Live: Q4",
@@ -50,7 +35,7 @@
       {
         "matchup": "IND @ NE",
         "kickoff": "12/1/2024, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "NE",
@@ -104,6 +89,21 @@
           "away": {
             "name": "HOU",
             "score": "23"
+          }
+        }
+      },
+      {
+        "matchup": "LAC @ ATL",
+        "kickoff": "12/1/2024, 12:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "ATL",
+            "score": "13"
+          },
+          "away": {
+            "name": "LAC",
+            "score": "17"
           }
         }
       },
