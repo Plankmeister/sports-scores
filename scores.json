@@ -139,28 +139,13 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "PUR @ IU",
-        "kickoff": "11/30/2024, 6:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "IU",
-            "score": "66"
-          },
-          "away": {
-            "name": "PUR",
-            "score": "0"
-          }
-        }
-      },
-      {
         "matchup": "WASH @ ORE",
         "kickoff": "11/30/2024, 6:30:00 PM",
         "status": "Live: Q4",
         "score": {
           "home": {
             "name": "ORE",
-            "score": "42"
+            "score": "49"
           },
           "away": {
             "name": "WASH",
@@ -205,11 +190,26 @@
         "score": {
           "home": {
             "name": "UNLV",
-            "score": "31"
+            "score": "38"
           },
           "away": {
             "name": "NEV",
             "score": "7"
+          }
+        }
+      },
+      {
+        "matchup": "HOU @ BYU",
+        "kickoff": "11/30/2024, 9:15:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "BYU",
+            "score": "0"
+          },
+          "away": {
+            "name": "HOU",
+            "score": "0"
           }
         }
       },
@@ -304,6 +304,21 @@
         }
       },
       {
+        "matchup": "PUR @ IU",
+        "kickoff": "11/30/2024, 6:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "IU",
+            "score": "66"
+          },
+          "away": {
+            "name": "PUR",
+            "score": "0"
+          }
+        }
+      },
+      {
         "matchup": "SC @ CLEM",
         "kickoff": "11/30/2024, 11:00:00 AM",
         "status": "Final",
@@ -375,21 +390,6 @@
           "away": {
             "name": "ILL",
             "score": "38"
-          }
-        }
-      },
-      {
-        "matchup": "HOU @ BYU",
-        "kickoff": "11/30/2024, 9:15:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "BYU",
-            "score": "0"
-          },
-          "away": {
-            "name": "HOU",
-            "score": "0"
           }
         }
       },
