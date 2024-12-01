@@ -28,14 +28,14 @@
           },
           "away": {
             "name": "PIT",
-            "score": "24"
+            "score": "27"
           }
         }
       },
       {
         "matchup": "ARI @ MIN",
         "kickoff": "12/1/2024, 12:00:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "MIN",
