@@ -18,6 +18,81 @@
         }
       },
       {
+        "matchup": "TEN @ WSH",
+        "kickoff": "12/1/2024, 12:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "WSH",
+            "score": "42"
+          },
+          "away": {
+            "name": "TEN",
+            "score": "19"
+          }
+        }
+      },
+      {
+        "matchup": "HOU @ JAX",
+        "kickoff": "12/1/2024, 12:00:00 PM",
+        "status": "Live: Q4",
+        "score": {
+          "home": {
+            "name": "JAX",
+            "score": "20"
+          },
+          "away": {
+            "name": "HOU",
+            "score": "23"
+          }
+        }
+      },
+      {
+        "matchup": "LAR @ NO",
+        "kickoff": "12/1/2024, 3:05:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "NO",
+            "score": "0"
+          },
+          "away": {
+            "name": "LAR",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "TB @ CAR",
+        "kickoff": "12/1/2024, 3:05:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "CAR",
+            "score": "0"
+          },
+          "away": {
+            "name": "TB",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "LAC @ ATL",
+        "kickoff": "12/1/2024, 12:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "ATL",
+            "score": "13"
+          },
+          "away": {
+            "name": "LAC",
+            "score": "17"
+          }
+        }
+      },
+      {
         "matchup": "ARI @ MIN",
         "kickoff": "12/1/2024, 12:00:00 PM",
         "status": "Final",
@@ -59,81 +134,6 @@
           "away": {
             "name": "SEA",
             "score": "26"
-          }
-        }
-      },
-      {
-        "matchup": "TEN @ WSH",
-        "kickoff": "12/1/2024, 12:00:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "WSH",
-            "score": "42"
-          },
-          "away": {
-            "name": "TEN",
-            "score": "19"
-          }
-        }
-      },
-      {
-        "matchup": "HOU @ JAX",
-        "kickoff": "12/1/2024, 12:00:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "JAX",
-            "score": "20"
-          },
-          "away": {
-            "name": "HOU",
-            "score": "23"
-          }
-        }
-      },
-      {
-        "matchup": "LAC @ ATL",
-        "kickoff": "12/1/2024, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "ATL",
-            "score": "13"
-          },
-          "away": {
-            "name": "LAC",
-            "score": "17"
-          }
-        }
-      },
-      {
-        "matchup": "LAR @ NO",
-        "kickoff": "12/1/2024, 3:05:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "NO",
-            "score": "0"
-          },
-          "away": {
-            "name": "LAR",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "TB @ CAR",
-        "kickoff": "12/1/2024, 3:05:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "CAR",
-            "score": "0"
-          },
-          "away": {
-            "name": "TB",
-            "score": "0"
           }
         }
       },
