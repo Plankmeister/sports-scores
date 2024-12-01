@@ -154,6 +154,81 @@
         }
       },
       {
+        "matchup": "MEM @ TULN",
+        "kickoff": "11/28/2024, 6:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "TULN",
+            "score": "24"
+          },
+          "away": {
+            "name": "MEM",
+            "score": "34"
+          }
+        }
+      },
+      {
+        "matchup": "GT @ UGA",
+        "kickoff": "11/29/2024, 6:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "UGA",
+            "score": "44"
+          },
+          "away": {
+            "name": "GT",
+            "score": "42"
+          }
+        }
+      },
+      {
+        "matchup": "ORST @ BOIS",
+        "kickoff": "11/29/2024, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "BOIS",
+            "score": "34"
+          },
+          "away": {
+            "name": "ORST",
+            "score": "18"
+          }
+        }
+      },
+      {
+        "matchup": "MSST @ MISS",
+        "kickoff": "11/29/2024, 2:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "MISS",
+            "score": "26"
+          },
+          "away": {
+            "name": "MSST",
+            "score": "14"
+          }
+        }
+      },
+      {
+        "matchup": "OKST @ COLO",
+        "kickoff": "11/29/2024, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "COLO",
+            "score": "52"
+          },
+          "away": {
+            "name": "OKST",
+            "score": "0"
+          }
+        }
+      },
+      {
         "matchup": "WASH @ ORE",
         "kickoff": "11/30/2024, 6:30:00 PM",
         "status": "Final",
@@ -390,81 +465,6 @@
           "away": {
             "name": "ILL",
             "score": "38"
-          }
-        }
-      },
-      {
-        "matchup": "MEM @ TULN",
-        "kickoff": "11/28/2024, 6:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "TULN",
-            "score": "24"
-          },
-          "away": {
-            "name": "MEM",
-            "score": "34"
-          }
-        }
-      },
-      {
-        "matchup": "GT @ UGA",
-        "kickoff": "11/29/2024, 6:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "UGA",
-            "score": "44"
-          },
-          "away": {
-            "name": "GT",
-            "score": "42"
-          }
-        }
-      },
-      {
-        "matchup": "ORST @ BOIS",
-        "kickoff": "11/29/2024, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "BOIS",
-            "score": "34"
-          },
-          "away": {
-            "name": "ORST",
-            "score": "18"
-          }
-        }
-      },
-      {
-        "matchup": "MSST @ MISS",
-        "kickoff": "11/29/2024, 2:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "MISS",
-            "score": "26"
-          },
-          "away": {
-            "name": "MSST",
-            "score": "14"
-          }
-        }
-      },
-      {
-        "matchup": "OKST @ COLO",
-        "kickoff": "11/29/2024, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "COLO",
-            "score": "52"
-          },
-          "away": {
-            "name": "OKST",
-            "score": "0"
           }
         }
       }
