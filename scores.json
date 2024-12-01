@@ -3,51 +3,6 @@
     "week": 13,
     "games": [
       {
-        "matchup": "PIT @ CIN",
-        "kickoff": "12/1/2024, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "CIN",
-            "score": "38"
-          },
-          "away": {
-            "name": "PIT",
-            "score": "44"
-          }
-        }
-      },
-      {
-        "matchup": "TEN @ WSH",
-        "kickoff": "12/1/2024, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "WSH",
-            "score": "42"
-          },
-          "away": {
-            "name": "TEN",
-            "score": "19"
-          }
-        }
-      },
-      {
-        "matchup": "HOU @ JAX",
-        "kickoff": "12/1/2024, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "JAX",
-            "score": "20"
-          },
-          "away": {
-            "name": "HOU",
-            "score": "23"
-          }
-        }
-      },
-      {
         "matchup": "LAR @ NO",
         "kickoff": "12/1/2024, 3:05:00 PM",
         "status": "Live: Q1",
@@ -73,6 +28,21 @@
           },
           "away": {
             "name": "TB",
+            "score": "7"
+          }
+        }
+      },
+      {
+        "matchup": "PHI @ BAL",
+        "kickoff": "12/1/2024, 3:25:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "BAL",
+            "score": "0"
+          },
+          "away": {
+            "name": "PHI",
             "score": "0"
           }
         }
@@ -89,6 +59,21 @@
           "away": {
             "name": "LAC",
             "score": "17"
+          }
+        }
+      },
+      {
+        "matchup": "PIT @ CIN",
+        "kickoff": "12/1/2024, 12:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "CIN",
+            "score": "38"
+          },
+          "away": {
+            "name": "PIT",
+            "score": "44"
           }
         }
       },
@@ -138,17 +123,32 @@
         }
       },
       {
-        "matchup": "PHI @ BAL",
-        "kickoff": "12/1/2024, 3:25:00 PM",
-        "status": "Live: Q1",
+        "matchup": "TEN @ WSH",
+        "kickoff": "12/1/2024, 12:00:00 PM",
+        "status": "Final",
         "score": {
           "home": {
-            "name": "BAL",
-            "score": "0"
+            "name": "WSH",
+            "score": "42"
           },
           "away": {
-            "name": "PHI",
-            "score": "0"
+            "name": "TEN",
+            "score": "19"
+          }
+        }
+      },
+      {
+        "matchup": "HOU @ JAX",
+        "kickoff": "12/1/2024, 12:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "JAX",
+            "score": "20"
+          },
+          "away": {
+            "name": "HOU",
+            "score": "23"
           }
         }
       },
