@@ -145,7 +145,7 @@
         "score": {
           "home": {
             "name": "IU",
-            "score": "27"
+            "score": "28"
           },
           "away": {
             "name": "PUR",
@@ -160,7 +160,7 @@
         "score": {
           "home": {
             "name": "ORE",
-            "score": "7"
+            "score": "14"
           },
           "away": {
             "name": "WASH",
@@ -186,17 +186,8 @@
       {
         "matchup": "KSU @ ISU",
         "kickoff": "11/30/2024, 6:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "ISU",
-            "score": "7"
-          },
-          "away": {
-            "name": "KSU",
-            "score": "7"
-          }
-        }
+        "status": "Scheduled",
+        "score": null
       },
       {
         "matchup": "NEV @ UNLV",
