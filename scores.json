@@ -5,7 +5,7 @@
       {
         "matchup": "LAR @ NO",
         "kickoff": "12/1/2024, 3:05:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "NO",
@@ -24,7 +24,7 @@
         "score": {
           "home": {
             "name": "CAR",
-            "score": "0"
+            "score": "3"
           },
           "away": {
             "name": "TB",
@@ -39,7 +39,7 @@
         "score": {
           "home": {
             "name": "BAL",
-            "score": "0"
+            "score": "3"
           },
           "away": {
             "name": "PHI",
