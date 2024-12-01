@@ -139,21 +139,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "WASH @ ORE",
-        "kickoff": "11/30/2024, 6:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "ORE",
-            "score": "49"
-          },
-          "away": {
-            "name": "WASH",
-            "score": "21"
-          }
-        }
-      },
-      {
         "matchup": "TEX @ TA&M",
         "kickoff": "11/30/2024, 6:30:00 PM",
         "status": "Live: Q4",
@@ -201,7 +186,7 @@
       {
         "matchup": "HOU @ BYU",
         "kickoff": "11/30/2024, 9:15:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "BYU",
@@ -209,7 +194,22 @@
           },
           "away": {
             "name": "HOU",
-            "score": "7"
+            "score": "10"
+          }
+        }
+      },
+      {
+        "matchup": "WASH @ ORE",
+        "kickoff": "11/30/2024, 6:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "ORE",
+            "score": "49"
+          },
+          "away": {
+            "name": "WASH",
+            "score": "21"
           }
         }
       },
