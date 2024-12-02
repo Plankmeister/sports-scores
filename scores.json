@@ -155,8 +155,17 @@
       {
         "matchup": "SF @ BUF",
         "kickoff": "12/1/2024, 7:20:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "BUF",
+            "score": "0"
+          },
+          "away": {
+            "name": "SF",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "CHI @ DET",
