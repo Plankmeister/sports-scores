@@ -3,21 +3,6 @@
     "week": 13,
     "games": [
       {
-        "matchup": "SF @ BUF",
-        "kickoff": "12/1/2024, 7:20:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "BUF",
-            "score": "35"
-          },
-          "away": {
-            "name": "SF",
-            "score": "10"
-          }
-        }
-      },
-      {
         "matchup": "LAC @ ATL",
         "kickoff": "12/1/2024, 12:00:00 PM",
         "status": "Final",
@@ -164,6 +149,21 @@
           "away": {
             "name": "PHI",
             "score": "24"
+          }
+        }
+      },
+      {
+        "matchup": "SF @ BUF",
+        "kickoff": "12/1/2024, 7:20:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "BUF",
+            "score": "35"
+          },
+          "away": {
+            "name": "SF",
+            "score": "10"
           }
         }
       },
