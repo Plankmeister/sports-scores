@@ -3,21 +3,6 @@
     "week": 13,
     "games": [
       {
-        "matchup": "CLE @ DEN",
-        "kickoff": "12/2/2024, 7:15:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "DEN",
-            "score": "41"
-          },
-          "away": {
-            "name": "CLE",
-            "score": "32"
-          }
-        }
-      },
-      {
         "matchup": "CHI @ DET",
         "kickoff": "11/28/2024, 11:30:00 AM",
         "status": "Final",
@@ -239,6 +224,21 @@
           "away": {
             "name": "SF",
             "score": "10"
+          }
+        }
+      },
+      {
+        "matchup": "CLE @ DEN",
+        "kickoff": "12/2/2024, 7:15:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "DEN",
+            "score": "41"
+          },
+          "away": {
+            "name": "CLE",
+            "score": "32"
           }
         }
       }
