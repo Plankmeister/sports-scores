@@ -5,8 +5,17 @@
       {
         "matchup": "GB @ DET",
         "kickoff": "12/5/2024, 7:15:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q2",
+        "score": {
+          "home": {
+            "name": "DET",
+            "score": "10"
+          },
+          "away": {
+            "name": "GB",
+            "score": "7"
+          }
+        }
       },
       {
         "matchup": "JAX @ TEN",
