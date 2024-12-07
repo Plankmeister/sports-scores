@@ -94,6 +94,30 @@
   "collegeFootball": {
     "games": [
       {
+        "matchup": "ISU VS ASU",
+        "kickoff": "12/7/2024, 11:00:00 AM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "UGA VS TEX",
+        "kickoff": "12/7/2024, 3:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "PSU VS ORE",
+        "kickoff": "12/7/2024, 7:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "CLEM VS SMU",
+        "kickoff": "12/7/2024, 7:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
         "matchup": "UNLV @ BOIS",
         "kickoff": "12/6/2024, 7:00:00 PM",
         "status": "Final",
@@ -122,30 +146,6 @@
             "score": "14"
           }
         }
-      },
-      {
-        "matchup": "ISU VS ASU",
-        "kickoff": "12/7/2024, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "UGA VS TEX",
-        "kickoff": "12/7/2024, 3:00:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "PSU VS ORE",
-        "kickoff": "12/7/2024, 7:00:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "CLEM VS SMU",
-        "kickoff": "12/7/2024, 7:00:00 PM",
-        "status": "Scheduled",
-        "score": null
       }
     ]
   }
