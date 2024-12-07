@@ -111,8 +111,17 @@
       {
         "matchup": "TULN @ ARMY",
         "kickoff": "12/6/2024, 7:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ARMY",
+            "score": "0"
+          },
+          "away": {
+            "name": "TULN",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "ISU VS ASU",
