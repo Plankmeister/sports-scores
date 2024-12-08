@@ -9,7 +9,7 @@
         "score": {
           "home": {
             "name": "ARI",
-            "score": "7"
+            "score": "10"
           },
           "away": {
             "name": "SEA",
@@ -20,7 +20,7 @@
       {
         "matchup": "BUF @ LAR",
         "kickoff": "12/8/2024, 3:25:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "LAR",
@@ -39,7 +39,7 @@
         "score": {
           "home": {
             "name": "SF",
-            "score": "7"
+            "score": "13"
           },
           "away": {
             "name": "CHI",
