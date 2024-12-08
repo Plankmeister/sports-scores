@@ -94,6 +94,36 @@
   "collegeFootball": {
     "games": [
       {
+        "matchup": "UNLV @ BOIS",
+        "kickoff": "12/6/2024, 7:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "BOIS",
+            "score": "21"
+          },
+          "away": {
+            "name": "UNLV",
+            "score": "7"
+          }
+        }
+      },
+      {
+        "matchup": "TULN @ ARMY",
+        "kickoff": "12/6/2024, 7:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "ARMY",
+            "score": "35"
+          },
+          "away": {
+            "name": "TULN",
+            "score": "14"
+          }
+        }
+      },
+      {
         "matchup": "PSU VS ORE",
         "kickoff": "12/7/2024, 7:00:00 PM",
         "status": "Final",
@@ -150,36 +180,6 @@
           "away": {
             "name": "ISU",
             "score": "19"
-          }
-        }
-      },
-      {
-        "matchup": "UNLV @ BOIS",
-        "kickoff": "12/6/2024, 7:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "BOIS",
-            "score": "21"
-          },
-          "away": {
-            "name": "UNLV",
-            "score": "7"
-          }
-        }
-      },
-      {
-        "matchup": "TULN @ ARMY",
-        "kickoff": "12/6/2024, 7:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "ARMY",
-            "score": "35"
-          },
-          "away": {
-            "name": "TULN",
-            "score": "14"
           }
         }
       }
