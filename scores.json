@@ -24,7 +24,7 @@
         "score": {
           "home": {
             "name": "MIN",
-            "score": "35"
+            "score": "42"
           },
           "away": {
             "name": "ATL",
@@ -39,7 +39,7 @@
         "score": {
           "home": {
             "name": "NYG",
-            "score": "9"
+            "score": "11"
           },
           "away": {
             "name": "NO",
@@ -50,7 +50,7 @@
       {
         "matchup": "CAR @ PHI",
         "kickoff": "12/8/2024, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "PHI",
@@ -84,7 +84,7 @@
         "score": {
           "home": {
             "name": "TB",
-            "score": "21"
+            "score": "28"
           },
           "away": {
             "name": "LV",
