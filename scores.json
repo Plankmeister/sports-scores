@@ -43,7 +43,7 @@
           },
           "away": {
             "name": "ATL",
-            "score": "13"
+            "score": "21"
           }
         }
       },
@@ -58,7 +58,7 @@
           },
           "away": {
             "name": "NO",
-            "score": "7"
+            "score": "14"
           }
         }
       },
@@ -69,7 +69,7 @@
         "score": {
           "home": {
             "name": "PHI",
-            "score": "14"
+            "score": "22"
           },
           "away": {
             "name": "CAR",
@@ -84,7 +84,7 @@
         "score": {
           "home": {
             "name": "PIT",
-            "score": "20"
+            "score": "27"
           },
           "away": {
             "name": "CLE",
