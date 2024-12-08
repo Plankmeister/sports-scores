@@ -54,7 +54,7 @@
         "score": {
           "home": {
             "name": "NYG",
-            "score": "0"
+            "score": "3"
           },
           "away": {
             "name": "NO",
@@ -69,7 +69,7 @@
         "score": {
           "home": {
             "name": "PHI",
-            "score": "0"
+            "score": "7"
           },
           "away": {
             "name": "CAR",
@@ -80,7 +80,7 @@
       {
         "matchup": "CLE @ PIT",
         "kickoff": "12/8/2024, 12:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "PIT",
