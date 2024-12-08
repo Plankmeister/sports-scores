@@ -94,6 +94,36 @@
   "collegeFootball": {
     "games": [
       {
+        "matchup": "PSU VS ORE",
+        "kickoff": "12/7/2024, 7:00:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ORE",
+            "score": "7"
+          },
+          "away": {
+            "name": "PSU",
+            "score": "3"
+          }
+        }
+      },
+      {
+        "matchup": "CLEM VS SMU",
+        "kickoff": "12/7/2024, 7:00:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "SMU",
+            "score": "0"
+          },
+          "away": {
+            "name": "CLEM",
+            "score": "14"
+          }
+        }
+      },
+      {
         "matchup": "UGA VS TEX",
         "kickoff": "12/7/2024, 3:00:00 PM",
         "status": "Final",
@@ -120,36 +150,6 @@
           "away": {
             "name": "ISU",
             "score": "19"
-          }
-        }
-      },
-      {
-        "matchup": "PSU VS ORE",
-        "kickoff": "12/7/2024, 7:00:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "ORE",
-            "score": "7"
-          },
-          "away": {
-            "name": "PSU",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "CLEM VS SMU",
-        "kickoff": "12/7/2024, 7:00:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "SMU",
-            "score": "0"
-          },
-          "away": {
-            "name": "CLEM",
-            "score": "7"
           }
         }
       },
