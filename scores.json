@@ -48,21 +48,6 @@
         }
       },
       {
-        "matchup": "CAR @ PHI",
-        "kickoff": "12/8/2024, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "PHI",
-            "score": "22"
-          },
-          "away": {
-            "name": "CAR",
-            "score": "16"
-          }
-        }
-      },
-      {
         "matchup": "CLE @ PIT",
         "kickoff": "12/8/2024, 12:00:00 PM",
         "status": "Live: Q4",
@@ -104,6 +89,21 @@
           "away": {
             "name": "JAX",
             "score": "10"
+          }
+        }
+      },
+      {
+        "matchup": "CAR @ PHI",
+        "kickoff": "12/8/2024, 12:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "PHI",
+            "score": "22"
+          },
+          "away": {
+            "name": "CAR",
+            "score": "16"
           }
         }
       },
