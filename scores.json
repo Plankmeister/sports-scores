@@ -3,6 +3,27 @@
     "week": 14,
     "games": [
       {
+        "matchup": "CIN @ DAL",
+        "kickoff": "12/9/2024, 7:15:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "GB @ DET",
+        "kickoff": "12/5/2024, 7:15:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "DET",
+            "score": "34"
+          },
+          "away": {
+            "name": "GB",
+            "score": "31"
+          }
+        }
+      },
+      {
         "matchup": "JAX @ TEN",
         "kickoff": "12/8/2024, 12:00:00 PM",
         "status": "Final",
@@ -166,27 +187,6 @@
             "score": "17"
           }
         }
-      },
-      {
-        "matchup": "GB @ DET",
-        "kickoff": "12/5/2024, 7:15:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "DET",
-            "score": "34"
-          },
-          "away": {
-            "name": "GB",
-            "score": "31"
-          }
-        }
-      },
-      {
-        "matchup": "CIN @ DAL",
-        "kickoff": "12/9/2024, 7:15:00 PM",
-        "status": "Scheduled",
-        "score": null
       }
     ]
   },
