@@ -13,22 +13,7 @@
           },
           "away": {
             "name": "BUF",
-            "score": "35"
-          }
-        }
-      },
-      {
-        "matchup": "CHI @ SF",
-        "kickoff": "12/8/2024, 3:25:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "SF",
-            "score": "38"
-          },
-          "away": {
-            "name": "CHI",
-            "score": "13"
+            "score": "42"
           }
         }
       },
@@ -149,6 +134,21 @@
           "away": {
             "name": "SEA",
             "score": "30"
+          }
+        }
+      },
+      {
+        "matchup": "CHI @ SF",
+        "kickoff": "12/8/2024, 3:25:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "SF",
+            "score": "38"
+          },
+          "away": {
+            "name": "CHI",
+            "score": "13"
           }
         }
       },
