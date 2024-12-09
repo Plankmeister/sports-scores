@@ -3,6 +3,21 @@
     "week": 14,
     "games": [
       {
+        "matchup": "LAC @ KC",
+        "kickoff": "12/8/2024, 7:20:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "KC",
+            "score": "3"
+          },
+          "away": {
+            "name": "LAC",
+            "score": "0"
+          }
+        }
+      },
+      {
         "matchup": "JAX @ TEN",
         "kickoff": "12/8/2024, 12:00:00 PM",
         "status": "Final",
@@ -149,21 +164,6 @@
           "away": {
             "name": "CHI",
             "score": "13"
-          }
-        }
-      },
-      {
-        "matchup": "LAC @ KC",
-        "kickoff": "12/8/2024, 7:20:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "KC",
-            "score": "0"
-          },
-          "away": {
-            "name": "LAC",
-            "score": "0"
           }
         }
       },
