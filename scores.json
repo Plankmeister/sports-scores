@@ -28,14 +28,14 @@
           },
           "away": {
             "name": "BUF",
-            "score": "21"
+            "score": "28"
           }
         }
       },
       {
         "matchup": "PIT @ PHI",
         "kickoff": "12/15/2024, 3:25:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "PHI",
@@ -73,7 +73,7 @@
           },
           "away": {
             "name": "TB",
-            "score": "13"
+            "score": "20"
           }
         }
       },
