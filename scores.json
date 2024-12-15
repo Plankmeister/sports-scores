@@ -112,19 +112,316 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "NAVY VS ARMY",
-        "kickoff": "12/14/2024, 2:00:00 PM",
+        "matchup": "JKST VS SCST",
+        "kickoff": "12/14/2024, 11:00:00 AM",
         "status": "Final",
         "score": {
           "home": {
-            "name": "ARMY",
-            "score": "13"
+            "name": "SCST",
+            "score": "7"
           },
           "away": {
-            "name": "NAVY",
-            "score": "31"
+            "name": "JKST",
+            "score": "28"
           }
         }
+      },
+      {
+        "matchup": "USA VS WMU",
+        "kickoff": "12/14/2024, 8:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "WMU",
+            "score": "23"
+          },
+          "away": {
+            "name": "USA",
+            "score": "30"
+          }
+        }
+      },
+      {
+        "matchup": "MEM VS WVU",
+        "kickoff": "12/17/2024, 8:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "WKU VS JMU",
+        "kickoff": "12/18/2024, 4:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "CAL VS UNLV",
+        "kickoff": "12/18/2024, 8:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "GASO VS SHSU",
+        "kickoff": "12/19/2024, 6:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "OHIO VS JVST",
+        "kickoff": "12/20/2024, 11:00:00 AM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "TULN VS FLA",
+        "kickoff": "12/20/2024, 2:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "IU @ ND",
+        "kickoff": "12/20/2024, 7:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "SMU @ PSU",
+        "kickoff": "12/21/2024, 11:00:00 AM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "SDST @ NDSU",
+        "kickoff": "12/21/2024, 11:00:00 AM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "SDAK @ MTST",
+        "kickoff": "12/21/2024, 2:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "CLEM @ TEX",
+        "kickoff": "12/21/2024, 3:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "TENN @ OSU",
+        "kickoff": "12/21/2024, 7:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "CCU VS UTSA",
+        "kickoff": "12/23/2024, 10:00:00 AM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "NIU VS FRES",
+        "kickoff": "12/23/2024, 1:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "USF VS SJSU",
+        "kickoff": "12/24/2024, 7:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "PITT VS TOL",
+        "kickoff": "12/26/2024, 1:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "RUTG VS KSU",
+        "kickoff": "12/26/2024, 4:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "ARST VS BGSU",
+        "kickoff": "12/26/2024, 8:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "OU VS NAVY",
+        "kickoff": "12/27/2024, 11:00:00 AM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "GT VS VAN",
+        "kickoff": "12/27/2024, 2:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "TTU VS ARK",
+        "kickoff": "12/27/2024, 6:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "SYR VS WSU",
+        "kickoff": "12/27/2024, 7:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "USC VS TA&M",
+        "kickoff": "12/27/2024, 9:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "CONN VS UNC",
+        "kickoff": "12/28/2024, 10:00:00 AM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "BC VS NEB",
+        "kickoff": "12/28/2024, 11:00:00 AM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "UL VS TCU",
+        "kickoff": "12/28/2024, 1:15:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "ISU VS MIA",
+        "kickoff": "12/28/2024, 2:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "M-OH VS CSU",
+        "kickoff": "12/28/2024, 3:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "ECU VS NCSU",
+        "kickoff": "12/28/2024, 4:45:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "BYU VS COLO",
+        "kickoff": "12/28/2024, 6:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "LT VS ARMY",
+        "kickoff": "12/28/2024, 8:15:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "IOWA VS MIZ",
+        "kickoff": "12/30/2024, 1:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "ALA VS MICH",
+        "kickoff": "12/31/2024, 11:00:00 AM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "LOU VS WASH",
+        "kickoff": "12/31/2024, 1:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "SC VS ILL",
+        "kickoff": "12/31/2024, 2:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "BAY VS LSU",
+        "kickoff": "12/31/2024, 2:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "TBD VS BOIS",
+        "kickoff": "12/31/2024, 6:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "TBD VS ASU",
+        "kickoff": "1/1/2025, 12:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "TBD VS ORE",
+        "kickoff": "1/1/2025, 4:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "TBD VS UGA",
+        "kickoff": "1/1/2025, 7:45:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "DUKE VS MISS",
+        "kickoff": "1/2/2025, 6:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "UNT VS TXST",
+        "kickoff": "1/3/2025, 3:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "MINN VS VT",
+        "kickoff": "1/3/2025, 6:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "BUFF VS LIB",
+        "kickoff": "1/4/2025, 10:00:00 AM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "TBD VS TBD",
+        "kickoff": "1/9/2025, 6:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "TBD VS TBD",
+        "kickoff": "1/10/2025, 6:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "TBD VS TBD",
+        "kickoff": "1/20/2025, 6:30:00 PM",
+        "status": "Scheduled",
+        "score": null
       }
     ]
   }
