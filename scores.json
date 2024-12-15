@@ -28,7 +28,7 @@
           },
           "away": {
             "name": "CIN",
-            "score": "31"
+            "score": "37"
           }
         }
       },
@@ -50,7 +50,7 @@
       {
         "matchup": "DAL @ CAR",
         "kickoff": "12/15/2024, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "CAR",
@@ -65,7 +65,7 @@
       {
         "matchup": "NYJ @ JAX",
         "kickoff": "12/15/2024, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "JAX",
