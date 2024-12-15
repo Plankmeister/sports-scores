@@ -9,7 +9,7 @@
         "score": {
           "home": {
             "name": "CLE",
-            "score": "0"
+            "score": "7"
           },
           "away": {
             "name": "KC",
@@ -80,7 +80,7 @@
       {
         "matchup": "NYJ @ JAX",
         "kickoff": "12/15/2024, 12:00:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "JAX",
@@ -103,7 +103,7 @@
           },
           "away": {
             "name": "MIA",
-            "score": "6"
+            "score": "12"
           }
         }
       },
