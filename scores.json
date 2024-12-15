@@ -5,7 +5,7 @@
       {
         "matchup": "KC @ CLE",
         "kickoff": "12/15/2024, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "CLE",
@@ -35,11 +35,11 @@
       {
         "matchup": "WSH @ NO",
         "kickoff": "12/15/2024, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "NO",
-            "score": "13"
+            "score": "19"
           },
           "away": {
             "name": "WSH",
@@ -73,7 +73,7 @@
           },
           "away": {
             "name": "NYJ",
-            "score": "25"
+            "score": "32"
           }
         }
       },
