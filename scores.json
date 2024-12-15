@@ -48,21 +48,6 @@
         }
       },
       {
-        "matchup": "BAL @ NYG",
-        "kickoff": "12/15/2024, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "NYG",
-            "score": "14"
-          },
-          "away": {
-            "name": "BAL",
-            "score": "35"
-          }
-        }
-      },
-      {
         "matchup": "DAL @ CAR",
         "kickoff": "12/15/2024, 12:00:00 PM",
         "status": "Live: Q4",
@@ -93,9 +78,24 @@
         }
       },
       {
+        "matchup": "BAL @ NYG",
+        "kickoff": "12/15/2024, 12:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "NYG",
+            "score": "14"
+          },
+          "away": {
+            "name": "BAL",
+            "score": "35"
+          }
+        }
+      },
+      {
         "matchup": "MIA @ HOU",
         "kickoff": "12/15/2024, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "HOU",
