@@ -3,6 +3,21 @@
     "week": 15,
     "games": [
       {
+        "matchup": "CIN @ TEN",
+        "kickoff": "12/15/2024, 12:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "TEN",
+            "score": "27"
+          },
+          "away": {
+            "name": "CIN",
+            "score": "37"
+          }
+        }
+      },
+      {
         "matchup": "KC @ CLE",
         "kickoff": "12/15/2024, 12:00:00 PM",
         "status": "Final",
@@ -18,21 +33,6 @@
         }
       },
       {
-        "matchup": "CIN @ TEN",
-        "kickoff": "12/15/2024, 12:00:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "TEN",
-            "score": "21"
-          },
-          "away": {
-            "name": "CIN",
-            "score": "37"
-          }
-        }
-      },
-      {
         "matchup": "WSH @ NO",
         "kickoff": "12/15/2024, 12:00:00 PM",
         "status": "Final",
@@ -44,6 +44,21 @@
           "away": {
             "name": "WSH",
             "score": "20"
+          }
+        }
+      },
+      {
+        "matchup": "BAL @ NYG",
+        "kickoff": "12/15/2024, 12:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "NYG",
+            "score": "14"
+          },
+          "away": {
+            "name": "BAL",
+            "score": "35"
           }
         }
       },
@@ -74,21 +89,6 @@
           "away": {
             "name": "NYJ",
             "score": "32"
-          }
-        }
-      },
-      {
-        "matchup": "BAL @ NYG",
-        "kickoff": "12/15/2024, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "NYG",
-            "score": "14"
-          },
-          "away": {
-            "name": "BAL",
-            "score": "35"
           }
         }
       },
