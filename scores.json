@@ -65,7 +65,7 @@
       {
         "matchup": "DAL @ CAR",
         "kickoff": "12/15/2024, 12:00:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "CAR",
@@ -88,14 +88,14 @@
           },
           "away": {
             "name": "NYJ",
-            "score": "7"
+            "score": "10"
           }
         }
       },
       {
         "matchup": "MIA @ HOU",
         "kickoff": "12/15/2024, 12:00:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "HOU",
