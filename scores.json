@@ -43,14 +43,14 @@
           },
           "away": {
             "name": "PIT",
-            "score": "10"
+            "score": "13"
           }
         }
       },
       {
         "matchup": "NE @ ARI",
         "kickoff": "12/15/2024, 3:25:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "ARI",
