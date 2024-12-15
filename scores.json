@@ -5,11 +5,11 @@
       {
         "matchup": "IND @ DEN",
         "kickoff": "12/15/2024, 3:25:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "DEN",
-            "score": "10"
+            "score": "17"
           },
           "away": {
             "name": "IND",
@@ -24,7 +24,7 @@
         "score": {
           "home": {
             "name": "DET",
-            "score": "14"
+            "score": "21"
           },
           "away": {
             "name": "BUF",
@@ -39,7 +39,7 @@
         "score": {
           "home": {
             "name": "PHI",
-            "score": "20"
+            "score": "27"
           },
           "away": {
             "name": "PIT",
@@ -58,14 +58,14 @@
           },
           "away": {
             "name": "NE",
-            "score": "3"
+            "score": "10"
           }
         }
       },
       {
         "matchup": "TB @ LAC",
         "kickoff": "12/15/2024, 3:25:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "LAC",
