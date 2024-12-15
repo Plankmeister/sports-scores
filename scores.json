@@ -20,7 +20,7 @@
       {
         "matchup": "CIN @ TEN",
         "kickoff": "12/15/2024, 12:00:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "TEN",
@@ -39,7 +39,7 @@
         "score": {
           "home": {
             "name": "NO",
-            "score": "0"
+            "score": "6"
           },
           "away": {
             "name": "WSH",
@@ -58,7 +58,7 @@
           },
           "away": {
             "name": "BAL",
-            "score": "21"
+            "score": "27"
           }
         }
       },
@@ -73,7 +73,7 @@
           },
           "away": {
             "name": "DAL",
-            "score": "10"
+            "score": "17"
           }
         }
       },
@@ -99,7 +99,7 @@
         "score": {
           "home": {
             "name": "HOU",
-            "score": "19"
+            "score": "20"
           },
           "away": {
             "name": "MIA",
