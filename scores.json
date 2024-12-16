@@ -3,28 +3,13 @@
     "week": 15,
     "games": [
       {
-        "matchup": "IND @ DEN",
-        "kickoff": "12/15/2024, 3:25:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "DEN",
-            "score": "31"
-          },
-          "away": {
-            "name": "IND",
-            "score": "13"
-          }
-        }
-      },
-      {
         "matchup": "BUF @ DET",
         "kickoff": "12/15/2024, 3:25:00 PM",
         "status": "Live: Q4",
         "score": {
           "home": {
             "name": "DET",
-            "score": "35"
+            "score": "42"
           },
           "away": {
             "name": "BUF",
@@ -134,6 +119,21 @@
           "away": {
             "name": "MIA",
             "score": "12"
+          }
+        }
+      },
+      {
+        "matchup": "IND @ DEN",
+        "kickoff": "12/15/2024, 3:25:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "DEN",
+            "score": "31"
+          },
+          "away": {
+            "name": "IND",
+            "score": "13"
           }
         }
       },
