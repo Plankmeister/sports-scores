@@ -3,6 +3,33 @@
     "week": 15,
     "games": [
       {
+        "matchup": "CHI @ MIN",
+        "kickoff": "12/16/2024, 7:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "ATL @ LV",
+        "kickoff": "12/16/2024, 7:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "LAR @ SF",
+        "kickoff": "12/12/2024, 7:15:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "SF",
+            "score": "6"
+          },
+          "away": {
+            "name": "LAR",
+            "score": "12"
+          }
+        }
+      },
+      {
         "matchup": "KC @ CLE",
         "kickoff": "12/15/2024, 12:00:00 PM",
         "status": "Final",
@@ -196,33 +223,6 @@
             "score": "30"
           }
         }
-      },
-      {
-        "matchup": "LAR @ SF",
-        "kickoff": "12/12/2024, 7:15:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "SF",
-            "score": "6"
-          },
-          "away": {
-            "name": "LAR",
-            "score": "12"
-          }
-        }
-      },
-      {
-        "matchup": "CHI @ MIN",
-        "kickoff": "12/16/2024, 7:00:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "ATL @ LV",
-        "kickoff": "12/16/2024, 7:30:00 PM",
-        "status": "Scheduled",
-        "score": null
       }
     ]
   },
