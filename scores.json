@@ -9,7 +9,7 @@
         "score": {
           "home": {
             "name": "DEN",
-            "score": "24"
+            "score": "30"
           },
           "away": {
             "name": "IND",
@@ -48,21 +48,6 @@
         }
       },
       {
-        "matchup": "NE @ ARI",
-        "kickoff": "12/15/2024, 3:25:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "ARI",
-            "score": "30"
-          },
-          "away": {
-            "name": "NE",
-            "score": "17"
-          }
-        }
-      },
-      {
         "matchup": "TB @ LAC",
         "kickoff": "12/15/2024, 3:25:00 PM",
         "status": "Live: Q4",
@@ -73,7 +58,7 @@
           },
           "away": {
             "name": "TB",
-            "score": "37"
+            "score": "40"
           }
         }
       },
@@ -179,6 +164,21 @@
           "away": {
             "name": "MIA",
             "score": "12"
+          }
+        }
+      },
+      {
+        "matchup": "NE @ ARI",
+        "kickoff": "12/15/2024, 3:25:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "ARI",
+            "score": "30"
+          },
+          "away": {
+            "name": "NE",
+            "score": "17"
           }
         }
       },
