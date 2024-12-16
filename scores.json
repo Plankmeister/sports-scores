@@ -28,37 +28,7 @@
           },
           "away": {
             "name": "BUF",
-            "score": "45"
-          }
-        }
-      },
-      {
-        "matchup": "PIT @ PHI",
-        "kickoff": "12/15/2024, 3:25:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "PHI",
-            "score": "27"
-          },
-          "away": {
-            "name": "PIT",
-            "score": "13"
-          }
-        }
-      },
-      {
-        "matchup": "TB @ LAC",
-        "kickoff": "12/15/2024, 3:25:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "LAC",
-            "score": "17"
-          },
-          "away": {
-            "name": "TB",
-            "score": "40"
+            "score": "48"
           }
         }
       },
@@ -168,6 +138,21 @@
         }
       },
       {
+        "matchup": "PIT @ PHI",
+        "kickoff": "12/15/2024, 3:25:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "PHI",
+            "score": "27"
+          },
+          "away": {
+            "name": "PIT",
+            "score": "13"
+          }
+        }
+      },
+      {
         "matchup": "NE @ ARI",
         "kickoff": "12/15/2024, 3:25:00 PM",
         "status": "Final",
@@ -179,6 +164,21 @@
           "away": {
             "name": "NE",
             "score": "17"
+          }
+        }
+      },
+      {
+        "matchup": "TB @ LAC",
+        "kickoff": "12/15/2024, 3:25:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "LAC",
+            "score": "17"
+          },
+          "away": {
+            "name": "TB",
+            "score": "40"
           }
         }
       },
