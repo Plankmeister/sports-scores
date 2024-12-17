@@ -247,6 +247,12 @@
   "collegeFootball": {
     "games": [
       {
+        "matchup": "MEM VS WVU",
+        "kickoff": "12/17/2024, 8:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
         "matchup": "JKST VS SCST",
         "kickoff": "12/14/2024, 11:00:00 AM",
         "status": "Final",
@@ -275,12 +281,6 @@
             "score": "30"
           }
         }
-      },
-      {
-        "matchup": "MEM VS WVU",
-        "kickoff": "12/17/2024, 8:00:00 PM",
-        "status": "Scheduled",
-        "score": null
       },
       {
         "matchup": "WKU VS JMU",
