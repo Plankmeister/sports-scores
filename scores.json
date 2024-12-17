@@ -3,21 +3,6 @@
     "week": 15,
     "games": [
       {
-        "matchup": "CHI @ MIN",
-        "kickoff": "12/16/2024, 7:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "MIN",
-            "score": "30"
-          },
-          "away": {
-            "name": "CHI",
-            "score": "12"
-          }
-        }
-      },
-      {
         "matchup": "ATL @ LV",
         "kickoff": "12/16/2024, 7:30:00 PM",
         "status": "Live: Q4",
@@ -29,6 +14,21 @@
           "away": {
             "name": "ATL",
             "score": "15"
+          }
+        }
+      },
+      {
+        "matchup": "CHI @ MIN",
+        "kickoff": "12/16/2024, 7:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "MIN",
+            "score": "30"
+          },
+          "away": {
+            "name": "CHI",
+            "score": "12"
           }
         }
       },
