@@ -13,14 +13,14 @@
           },
           "away": {
             "name": "CHI",
-            "score": "0"
+            "score": "3"
           }
         }
       },
       {
         "matchup": "ATL @ LV",
         "kickoff": "12/16/2024, 7:30:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "LV",
@@ -258,6 +258,21 @@
           "away": {
             "name": "JKST",
             "score": "28"
+          }
+        }
+      },
+      {
+        "matchup": "USA VS WMU",
+        "kickoff": "12/14/2024, 8:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "WMU",
+            "score": "23"
+          },
+          "away": {
+            "name": "USA",
+            "score": "30"
           }
         }
       },
