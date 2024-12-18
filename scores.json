@@ -105,8 +105,17 @@
       {
         "matchup": "WKU VS JMU",
         "kickoff": "12/18/2024, 4:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "JMU",
+            "score": "0"
+          },
+          "away": {
+            "name": "WKU",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "CAL VS UNLV",
