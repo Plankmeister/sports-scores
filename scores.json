@@ -129,8 +129,17 @@
       {
         "matchup": "TULN VS FLA",
         "kickoff": "12/20/2024, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "FLA",
+            "score": "0"
+          },
+          "away": {
+            "name": "TULN",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "IU @ ND",
