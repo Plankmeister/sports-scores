@@ -5,8 +5,17 @@
       {
         "matchup": "DEN @ LAC",
         "kickoff": "12/19/2024, 7:15:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "LAC",
+            "score": "0"
+          },
+          "away": {
+            "name": "DEN",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "HOU @ KC",
@@ -109,7 +118,7 @@
         "score": {
           "home": {
             "name": "SHSU",
-            "score": "14"
+            "score": "21"
           },
           "away": {
             "name": "GASO",
