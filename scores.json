@@ -114,7 +114,7 @@
       {
         "matchup": "OHIO VS JVST",
         "kickoff": "12/20/2024, 11:00:00 AM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "JVST",
@@ -122,7 +122,7 @@
           },
           "away": {
             "name": "OHIO",
-            "score": "27"
+            "score": "30"
           }
         }
       },
