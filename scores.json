@@ -153,8 +153,17 @@
       {
         "matchup": "SDAK @ MTST",
         "kickoff": "12/21/2024, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MTST",
+            "score": "0"
+          },
+          "away": {
+            "name": "SDAK",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "CLEM @ TEX",
@@ -448,7 +457,7 @@
         "score": null
       },
       {
-        "matchup": "TBD VS BOIS",
+        "matchup": "PSU VS BOIS",
         "kickoff": "12/31/2024, 6:30:00 PM",
         "status": "Scheduled",
         "score": null
