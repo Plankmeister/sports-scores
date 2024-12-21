@@ -112,21 +112,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "TULN VS FLA",
-        "kickoff": "12/20/2024, 2:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "FLA",
-            "score": "33"
-          },
-          "away": {
-            "name": "TULN",
-            "score": "8"
-          }
-        }
-      },
-      {
         "matchup": "OHIO VS JVST",
         "kickoff": "12/20/2024, 11:00:00 AM",
         "status": "Final",
@@ -138,6 +123,21 @@
           "away": {
             "name": "OHIO",
             "score": "30"
+          }
+        }
+      },
+      {
+        "matchup": "TULN VS FLA",
+        "kickoff": "12/20/2024, 2:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "FLA",
+            "score": "33"
+          },
+          "away": {
+            "name": "TULN",
+            "score": "8"
           }
         }
       },
