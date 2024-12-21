@@ -9,7 +9,7 @@
         "score": {
           "home": {
             "name": "BAL",
-            "score": "17"
+            "score": "24"
           },
           "away": {
             "name": "PIT",
@@ -132,7 +132,7 @@
       {
         "matchup": "SDAK @ MTST",
         "kickoff": "12/21/2024, 2:30:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "MTST",
@@ -155,7 +155,7 @@
           },
           "away": {
             "name": "CLEM",
-            "score": "10"
+            "score": "17"
           }
         }
       },
