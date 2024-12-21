@@ -123,7 +123,7 @@
       {
         "matchup": "SDAK @ MTST",
         "kickoff": "12/21/2024, 2:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "MTST",
@@ -131,7 +131,7 @@
           },
           "away": {
             "name": "SDAK",
-            "score": "7"
+            "score": "14"
           }
         }
       },
