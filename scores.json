@@ -3,6 +3,18 @@
     "week": 16,
     "games": [
       {
+        "matchup": "HOU @ KC",
+        "kickoff": "12/21/2024, 12:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "PIT @ BAL",
+        "kickoff": "12/21/2024, 3:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
         "matchup": "DEN @ LAC",
         "kickoff": "12/19/2024, 7:15:00 PM",
         "status": "Final",
@@ -16,18 +28,6 @@
             "score": "27"
           }
         }
-      },
-      {
-        "matchup": "HOU @ KC",
-        "kickoff": "12/21/2024, 12:00:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "PIT @ BAL",
-        "kickoff": "12/21/2024, 3:30:00 PM",
-        "status": "Scheduled",
-        "score": null
       },
       {
         "matchup": "NYG @ ATL",
