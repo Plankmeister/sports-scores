@@ -129,8 +129,17 @@
       {
         "matchup": "SMU @ PSU",
         "kickoff": "12/21/2024, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "PSU",
+            "score": "0"
+          },
+          "away": {
+            "name": "SMU",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "SDAK @ MTST",
