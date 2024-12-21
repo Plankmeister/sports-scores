@@ -112,21 +112,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "SDST @ NDSU",
-        "kickoff": "12/21/2024, 11:00:00 AM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "NDSU",
-            "score": "7"
-          },
-          "away": {
-            "name": "SDST",
-            "score": "0"
-          }
-        }
-      },
-      {
         "matchup": "SMU @ PSU",
         "kickoff": "12/21/2024, 11:00:00 AM",
         "status": "Live: Q1",
@@ -137,6 +122,21 @@
           },
           "away": {
             "name": "SMU",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "SDST @ NDSU",
+        "kickoff": "12/21/2024, 11:00:00 AM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "NDSU",
+            "score": "7"
+          },
+          "away": {
+            "name": "SDST",
             "score": "0"
           }
         }
