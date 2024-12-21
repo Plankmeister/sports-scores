@@ -121,6 +121,21 @@
   "collegeFootball": {
     "games": [
       {
+        "matchup": "SDAK @ MTST",
+        "kickoff": "12/21/2024, 2:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MTST",
+            "score": "7"
+          },
+          "away": {
+            "name": "SDAK",
+            "score": "0"
+          }
+        }
+      },
+      {
         "matchup": "SMU @ PSU",
         "kickoff": "12/21/2024, 11:00:00 AM",
         "status": "Final",
@@ -147,21 +162,6 @@
           "away": {
             "name": "SDST",
             "score": "21"
-          }
-        }
-      },
-      {
-        "matchup": "SDAK @ MTST",
-        "kickoff": "12/21/2024, 2:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "MTST",
-            "score": "0"
-          },
-          "away": {
-            "name": "SDAK",
-            "score": "0"
           }
         }
       },
