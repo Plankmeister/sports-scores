@@ -127,7 +127,7 @@
         "score": {
           "home": {
             "name": "MTST",
-            "score": "13"
+            "score": "14"
           },
           "away": {
             "name": "SDAK",
@@ -168,8 +168,17 @@
       {
         "matchup": "CLEM @ TEX",
         "kickoff": "12/21/2024, 3:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "TEX",
+            "score": "0"
+          },
+          "away": {
+            "name": "CLEM",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "TENN @ OSU",
