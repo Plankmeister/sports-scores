@@ -5,7 +5,7 @@
       {
         "matchup": "NYG @ ATL",
         "kickoff": "12/22/2024, 12:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "ATL",
@@ -13,7 +13,7 @@
           },
           "away": {
             "name": "NYG",
-            "score": "0"
+            "score": "7"
           }
         }
       },
@@ -50,7 +50,7 @@
       {
         "matchup": "TEN @ IND",
         "kickoff": "12/22/2024, 12:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "IND",
@@ -95,7 +95,7 @@
       {
         "matchup": "ARI @ CAR",
         "kickoff": "12/22/2024, 12:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "CAR",
@@ -103,7 +103,7 @@
           },
           "away": {
             "name": "ARI",
-            "score": "0"
+            "score": "3"
           }
         }
       },
