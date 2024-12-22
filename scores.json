@@ -5,7 +5,7 @@
       {
         "matchup": "NYG @ ATL",
         "kickoff": "12/22/2024, 12:00:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "ATL",
@@ -50,11 +50,11 @@
       {
         "matchup": "TEN @ IND",
         "kickoff": "12/22/2024, 12:00:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "IND",
-            "score": "24"
+            "score": "31"
           },
           "away": {
             "name": "TEN",
