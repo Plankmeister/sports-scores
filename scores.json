@@ -24,7 +24,7 @@
         "score": {
           "home": {
             "name": "CHI",
-            "score": "14"
+            "score": "17"
           },
           "away": {
             "name": "DET",
@@ -35,7 +35,7 @@
       {
         "matchup": "CLE @ CIN",
         "kickoff": "12/22/2024, 12:00:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "CIN",
@@ -73,7 +73,7 @@
           },
           "away": {
             "name": "LAR",
-            "score": "9"
+            "score": "16"
           }
         }
       },
