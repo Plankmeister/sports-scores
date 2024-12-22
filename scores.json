@@ -130,6 +130,21 @@
   "collegeFootball": {
     "games": [
       {
+        "matchup": "TENN @ OSU",
+        "kickoff": "12/21/2024, 7:00:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "OSU",
+            "score": "7"
+          },
+          "away": {
+            "name": "TENN",
+            "score": "0"
+          }
+        }
+      },
+      {
         "matchup": "CLEM @ TEX",
         "kickoff": "12/21/2024, 3:00:00 PM",
         "status": "Final",
@@ -186,21 +201,6 @@
           "away": {
             "name": "SDAK",
             "score": "17"
-          }
-        }
-      },
-      {
-        "matchup": "TENN @ OSU",
-        "kickoff": "12/21/2024, 7:00:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "OSU",
-            "score": "7"
-          },
-          "away": {
-            "name": "TENN",
-            "score": "0"
           }
         }
       },
@@ -528,6 +528,12 @@
       {
         "matchup": "BUFF VS LIB",
         "kickoff": "1/4/2025, 10:00:00 AM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "NDSU VS MTST",
+        "kickoff": "1/6/2025, 6:00:00 PM",
         "status": "Scheduled",
         "score": null
       },
