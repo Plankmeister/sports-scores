@@ -192,8 +192,17 @@
       {
         "matchup": "TENN @ OSU",
         "kickoff": "12/21/2024, 7:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "OSU",
+            "score": "0"
+          },
+          "away": {
+            "name": "TENN",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "JKST VS SCST",
