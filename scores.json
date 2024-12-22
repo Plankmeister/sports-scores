@@ -28,14 +28,14 @@
           },
           "away": {
             "name": "DET",
-            "score": "10"
+            "score": "13"
           }
         }
       },
       {
         "matchup": "CLE @ CIN",
         "kickoff": "12/22/2024, 12:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "CIN",
@@ -84,7 +84,7 @@
         "score": {
           "home": {
             "name": "WSH",
-            "score": "0"
+            "score": "6"
           },
           "away": {
             "name": "PHI",
