@@ -13,14 +13,14 @@
           },
           "away": {
             "name": "NE",
-            "score": "14"
+            "score": "21"
           }
         }
       },
       {
         "matchup": "JAX @ LV",
         "kickoff": "12/22/2024, 3:25:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "LV",
