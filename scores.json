@@ -170,8 +170,17 @@
       {
         "matchup": "TB @ DAL",
         "kickoff": "12/22/2024, 7:20:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "DAL",
+            "score": "0"
+          },
+          "away": {
+            "name": "TB",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "DEN @ LAC",
