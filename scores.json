@@ -238,21 +238,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "NIU VS FRES",
-        "kickoff": "12/23/2024, 1:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "FRES",
-            "score": "20"
-          },
-          "away": {
-            "name": "NIU",
-            "score": "28"
-          }
-        }
-      },
-      {
         "matchup": "CCU VS UTSA",
         "kickoff": "12/23/2024, 10:00:00 AM",
         "status": "Final",
@@ -264,6 +249,21 @@
           "away": {
             "name": "CCU",
             "score": "15"
+          }
+        }
+      },
+      {
+        "matchup": "NIU VS FRES",
+        "kickoff": "12/23/2024, 1:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "FRES",
+            "score": "20"
+          },
+          "away": {
+            "name": "NIU",
+            "score": "28"
           }
         }
       },
