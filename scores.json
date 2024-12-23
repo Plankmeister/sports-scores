@@ -3,21 +3,6 @@
     "week": 16,
     "games": [
       {
-        "matchup": "NE @ BUF",
-        "kickoff": "12/22/2024, 3:25:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "BUF",
-            "score": "24"
-          },
-          "away": {
-            "name": "NE",
-            "score": "21"
-          }
-        }
-      },
-      {
         "matchup": "NYG @ ATL",
         "kickoff": "12/22/2024, 12:00:00 PM",
         "status": "Final",
@@ -134,6 +119,21 @@
           "away": {
             "name": "MIN",
             "score": "27"
+          }
+        }
+      },
+      {
+        "matchup": "NE @ BUF",
+        "kickoff": "12/22/2024, 3:25:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "BUF",
+            "score": "24"
+          },
+          "away": {
+            "name": "NE",
+            "score": "21"
           }
         }
       },
