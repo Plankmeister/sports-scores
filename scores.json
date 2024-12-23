@@ -238,6 +238,18 @@
   "collegeFootball": {
     "games": [
       {
+        "matchup": "CCU VS UTSA",
+        "kickoff": "12/23/2024, 10:00:00 AM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "NIU VS FRES",
+        "kickoff": "12/23/2024, 1:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
         "matchup": "JKST VS SCST",
         "kickoff": "12/14/2024, 11:00:00 AM",
         "status": "Final",
@@ -446,18 +458,6 @@
             "score": "17"
           }
         }
-      },
-      {
-        "matchup": "CCU VS UTSA",
-        "kickoff": "12/23/2024, 10:00:00 AM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "NIU VS FRES",
-        "kickoff": "12/23/2024, 1:30:00 PM",
-        "status": "Scheduled",
-        "score": null
       },
       {
         "matchup": "USF VS SJSU",
