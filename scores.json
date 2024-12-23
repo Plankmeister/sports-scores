@@ -3,6 +3,57 @@
     "week": 16,
     "games": [
       {
+        "matchup": "NO @ GB",
+        "kickoff": "12/23/2024, 7:15:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "DEN @ LAC",
+        "kickoff": "12/19/2024, 7:15:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "LAC",
+            "score": "34"
+          },
+          "away": {
+            "name": "DEN",
+            "score": "27"
+          }
+        }
+      },
+      {
+        "matchup": "HOU @ KC",
+        "kickoff": "12/21/2024, 12:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "KC",
+            "score": "27"
+          },
+          "away": {
+            "name": "HOU",
+            "score": "19"
+          }
+        }
+      },
+      {
+        "matchup": "PIT @ BAL",
+        "kickoff": "12/21/2024, 3:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "BAL",
+            "score": "34"
+          },
+          "away": {
+            "name": "PIT",
+            "score": "17"
+          }
+        }
+      },
+      {
         "matchup": "NYG @ ATL",
         "kickoff": "12/22/2024, 12:00:00 PM",
         "status": "Final",
@@ -181,57 +232,6 @@
             "score": "24"
           }
         }
-      },
-      {
-        "matchup": "DEN @ LAC",
-        "kickoff": "12/19/2024, 7:15:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "LAC",
-            "score": "34"
-          },
-          "away": {
-            "name": "DEN",
-            "score": "27"
-          }
-        }
-      },
-      {
-        "matchup": "HOU @ KC",
-        "kickoff": "12/21/2024, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "KC",
-            "score": "27"
-          },
-          "away": {
-            "name": "HOU",
-            "score": "19"
-          }
-        }
-      },
-      {
-        "matchup": "PIT @ BAL",
-        "kickoff": "12/21/2024, 3:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "BAL",
-            "score": "34"
-          },
-          "away": {
-            "name": "PIT",
-            "score": "17"
-          }
-        }
-      },
-      {
-        "matchup": "NO @ GB",
-        "kickoff": "12/23/2024, 7:15:00 PM",
-        "status": "Scheduled",
-        "score": null
       }
     ]
   },
