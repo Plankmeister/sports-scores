@@ -240,7 +240,7 @@
       {
         "matchup": "CCU VS UTSA",
         "kickoff": "12/23/2024, 10:00:00 AM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "UTSA",
@@ -255,8 +255,17 @@
       {
         "matchup": "NIU VS FRES",
         "kickoff": "12/23/2024, 1:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "FRES",
+            "score": "0"
+          },
+          "away": {
+            "name": "NIU",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "JKST VS SCST",
