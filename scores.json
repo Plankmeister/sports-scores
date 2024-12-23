@@ -5,7 +5,7 @@
       {
         "matchup": "NE @ BUF",
         "kickoff": "12/22/2024, 3:25:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "BUF",
@@ -14,36 +14,6 @@
           "away": {
             "name": "NE",
             "score": "21"
-          }
-        }
-      },
-      {
-        "matchup": "JAX @ LV",
-        "kickoff": "12/22/2024, 3:25:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "LV",
-            "score": "19"
-          },
-          "away": {
-            "name": "JAX",
-            "score": "14"
-          }
-        }
-      },
-      {
-        "matchup": "SF @ MIA",
-        "kickoff": "12/22/2024, 3:25:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "MIA",
-            "score": "29"
-          },
-          "away": {
-            "name": "SF",
-            "score": "17"
           }
         }
       },
@@ -164,6 +134,36 @@
           "away": {
             "name": "MIN",
             "score": "27"
+          }
+        }
+      },
+      {
+        "matchup": "JAX @ LV",
+        "kickoff": "12/22/2024, 3:25:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "LV",
+            "score": "19"
+          },
+          "away": {
+            "name": "JAX",
+            "score": "14"
+          }
+        }
+      },
+      {
+        "matchup": "SF @ MIA",
+        "kickoff": "12/22/2024, 3:25:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "MIA",
+            "score": "29"
+          },
+          "away": {
+            "name": "SF",
+            "score": "17"
           }
         }
       },
