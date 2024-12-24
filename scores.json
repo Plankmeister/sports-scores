@@ -3,21 +3,6 @@
     "week": 16,
     "games": [
       {
-        "matchup": "NO @ GB",
-        "kickoff": "12/23/2024, 7:15:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "GB",
-            "score": "34"
-          },
-          "away": {
-            "name": "NO",
-            "score": "0"
-          }
-        }
-      },
-      {
         "matchup": "DEN @ LAC",
         "kickoff": "12/19/2024, 7:15:00 PM",
         "status": "Final",
@@ -241,40 +226,31 @@
             "score": "24"
           }
         }
+      },
+      {
+        "matchup": "NO @ GB",
+        "kickoff": "12/23/2024, 7:15:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "GB",
+            "score": "34"
+          },
+          "away": {
+            "name": "NO",
+            "score": "0"
+          }
+        }
       }
     ]
   },
   "collegeFootball": {
     "games": [
       {
-        "matchup": "CCU VS UTSA",
-        "kickoff": "12/23/2024, 10:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "UTSA",
-            "score": "44"
-          },
-          "away": {
-            "name": "CCU",
-            "score": "15"
-          }
-        }
-      },
-      {
-        "matchup": "NIU VS FRES",
-        "kickoff": "12/23/2024, 1:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "FRES",
-            "score": "20"
-          },
-          "away": {
-            "name": "NIU",
-            "score": "28"
-          }
-        }
+        "matchup": "USF VS SJSU",
+        "kickoff": "12/24/2024, 7:00:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
         "matchup": "JKST VS SCST",
@@ -487,10 +463,34 @@
         }
       },
       {
-        "matchup": "USF VS SJSU",
-        "kickoff": "12/24/2024, 7:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "matchup": "CCU VS UTSA",
+        "kickoff": "12/23/2024, 10:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "UTSA",
+            "score": "44"
+          },
+          "away": {
+            "name": "CCU",
+            "score": "15"
+          }
+        }
+      },
+      {
+        "matchup": "NIU VS FRES",
+        "kickoff": "12/23/2024, 1:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "FRES",
+            "score": "20"
+          },
+          "away": {
+            "name": "NIU",
+            "score": "28"
+          }
+        }
       },
       {
         "matchup": "PITT VS TOL",
