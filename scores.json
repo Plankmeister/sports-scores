@@ -5,8 +5,17 @@
       {
         "matchup": "NO @ GB",
         "kickoff": "12/23/2024, 7:15:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "GB",
+            "score": "0"
+          },
+          "away": {
+            "name": "NO",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "DEN @ LAC",
