@@ -3,6 +3,21 @@
     "week": 17,
     "games": [
       {
+        "matchup": "BAL @ HOU",
+        "kickoff": "12/25/2024, 3:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "HOU",
+            "score": "0"
+          },
+          "away": {
+            "name": "BAL",
+            "score": "7"
+          }
+        }
+      },
+      {
         "matchup": "KC @ PIT",
         "kickoff": "12/25/2024, 12:00:00 PM",
         "status": "Final",
@@ -14,21 +29,6 @@
           "away": {
             "name": "KC",
             "score": "29"
-          }
-        }
-      },
-      {
-        "matchup": "BAL @ HOU",
-        "kickoff": "12/25/2024, 3:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "HOU",
-            "score": "0"
-          },
-          "away": {
-            "name": "BAL",
-            "score": "0"
           }
         }
       },
