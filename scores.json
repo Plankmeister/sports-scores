@@ -249,8 +249,17 @@
       {
         "matchup": "USF VS SJSU",
         "kickoff": "12/24/2024, 7:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "SJSU",
+            "score": "0"
+          },
+          "away": {
+            "name": "USF",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "JKST VS SCST",
