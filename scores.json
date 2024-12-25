@@ -20,8 +20,17 @@
       {
         "matchup": "BAL @ HOU",
         "kickoff": "12/25/2024, 3:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "HOU",
+            "score": "0"
+          },
+          "away": {
+            "name": "BAL",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "SEA @ CHI",
