@@ -127,7 +127,7 @@
         "score": {
           "home": {
             "name": "TOL",
-            "score": "27"
+            "score": "30"
           },
           "away": {
             "name": "PITT",
@@ -138,8 +138,17 @@
       {
         "matchup": "RUTG VS KSU",
         "kickoff": "12/26/2024, 4:40:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "KSU",
+            "score": "0"
+          },
+          "away": {
+            "name": "RUTG",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "ARST VS BGSU",
