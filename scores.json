@@ -121,6 +121,21 @@
   "collegeFootball": {
     "games": [
       {
+        "matchup": "RUTG VS KSU",
+        "kickoff": "12/26/2024, 4:40:00 PM",
+        "status": "Live: Q2",
+        "score": {
+          "home": {
+            "name": "KSU",
+            "score": "17"
+          },
+          "away": {
+            "name": "RUTG",
+            "score": "24"
+          }
+        }
+      },
+      {
         "matchup": "PITT VS TOL",
         "kickoff": "12/26/2024, 1:00:00 PM",
         "status": "Final",
@@ -132,21 +147,6 @@
           "away": {
             "name": "PITT",
             "score": "46"
-          }
-        }
-      },
-      {
-        "matchup": "RUTG VS KSU",
-        "kickoff": "12/26/2024, 4:40:00 PM",
-        "status": "Live: Q2",
-        "score": {
-          "home": {
-            "name": "KSU",
-            "score": "17"
-          },
-          "away": {
-            "name": "RUTG",
-            "score": "17"
           }
         }
       },
