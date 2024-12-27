@@ -130,21 +130,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "ARST VS BGSU",
-        "kickoff": "12/26/2024, 8:10:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "BGSU",
-            "score": "31"
-          },
-          "away": {
-            "name": "ARST",
-            "score": "38"
-          }
-        }
-      },
-      {
         "matchup": "OU VS NAVY",
         "kickoff": "12/27/2024, 11:00:00 AM",
         "status": "Scheduled",
@@ -456,6 +441,21 @@
           "away": {
             "name": "RUTG",
             "score": "41"
+          }
+        }
+      },
+      {
+        "matchup": "ARST VS BGSU",
+        "kickoff": "12/26/2024, 8:10:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "BGSU",
+            "score": "31"
+          },
+          "away": {
+            "name": "ARST",
+            "score": "38"
           }
         }
       },
