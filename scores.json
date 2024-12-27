@@ -5,8 +5,17 @@
       {
         "matchup": "SEA @ CHI",
         "kickoff": "12/26/2024, 7:15:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "CHI",
+            "score": "0"
+          },
+          "away": {
+            "name": "SEA",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "KC @ PIT",
@@ -127,7 +136,7 @@
         "score": {
           "home": {
             "name": "KSU",
-            "score": "23"
+            "score": "29"
           },
           "away": {
             "name": "RUTG",
