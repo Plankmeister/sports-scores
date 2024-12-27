@@ -130,21 +130,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "OU VS NAVY",
-        "kickoff": "12/27/2024, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "NAVY",
-            "score": "21"
-          },
-          "away": {
-            "name": "OU",
-            "score": "20"
-          }
-        }
-      },
-      {
         "matchup": "GT VS VAN",
         "kickoff": "12/27/2024, 2:30:00 PM",
         "status": "Live: Q1",
@@ -156,6 +141,21 @@
           "away": {
             "name": "GT",
             "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "OU VS NAVY",
+        "kickoff": "12/27/2024, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "NAVY",
+            "score": "21"
+          },
+          "away": {
+            "name": "OU",
+            "score": "20"
           }
         }
       },
