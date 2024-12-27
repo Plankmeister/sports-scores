@@ -9,7 +9,7 @@
         "score": {
           "home": {
             "name": "CHI",
-            "score": "0"
+            "score": "3"
           },
           "away": {
             "name": "SEA",
@@ -161,7 +161,7 @@
       },
       {
         "matchup": "ARST VS BGSU",
-        "kickoff": "12/26/2024, 8:00:00 PM",
+        "kickoff": "12/26/2024, 8:10:00 PM",
         "status": "Scheduled",
         "score": null
       },
