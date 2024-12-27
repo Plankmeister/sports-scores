@@ -130,17 +130,17 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "RUTG VS KSU",
-        "kickoff": "12/26/2024, 4:40:00 PM",
-        "status": "Final",
+        "matchup": "ARST VS BGSU",
+        "kickoff": "12/26/2024, 8:10:00 PM",
+        "status": "Live: Q1",
         "score": {
           "home": {
-            "name": "KSU",
-            "score": "44"
+            "name": "BGSU",
+            "score": "0"
           },
           "away": {
-            "name": "RUTG",
-            "score": "41"
+            "name": "ARST",
+            "score": "3"
           }
         }
       },
@@ -160,17 +160,17 @@
         }
       },
       {
-        "matchup": "ARST VS BGSU",
-        "kickoff": "12/26/2024, 8:10:00 PM",
-        "status": "Live: Q1",
+        "matchup": "RUTG VS KSU",
+        "kickoff": "12/26/2024, 4:40:00 PM",
+        "status": "Final",
         "score": {
           "home": {
-            "name": "BGSU",
-            "score": "0"
+            "name": "KSU",
+            "score": "44"
           },
           "away": {
-            "name": "ARST",
-            "score": "0"
+            "name": "RUTG",
+            "score": "41"
           }
         }
       },
