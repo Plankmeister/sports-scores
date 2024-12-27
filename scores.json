@@ -162,8 +162,17 @@
       {
         "matchup": "ARST VS BGSU",
         "kickoff": "12/26/2024, 8:10:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "BGSU",
+            "score": "0"
+          },
+          "away": {
+            "name": "ARST",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "JKST VS SCST",
