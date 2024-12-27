@@ -132,8 +132,17 @@
       {
         "matchup": "OU VS NAVY",
         "kickoff": "12/27/2024, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "NAVY",
+            "score": "0"
+          },
+          "away": {
+            "name": "OU",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "GT VS VAN",
