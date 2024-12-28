@@ -5,8 +5,17 @@
       {
         "matchup": "LAC @ NE",
         "kickoff": "12/28/2024, 12:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "NE",
+            "score": "0"
+          },
+          "away": {
+            "name": "LAC",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "DEN @ CIN",
@@ -132,7 +141,7 @@
       {
         "matchup": "CONN VS UNC",
         "kickoff": "12/28/2024, 10:00:00 AM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "UNC",
