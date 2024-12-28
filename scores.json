@@ -13,7 +13,7 @@
           },
           "away": {
             "name": "LAC",
-            "score": "30"
+            "score": "37"
           }
         }
       },
@@ -141,7 +141,7 @@
       {
         "matchup": "BC VS NEB",
         "kickoff": "12/28/2024, 11:00:00 AM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "NEB",
@@ -160,7 +160,7 @@
         "score": {
           "home": {
             "name": "TCU",
-            "score": "17"
+            "score": "20"
           },
           "away": {
             "name": "UL",
