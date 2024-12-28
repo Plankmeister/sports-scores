@@ -171,8 +171,17 @@
       {
         "matchup": "UL VS TCU",
         "kickoff": "12/28/2024, 1:15:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "TCU",
+            "score": "0"
+          },
+          "away": {
+            "name": "UL",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "ISU VS MIA",
