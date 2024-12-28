@@ -139,21 +139,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "CONN VS UNC",
-        "kickoff": "12/28/2024, 10:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "UNC",
-            "score": "14"
-          },
-          "away": {
-            "name": "CONN",
-            "score": "27"
-          }
-        }
-      },
-      {
         "matchup": "BC VS NEB",
         "kickoff": "12/28/2024, 11:00:00 AM",
         "status": "Live: Q3",
@@ -180,6 +165,21 @@
           "away": {
             "name": "UL",
             "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "CONN VS UNC",
+        "kickoff": "12/28/2024, 10:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "UNC",
+            "score": "14"
+          },
+          "away": {
+            "name": "CONN",
+            "score": "27"
           }
         }
       },
