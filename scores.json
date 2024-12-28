@@ -3,21 +3,6 @@
     "week": 17,
     "games": [
       {
-        "matchup": "LAC @ NE",
-        "kickoff": "12/28/2024, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "NE",
-            "score": "7"
-          },
-          "away": {
-            "name": "LAC",
-            "score": "40"
-          }
-        }
-      },
-      {
         "matchup": "DEN @ CIN",
         "kickoff": "12/28/2024, 3:30:00 PM",
         "status": "Live: Q1",
@@ -29,6 +14,21 @@
           "away": {
             "name": "DEN",
             "score": "3"
+          }
+        }
+      },
+      {
+        "matchup": "LAC @ NE",
+        "kickoff": "12/28/2024, 12:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "NE",
+            "score": "7"
+          },
+          "away": {
+            "name": "LAC",
+            "score": "40"
           }
         }
       },
@@ -169,11 +169,26 @@
         "score": {
           "home": {
             "name": "MIA",
-            "score": "21"
+            "score": "28"
           },
           "away": {
             "name": "ISU",
             "score": "28"
+          }
+        }
+      },
+      {
+        "matchup": "M-OH VS CSU",
+        "kickoff": "12/28/2024, 3:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "CSU",
+            "score": "0"
+          },
+          "away": {
+            "name": "M-OH",
+            "score": "0"
           }
         }
       },
@@ -204,21 +219,6 @@
           "away": {
             "name": "BC",
             "score": "15"
-          }
-        }
-      },
-      {
-        "matchup": "M-OH VS CSU",
-        "kickoff": "12/28/2024, 3:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "CSU",
-            "score": "0"
-          },
-          "away": {
-            "name": "M-OH",
-            "score": "0"
           }
         }
       },
