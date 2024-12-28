@@ -28,7 +28,7 @@
           },
           "away": {
             "name": "DEN",
-            "score": "0"
+            "score": "3"
           }
         }
       },
@@ -173,7 +173,7 @@
           },
           "away": {
             "name": "ISU",
-            "score": "21"
+            "score": "28"
           }
         }
       },
@@ -210,8 +210,17 @@
       {
         "matchup": "M-OH VS CSU",
         "kickoff": "12/28/2024, 3:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "CSU",
+            "score": "0"
+          },
+          "away": {
+            "name": "M-OH",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "ECU VS NCSU",
