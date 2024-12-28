@@ -186,8 +186,17 @@
       {
         "matchup": "ISU VS MIA",
         "kickoff": "12/28/2024, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MIA",
+            "score": "0"
+          },
+          "away": {
+            "name": "ISU",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "M-OH VS CSU",
