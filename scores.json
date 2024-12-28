@@ -13,7 +13,7 @@
           },
           "away": {
             "name": "LAC",
-            "score": "37"
+            "score": "40"
           }
         }
       },
@@ -145,11 +145,26 @@
         "score": {
           "home": {
             "name": "TCU",
-            "score": "20"
+            "score": "27"
           },
           "away": {
             "name": "UL",
             "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "ISU VS MIA",
+        "kickoff": "12/28/2024, 2:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MIA",
+            "score": "0"
+          },
+          "away": {
+            "name": "ISU",
+            "score": "7"
           }
         }
       },
@@ -180,21 +195,6 @@
           "away": {
             "name": "BC",
             "score": "15"
-          }
-        }
-      },
-      {
-        "matchup": "ISU VS MIA",
-        "kickoff": "12/28/2024, 2:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "MIA",
-            "score": "0"
-          },
-          "away": {
-            "name": "ISU",
-            "score": "0"
           }
         }
       },
