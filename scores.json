@@ -130,21 +130,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "TTU VS ARK",
-        "kickoff": "12/27/2024, 6:00:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "ARK",
-            "score": "39"
-          },
-          "away": {
-            "name": "TTU",
-            "score": "26"
-          }
-        }
-      },
-      {
         "matchup": "SYR VS WSU",
         "kickoff": "12/27/2024, 7:00:00 PM",
         "status": "Live: Q3",
@@ -156,6 +141,21 @@
           "away": {
             "name": "SYR",
             "score": "35"
+          }
+        }
+      },
+      {
+        "matchup": "USC VS TA&M",
+        "kickoff": "12/27/2024, 9:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "TA&M",
+            "score": "0"
+          },
+          "away": {
+            "name": "USC",
+            "score": "0"
           }
         }
       },
@@ -190,10 +190,19 @@
         }
       },
       {
-        "matchup": "USC VS TA&M",
-        "kickoff": "12/27/2024, 9:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "matchup": "TTU VS ARK",
+        "kickoff": "12/27/2024, 6:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "ARK",
+            "score": "39"
+          },
+          "away": {
+            "name": "TTU",
+            "score": "26"
+          }
+        }
       },
       {
         "matchup": "JKST VS SCST",
