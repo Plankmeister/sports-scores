@@ -140,7 +140,7 @@
           },
           "away": {
             "name": "TTU",
-            "score": "5"
+            "score": "12"
           }
         }
       },
@@ -177,8 +177,17 @@
       {
         "matchup": "SYR VS WSU",
         "kickoff": "12/27/2024, 7:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "WSU",
+            "score": "0"
+          },
+          "away": {
+            "name": "SYR",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "USC VS TA&M",
