@@ -130,24 +130,9 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "GT VS VAN",
-        "kickoff": "12/27/2024, 2:30:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "VAN",
-            "score": "35"
-          },
-          "away": {
-            "name": "GT",
-            "score": "27"
-          }
-        }
-      },
-      {
         "matchup": "TTU VS ARK",
         "kickoff": "12/27/2024, 6:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "ARK",
@@ -171,6 +156,21 @@
           "away": {
             "name": "OU",
             "score": "20"
+          }
+        }
+      },
+      {
+        "matchup": "GT VS VAN",
+        "kickoff": "12/27/2024, 2:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "VAN",
+            "score": "35"
+          },
+          "away": {
+            "name": "GT",
+            "score": "27"
           }
         }
       },
