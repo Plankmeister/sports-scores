@@ -130,21 +130,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "USC VS TA&M",
-        "kickoff": "12/27/2024, 9:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "TA&M",
-            "score": "31"
-          },
-          "away": {
-            "name": "USC",
-            "score": "35"
-          }
-        }
-      },
-      {
         "matchup": "CONN VS UNC",
         "kickoff": "12/28/2024, 10:00:00 AM",
         "status": "Scheduled",
@@ -549,6 +534,21 @@
           "away": {
             "name": "TTU",
             "score": "26"
+          }
+        }
+      },
+      {
+        "matchup": "USC VS TA&M",
+        "kickoff": "12/27/2024, 9:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "TA&M",
+            "score": "31"
+          },
+          "away": {
+            "name": "USC",
+            "score": "35"
           }
         }
       },
