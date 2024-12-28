@@ -5,7 +5,7 @@
       {
         "matchup": "DEN @ CIN",
         "kickoff": "12/28/2024, 3:30:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "CIN",
@@ -178,6 +178,21 @@
         }
       },
       {
+        "matchup": "ECU VS NCSU",
+        "kickoff": "12/28/2024, 4:45:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "NCSU",
+            "score": "0"
+          },
+          "away": {
+            "name": "ECU",
+            "score": "0"
+          }
+        }
+      },
+      {
         "matchup": "CONN VS UNC",
         "kickoff": "12/28/2024, 10:00:00 AM",
         "status": "Final",
@@ -219,21 +234,6 @@
           "away": {
             "name": "UL",
             "score": "3"
-          }
-        }
-      },
-      {
-        "matchup": "ECU VS NCSU",
-        "kickoff": "12/28/2024, 4:45:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "NCSU",
-            "score": "0"
-          },
-          "away": {
-            "name": "ECU",
-            "score": "0"
           }
         }
       },
