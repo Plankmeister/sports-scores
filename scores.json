@@ -145,64 +145,52 @@
         }
       },
       {
-        "matchup": "SYR VS WSU",
-        "kickoff": "12/27/2024, 7:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "WSU",
-            "score": "35"
-          },
-          "away": {
-            "name": "SYR",
-            "score": "52"
-          }
-        }
+        "matchup": "CONN VS UNC",
+        "kickoff": "12/28/2024, 10:00:00 AM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "OU VS NAVY",
-        "kickoff": "12/27/2024, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "NAVY",
-            "score": "21"
-          },
-          "away": {
-            "name": "OU",
-            "score": "20"
-          }
-        }
+        "matchup": "BC VS NEB",
+        "kickoff": "12/28/2024, 11:00:00 AM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "GT VS VAN",
-        "kickoff": "12/27/2024, 2:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "VAN",
-            "score": "35"
-          },
-          "away": {
-            "name": "GT",
-            "score": "27"
-          }
-        }
+        "matchup": "UL VS TCU",
+        "kickoff": "12/28/2024, 1:15:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "TTU VS ARK",
-        "kickoff": "12/27/2024, 6:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "ARK",
-            "score": "39"
-          },
-          "away": {
-            "name": "TTU",
-            "score": "26"
-          }
-        }
+        "matchup": "ISU VS MIA",
+        "kickoff": "12/28/2024, 2:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "M-OH VS CSU",
+        "kickoff": "12/28/2024, 3:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "ECU VS NCSU",
+        "kickoff": "12/28/2024, 4:45:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "BYU VS COLO",
+        "kickoff": "12/28/2024, 6:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "LT VS ARMY",
+        "kickoff": "12/28/2024, 8:15:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
         "matchup": "JKST VS SCST",
@@ -505,52 +493,64 @@
         }
       },
       {
-        "matchup": "CONN VS UNC",
-        "kickoff": "12/28/2024, 10:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "matchup": "SYR VS WSU",
+        "kickoff": "12/27/2024, 7:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "WSU",
+            "score": "35"
+          },
+          "away": {
+            "name": "SYR",
+            "score": "52"
+          }
+        }
       },
       {
-        "matchup": "BC VS NEB",
-        "kickoff": "12/28/2024, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "matchup": "OU VS NAVY",
+        "kickoff": "12/27/2024, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "NAVY",
+            "score": "21"
+          },
+          "away": {
+            "name": "OU",
+            "score": "20"
+          }
+        }
       },
       {
-        "matchup": "UL VS TCU",
-        "kickoff": "12/28/2024, 1:15:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "matchup": "GT VS VAN",
+        "kickoff": "12/27/2024, 2:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "VAN",
+            "score": "35"
+          },
+          "away": {
+            "name": "GT",
+            "score": "27"
+          }
+        }
       },
       {
-        "matchup": "ISU VS MIA",
-        "kickoff": "12/28/2024, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "M-OH VS CSU",
-        "kickoff": "12/28/2024, 3:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "ECU VS NCSU",
-        "kickoff": "12/28/2024, 4:45:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "BYU VS COLO",
-        "kickoff": "12/28/2024, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "LT VS ARMY",
-        "kickoff": "12/28/2024, 8:15:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "matchup": "TTU VS ARK",
+        "kickoff": "12/27/2024, 6:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "ARK",
+            "score": "39"
+          },
+          "away": {
+            "name": "TTU",
+            "score": "26"
+          }
+        }
       },
       {
         "matchup": "IOWA VS MIZ",
