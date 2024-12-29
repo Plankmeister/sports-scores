@@ -157,21 +157,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "LT VS ARMY",
-        "kickoff": "12/28/2024, 8:15:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "ARMY",
-            "score": "27"
-          },
-          "away": {
-            "name": "LT",
-            "score": "6"
-          }
-        }
-      },
-      {
         "matchup": "JKST VS SCST",
         "kickoff": "12/14/2024, 11:00:00 AM",
         "status": "Final",
@@ -573,6 +558,21 @@
           "away": {
             "name": "BYU",
             "score": "36"
+          }
+        }
+      },
+      {
+        "matchup": "LT VS ARMY",
+        "kickoff": "12/28/2024, 8:15:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "ARMY",
+            "score": "27"
+          },
+          "away": {
+            "name": "LT",
+            "score": "6"
           }
         }
       },
