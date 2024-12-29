@@ -13,7 +13,7 @@
           },
           "away": {
             "name": "NYJ",
-            "score": "8"
+            "score": "14"
           }
         }
       },
@@ -35,7 +35,7 @@
       {
         "matchup": "IND @ NYG",
         "kickoff": "12/29/2024, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "NYG",
@@ -44,6 +44,21 @@
           "away": {
             "name": "IND",
             "score": "33"
+          }
+        }
+      },
+      {
+        "matchup": "MIA @ CLE",
+        "kickoff": "12/29/2024, 3:05:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "CLE",
+            "score": "0"
+          },
+          "away": {
+            "name": "MIA",
+            "score": "0"
           }
         }
       },
@@ -89,21 +104,6 @@
           "away": {
             "name": "TEN",
             "score": "13"
-          }
-        }
-      },
-      {
-        "matchup": "MIA @ CLE",
-        "kickoff": "12/29/2024, 3:05:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "CLE",
-            "score": "0"
-          },
-          "away": {
-            "name": "MIA",
-            "score": "0"
           }
         }
       },
