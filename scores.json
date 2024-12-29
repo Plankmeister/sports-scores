@@ -3,21 +3,6 @@
     "week": 17,
     "games": [
       {
-        "matchup": "DEN @ CIN",
-        "kickoff": "12/28/2024, 3:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "CIN",
-            "score": "30"
-          },
-          "away": {
-            "name": "DEN",
-            "score": "24"
-          }
-        }
-      },
-      {
         "matchup": "LAC @ NE",
         "kickoff": "12/28/2024, 12:00:00 PM",
         "status": "Final",
@@ -29,6 +14,21 @@
           "away": {
             "name": "LAC",
             "score": "40"
+          }
+        }
+      },
+      {
+        "matchup": "DEN @ CIN",
+        "kickoff": "12/28/2024, 3:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "CIN",
+            "score": "30"
+          },
+          "away": {
+            "name": "DEN",
+            "score": "24"
           }
         }
       },
@@ -188,7 +188,7 @@
           },
           "away": {
             "name": "BYU",
-            "score": "0"
+            "score": "7"
           }
         }
       },
