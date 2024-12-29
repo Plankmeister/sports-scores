@@ -173,7 +173,7 @@
           },
           "away": {
             "name": "ECU",
-            "score": "13"
+            "score": "19"
           }
         }
       },
@@ -240,8 +240,17 @@
       {
         "matchup": "BYU VS COLO",
         "kickoff": "12/28/2024, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "COLO",
+            "score": "0"
+          },
+          "away": {
+            "name": "BYU",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "LT VS ARMY",
