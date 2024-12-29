@@ -3,96 +3,6 @@
     "week": 17,
     "games": [
       {
-        "matchup": "LAC @ NE",
-        "kickoff": "12/28/2024, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "NE",
-            "score": "7"
-          },
-          "away": {
-            "name": "LAC",
-            "score": "40"
-          }
-        }
-      },
-      {
-        "matchup": "DEN @ CIN",
-        "kickoff": "12/28/2024, 3:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "CIN",
-            "score": "30"
-          },
-          "away": {
-            "name": "DEN",
-            "score": "24"
-          }
-        }
-      },
-      {
-        "matchup": "ARI @ LAR",
-        "kickoff": "12/28/2024, 7:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "LAR",
-            "score": "13"
-          },
-          "away": {
-            "name": "ARI",
-            "score": "9"
-          }
-        }
-      },
-      {
-        "matchup": "KC @ PIT",
-        "kickoff": "12/25/2024, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "PIT",
-            "score": "10"
-          },
-          "away": {
-            "name": "KC",
-            "score": "29"
-          }
-        }
-      },
-      {
-        "matchup": "BAL @ HOU",
-        "kickoff": "12/25/2024, 3:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "HOU",
-            "score": "2"
-          },
-          "away": {
-            "name": "BAL",
-            "score": "31"
-          }
-        }
-      },
-      {
-        "matchup": "SEA @ CHI",
-        "kickoff": "12/26/2024, 7:15:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "CHI",
-            "score": "3"
-          },
-          "away": {
-            "name": "SEA",
-            "score": "6"
-          }
-        }
-      },
-      {
         "matchup": "NYJ @ BUF",
         "kickoff": "12/29/2024, 12:00:00 PM",
         "status": "Scheduled",
@@ -147,6 +57,96 @@
         "score": null
       },
       {
+        "matchup": "KC @ PIT",
+        "kickoff": "12/25/2024, 12:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "PIT",
+            "score": "10"
+          },
+          "away": {
+            "name": "KC",
+            "score": "29"
+          }
+        }
+      },
+      {
+        "matchup": "BAL @ HOU",
+        "kickoff": "12/25/2024, 3:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "HOU",
+            "score": "2"
+          },
+          "away": {
+            "name": "BAL",
+            "score": "31"
+          }
+        }
+      },
+      {
+        "matchup": "SEA @ CHI",
+        "kickoff": "12/26/2024, 7:15:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "CHI",
+            "score": "3"
+          },
+          "away": {
+            "name": "SEA",
+            "score": "6"
+          }
+        }
+      },
+      {
+        "matchup": "LAC @ NE",
+        "kickoff": "12/28/2024, 12:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "NE",
+            "score": "7"
+          },
+          "away": {
+            "name": "LAC",
+            "score": "40"
+          }
+        }
+      },
+      {
+        "matchup": "DEN @ CIN",
+        "kickoff": "12/28/2024, 3:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "CIN",
+            "score": "30"
+          },
+          "away": {
+            "name": "DEN",
+            "score": "24"
+          }
+        }
+      },
+      {
+        "matchup": "ARI @ LAR",
+        "kickoff": "12/28/2024, 7:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "LAR",
+            "score": "13"
+          },
+          "away": {
+            "name": "ARI",
+            "score": "9"
+          }
+        }
+      },
+      {
         "matchup": "DET @ SF",
         "kickoff": "12/30/2024, 7:15:00 PM",
         "status": "Scheduled",
@@ -168,111 +168,6 @@
           "away": {
             "name": "LT",
             "score": "6"
-          }
-        }
-      },
-      {
-        "matchup": "ISU VS MIA",
-        "kickoff": "12/28/2024, 2:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "MIA",
-            "score": "41"
-          },
-          "away": {
-            "name": "ISU",
-            "score": "42"
-          }
-        }
-      },
-      {
-        "matchup": "BYU VS COLO",
-        "kickoff": "12/28/2024, 6:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "COLO",
-            "score": "14"
-          },
-          "away": {
-            "name": "BYU",
-            "score": "36"
-          }
-        }
-      },
-      {
-        "matchup": "CONN VS UNC",
-        "kickoff": "12/28/2024, 10:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "UNC",
-            "score": "14"
-          },
-          "away": {
-            "name": "CONN",
-            "score": "27"
-          }
-        }
-      },
-      {
-        "matchup": "BC VS NEB",
-        "kickoff": "12/28/2024, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "NEB",
-            "score": "20"
-          },
-          "away": {
-            "name": "BC",
-            "score": "15"
-          }
-        }
-      },
-      {
-        "matchup": "UL VS TCU",
-        "kickoff": "12/28/2024, 1:15:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "TCU",
-            "score": "34"
-          },
-          "away": {
-            "name": "UL",
-            "score": "3"
-          }
-        }
-      },
-      {
-        "matchup": "M-OH VS CSU",
-        "kickoff": "12/28/2024, 3:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "CSU",
-            "score": "17"
-          },
-          "away": {
-            "name": "M-OH",
-            "score": "43"
-          }
-        }
-      },
-      {
-        "matchup": "ECU VS NCSU",
-        "kickoff": "12/28/2024, 4:45:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "NCSU",
-            "score": "21"
-          },
-          "away": {
-            "name": "ECU",
-            "score": "26"
           }
         }
       },
@@ -648,6 +543,111 @@
           "away": {
             "name": "USC",
             "score": "35"
+          }
+        }
+      },
+      {
+        "matchup": "ISU VS MIA",
+        "kickoff": "12/28/2024, 2:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "MIA",
+            "score": "41"
+          },
+          "away": {
+            "name": "ISU",
+            "score": "42"
+          }
+        }
+      },
+      {
+        "matchup": "BYU VS COLO",
+        "kickoff": "12/28/2024, 6:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "COLO",
+            "score": "14"
+          },
+          "away": {
+            "name": "BYU",
+            "score": "36"
+          }
+        }
+      },
+      {
+        "matchup": "CONN VS UNC",
+        "kickoff": "12/28/2024, 10:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "UNC",
+            "score": "14"
+          },
+          "away": {
+            "name": "CONN",
+            "score": "27"
+          }
+        }
+      },
+      {
+        "matchup": "BC VS NEB",
+        "kickoff": "12/28/2024, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "NEB",
+            "score": "20"
+          },
+          "away": {
+            "name": "BC",
+            "score": "15"
+          }
+        }
+      },
+      {
+        "matchup": "UL VS TCU",
+        "kickoff": "12/28/2024, 1:15:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "TCU",
+            "score": "34"
+          },
+          "away": {
+            "name": "UL",
+            "score": "3"
+          }
+        }
+      },
+      {
+        "matchup": "M-OH VS CSU",
+        "kickoff": "12/28/2024, 3:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "CSU",
+            "score": "17"
+          },
+          "away": {
+            "name": "M-OH",
+            "score": "43"
+          }
+        }
+      },
+      {
+        "matchup": "ECU VS NCSU",
+        "kickoff": "12/28/2024, 4:45:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "NCSU",
+            "score": "21"
+          },
+          "away": {
+            "name": "ECU",
+            "score": "26"
           }
         }
       },
