@@ -50,7 +50,7 @@
       {
         "matchup": "DAL @ PHI",
         "kickoff": "12/29/2024, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "PHI",
@@ -95,8 +95,17 @@
       {
         "matchup": "MIA @ CLE",
         "kickoff": "12/29/2024, 3:05:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "CLE",
+            "score": "0"
+          },
+          "away": {
+            "name": "MIA",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "GB @ MIN",
