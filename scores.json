@@ -39,7 +39,7 @@
         "score": {
           "home": {
             "name": "NYG",
-            "score": "42"
+            "score": "45"
           },
           "away": {
             "name": "IND",
@@ -65,7 +65,7 @@
       {
         "matchup": "CAR @ TB",
         "kickoff": "12/29/2024, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "TB",
