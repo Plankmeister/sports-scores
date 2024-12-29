@@ -9,7 +9,7 @@
         "score": {
           "home": {
             "name": "LAR",
-            "score": "7"
+            "score": "10"
           },
           "away": {
             "name": "ARI",
@@ -172,6 +172,21 @@
         }
       },
       {
+        "matchup": "LT VS ARMY",
+        "kickoff": "12/28/2024, 8:15:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ARMY",
+            "score": "0"
+          },
+          "away": {
+            "name": "LT",
+            "score": "0"
+          }
+        }
+      },
+      {
         "matchup": "ISU VS MIA",
         "kickoff": "12/28/2024, 2:30:00 PM",
         "status": "Final",
@@ -258,21 +273,6 @@
           "away": {
             "name": "ECU",
             "score": "26"
-          }
-        }
-      },
-      {
-        "matchup": "LT VS ARMY",
-        "kickoff": "12/28/2024, 8:15:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "ARMY",
-            "score": "0"
-          },
-          "away": {
-            "name": "LT",
-            "score": "0"
           }
         }
       },
