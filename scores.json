@@ -150,7 +150,7 @@
       {
         "matchup": "ISU VS MIA",
         "kickoff": "12/28/2024, 2:30:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "MIA",
@@ -169,7 +169,7 @@
         "score": {
           "home": {
             "name": "CSU",
-            "score": "3"
+            "score": "10"
           },
           "away": {
             "name": "M-OH",
