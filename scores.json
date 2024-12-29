@@ -9,7 +9,7 @@
         "score": {
           "home": {
             "name": "LAR",
-            "score": "0"
+            "score": "7"
           },
           "away": {
             "name": "ARI",
@@ -157,21 +157,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "ECU VS NCSU",
-        "kickoff": "12/28/2024, 4:45:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "NCSU",
-            "score": "21"
-          },
-          "away": {
-            "name": "ECU",
-            "score": "26"
-          }
-        }
-      },
-      {
         "matchup": "BYU VS COLO",
         "kickoff": "12/28/2024, 6:30:00 PM",
         "status": "Live: Q2",
@@ -258,6 +243,21 @@
           "away": {
             "name": "M-OH",
             "score": "43"
+          }
+        }
+      },
+      {
+        "matchup": "ECU VS NCSU",
+        "kickoff": "12/28/2024, 4:45:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "NCSU",
+            "score": "21"
+          },
+          "away": {
+            "name": "ECU",
+            "score": "26"
           }
         }
       },
