@@ -9,7 +9,7 @@
         "score": {
           "home": {
             "name": "BUF",
-            "score": "26"
+            "score": "33"
           },
           "away": {
             "name": "NYJ",
@@ -43,14 +43,14 @@
           },
           "away": {
             "name": "IND",
-            "score": "20"
+            "score": "26"
           }
         }
       },
       {
         "matchup": "DAL @ PHI",
         "kickoff": "12/29/2024, 12:00:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "PHI",
@@ -65,7 +65,7 @@
       {
         "matchup": "CAR @ TB",
         "kickoff": "12/29/2024, 12:00:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "TB",
