@@ -173,7 +173,22 @@
           },
           "away": {
             "name": "ECU",
-            "score": "19"
+            "score": "20"
+          }
+        }
+      },
+      {
+        "matchup": "BYU VS COLO",
+        "kickoff": "12/28/2024, 6:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "COLO",
+            "score": "0"
+          },
+          "away": {
+            "name": "BYU",
+            "score": "0"
           }
         }
       },
@@ -234,21 +249,6 @@
           "away": {
             "name": "UL",
             "score": "3"
-          }
-        }
-      },
-      {
-        "matchup": "BYU VS COLO",
-        "kickoff": "12/28/2024, 6:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "COLO",
-            "score": "0"
-          },
-          "away": {
-            "name": "BYU",
-            "score": "0"
           }
         }
       },
