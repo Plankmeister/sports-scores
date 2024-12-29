@@ -20,7 +20,7 @@
       {
         "matchup": "LV @ NO",
         "kickoff": "12/29/2024, 12:00:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "NO",
@@ -28,7 +28,7 @@
           },
           "away": {
             "name": "LV",
-            "score": "16"
+            "score": "19"
           }
         }
       },
@@ -88,7 +88,7 @@
           },
           "away": {
             "name": "TEN",
-            "score": "10"
+            "score": "13"
           }
         }
       },
