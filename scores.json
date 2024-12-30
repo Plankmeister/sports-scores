@@ -5,15 +5,15 @@
       {
         "matchup": "ATL @ WSH",
         "kickoff": "12/29/2024, 7:20:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "WSH",
-            "score": "7"
+            "score": "24"
           },
           "away": {
             "name": "ATL",
-            "score": "17"
+            "score": "24"
           }
         }
       },
