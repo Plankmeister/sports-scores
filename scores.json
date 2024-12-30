@@ -240,8 +240,17 @@
       {
         "matchup": "IOWA VS MIZ",
         "kickoff": "12/30/2024, 1:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MIZ",
+            "score": "0"
+          },
+          "away": {
+            "name": "IOWA",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "JKST VS SCST",
