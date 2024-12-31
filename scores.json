@@ -277,21 +277,6 @@
         }
       },
       {
-        "matchup": "ALA VS MICH",
-        "kickoff": "12/31/2024, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "MICH",
-            "score": "19"
-          },
-          "away": {
-            "name": "ALA",
-            "score": "13"
-          }
-        }
-      },
-      {
         "matchup": "BAY VS LSU",
         "kickoff": "12/31/2024, 2:30:00 PM",
         "status": "Live: Q1",
@@ -303,6 +288,21 @@
           "away": {
             "name": "BAY",
             "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "ALA VS MICH",
+        "kickoff": "12/31/2024, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "MICH",
+            "score": "19"
+          },
+          "away": {
+            "name": "ALA",
+            "score": "13"
           }
         }
       },
