@@ -249,7 +249,7 @@
       {
         "matchup": "ALA VS MICH",
         "kickoff": "12/31/2024, 11:00:00 AM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "MICH",
@@ -272,7 +272,7 @@
           },
           "away": {
             "name": "LOU",
-            "score": "14"
+            "score": "20"
           }
         }
       },
@@ -287,7 +287,7 @@
           },
           "away": {
             "name": "SC",
-            "score": "0"
+            "score": "3"
           }
         }
       },
