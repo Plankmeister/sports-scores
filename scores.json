@@ -279,7 +279,7 @@
       {
         "matchup": "BAY VS LSU",
         "kickoff": "12/31/2024, 2:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "LSU",
@@ -287,7 +287,7 @@
           },
           "away": {
             "name": "BAY",
-            "score": "0"
+            "score": "7"
           }
         }
       },
