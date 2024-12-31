@@ -3,21 +3,6 @@
     "week": 17,
     "games": [
       {
-        "matchup": "DET @ SF",
-        "kickoff": "12/30/2024, 7:15:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "SF",
-            "score": "34"
-          },
-          "away": {
-            "name": "DET",
-            "score": "40"
-          }
-        }
-      },
-      {
         "matchup": "KC @ PIT",
         "kickoff": "12/25/2024, 12:00:00 PM",
         "status": "Final",
@@ -239,6 +224,21 @@
           "away": {
             "name": "ATL",
             "score": "24"
+          }
+        }
+      },
+      {
+        "matchup": "DET @ SF",
+        "kickoff": "12/30/2024, 7:15:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "SF",
+            "score": "34"
+          },
+          "away": {
+            "name": "DET",
+            "score": "40"
           }
         }
       }
