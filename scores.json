@@ -249,8 +249,17 @@
       {
         "matchup": "ALA VS MICH",
         "kickoff": "12/31/2024, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MICH",
+            "score": "0"
+          },
+          "away": {
+            "name": "ALA",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "LOU VS WASH",
