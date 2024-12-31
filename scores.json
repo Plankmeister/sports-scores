@@ -247,21 +247,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "ALA VS MICH",
-        "kickoff": "12/31/2024, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "MICH",
-            "score": "19"
-          },
-          "away": {
-            "name": "ALA",
-            "score": "13"
-          }
-        }
-      },
-      {
         "matchup": "LOU VS WASH",
         "kickoff": "12/31/2024, 1:00:00 PM",
         "status": "Live: Q2",
@@ -288,6 +273,21 @@
           "away": {
             "name": "SC",
             "score": "3"
+          }
+        }
+      },
+      {
+        "matchup": "ALA VS MICH",
+        "kickoff": "12/31/2024, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "MICH",
+            "score": "19"
+          },
+          "away": {
+            "name": "ALA",
+            "score": "13"
           }
         }
       },
