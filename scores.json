@@ -247,24 +247,9 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "LOU VS WASH",
-        "kickoff": "12/31/2024, 1:00:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "WASH",
-            "score": "34"
-          },
-          "away": {
-            "name": "LOU",
-            "score": "35"
-          }
-        }
-      },
-      {
         "matchup": "SC VS ILL",
         "kickoff": "12/31/2024, 2:00:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "ILL",
@@ -272,7 +257,7 @@
           },
           "away": {
             "name": "SC",
-            "score": "10"
+            "score": "17"
           }
         }
       },
@@ -303,6 +288,21 @@
           "away": {
             "name": "ALA",
             "score": "13"
+          }
+        }
+      },
+      {
+        "matchup": "LOU VS WASH",
+        "kickoff": "12/31/2024, 1:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "WASH",
+            "score": "34"
+          },
+          "away": {
+            "name": "LOU",
+            "score": "35"
           }
         }
       },
