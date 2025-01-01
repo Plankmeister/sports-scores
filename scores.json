@@ -113,15 +113,24 @@
           },
           "away": {
             "name": "TEX",
-            "score": "24"
+            "score": "39"
           }
         }
       },
       {
         "matchup": "OSU VS ORE",
         "kickoff": "1/1/2025, 4:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ORE",
+            "score": "0"
+          },
+          "away": {
+            "name": "OSU",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "ND VS UGA",
