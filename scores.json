@@ -247,21 +247,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "BAY VS LSU",
-        "kickoff": "12/31/2024, 2:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "LSU",
-            "score": "44"
-          },
-          "away": {
-            "name": "BAY",
-            "score": "31"
-          }
-        }
-      },
-      {
         "matchup": "ALA VS MICH",
         "kickoff": "12/31/2024, 11:00:00 AM",
         "status": "Final",
@@ -303,6 +288,21 @@
           "away": {
             "name": "LOU",
             "score": "35"
+          }
+        }
+      },
+      {
+        "matchup": "BAY VS LSU",
+        "kickoff": "12/31/2024, 2:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "LSU",
+            "score": "44"
+          },
+          "away": {
+            "name": "BAY",
+            "score": "31"
           }
         }
       },
