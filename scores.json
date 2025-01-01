@@ -126,8 +126,17 @@
       {
         "matchup": "ND VS UGA",
         "kickoff": "1/1/2025, 7:45:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "UGA",
+            "score": "0"
+          },
+          "away": {
+            "name": "ND",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "JKST VS SCST",
