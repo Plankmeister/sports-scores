@@ -113,7 +113,7 @@
           },
           "away": {
             "name": "OSU",
-            "score": "7"
+            "score": "14"
           }
         }
       },
@@ -131,12 +131,6 @@
             "score": "39"
           }
         }
-      },
-      {
-        "matchup": "ND VS UGA",
-        "kickoff": "1/2/2025, 3:00:00 PM",
-        "status": "Scheduled",
-        "score": null
       },
       {
         "matchup": "JKST VS SCST",
@@ -722,6 +716,12 @@
             "score": "31"
           }
         }
+      },
+      {
+        "matchup": "ND VS UGA",
+        "kickoff": "1/2/2025, 3:00:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
         "matchup": "DUKE VS MISS",
