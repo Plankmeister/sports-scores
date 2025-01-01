@@ -247,79 +247,22 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "PSU VS BOIS",
-        "kickoff": "12/31/2024, 6:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "BOIS",
-            "score": "14"
-          },
-          "away": {
-            "name": "PSU",
-            "score": "31"
-          }
-        }
+        "matchup": "TEX VS ASU",
+        "kickoff": "1/1/2025, 12:00:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "ALA VS MICH",
-        "kickoff": "12/31/2024, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "MICH",
-            "score": "19"
-          },
-          "away": {
-            "name": "ALA",
-            "score": "13"
-          }
-        }
+        "matchup": "OSU VS ORE",
+        "kickoff": "1/1/2025, 4:00:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "SC VS ILL",
-        "kickoff": "12/31/2024, 2:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "ILL",
-            "score": "21"
-          },
-          "away": {
-            "name": "SC",
-            "score": "17"
-          }
-        }
-      },
-      {
-        "matchup": "LOU VS WASH",
-        "kickoff": "12/31/2024, 1:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "WASH",
-            "score": "34"
-          },
-          "away": {
-            "name": "LOU",
-            "score": "35"
-          }
-        }
-      },
-      {
-        "matchup": "BAY VS LSU",
-        "kickoff": "12/31/2024, 2:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "LSU",
-            "score": "44"
-          },
-          "away": {
-            "name": "BAY",
-            "score": "31"
-          }
-        }
+        "matchup": "ND VS UGA",
+        "kickoff": "1/1/2025, 7:45:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
         "matchup": "JKST VS SCST",
@@ -832,22 +775,79 @@
         }
       },
       {
-        "matchup": "TEX VS ASU",
-        "kickoff": "1/1/2025, 12:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "matchup": "PSU VS BOIS",
+        "kickoff": "12/31/2024, 6:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "BOIS",
+            "score": "14"
+          },
+          "away": {
+            "name": "PSU",
+            "score": "31"
+          }
+        }
       },
       {
-        "matchup": "OSU VS ORE",
-        "kickoff": "1/1/2025, 4:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "matchup": "ALA VS MICH",
+        "kickoff": "12/31/2024, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "MICH",
+            "score": "19"
+          },
+          "away": {
+            "name": "ALA",
+            "score": "13"
+          }
+        }
       },
       {
-        "matchup": "ND VS UGA",
-        "kickoff": "1/1/2025, 7:45:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "matchup": "SC VS ILL",
+        "kickoff": "12/31/2024, 2:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "ILL",
+            "score": "21"
+          },
+          "away": {
+            "name": "SC",
+            "score": "17"
+          }
+        }
+      },
+      {
+        "matchup": "LOU VS WASH",
+        "kickoff": "12/31/2024, 1:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "WASH",
+            "score": "34"
+          },
+          "away": {
+            "name": "LOU",
+            "score": "35"
+          }
+        }
+      },
+      {
+        "matchup": "BAY VS LSU",
+        "kickoff": "12/31/2024, 2:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "LSU",
+            "score": "44"
+          },
+          "away": {
+            "name": "BAY",
+            "score": "31"
+          }
+        }
       },
       {
         "matchup": "DUKE VS MISS",
