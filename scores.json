@@ -247,6 +247,21 @@
   "collegeFootball": {
     "games": [
       {
+        "matchup": "PSU VS BOIS",
+        "kickoff": "12/31/2024, 6:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "BOIS",
+            "score": "0"
+          },
+          "away": {
+            "name": "PSU",
+            "score": "0"
+          }
+        }
+      },
+      {
         "matchup": "ALA VS MICH",
         "kickoff": "12/31/2024, 11:00:00 AM",
         "status": "Final",
@@ -303,21 +318,6 @@
           "away": {
             "name": "BAY",
             "score": "31"
-          }
-        }
-      },
-      {
-        "matchup": "PSU VS BOIS",
-        "kickoff": "12/31/2024, 6:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "BOIS",
-            "score": "0"
-          },
-          "away": {
-            "name": "PSU",
-            "score": "0"
           }
         }
       },
