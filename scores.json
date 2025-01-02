@@ -105,8 +105,17 @@
       {
         "matchup": "ND VS UGA",
         "kickoff": "1/2/2025, 3:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "UGA",
+            "score": "0"
+          },
+          "away": {
+            "name": "ND",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "DUKE VS MISS",
