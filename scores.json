@@ -105,7 +105,7 @@
       {
         "matchup": "DUKE VS MISS",
         "kickoff": "1/2/2025, 7:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "MISS",
@@ -113,7 +113,7 @@
           },
           "away": {
             "name": "DUKE",
-            "score": "14"
+            "score": "20"
           }
         }
       },
