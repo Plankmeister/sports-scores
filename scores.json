@@ -103,34 +103,10 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "UNT VS TXST",
-        "kickoff": "1/3/2025, 3:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "TXST",
-            "score": "30"
-          },
-          "away": {
-            "name": "UNT",
-            "score": "28"
-          }
-        }
-      },
-      {
-        "matchup": "MINN VS VT",
-        "kickoff": "1/3/2025, 6:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "VT",
-            "score": "10"
-          },
-          "away": {
-            "name": "MINN",
-            "score": "24"
-          }
-        }
+        "matchup": "BUFF VS LIB",
+        "kickoff": "1/4/2025, 10:00:00 AM",
+        "status": "Scheduled",
+        "score": null
       },
       {
         "matchup": "JKST VS SCST",
@@ -778,10 +754,34 @@
         }
       },
       {
-        "matchup": "BUFF VS LIB",
-        "kickoff": "1/4/2025, 10:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "matchup": "UNT VS TXST",
+        "kickoff": "1/3/2025, 3:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "TXST",
+            "score": "30"
+          },
+          "away": {
+            "name": "UNT",
+            "score": "28"
+          }
+        }
+      },
+      {
+        "matchup": "MINN VS VT",
+        "kickoff": "1/3/2025, 6:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "VT",
+            "score": "10"
+          },
+          "away": {
+            "name": "MINN",
+            "score": "24"
+          }
+        }
       },
       {
         "matchup": "NDSU VS MTST",
