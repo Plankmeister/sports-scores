@@ -105,8 +105,17 @@
       {
         "matchup": "BUFF VS LIB",
         "kickoff": "1/4/2025, 10:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "LIB",
+            "score": "0"
+          },
+          "away": {
+            "name": "BUFF",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "JKST VS SCST",
