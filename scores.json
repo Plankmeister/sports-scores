@@ -3,36 +3,6 @@
     "week": 18,
     "games": [
       {
-        "matchup": "CLE @ BAL",
-        "kickoff": "1/4/2025, 3:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "BAL",
-            "score": "35"
-          },
-          "away": {
-            "name": "CLE",
-            "score": "10"
-          }
-        }
-      },
-      {
-        "matchup": "CIN @ PIT",
-        "kickoff": "1/4/2025, 7:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "PIT",
-            "score": "17"
-          },
-          "away": {
-            "name": "CIN",
-            "score": "19"
-          }
-        }
-      },
-      {
         "matchup": "CAR @ ATL",
         "kickoff": "1/5/2025, 12:00:00 PM",
         "status": "Scheduled",
@@ -115,26 +85,41 @@
         "kickoff": "1/5/2025, 7:20:00 PM",
         "status": "Scheduled",
         "score": null
+      },
+      {
+        "matchup": "CLE @ BAL",
+        "kickoff": "1/4/2025, 3:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "BAL",
+            "score": "35"
+          },
+          "away": {
+            "name": "CLE",
+            "score": "10"
+          }
+        }
+      },
+      {
+        "matchup": "CIN @ PIT",
+        "kickoff": "1/4/2025, 7:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "PIT",
+            "score": "17"
+          },
+          "away": {
+            "name": "CIN",
+            "score": "19"
+          }
+        }
       }
     ]
   },
   "collegeFootball": {
     "games": [
-      {
-        "matchup": "BUFF VS LIB",
-        "kickoff": "1/4/2025, 10:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "LIB",
-            "score": "7"
-          },
-          "away": {
-            "name": "BUFF",
-            "score": "26"
-          }
-        }
-      },
       {
         "matchup": "JKST VS SCST",
         "kickoff": "12/14/2024, 11:00:00 AM",
@@ -807,6 +792,21 @@
           "away": {
             "name": "MINN",
             "score": "24"
+          }
+        }
+      },
+      {
+        "matchup": "BUFF VS LIB",
+        "kickoff": "1/4/2025, 10:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "LIB",
+            "score": "7"
+          },
+          "away": {
+            "name": "BUFF",
+            "score": "26"
           }
         }
       },
