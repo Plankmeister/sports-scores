@@ -58,18 +58,18 @@
           },
           "away": {
             "name": "MIA",
-            "score": "6"
+            "score": "13"
           }
         }
       },
       {
         "matchup": "SF @ ARI",
         "kickoff": "1/5/2025, 3:25:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "ARI",
-            "score": "26"
+            "score": "33"
           },
           "away": {
             "name": "SF",
