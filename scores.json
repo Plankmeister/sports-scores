@@ -35,7 +35,7 @@
       {
         "matchup": "CHI @ GB",
         "kickoff": "1/5/2025, 12:00:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "GB",
@@ -58,7 +58,7 @@
           },
           "away": {
             "name": "HOU",
-            "score": "16"
+            "score": "23"
           }
         }
       },
@@ -80,7 +80,7 @@
       {
         "matchup": "BUF @ NE",
         "kickoff": "1/5/2025, 12:00:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "NE",
@@ -103,7 +103,7 @@
           },
           "away": {
             "name": "NYG",
-            "score": "3"
+            "score": "10"
           }
         }
       },
