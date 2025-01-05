@@ -9,7 +9,7 @@
         "score": {
           "home": {
             "name": "ATL",
-            "score": "3"
+            "score": "10"
           },
           "away": {
             "name": "CAR",
@@ -39,7 +39,7 @@
         "score": {
           "home": {
             "name": "GB",
-            "score": "3"
+            "score": "10"
           },
           "away": {
             "name": "CHI",
@@ -118,7 +118,7 @@
           },
           "away": {
             "name": "NO",
-            "score": "12"
+            "score": "13"
           }
         }
       },
