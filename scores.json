@@ -13,7 +13,7 @@
           },
           "away": {
             "name": "CAR",
-            "score": "31"
+            "score": "38"
           }
         }
       },
@@ -39,7 +39,7 @@
         "score": {
           "home": {
             "name": "GB",
-            "score": "19"
+            "score": "22"
           },
           "away": {
             "name": "CHI",
@@ -84,7 +84,7 @@
         "score": {
           "home": {
             "name": "NE",
-            "score": "20"
+            "score": "23"
           },
           "away": {
             "name": "BUF",
@@ -95,7 +95,7 @@
       {
         "matchup": "NYG @ PHI",
         "kickoff": "1/5/2025, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "PHI",
