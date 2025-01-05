@@ -28,7 +28,7 @@
           },
           "away": {
             "name": "LAC",
-            "score": "9"
+            "score": "15"
           }
         }
       },
@@ -39,7 +39,7 @@
         "score": {
           "home": {
             "name": "LAR",
-            "score": "10"
+            "score": "13"
           },
           "away": {
             "name": "SEA",
@@ -54,7 +54,7 @@
         "score": {
           "home": {
             "name": "NYJ",
-            "score": "7"
+            "score": "15"
           },
           "away": {
             "name": "MIA",
@@ -69,7 +69,7 @@
         "score": {
           "home": {
             "name": "ARI",
-            "score": "10"
+            "score": "17"
           },
           "away": {
             "name": "SF",
