@@ -5,7 +5,7 @@
       {
         "matchup": "CAR @ ATL",
         "kickoff": "1/5/2025, 12:00:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "ATL",
@@ -28,7 +28,7 @@
           },
           "away": {
             "name": "WSH",
-            "score": "10"
+            "score": "16"
           }
         }
       },
@@ -73,7 +73,7 @@
           },
           "away": {
             "name": "JAX",
-            "score": "13"
+            "score": "19"
           }
         }
       },
@@ -84,7 +84,7 @@
         "score": {
           "home": {
             "name": "NE",
-            "score": "17"
+            "score": "20"
           },
           "away": {
             "name": "BUF",
@@ -103,7 +103,7 @@
           },
           "away": {
             "name": "NYG",
-            "score": "10"
+            "score": "13"
           }
         }
       },
