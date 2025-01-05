@@ -9,7 +9,7 @@
         "score": {
           "home": {
             "name": "ATL",
-            "score": "31"
+            "score": "38"
           },
           "away": {
             "name": "CAR",
@@ -28,14 +28,14 @@
           },
           "away": {
             "name": "WSH",
-            "score": "16"
+            "score": "23"
           }
         }
       },
       {
         "matchup": "CHI @ GB",
         "kickoff": "1/5/2025, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "GB",
@@ -43,7 +43,7 @@
           },
           "away": {
             "name": "CHI",
-            "score": "21"
+            "score": "24"
           }
         }
       },
@@ -65,7 +65,7 @@
       {
         "matchup": "JAX @ IND",
         "kickoff": "1/5/2025, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Live: Q5",
         "score": {
           "home": {
             "name": "IND",
@@ -80,7 +80,7 @@
       {
         "matchup": "BUF @ NE",
         "kickoff": "1/5/2025, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "NE",
@@ -114,7 +114,7 @@
         "score": {
           "home": {
             "name": "TB",
-            "score": "20"
+            "score": "27"
           },
           "away": {
             "name": "NO",
