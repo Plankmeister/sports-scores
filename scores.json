@@ -5,7 +5,7 @@
       {
         "matchup": "CAR @ ATL",
         "kickoff": "1/5/2025, 12:00:00 PM",
-        "status": "Live: Q5",
+        "status": "Final",
         "score": {
           "home": {
             "name": "ATL",
@@ -13,37 +13,7 @@
           },
           "away": {
             "name": "CAR",
-            "score": "38"
-          }
-        }
-      },
-      {
-        "matchup": "JAX @ IND",
-        "kickoff": "1/5/2025, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "IND",
-            "score": "26"
-          },
-          "away": {
-            "name": "JAX",
-            "score": "23"
-          }
-        }
-      },
-      {
-        "matchup": "NO @ TB",
-        "kickoff": "1/5/2025, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "TB",
-            "score": "27"
-          },
-          "away": {
-            "name": "NO",
-            "score": "19"
+            "score": "44"
           }
         }
       },
@@ -93,6 +63,21 @@
         }
       },
       {
+        "matchup": "JAX @ IND",
+        "kickoff": "1/5/2025, 12:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "IND",
+            "score": "26"
+          },
+          "away": {
+            "name": "JAX",
+            "score": "23"
+          }
+        }
+      },
+      {
         "matchup": "BUF @ NE",
         "kickoff": "1/5/2025, 12:00:00 PM",
         "status": "Final",
@@ -123,34 +108,94 @@
         }
       },
       {
+        "matchup": "NO @ TB",
+        "kickoff": "1/5/2025, 12:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "TB",
+            "score": "27"
+          },
+          "away": {
+            "name": "NO",
+            "score": "19"
+          }
+        }
+      },
+      {
         "matchup": "KC @ DEN",
         "kickoff": "1/5/2025, 3:25:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "DEN",
+            "score": "0"
+          },
+          "away": {
+            "name": "KC",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "LAC @ LV",
         "kickoff": "1/5/2025, 3:25:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "LV",
+            "score": "0"
+          },
+          "away": {
+            "name": "LAC",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "SEA @ LAR",
         "kickoff": "1/5/2025, 3:25:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "LAR",
+            "score": "0"
+          },
+          "away": {
+            "name": "SEA",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "MIA @ NYJ",
         "kickoff": "1/5/2025, 3:25:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "NYJ",
+            "score": "0"
+          },
+          "away": {
+            "name": "MIA",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "SF @ ARI",
         "kickoff": "1/5/2025, 3:25:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ARI",
+            "score": "0"
+          },
+          "away": {
+            "name": "SF",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "MIN @ DET",
