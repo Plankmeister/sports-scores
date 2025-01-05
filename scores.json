@@ -39,7 +39,7 @@
         "score": {
           "home": {
             "name": "GB",
-            "score": "0"
+            "score": "3"
           },
           "away": {
             "name": "CHI",
@@ -50,7 +50,7 @@
       {
         "matchup": "HOU @ TEN",
         "kickoff": "1/5/2025, 12:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "TEN",
@@ -80,7 +80,7 @@
       {
         "matchup": "BUF @ NE",
         "kickoff": "1/5/2025, 12:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "NE",
@@ -88,14 +88,14 @@
           },
           "away": {
             "name": "BUF",
-            "score": "0"
+            "score": "7"
           }
         }
       },
       {
         "matchup": "NYG @ PHI",
         "kickoff": "1/5/2025, 12:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "PHI",
@@ -110,7 +110,7 @@
       {
         "matchup": "NO @ TB",
         "kickoff": "1/5/2025, 12:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "TB",
@@ -118,7 +118,7 @@
           },
           "away": {
             "name": "NO",
-            "score": "3"
+            "score": "6"
           }
         }
       },
