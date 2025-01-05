@@ -13,7 +13,7 @@
           },
           "away": {
             "name": "CAR",
-            "score": "0"
+            "score": "3"
           }
         }
       },
@@ -43,7 +43,7 @@
           },
           "away": {
             "name": "CHI",
-            "score": "0"
+            "score": "7"
           }
         }
       },
@@ -84,7 +84,7 @@
         "score": {
           "home": {
             "name": "NE",
-            "score": "0"
+            "score": "7"
           },
           "away": {
             "name": "BUF",
@@ -114,7 +114,7 @@
         "score": {
           "home": {
             "name": "TB",
-            "score": "0"
+            "score": "3"
           },
           "away": {
             "name": "NO",
