@@ -9,7 +9,7 @@
         "score": {
           "home": {
             "name": "ATL",
-            "score": "17"
+            "score": "24"
           },
           "away": {
             "name": "CAR",
@@ -80,7 +80,7 @@
       {
         "matchup": "BUF @ NE",
         "kickoff": "1/5/2025, 12:00:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "NE",
@@ -95,7 +95,7 @@
       {
         "matchup": "NYG @ PHI",
         "kickoff": "1/5/2025, 12:00:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "PHI",
