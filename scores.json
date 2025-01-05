@@ -20,8 +20,17 @@
       {
         "matchup": "CIN @ PIT",
         "kickoff": "1/4/2025, 7:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "PIT",
+            "score": "0"
+          },
+          "away": {
+            "name": "CIN",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "CAR @ ATL",
