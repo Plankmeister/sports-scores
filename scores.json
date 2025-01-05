@@ -24,7 +24,7 @@
         "score": {
           "home": {
             "name": "DAL",
-            "score": "3"
+            "score": "6"
           },
           "away": {
             "name": "WSH",
@@ -35,7 +35,7 @@
       {
         "matchup": "CHI @ GB",
         "kickoff": "1/5/2025, 12:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "GB",
@@ -73,7 +73,7 @@
           },
           "away": {
             "name": "JAX",
-            "score": "7"
+            "score": "10"
           }
         }
       },
@@ -84,7 +84,7 @@
         "score": {
           "home": {
             "name": "NE",
-            "score": "7"
+            "score": "14"
           },
           "away": {
             "name": "BUF",
