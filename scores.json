@@ -20,7 +20,7 @@
       {
         "matchup": "LAC @ LV",
         "kickoff": "1/5/2025, 3:25:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "LV",
@@ -28,7 +28,7 @@
           },
           "away": {
             "name": "LAC",
-            "score": "20"
+            "score": "27"
           }
         }
       },
@@ -39,7 +39,7 @@
         "score": {
           "home": {
             "name": "LAR",
-            "score": "16"
+            "score": "22"
           },
           "away": {
             "name": "SEA",
@@ -73,7 +73,7 @@
           },
           "away": {
             "name": "SF",
-            "score": "17"
+            "score": "24"
           }
         }
       },
