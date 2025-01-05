@@ -13,7 +13,7 @@
           },
           "away": {
             "name": "CAR",
-            "score": "17"
+            "score": "24"
           }
         }
       },
@@ -95,11 +95,11 @@
       {
         "matchup": "NYG @ PHI",
         "kickoff": "1/5/2025, 12:00:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "PHI",
-            "score": "10"
+            "score": "16"
           },
           "away": {
             "name": "NYG",
