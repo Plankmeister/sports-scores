@@ -3,21 +3,6 @@
     "week": 18,
     "games": [
       {
-        "matchup": "KC @ DEN",
-        "kickoff": "1/5/2025, 3:25:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "DEN",
-            "score": "38"
-          },
-          "away": {
-            "name": "KC",
-            "score": "0"
-          }
-        }
-      },
-      {
         "matchup": "LAC @ LV",
         "kickoff": "1/5/2025, 3:25:00 PM",
         "status": "Live: Q4",
@@ -194,6 +179,21 @@
           "away": {
             "name": "NO",
             "score": "19"
+          }
+        }
+      },
+      {
+        "matchup": "KC @ DEN",
+        "kickoff": "1/5/2025, 3:25:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "DEN",
+            "score": "38"
+          },
+          "away": {
+            "name": "KC",
+            "score": "0"
           }
         }
       },
