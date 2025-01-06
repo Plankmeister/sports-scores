@@ -5,7 +5,7 @@
       {
         "matchup": "KC @ DEN",
         "kickoff": "1/5/2025, 3:25:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "DEN",
@@ -28,7 +28,7 @@
           },
           "away": {
             "name": "LAC",
-            "score": "27"
+            "score": "34"
           }
         }
       },
@@ -54,7 +54,7 @@
         "score": {
           "home": {
             "name": "NYJ",
-            "score": "18"
+            "score": "25"
           },
           "away": {
             "name": "MIA",
