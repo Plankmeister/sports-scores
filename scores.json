@@ -3,21 +3,6 @@
     "week": 18,
     "games": [
       {
-        "matchup": "MIN @ DET",
-        "kickoff": "1/5/2025, 7:20:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "DET",
-            "score": "31"
-          },
-          "away": {
-            "name": "MIN",
-            "score": "9"
-          }
-        }
-      },
-      {
         "matchup": "CAR @ ATL",
         "kickoff": "1/5/2025, 12:00:00 PM",
         "status": "Final",
@@ -209,6 +194,21 @@
           "away": {
             "name": "SF",
             "score": "24"
+          }
+        }
+      },
+      {
+        "matchup": "MIN @ DET",
+        "kickoff": "1/5/2025, 7:20:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "DET",
+            "score": "31"
+          },
+          "away": {
+            "name": "MIN",
+            "score": "9"
           }
         }
       },
