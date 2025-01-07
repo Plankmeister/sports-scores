@@ -247,21 +247,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "NDSU VS MTST",
-        "kickoff": "1/6/2025, 6:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "MTST",
-            "score": "32"
-          },
-          "away": {
-            "name": "NDSU",
-            "score": "35"
-          }
-        }
-      },
-      {
         "matchup": "JKST VS SCST",
         "kickoff": "12/14/2024, 11:00:00 AM",
         "status": "Final",
@@ -948,6 +933,21 @@
           "away": {
             "name": "BUFF",
             "score": "26"
+          }
+        }
+      },
+      {
+        "matchup": "NDSU VS MTST",
+        "kickoff": "1/6/2025, 6:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "MTST",
+            "score": "32"
+          },
+          "away": {
+            "name": "NDSU",
+            "score": "35"
           }
         }
       },
