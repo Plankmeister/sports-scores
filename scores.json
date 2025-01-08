@@ -1,246 +1,42 @@
 {
   "nfl": {
-    "week": 18,
+    "week": 1,
     "games": [
       {
-        "matchup": "CLE @ BAL",
-        "kickoff": "1/4/2025, 3:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "BAL",
-            "score": "35"
-          },
-          "away": {
-            "name": "CLE",
-            "score": "10"
-          }
-        }
+        "matchup": "LAC @ HOU",
+        "kickoff": "1/11/2025, 3:30:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "CIN @ PIT",
-        "kickoff": "1/4/2025, 7:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "PIT",
-            "score": "17"
-          },
-          "away": {
-            "name": "CIN",
-            "score": "19"
-          }
-        }
+        "matchup": "PIT @ BAL",
+        "kickoff": "1/11/2025, 7:00:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "CAR @ ATL",
-        "kickoff": "1/5/2025, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "ATL",
-            "score": "38"
-          },
-          "away": {
-            "name": "CAR",
-            "score": "44"
-          }
-        }
+        "matchup": "DEN @ BUF",
+        "kickoff": "1/12/2025, 12:00:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "WSH @ DAL",
-        "kickoff": "1/5/2025, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "DAL",
-            "score": "19"
-          },
-          "away": {
-            "name": "WSH",
-            "score": "23"
-          }
-        }
+        "matchup": "GB @ PHI",
+        "kickoff": "1/12/2025, 3:30:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "CHI @ GB",
-        "kickoff": "1/5/2025, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "GB",
-            "score": "22"
-          },
-          "away": {
-            "name": "CHI",
-            "score": "24"
-          }
-        }
+        "matchup": "WSH @ TB",
+        "kickoff": "1/12/2025, 7:00:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "HOU @ TEN",
-        "kickoff": "1/5/2025, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "TEN",
-            "score": "14"
-          },
-          "away": {
-            "name": "HOU",
-            "score": "23"
-          }
-        }
-      },
-      {
-        "matchup": "JAX @ IND",
-        "kickoff": "1/5/2025, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "IND",
-            "score": "26"
-          },
-          "away": {
-            "name": "JAX",
-            "score": "23"
-          }
-        }
-      },
-      {
-        "matchup": "BUF @ NE",
-        "kickoff": "1/5/2025, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "NE",
-            "score": "23"
-          },
-          "away": {
-            "name": "BUF",
-            "score": "16"
-          }
-        }
-      },
-      {
-        "matchup": "NYG @ PHI",
-        "kickoff": "1/5/2025, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "PHI",
-            "score": "20"
-          },
-          "away": {
-            "name": "NYG",
-            "score": "13"
-          }
-        }
-      },
-      {
-        "matchup": "NO @ TB",
-        "kickoff": "1/5/2025, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "TB",
-            "score": "27"
-          },
-          "away": {
-            "name": "NO",
-            "score": "19"
-          }
-        }
-      },
-      {
-        "matchup": "KC @ DEN",
-        "kickoff": "1/5/2025, 3:25:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "DEN",
-            "score": "38"
-          },
-          "away": {
-            "name": "KC",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "LAC @ LV",
-        "kickoff": "1/5/2025, 3:25:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "LV",
-            "score": "20"
-          },
-          "away": {
-            "name": "LAC",
-            "score": "34"
-          }
-        }
-      },
-      {
-        "matchup": "SEA @ LAR",
-        "kickoff": "1/5/2025, 3:25:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "LAR",
-            "score": "25"
-          },
-          "away": {
-            "name": "SEA",
-            "score": "30"
-          }
-        }
-      },
-      {
-        "matchup": "MIA @ NYJ",
-        "kickoff": "1/5/2025, 3:25:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "NYJ",
-            "score": "32"
-          },
-          "away": {
-            "name": "MIA",
-            "score": "20"
-          }
-        }
-      },
-      {
-        "matchup": "SF @ ARI",
-        "kickoff": "1/5/2025, 3:25:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "ARI",
-            "score": "47"
-          },
-          "away": {
-            "name": "SF",
-            "score": "24"
-          }
-        }
-      },
-      {
-        "matchup": "MIN @ DET",
-        "kickoff": "1/5/2025, 7:20:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "DET",
-            "score": "31"
-          },
-          "away": {
-            "name": "MIN",
-            "score": "9"
-          }
-        }
+        "matchup": "MIN @ LAR",
+        "kickoff": "1/13/2025, 7:00:00 PM",
+        "status": "Scheduled",
+        "score": null
       }
     ]
   },
