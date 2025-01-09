@@ -43,6 +43,12 @@
   "collegeFootball": {
     "games": [
       {
+        "matchup": "ND VS PSU",
+        "kickoff": "1/9/2025, 6:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
         "matchup": "JKST VS SCST",
         "kickoff": "12/14/2024, 11:00:00 AM",
         "status": "Final",
@@ -746,12 +752,6 @@
             "score": "35"
           }
         }
-      },
-      {
-        "matchup": "ND VS PSU",
-        "kickoff": "1/9/2025, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
       },
       {
         "matchup": "OSU VS TEX",
