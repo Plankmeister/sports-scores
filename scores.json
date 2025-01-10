@@ -45,8 +45,17 @@
       {
         "matchup": "ND VS PSU",
         "kickoff": "1/9/2025, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "PSU",
+            "score": "0"
+          },
+          "away": {
+            "name": "ND",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "JKST VS SCST",
