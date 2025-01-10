@@ -43,19 +43,10 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "ND VS PSU",
-        "kickoff": "1/9/2025, 6:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "PSU",
-            "score": "24"
-          },
-          "away": {
-            "name": "ND",
-            "score": "27"
-          }
-        }
+        "matchup": "OSU VS TEX",
+        "kickoff": "1/10/2025, 6:30:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
         "matchup": "JKST VS SCST",
@@ -763,10 +754,19 @@
         }
       },
       {
-        "matchup": "OSU VS TEX",
-        "kickoff": "1/10/2025, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "matchup": "ND VS PSU",
+        "kickoff": "1/9/2025, 6:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "PSU",
+            "score": "24"
+          },
+          "away": {
+            "name": "ND",
+            "score": "27"
+          }
+        }
       },
       {
         "matchup": "TBD VS TBD",
