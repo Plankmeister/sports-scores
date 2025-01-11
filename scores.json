@@ -45,8 +45,17 @@
       {
         "matchup": "OSU VS TEX",
         "kickoff": "1/10/2025, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "TEX",
+            "score": "0"
+          },
+          "away": {
+            "name": "OSU",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "JKST VS SCST",
