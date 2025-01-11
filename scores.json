@@ -5,8 +5,17 @@
       {
         "matchup": "LAC @ HOU",
         "kickoff": "1/11/2025, 3:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "HOU",
+            "score": "0"
+          },
+          "away": {
+            "name": "LAC",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "PIT @ BAL",
