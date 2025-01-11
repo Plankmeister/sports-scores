@@ -43,21 +43,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "OSU VS TEX",
-        "kickoff": "1/10/2025, 6:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "TEX",
-            "score": "14"
-          },
-          "away": {
-            "name": "OSU",
-            "score": "28"
-          }
-        }
-      },
-      {
         "matchup": "JKST VS SCST",
         "kickoff": "12/14/2024, 11:00:00 AM",
         "status": "Final",
@@ -774,6 +759,21 @@
           "away": {
             "name": "ND",
             "score": "27"
+          }
+        }
+      },
+      {
+        "matchup": "OSU VS TEX",
+        "kickoff": "1/10/2025, 6:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "TEX",
+            "score": "14"
+          },
+          "away": {
+            "name": "OSU",
+            "score": "28"
           }
         }
       },
