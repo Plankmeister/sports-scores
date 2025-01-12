@@ -20,8 +20,17 @@
       {
         "matchup": "GB @ PHI",
         "kickoff": "1/12/2025, 3:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "PHI",
+            "score": "0"
+          },
+          "away": {
+            "name": "GB",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "WSH @ TB",
