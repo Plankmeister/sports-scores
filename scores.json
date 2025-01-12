@@ -3,6 +3,24 @@
     "week": 1,
     "games": [
       {
+        "matchup": "DEN @ BUF",
+        "kickoff": "1/12/2025, 12:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "GB @ PHI",
+        "kickoff": "1/12/2025, 3:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "WSH @ TB",
+        "kickoff": "1/12/2025, 7:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
         "matchup": "LAC @ HOU",
         "kickoff": "1/11/2025, 3:30:00 PM",
         "status": "Final",
@@ -31,24 +49,6 @@
             "score": "14"
           }
         }
-      },
-      {
-        "matchup": "DEN @ BUF",
-        "kickoff": "1/12/2025, 12:00:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "GB @ PHI",
-        "kickoff": "1/12/2025, 3:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "WSH @ TB",
-        "kickoff": "1/12/2025, 7:00:00 PM",
-        "status": "Scheduled",
-        "score": null
       },
       {
         "matchup": "MIN @ LAR",
