@@ -3,6 +3,42 @@
     "week": 1,
     "games": [
       {
+        "matchup": "MIN @ LAR",
+        "kickoff": "1/13/2025, 7:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "LAC @ HOU",
+        "kickoff": "1/11/2025, 3:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "HOU",
+            "score": "32"
+          },
+          "away": {
+            "name": "LAC",
+            "score": "12"
+          }
+        }
+      },
+      {
+        "matchup": "PIT @ BAL",
+        "kickoff": "1/11/2025, 7:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "BAL",
+            "score": "28"
+          },
+          "away": {
+            "name": "PIT",
+            "score": "14"
+          }
+        }
+      },
+      {
         "matchup": "DEN @ BUF",
         "kickoff": "1/12/2025, 12:00:00 PM",
         "status": "Final",
@@ -46,42 +82,6 @@
             "score": "23"
           }
         }
-      },
-      {
-        "matchup": "LAC @ HOU",
-        "kickoff": "1/11/2025, 3:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "HOU",
-            "score": "32"
-          },
-          "away": {
-            "name": "LAC",
-            "score": "12"
-          }
-        }
-      },
-      {
-        "matchup": "PIT @ BAL",
-        "kickoff": "1/11/2025, 7:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "BAL",
-            "score": "28"
-          },
-          "away": {
-            "name": "PIT",
-            "score": "14"
-          }
-        }
-      },
-      {
-        "matchup": "MIN @ LAR",
-        "kickoff": "1/13/2025, 7:00:00 PM",
-        "status": "Scheduled",
-        "score": null
       }
     ]
   },
