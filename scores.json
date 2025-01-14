@@ -3,21 +3,6 @@
     "week": 1,
     "games": [
       {
-        "matchup": "MIN @ LAR",
-        "kickoff": "1/13/2025, 7:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "LAR",
-            "score": "27"
-          },
-          "away": {
-            "name": "MIN",
-            "score": "9"
-          }
-        }
-      },
-      {
         "matchup": "LAC @ HOU",
         "kickoff": "1/11/2025, 3:30:00 PM",
         "status": "Final",
@@ -89,6 +74,21 @@
           "away": {
             "name": "WSH",
             "score": "23"
+          }
+        }
+      },
+      {
+        "matchup": "MIN @ LAR",
+        "kickoff": "1/13/2025, 7:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "LAR",
+            "score": "27"
+          },
+          "away": {
+            "name": "MIN",
+            "score": "9"
           }
         }
       }
