@@ -1,96 +1,30 @@
 {
   "nfl": {
-    "week": 1,
+    "week": 2,
     "games": [
       {
-        "matchup": "LAC @ HOU",
-        "kickoff": "1/11/2025, 3:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "HOU",
-            "score": "32"
-          },
-          "away": {
-            "name": "LAC",
-            "score": "12"
-          }
-        }
+        "matchup": "HOU @ KC",
+        "kickoff": "1/18/2025, 3:30:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "PIT @ BAL",
-        "kickoff": "1/11/2025, 7:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "BAL",
-            "score": "28"
-          },
-          "away": {
-            "name": "PIT",
-            "score": "14"
-          }
-        }
+        "matchup": "WSH @ DET",
+        "kickoff": "1/18/2025, 7:00:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "DEN @ BUF",
-        "kickoff": "1/12/2025, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "BUF",
-            "score": "31"
-          },
-          "away": {
-            "name": "DEN",
-            "score": "7"
-          }
-        }
+        "matchup": "LAR @ PHI",
+        "kickoff": "1/19/2025, 2:00:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "GB @ PHI",
-        "kickoff": "1/12/2025, 3:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "PHI",
-            "score": "22"
-          },
-          "away": {
-            "name": "GB",
-            "score": "10"
-          }
-        }
-      },
-      {
-        "matchup": "WSH @ TB",
-        "kickoff": "1/12/2025, 7:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "TB",
-            "score": "20"
-          },
-          "away": {
-            "name": "WSH",
-            "score": "23"
-          }
-        }
-      },
-      {
-        "matchup": "MIN @ LAR",
-        "kickoff": "1/13/2025, 7:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "LAR",
-            "score": "27"
-          },
-          "away": {
-            "name": "MIN",
-            "score": "9"
-          }
-        }
+        "matchup": "BAL @ BUF",
+        "kickoff": "1/19/2025, 5:30:00 PM",
+        "status": "Scheduled",
+        "score": null
       }
     ]
   },
