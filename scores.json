@@ -20,8 +20,17 @@
       {
         "matchup": "BAL @ BUF",
         "kickoff": "1/19/2025, 5:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "BUF",
+            "score": "0"
+          },
+          "away": {
+            "name": "BAL",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "HOU @ KC",
