@@ -3,6 +3,18 @@
     "week": 2,
     "games": [
       {
+        "matchup": "LAR @ PHI",
+        "kickoff": "1/19/2025, 2:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "BAL @ BUF",
+        "kickoff": "1/19/2025, 5:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
         "matchup": "HOU @ KC",
         "kickoff": "1/18/2025, 3:30:00 PM",
         "status": "Final",
@@ -31,18 +43,6 @@
             "score": "45"
           }
         }
-      },
-      {
-        "matchup": "LAR @ PHI",
-        "kickoff": "1/19/2025, 2:00:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "BAL @ BUF",
-        "kickoff": "1/19/2025, 5:30:00 PM",
-        "status": "Scheduled",
-        "score": null
       }
     ]
   },
