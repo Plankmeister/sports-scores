@@ -67,21 +67,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "OSU VS ND",
-        "kickoff": "1/20/2025, 6:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "ND",
-            "score": "23"
-          },
-          "away": {
-            "name": "OSU",
-            "score": "34"
-          }
-        }
-      },
-      {
         "matchup": "JKST VS SCST",
         "kickoff": "12/14/2024, 11:00:00 AM",
         "status": "Final",
@@ -813,6 +798,21 @@
           "away": {
             "name": "OSU",
             "score": "28"
+          }
+        }
+      },
+      {
+        "matchup": "OSU VS ND",
+        "kickoff": "1/20/2025, 6:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "ND",
+            "score": "23"
+          },
+          "away": {
+            "name": "OSU",
+            "score": "34"
           }
         }
       }
