@@ -67,6 +67,18 @@
   "collegeFootball": {
     "games": [
       {
+        "matchup": "BUFF @ MINN",
+        "kickoff": "8/27/2025, 11:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "NEB VS CIN",
+        "kickoff": "8/27/2025, 11:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
         "matchup": "ALA @ FSU",
         "kickoff": "8/29/2025, 11:00:00 PM",
         "status": "Scheduled",
@@ -152,6 +164,96 @@
       },
       {
         "matchup": "CHSO @ VAN",
+        "kickoff": "8/29/2025, 11:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "OHIO @ RUTG",
+        "kickoff": "8/29/2025, 11:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "WIU @ ILL",
+        "kickoff": "8/29/2025, 11:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "FAU @ MD",
+        "kickoff": "8/29/2025, 11:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "MOST @ USC",
+        "kickoff": "8/29/2025, 11:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "ALB @ IOWA",
+        "kickoff": "8/29/2025, 11:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "UTAH @ UCLA",
+        "kickoff": "8/29/2025, 11:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "BALL @ PUR",
+        "kickoff": "8/29/2025, 11:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "WMU @ MSU",
+        "kickoff": "8/29/2025, 11:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "NU @ TULN",
+        "kickoff": "8/29/2025, 11:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "MTST @ ORE",
+        "kickoff": "8/29/2025, 11:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "CSU @ WASH",
+        "kickoff": "8/29/2025, 11:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "ODU @ IU",
+        "kickoff": "8/29/2025, 11:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "NEV @ PSU",
+        "kickoff": "8/29/2025, 11:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "UNM @ MICH",
+        "kickoff": "8/29/2025, 11:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "M-OH @ WIS",
         "kickoff": "8/29/2025, 11:00:00 PM",
         "status": "Scheduled",
         "score": null
