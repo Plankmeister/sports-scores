@@ -1,66 +1,18 @@
 {
   "nfl": {
-    "week": 2,
+    "week": 3,
     "games": [
       {
-        "matchup": "HOU @ KC",
-        "kickoff": "1/18/2025, 3:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "KC",
-            "score": "23"
-          },
-          "away": {
-            "name": "HOU",
-            "score": "14"
-          }
-        }
+        "matchup": "WSH @ PHI",
+        "kickoff": "1/26/2025, 2:00:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "WSH @ DET",
-        "kickoff": "1/18/2025, 7:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "DET",
-            "score": "31"
-          },
-          "away": {
-            "name": "WSH",
-            "score": "45"
-          }
-        }
-      },
-      {
-        "matchup": "LAR @ PHI",
-        "kickoff": "1/19/2025, 2:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "PHI",
-            "score": "28"
-          },
-          "away": {
-            "name": "LAR",
-            "score": "22"
-          }
-        }
-      },
-      {
-        "matchup": "BAL @ BUF",
-        "kickoff": "1/19/2025, 5:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "BUF",
-            "score": "27"
-          },
-          "away": {
-            "name": "BAL",
-            "score": "25"
-          }
-        }
+        "matchup": "BUF @ KC",
+        "kickoff": "1/26/2025, 5:30:00 PM",
+        "status": "Scheduled",
+        "score": null
       }
     ]
   },
