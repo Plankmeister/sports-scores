@@ -37,6 +37,12 @@
   "collegeFootball": {
     "games": [
       {
+        "matchup": "STAN @ HAW",
+        "kickoff": "8/22/2025, 11:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
         "matchup": "BUFF @ MINN",
         "kickoff": "8/27/2025, 11:00:00 PM",
         "status": "Scheduled",
@@ -45,6 +51,18 @@
       {
         "matchup": "NEB VS CIN",
         "kickoff": "8/27/2025, 11:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "ECU @ NCSU",
+        "kickoff": "8/27/2025, 11:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "KENN @ WAKE",
+        "kickoff": "8/28/2025, 11:00:00 PM",
         "status": "Scheduled",
         "score": null
       },
@@ -241,8 +259,62 @@
         "score": null
       },
       {
+        "matchup": "GT @ COLO",
+        "kickoff": "8/29/2025, 11:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "ELON @ DUKE",
+        "kickoff": "8/29/2025, 11:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "FOR @ BC",
+        "kickoff": "8/29/2025, 11:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "EKU @ LOU",
+        "kickoff": "8/29/2025, 11:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "DUQ @ PITT",
+        "kickoff": "8/29/2025, 11:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "ETAM @ SMU",
+        "kickoff": "8/29/2025, 11:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "CCU @ UVA",
+        "kickoff": "8/29/2025, 11:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
         "matchup": "SC VS VT",
         "kickoff": "8/30/2025, 11:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "ND @ MIA",
+        "kickoff": "8/31/2025, 6:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "TCU @ UNC",
+        "kickoff": "9/1/2025, 6:30:00 PM",
         "status": "Scheduled",
         "score": null
       }
