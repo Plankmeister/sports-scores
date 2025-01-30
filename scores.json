@@ -1,36 +1,12 @@
 {
   "nfl": {
-    "week": 3,
+    "week": 4,
     "games": [
       {
-        "matchup": "WSH @ PHI",
-        "kickoff": "1/26/2025, 2:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "PHI",
-            "score": "55"
-          },
-          "away": {
-            "name": "WSH",
-            "score": "23"
-          }
-        }
-      },
-      {
-        "matchup": "BUF @ KC",
-        "kickoff": "1/26/2025, 5:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "KC",
-            "score": "32"
-          },
-          "away": {
-            "name": "BUF",
-            "score": "29"
-          }
-        }
+        "matchup": "AFC VS NFC",
+        "kickoff": "2/2/2025, 2:00:00 PM",
+        "status": "Scheduled",
+        "score": null
       }
     ]
   },
