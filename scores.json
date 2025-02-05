@@ -28,6 +28,18 @@
         "score": null
       },
       {
+        "matchup": "KSU VS ISU",
+        "kickoff": "8/22/2025, 11:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "FRES @ KU",
+        "kickoff": "8/22/2025, 11:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
         "matchup": "BUFF @ MINN",
         "kickoff": "8/27/2025, 11:00:00 PM",
         "status": "Scheduled",
@@ -41,6 +53,12 @@
       },
       {
         "matchup": "ECU @ NCSU",
+        "kickoff": "8/27/2025, 11:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "JVST @ UCF",
         "kickoff": "8/27/2025, 11:00:00 PM",
         "status": "Scheduled",
         "score": null
@@ -281,6 +299,66 @@
       },
       {
         "matchup": "CCU @ UVA",
+        "kickoff": "8/29/2025, 11:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "HAW @ ARIZ",
+        "kickoff": "8/29/2025, 11:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "NAU @ ASU",
+        "kickoff": "8/29/2025, 11:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "PRST @ BYU",
+        "kickoff": "8/29/2025, 11:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "SFA @ HOU",
+        "kickoff": "8/29/2025, 11:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "SDAK @ ISU",
+        "kickoff": "8/29/2025, 11:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "WAG @ KU",
+        "kickoff": "8/29/2025, 11:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "UND @ KSU",
+        "kickoff": "8/29/2025, 11:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "UTM @ OKST",
+        "kickoff": "8/29/2025, 11:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "UAPB @ TTU",
+        "kickoff": "8/29/2025, 11:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "RMU @ WVU",
         "kickoff": "8/29/2025, 11:00:00 PM",
         "status": "Scheduled",
         "score": null
