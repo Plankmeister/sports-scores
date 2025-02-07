@@ -31,6 +31,12 @@
         "score": null
       },
       {
+        "matchup": "SHSU @ WKU",
+        "kickoff": "8/22/2025, 11:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
         "matchup": "BUFF @ MINN",
         "kickoff": "8/27/2025, 11:00:00 PM",
         "status": "Scheduled",
@@ -62,6 +68,12 @@
       },
       {
         "matchup": "UTM @ OKST",
+        "kickoff": "8/27/2025, 11:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "DSU @ DEL",
         "kickoff": "8/27/2025, 11:00:00 PM",
         "status": "Scheduled",
         "score": null
@@ -356,6 +368,48 @@
       },
       {
         "matchup": "CCSU @ CONN",
+        "kickoff": "8/29/2025, 11:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "ME @ LIB",
+        "kickoff": "8/29/2025, 11:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "SOU @ LT",
+        "kickoff": "8/29/2025, 11:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "APSU @ MTSU",
+        "kickoff": "8/29/2025, 11:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "BRY @ NMSU",
+        "kickoff": "8/29/2025, 11:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "UNLV @ SHSU",
+        "kickoff": "8/29/2025, 11:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "UTEP @ USU",
+        "kickoff": "8/29/2025, 11:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "UNA @ WKU",
         "kickoff": "8/29/2025, 11:00:00 PM",
         "status": "Scheduled",
         "score": null
