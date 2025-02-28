@@ -100,6 +100,12 @@
         "score": null
       },
       {
+        "matchup": "SFPA @ ULM",
+        "kickoff": "8/27/2025, 11:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
         "matchup": "KENN @ WAKE",
         "kickoff": "8/28/2025, 11:00:00 PM",
         "status": "Scheduled",
@@ -107,6 +113,12 @@
       },
       {
         "matchup": "WAG @ KU",
+        "kickoff": "8/28/2025, 11:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "APP VS CLT",
         "kickoff": "8/28/2025, 11:00:00 PM",
         "status": "Scheduled",
         "score": null
@@ -455,6 +467,42 @@
       },
       {
         "matchup": "WYO @ AKR",
+        "kickoff": "8/29/2025, 11:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "WEB @ JMU",
+        "kickoff": "8/29/2025, 11:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "SEMO @ ARST",
+        "kickoff": "8/29/2025, 11:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "RICE @ UL",
+        "kickoff": "8/29/2025, 11:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "MORG @ USA",
+        "kickoff": "8/29/2025, 11:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "EMU @ TXST",
+        "kickoff": "8/29/2025, 11:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "NICH @ TROY",
         "kickoff": "8/29/2025, 11:00:00 PM",
         "status": "Scheduled",
         "score": null
