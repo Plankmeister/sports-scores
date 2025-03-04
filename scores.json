@@ -106,6 +106,18 @@
         "score": null
       },
       {
+        "matchup": "ALST @ UAB",
+        "kickoff": "8/27/2025, 11:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "BOIS @ USF",
+        "kickoff": "8/27/2025, 11:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
         "matchup": "KENN @ WAKE",
         "kickoff": "8/28/2025, 11:00:00 PM",
         "status": "Scheduled",
@@ -119,6 +131,12 @@
       },
       {
         "matchup": "APP VS CLT",
+        "kickoff": "8/28/2025, 11:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "TAR @ ARMY",
         "kickoff": "8/28/2025, 11:00:00 PM",
         "status": "Scheduled",
         "score": null
@@ -454,12 +472,6 @@
         "score": null
       },
       {
-        "matchup": "BOIS @ USF",
-        "kickoff": "8/29/2025, 11:00:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
         "matchup": "GASO @ FRES",
         "kickoff": "8/29/2025, 11:00:00 PM",
         "status": "Scheduled",
@@ -503,6 +515,36 @@
       },
       {
         "matchup": "NICH @ TROY",
+        "kickoff": "8/29/2025, 11:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "UTC @ MEM",
+        "kickoff": "8/29/2025, 11:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "VMI @ NAVY",
+        "kickoff": "8/29/2025, 11:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "LAM @ UNT",
+        "kickoff": "8/29/2025, 11:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "TEM @ MASS",
+        "kickoff": "8/29/2025, 11:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "ACU @ TLSA",
         "kickoff": "8/29/2025, 11:00:00 PM",
         "status": "Scheduled",
         "score": null
