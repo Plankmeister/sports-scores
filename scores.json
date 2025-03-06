@@ -52,6 +52,12 @@
         "score": null
       },
       {
+        "matchup": "OHIO @ RUTG",
+        "kickoff": "8/27/2025, 11:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
         "matchup": "NEB VS CIN",
         "kickoff": "8/27/2025, 11:00:00 PM",
         "status": "Scheduled",
@@ -240,12 +246,6 @@
       {
         "matchup": "CHSO @ VAN",
         "kickoff": "8/29/2025, 11:00:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "OHIO @ RUTG",
-        "kickoff": "8/27/2025, 11:00:00 PM",
         "status": "Scheduled",
         "score": null
       },
