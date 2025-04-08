@@ -70,6 +70,12 @@
         "score": null
       },
       {
+        "matchup": "ELON @ DUKE",
+        "kickoff": "8/27/2025, 11:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
         "matchup": "JVST @ UCF",
         "kickoff": "8/27/2025, 11:00:00 PM",
         "status": "Scheduled",
@@ -341,12 +347,6 @@
       },
       {
         "matchup": "IDHO @ WSU",
-        "kickoff": "8/29/2025, 11:00:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "ELON @ DUKE",
         "kickoff": "8/29/2025, 11:00:00 PM",
         "status": "Scheduled",
         "score": null
