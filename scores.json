@@ -124,6 +124,12 @@
         "score": null
       },
       {
+        "matchup": "BOIS @ USF",
+        "kickoff": "8/27/2025, 11:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
         "matchup": "WYO @ AKR",
         "kickoff": "8/27/2025, 11:00:00 PM",
         "status": "Scheduled",
@@ -545,12 +551,6 @@
       },
       {
         "matchup": "ACU @ TLSA",
-        "kickoff": "8/29/2025, 11:00:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "BOIS @ USF",
         "kickoff": "8/29/2025, 11:00:00 PM",
         "status": "Scheduled",
         "score": null
