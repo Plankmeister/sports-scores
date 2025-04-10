@@ -172,6 +172,12 @@
         "score": null
       },
       {
+        "matchup": "UNLV @ SHSU",
+        "kickoff": "8/28/2025, 11:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
         "matchup": "APP VS CLT",
         "kickoff": "8/28/2025, 11:00:00 PM",
         "status": "Scheduled",
@@ -461,12 +467,6 @@
       },
       {
         "matchup": "BRY @ NMSU",
-        "kickoff": "8/29/2025, 11:00:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "UNLV @ SHSU",
         "kickoff": "8/29/2025, 11:00:00 PM",
         "status": "Scheduled",
         "score": null
