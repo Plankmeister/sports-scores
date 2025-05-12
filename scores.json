@@ -1,21 +1,12 @@
 {
   "nfl": {
-    "week": 5,
+    "week": 1,
     "games": [
       {
-        "matchup": "KC VS PHI",
-        "kickoff": "2/9/2025, 5:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "PHI",
-            "score": "40"
-          },
-          "away": {
-            "name": "KC",
-            "score": "22"
-          }
-        }
+        "matchup": "DAL @ PHI",
+        "kickoff": "9/4/2025, 7:20:00 PM",
+        "status": "Scheduled",
+        "score": null
       }
     ]
   },
