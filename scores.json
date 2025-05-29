@@ -109,12 +109,6 @@
         "score": null
       },
       {
-        "matchup": "FRES @ KU",
-        "kickoff": "8/23/2025, 5:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
         "matchup": "SHSU @ WKU",
         "kickoff": "8/22/2025, 11:00:00 PM",
         "status": "Scheduled",
@@ -127,14 +121,8 @@
         "score": null
       },
       {
-        "matchup": "BUFF @ MINN",
-        "kickoff": "8/28/2025, 7:00:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "OHIO @ RUTG",
-        "kickoff": "8/28/2025, 5:00:00 PM",
+        "matchup": "FRES @ KU",
+        "kickoff": "8/23/2025, 5:30:00 PM",
         "status": "Scheduled",
         "score": null
       },
@@ -145,20 +133,14 @@
         "score": null
       },
       {
-        "matchup": "CMU @ SJSU",
-        "kickoff": "8/27/2025, 11:00:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "M-OH @ WIS",
-        "kickoff": "8/28/2025, 8:00:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
         "matchup": "BOIS @ USF",
         "kickoff": "8/28/2025, 4:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "OHIO @ RUTG",
+        "kickoff": "8/28/2025, 5:00:00 PM",
         "status": "Scheduled",
         "score": null
       },
@@ -217,6 +199,12 @@
         "score": null
       },
       {
+        "matchup": "BUFF @ MINN",
+        "kickoff": "8/28/2025, 7:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
         "matchup": "SFA @ HOU",
         "kickoff": "8/28/2025, 7:00:00 PM",
         "status": "Scheduled",
@@ -235,8 +223,8 @@
         "score": null
       },
       {
-        "matchup": "AUB @ BAY",
-        "kickoff": "8/29/2025, 7:00:00 PM",
+        "matchup": "M-OH @ WIS",
+        "kickoff": "8/28/2025, 8:00:00 PM",
         "status": "Scheduled",
         "score": null
       },
@@ -249,6 +237,12 @@
       {
         "matchup": "TAR @ ARMY",
         "kickoff": "8/28/2025, 11:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "WMU @ MSU",
+        "kickoff": "8/29/2025, 6:00:00 PM",
         "status": "Scheduled",
         "score": null
       },
@@ -277,74 +271,26 @@
         "score": null
       },
       {
+        "matchup": "AUB @ BAY",
+        "kickoff": "8/29/2025, 7:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
         "matchup": "GT @ COLO",
         "kickoff": "8/29/2025, 7:00:00 PM",
         "status": "Scheduled",
         "score": null
       },
       {
-        "matchup": "TEX @ OSU",
-        "kickoff": "8/30/2025, 11:00:00 AM",
+        "matchup": "CMU @ SJSU",
+        "kickoff": "8/29/2025, 9:30:00 PM",
         "status": "Scheduled",
         "score": null
       },
       {
         "matchup": "WIU @ ILL",
         "kickoff": "8/29/2025, 11:00:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "FAU @ MD",
-        "kickoff": "8/30/2025, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "MOST @ USC",
-        "kickoff": "8/30/2025, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "ALB @ IOWA",
-        "kickoff": "8/29/2025, 11:00:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "UTAH @ UCLA",
-        "kickoff": "8/30/2025, 10:00:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "BALL @ PUR",
-        "kickoff": "8/30/2025, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "WMU @ MSU",
-        "kickoff": "8/29/2025, 11:00:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "MTST @ ORE",
-        "kickoff": "8/30/2025, 3:00:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "CSU @ WASH",
-        "kickoff": "8/30/2025, 10:00:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "ODU @ IU",
-        "kickoff": "8/30/2025, 1:30:00 PM",
         "status": "Scheduled",
         "score": null
       },
@@ -367,12 +313,6 @@
         "score": null
       },
       {
-        "matchup": "SDAK @ ISU",
-        "kickoff": "8/30/2025, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
         "matchup": "CCSU @ CONN",
         "kickoff": "8/29/2025, 11:00:00 PM",
         "status": "Scheduled",
@@ -391,12 +331,6 @@
         "score": null
       },
       {
-        "matchup": "GASO @ FRES",
-        "kickoff": "8/30/2025, 8:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
         "matchup": "VMI @ NAVY",
         "kickoff": "8/29/2025, 11:00:00 PM",
         "status": "Scheduled",
@@ -410,6 +344,24 @@
       },
       {
         "matchup": "SYR VS TENN",
+        "kickoff": "8/30/2025, 11:00:00 AM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "TEX @ OSU",
+        "kickoff": "8/30/2025, 11:00:00 AM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "FAU @ MD",
+        "kickoff": "8/30/2025, 11:00:00 AM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "BALL @ PUR",
         "kickoff": "8/30/2025, 11:00:00 AM",
         "status": "Scheduled",
         "score": null
@@ -451,6 +403,12 @@
         "score": null
       },
       {
+        "matchup": "ODU @ IU",
+        "kickoff": "8/30/2025, 1:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
         "matchup": "EKU @ LOU",
         "kickoff": "8/30/2025, 2:00:00 PM",
         "status": "Scheduled",
@@ -469,6 +427,12 @@
         "score": null
       },
       {
+        "matchup": "SDAK @ ISU",
+        "kickoff": "8/30/2025, 2:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
         "matchup": "TEM @ MASS",
         "kickoff": "8/30/2025, 2:30:00 PM",
         "status": "Scheduled",
@@ -477,6 +441,12 @@
       {
         "matchup": "HC @ NIU",
         "kickoff": "8/30/2025, 2:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "MTST @ ORE",
+        "kickoff": "8/30/2025, 3:00:00 PM",
         "status": "Scheduled",
         "score": null
       },
@@ -500,6 +470,12 @@
       },
       {
         "matchup": "ILST @ OU",
+        "kickoff": "8/30/2025, 5:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "ALB @ IOWA",
         "kickoff": "8/30/2025, 5:00:00 PM",
         "status": "Scheduled",
         "score": null
@@ -577,6 +553,12 @@
         "score": null
       },
       {
+        "matchup": "MOST @ USC",
+        "kickoff": "8/30/2025, 6:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
         "matchup": "UAPB @ TTU",
         "kickoff": "8/30/2025, 6:30:00 PM",
         "status": "Scheduled",
@@ -637,6 +619,12 @@
         "score": null
       },
       {
+        "matchup": "GASO @ FRES",
+        "kickoff": "8/30/2025, 8:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
         "matchup": "IDHO @ WSU",
         "kickoff": "8/30/2025, 9:00:00 PM",
         "status": "Scheduled",
@@ -651,6 +639,18 @@
       {
         "matchup": "CAL @ ORST",
         "kickoff": "8/30/2025, 9:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "UTAH @ UCLA",
+        "kickoff": "8/30/2025, 10:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "CSU @ WASH",
+        "kickoff": "8/30/2025, 10:00:00 PM",
         "status": "Scheduled",
         "score": null
       },
