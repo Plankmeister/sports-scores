@@ -259,6 +259,12 @@
         "score": null
       },
       {
+        "matchup": "WIU @ ILL",
+        "kickoff": "8/29/2025, 6:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
         "matchup": "WAG @ KU",
         "kickoff": "8/29/2025, 6:30:00 PM",
         "status": "Scheduled",
@@ -289,20 +295,8 @@
         "score": null
       },
       {
-        "matchup": "WIU @ ILL",
-        "kickoff": "8/29/2025, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
         "matchup": "NEV @ PSU",
         "kickoff": "8/29/2025, 11:00:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "UNM @ MICH",
-        "kickoff": "8/30/2025, 6:30:00 PM",
         "status": "Scheduled",
         "score": null
       },
@@ -548,6 +542,12 @@
       },
       {
         "matchup": "MOST @ USC",
+        "kickoff": "8/30/2025, 6:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "UNM @ MICH",
         "kickoff": "8/30/2025, 6:30:00 PM",
         "status": "Scheduled",
         "score": null
