@@ -13,14 +13,14 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "IDST @ UNLV",
-        "kickoff": "8/22/2025, 11:00:00 PM",
+        "matchup": "ISU VS KSU",
+        "kickoff": "8/23/2025, 11:00:00 AM",
         "status": "Scheduled",
         "score": null
       },
       {
-        "matchup": "ISU VS KSU",
-        "kickoff": "8/23/2025, 11:00:00 AM",
+        "matchup": "IDST @ UNLV",
+        "kickoff": "8/23/2025, 3:00:00 PM",
         "status": "Scheduled",
         "score": null
       },
