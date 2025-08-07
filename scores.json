@@ -5,7 +5,7 @@
       {
         "matchup": "IND @ BAL",
         "kickoff": "8/7/2025, 6:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "BAL",
@@ -13,7 +13,7 @@
           },
           "away": {
             "name": "IND",
-            "score": "3"
+            "score": "6"
           }
         }
       },
