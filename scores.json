@@ -9,7 +9,7 @@
         "score": {
           "home": {
             "name": "BAL",
-            "score": "7"
+            "score": "14"
           },
           "away": {
             "name": "IND",
@@ -20,8 +20,17 @@
       {
         "matchup": "CIN @ PHI",
         "kickoff": "8/7/2025, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "PHI",
+            "score": "0"
+          },
+          "away": {
+            "name": "CIN",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "LV @ SEA",
