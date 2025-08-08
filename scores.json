@@ -3,21 +3,6 @@
     "week": 2,
     "games": [
       {
-        "matchup": "LV @ SEA",
-        "kickoff": "8/7/2025, 9:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "SEA",
-            "score": "23"
-          },
-          "away": {
-            "name": "LV",
-            "score": "23"
-          }
-        }
-      },
-      {
         "matchup": "DET @ ATL",
         "kickoff": "8/8/2025, 6:00:00 PM",
         "status": "Scheduled",
@@ -62,6 +47,21 @@
           "away": {
             "name": "CIN",
             "score": "27"
+          }
+        }
+      },
+      {
+        "matchup": "LV @ SEA",
+        "kickoff": "8/7/2025, 9:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "SEA",
+            "score": "23"
+          },
+          "away": {
+            "name": "LV",
+            "score": "23"
           }
         }
       },
