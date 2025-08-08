@@ -3,21 +3,6 @@
     "week": 2,
     "games": [
       {
-        "matchup": "CIN @ PHI",
-        "kickoff": "8/7/2025, 6:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "PHI",
-            "score": "34"
-          },
-          "away": {
-            "name": "CIN",
-            "score": "27"
-          }
-        }
-      },
-      {
         "matchup": "LV @ SEA",
         "kickoff": "8/7/2025, 9:00:00 PM",
         "status": "Live: Q2",
@@ -44,6 +29,21 @@
           "away": {
             "name": "IND",
             "score": "16"
+          }
+        }
+      },
+      {
+        "matchup": "CIN @ PHI",
+        "kickoff": "8/7/2025, 6:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "PHI",
+            "score": "34"
+          },
+          "away": {
+            "name": "CIN",
+            "score": "27"
           }
         }
       },
