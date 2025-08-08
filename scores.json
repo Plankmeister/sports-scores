@@ -24,7 +24,7 @@
         "score": {
           "home": {
             "name": "CAR",
-            "score": "0"
+            "score": "7"
           },
           "away": {
             "name": "CLE",
@@ -35,8 +35,17 @@
       {
         "matchup": "WSH @ NE",
         "kickoff": "8/8/2025, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "NE",
+            "score": "6"
+          },
+          "away": {
+            "name": "WSH",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "IND @ BAL",
