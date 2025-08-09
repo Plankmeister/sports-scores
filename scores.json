@@ -13,14 +13,14 @@
           },
           "away": {
             "name": "DET",
-            "score": "7"
+            "score": "10"
           }
         }
       },
       {
         "matchup": "CLE @ CAR",
         "kickoff": "8/8/2025, 6:00:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "CAR",
@@ -39,7 +39,7 @@
         "score": {
           "home": {
             "name": "NE",
-            "score": "20"
+            "score": "26"
           },
           "away": {
             "name": "WSH",
