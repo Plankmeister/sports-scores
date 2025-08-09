@@ -65,8 +65,17 @@
       {
         "matchup": "TEN @ TB",
         "kickoff": "8/9/2025, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "TB",
+            "score": "0"
+          },
+          "away": {
+            "name": "TEN",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "NYJ @ GB",
