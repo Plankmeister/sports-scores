@@ -3,21 +3,6 @@
     "week": 2,
     "games": [
       {
-        "matchup": "KC @ ARI",
-        "kickoff": "8/9/2025, 7:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "ARI",
-            "score": "20"
-          },
-          "away": {
-            "name": "KC",
-            "score": "17"
-          }
-        }
-      },
-      {
         "matchup": "DEN @ SF",
         "kickoff": "8/9/2025, 7:30:00 PM",
         "status": "Live: Q4",
@@ -119,6 +104,21 @@
           "away": {
             "name": "NYJ",
             "score": "30"
+          }
+        }
+      },
+      {
+        "matchup": "KC @ ARI",
+        "kickoff": "8/9/2025, 7:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "ARI",
+            "score": "20"
+          },
+          "away": {
+            "name": "KC",
+            "score": "17"
           }
         }
       },
