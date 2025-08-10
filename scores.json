@@ -3,6 +3,108 @@
     "week": 2,
     "games": [
       {
+        "matchup": "MIA @ CHI",
+        "kickoff": "8/10/2025, 12:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "NO @ LAC",
+        "kickoff": "8/10/2025, 3:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "IND @ BAL",
+        "kickoff": "8/7/2025, 6:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "BAL",
+            "score": "24"
+          },
+          "away": {
+            "name": "IND",
+            "score": "16"
+          }
+        }
+      },
+      {
+        "matchup": "CIN @ PHI",
+        "kickoff": "8/7/2025, 6:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "PHI",
+            "score": "34"
+          },
+          "away": {
+            "name": "CIN",
+            "score": "27"
+          }
+        }
+      },
+      {
+        "matchup": "LV @ SEA",
+        "kickoff": "8/7/2025, 9:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "SEA",
+            "score": "23"
+          },
+          "away": {
+            "name": "LV",
+            "score": "23"
+          }
+        }
+      },
+      {
+        "matchup": "DET @ ATL",
+        "kickoff": "8/8/2025, 6:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "ATL",
+            "score": "10"
+          },
+          "away": {
+            "name": "DET",
+            "score": "17"
+          }
+        }
+      },
+      {
+        "matchup": "CLE @ CAR",
+        "kickoff": "8/8/2025, 6:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "CAR",
+            "score": "10"
+          },
+          "away": {
+            "name": "CLE",
+            "score": "30"
+          }
+        }
+      },
+      {
+        "matchup": "WSH @ NE",
+        "kickoff": "8/8/2025, 6:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "NE",
+            "score": "48"
+          },
+          "away": {
+            "name": "WSH",
+            "score": "18"
+          }
+        }
+      },
+      {
         "matchup": "NYG @ BUF",
         "kickoff": "8/9/2025, 12:00:00 PM",
         "status": "Final",
@@ -121,108 +223,6 @@
             "score": "30"
           }
         }
-      },
-      {
-        "matchup": "IND @ BAL",
-        "kickoff": "8/7/2025, 6:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "BAL",
-            "score": "24"
-          },
-          "away": {
-            "name": "IND",
-            "score": "16"
-          }
-        }
-      },
-      {
-        "matchup": "CIN @ PHI",
-        "kickoff": "8/7/2025, 6:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "PHI",
-            "score": "34"
-          },
-          "away": {
-            "name": "CIN",
-            "score": "27"
-          }
-        }
-      },
-      {
-        "matchup": "LV @ SEA",
-        "kickoff": "8/7/2025, 9:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "SEA",
-            "score": "23"
-          },
-          "away": {
-            "name": "LV",
-            "score": "23"
-          }
-        }
-      },
-      {
-        "matchup": "DET @ ATL",
-        "kickoff": "8/8/2025, 6:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "ATL",
-            "score": "10"
-          },
-          "away": {
-            "name": "DET",
-            "score": "17"
-          }
-        }
-      },
-      {
-        "matchup": "CLE @ CAR",
-        "kickoff": "8/8/2025, 6:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "CAR",
-            "score": "10"
-          },
-          "away": {
-            "name": "CLE",
-            "score": "30"
-          }
-        }
-      },
-      {
-        "matchup": "WSH @ NE",
-        "kickoff": "8/8/2025, 6:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "NE",
-            "score": "48"
-          },
-          "away": {
-            "name": "WSH",
-            "score": "18"
-          }
-        }
-      },
-      {
-        "matchup": "MIA @ CHI",
-        "kickoff": "8/10/2025, 12:00:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "NO @ LAC",
-        "kickoff": "8/10/2025, 3:00:00 PM",
-        "status": "Scheduled",
-        "score": null
       }
     ]
   },
