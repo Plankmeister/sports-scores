@@ -9,7 +9,7 @@
         "score": {
           "home": {
             "name": "LAR",
-            "score": "24"
+            "score": "31"
           },
           "away": {
             "name": "DAL",
@@ -50,7 +50,7 @@
       {
         "matchup": "NYJ @ GB",
         "kickoff": "8/9/2025, 7:00:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "GB",
@@ -88,7 +88,7 @@
           },
           "away": {
             "name": "DEN",
-            "score": "6"
+            "score": "13"
           }
         }
       },
