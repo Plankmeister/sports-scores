@@ -5,7 +5,7 @@
       {
         "matchup": "TEN @ TB",
         "kickoff": "8/9/2025, 6:30:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "TB",
@@ -24,7 +24,7 @@
         "score": {
           "home": {
             "name": "GB",
-            "score": "3"
+            "score": "10"
           },
           "away": {
             "name": "NYJ",
