@@ -65,15 +65,30 @@
       {
         "matchup": "KC @ ARI",
         "kickoff": "8/9/2025, 7:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "ARI",
-            "score": "0"
+            "score": "3"
           },
           "away": {
             "name": "KC",
             "score": "7"
+          }
+        }
+      },
+      {
+        "matchup": "DEN @ SF",
+        "kickoff": "8/9/2025, 7:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "SF",
+            "score": "7"
+          },
+          "away": {
+            "name": "DEN",
+            "score": "0"
           }
         }
       },
@@ -104,21 +119,6 @@
           "away": {
             "name": "HOU",
             "score": "10"
-          }
-        }
-      },
-      {
-        "matchup": "DEN @ SF",
-        "kickoff": "8/9/2025, 7:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "SF",
-            "score": "7"
-          },
-          "away": {
-            "name": "DEN",
-            "score": "0"
           }
         }
       },
