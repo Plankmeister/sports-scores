@@ -18,21 +18,6 @@
         }
       },
       {
-        "matchup": "TEN @ ATL",
-        "kickoff": "8/15/2025, 6:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "ATL",
-            "score": "20"
-          },
-          "away": {
-            "name": "TEN",
-            "score": "23"
-          }
-        }
-      },
-      {
         "matchup": "MIA @ DET",
         "kickoff": "8/16/2025, 12:00:00 PM",
         "status": "Scheduled",
@@ -97,6 +82,21 @@
         "kickoff": "8/16/2025, 8:30:00 PM",
         "status": "Scheduled",
         "score": null
+      },
+      {
+        "matchup": "TEN @ ATL",
+        "kickoff": "8/15/2025, 6:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "ATL",
+            "score": "20"
+          },
+          "away": {
+            "name": "TEN",
+            "score": "23"
+          }
+        }
       },
       {
         "matchup": "JAX @ NO",
