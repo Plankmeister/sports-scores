@@ -107,14 +107,32 @@
       {
         "matchup": "NYJ @ NYG",
         "kickoff": "8/16/2025, 6:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "NYG",
+            "score": "0"
+          },
+          "away": {
+            "name": "NYJ",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "TB @ PIT",
         "kickoff": "8/16/2025, 6:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "PIT",
+            "score": "0"
+          },
+          "away": {
+            "name": "TB",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "ARI @ DEN",
