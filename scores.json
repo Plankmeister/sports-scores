@@ -3,17 +3,62 @@
     "week": 3,
     "games": [
       {
-        "matchup": "SF @ LV",
-        "kickoff": "8/16/2025, 3:05:00 PM",
-        "status": "Final",
+        "matchup": "BAL @ DAL",
+        "kickoff": "8/16/2025, 6:00:00 PM",
+        "status": "Live: Q1",
         "score": {
           "home": {
-            "name": "LV",
-            "score": "19"
+            "name": "DAL",
+            "score": "0"
           },
           "away": {
-            "name": "SF",
-            "score": "22"
+            "name": "BAL",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "LAC @ LAR",
+        "kickoff": "8/16/2025, 6:00:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "LAR",
+            "score": "0"
+          },
+          "away": {
+            "name": "LAC",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "NYJ @ NYG",
+        "kickoff": "8/16/2025, 6:00:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "NYG",
+            "score": "0"
+          },
+          "away": {
+            "name": "NYJ",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "TB @ PIT",
+        "kickoff": "8/16/2025, 6:00:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "PIT",
+            "score": "0"
+          },
+          "away": {
+            "name": "TB",
+            "score": "0"
           }
         }
       },
@@ -93,62 +138,17 @@
         }
       },
       {
-        "matchup": "BAL @ DAL",
-        "kickoff": "8/16/2025, 6:00:00 PM",
-        "status": "Live: Q1",
+        "matchup": "SF @ LV",
+        "kickoff": "8/16/2025, 3:05:00 PM",
+        "status": "Final",
         "score": {
           "home": {
-            "name": "DAL",
-            "score": "0"
+            "name": "LV",
+            "score": "19"
           },
           "away": {
-            "name": "BAL",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "LAC @ LAR",
-        "kickoff": "8/16/2025, 6:00:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "LAR",
-            "score": "0"
-          },
-          "away": {
-            "name": "LAC",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "NYJ @ NYG",
-        "kickoff": "8/16/2025, 6:00:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "NYG",
-            "score": "0"
-          },
-          "away": {
-            "name": "NYJ",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "TB @ PIT",
-        "kickoff": "8/16/2025, 6:00:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "PIT",
-            "score": "0"
-          },
-          "away": {
-            "name": "TB",
-            "score": "0"
+            "name": "SF",
+            "score": "22"
           }
         }
       },
