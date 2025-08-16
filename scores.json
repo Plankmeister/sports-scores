@@ -5,7 +5,7 @@
       {
         "matchup": "TEN @ ATL",
         "kickoff": "8/15/2025, 6:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "ATL",
@@ -24,7 +24,7 @@
         "score": {
           "home": {
             "name": "SEA",
-            "score": "6"
+            "score": "7"
           },
           "away": {
             "name": "KC",
