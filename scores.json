@@ -95,14 +95,32 @@
       {
         "matchup": "BAL @ DAL",
         "kickoff": "8/16/2025, 6:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "DAL",
+            "score": "0"
+          },
+          "away": {
+            "name": "BAL",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "LAC @ LAR",
         "kickoff": "8/16/2025, 6:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "LAR",
+            "score": "0"
+          },
+          "away": {
+            "name": "LAC",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "NYJ @ NYG",
