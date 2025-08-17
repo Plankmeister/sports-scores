@@ -33,21 +33,6 @@
         }
       },
       {
-        "matchup": "NYJ @ NYG",
-        "kickoff": "8/16/2025, 6:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "NYG",
-            "score": "31"
-          },
-          "away": {
-            "name": "NYJ",
-            "score": "12"
-          }
-        }
-      },
-      {
         "matchup": "TB @ PIT",
         "kickoff": "8/16/2025, 6:00:00 PM",
         "status": "Live: Q4",
@@ -73,7 +58,7 @@
           },
           "away": {
             "name": "ARI",
-            "score": "0"
+            "score": "7"
           }
         }
       },
@@ -164,6 +149,21 @@
           "away": {
             "name": "SF",
             "score": "22"
+          }
+        }
+      },
+      {
+        "matchup": "NYJ @ NYG",
+        "kickoff": "8/16/2025, 6:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "NYG",
+            "score": "31"
+          },
+          "away": {
+            "name": "NYJ",
+            "score": "12"
           }
         }
       },
