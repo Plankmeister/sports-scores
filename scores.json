@@ -3,43 +3,13 @@
     "week": 3,
     "games": [
       {
-        "matchup": "BAL @ DAL",
-        "kickoff": "8/16/2025, 6:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "DAL",
-            "score": "13"
-          },
-          "away": {
-            "name": "BAL",
-            "score": "31"
-          }
-        }
-      },
-      {
-        "matchup": "LAC @ LAR",
-        "kickoff": "8/16/2025, 6:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "LAR",
-            "score": "23"
-          },
-          "away": {
-            "name": "LAC",
-            "score": "22"
-          }
-        }
-      },
-      {
         "matchup": "ARI @ DEN",
         "kickoff": "8/16/2025, 8:30:00 PM",
         "status": "Live: Q2",
         "score": {
           "home": {
             "name": "DEN",
-            "score": "14"
+            "score": "17"
           },
           "away": {
             "name": "ARI",
@@ -133,6 +103,36 @@
           },
           "away": {
             "name": "SF",
+            "score": "22"
+          }
+        }
+      },
+      {
+        "matchup": "BAL @ DAL",
+        "kickoff": "8/16/2025, 6:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "DAL",
+            "score": "13"
+          },
+          "away": {
+            "name": "BAL",
+            "score": "31"
+          }
+        }
+      },
+      {
+        "matchup": "LAC @ LAR",
+        "kickoff": "8/16/2025, 6:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "LAR",
+            "score": "23"
+          },
+          "away": {
+            "name": "LAC",
             "score": "22"
           }
         }
