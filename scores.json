@@ -28,7 +28,7 @@
           },
           "away": {
             "name": "LAC",
-            "score": "9"
+            "score": "15"
           }
         }
       },
@@ -39,7 +39,7 @@
         "score": {
           "home": {
             "name": "NYG",
-            "score": "21"
+            "score": "24"
           },
           "away": {
             "name": "NYJ",
@@ -54,7 +54,7 @@
         "score": {
           "home": {
             "name": "PIT",
-            "score": "7"
+            "score": "14"
           },
           "away": {
             "name": "TB",
