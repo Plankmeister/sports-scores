@@ -5,7 +5,7 @@
       {
         "matchup": "BAL @ DAL",
         "kickoff": "8/16/2025, 6:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "DAL",
@@ -20,7 +20,7 @@
       {
         "matchup": "LAC @ LAR",
         "kickoff": "8/16/2025, 6:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "LAR",
@@ -35,7 +35,7 @@
       {
         "matchup": "ARI @ DEN",
         "kickoff": "8/16/2025, 8:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "DEN",
