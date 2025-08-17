@@ -9,7 +9,7 @@
         "score": {
           "home": {
             "name": "DAL",
-            "score": "10"
+            "score": "13"
           },
           "away": {
             "name": "BAL",
@@ -155,8 +155,17 @@
       {
         "matchup": "ARI @ DEN",
         "kickoff": "8/16/2025, 8:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "DEN",
+            "score": "0"
+          },
+          "away": {
+            "name": "ARI",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "TEN @ ATL",
