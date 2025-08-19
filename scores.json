@@ -3,21 +3,6 @@
     "week": 3,
     "games": [
       {
-        "matchup": "CIN @ WSH",
-        "kickoff": "8/18/2025, 7:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "WSH",
-            "score": "17"
-          },
-          "away": {
-            "name": "CIN",
-            "score": "31"
-          }
-        }
-      },
-      {
         "matchup": "TEN @ ATL",
         "kickoff": "8/15/2025, 6:00:00 PM",
         "status": "Final",
@@ -239,6 +224,21 @@
           "away": {
             "name": "BUF",
             "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "CIN @ WSH",
+        "kickoff": "8/18/2025, 7:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "WSH",
+            "score": "17"
+          },
+          "away": {
+            "name": "CIN",
+            "score": "31"
           }
         }
       }
