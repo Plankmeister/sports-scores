@@ -5,8 +5,17 @@
       {
         "matchup": "PIT @ CAR",
         "kickoff": "8/21/2025, 6:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "CAR",
+            "score": "0"
+          },
+          "away": {
+            "name": "PIT",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "NE @ NYG",
