@@ -5,8 +5,17 @@
       {
         "matchup": "PHI @ NYJ",
         "kickoff": "8/22/2025, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "NYJ",
+            "score": "0"
+          },
+          "away": {
+            "name": "PHI",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "ATL @ DAL",
