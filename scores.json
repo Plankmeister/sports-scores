@@ -24,7 +24,7 @@
         "score": {
           "home": {
             "name": "DAL",
-            "score": "0"
+            "score": "7"
           },
           "away": {
             "name": "ATL",
@@ -43,15 +43,24 @@
           },
           "away": {
             "name": "MIN",
-            "score": "0"
+            "score": "3"
           }
         }
       },
       {
         "matchup": "CHI @ KC",
         "kickoff": "8/22/2025, 7:20:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "KC",
+            "score": "0"
+          },
+          "away": {
+            "name": "CHI",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "PIT @ CAR",
