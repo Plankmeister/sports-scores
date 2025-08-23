@@ -3,21 +3,6 @@
     "week": 4,
     "games": [
       {
-        "matchup": "PHI @ NYJ",
-        "kickoff": "8/22/2025, 6:30:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "NYJ",
-            "score": "17"
-          },
-          "away": {
-            "name": "PHI",
-            "score": "19"
-          }
-        }
-      },
-      {
         "matchup": "ATL @ DAL",
         "kickoff": "8/22/2025, 7:00:00 PM",
         "status": "Live: Q4",
@@ -50,7 +35,7 @@
       {
         "matchup": "CHI @ KC",
         "kickoff": "8/22/2025, 7:20:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "KC",
@@ -59,6 +44,21 @@
           "away": {
             "name": "CHI",
             "score": "10"
+          }
+        }
+      },
+      {
+        "matchup": "PHI @ NYJ",
+        "kickoff": "8/22/2025, 6:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "NYJ",
+            "score": "17"
+          },
+          "away": {
+            "name": "PHI",
+            "score": "19"
           }
         }
       },
