@@ -13,7 +13,7 @@
           },
           "away": {
             "name": "IND",
-            "score": "31"
+            "score": "38"
           }
         }
       },
@@ -28,7 +28,7 @@
           },
           "away": {
             "name": "LAR",
-            "score": "7"
+            "score": "10"
           }
         }
       },
@@ -43,7 +43,7 @@
           },
           "away": {
             "name": "HOU",
-            "score": "16"
+            "score": "22"
           }
         }
       },
@@ -208,7 +208,7 @@
         "score": {
           "home": {
             "name": "KSU",
-            "score": "14"
+            "score": "21"
           },
           "away": {
             "name": "ISU",
