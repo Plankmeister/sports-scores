@@ -3,6 +3,36 @@
     "week": 4,
     "games": [
       {
+        "matchup": "SEA @ GB",
+        "kickoff": "8/23/2025, 3:00:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "GB",
+            "score": "0"
+          },
+          "away": {
+            "name": "SEA",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "BAL @ WSH",
+        "kickoff": "8/23/2025, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "WSH",
+            "score": "3"
+          },
+          "away": {
+            "name": "BAL",
+            "score": "30"
+          }
+        }
+      },
+      {
         "matchup": "IND @ CIN",
         "kickoff": "8/23/2025, 12:00:00 PM",
         "status": "Final",
@@ -33,36 +63,6 @@
         }
       },
       {
-        "matchup": "DEN @ NO",
-        "kickoff": "8/23/2025, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "NO",
-            "score": "19"
-          },
-          "away": {
-            "name": "DEN",
-            "score": "28"
-          }
-        }
-      },
-      {
-        "matchup": "BAL @ WSH",
-        "kickoff": "8/23/2025, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "WSH",
-            "score": "3"
-          },
-          "away": {
-            "name": "BAL",
-            "score": "30"
-          }
-        }
-      },
-      {
         "matchup": "HOU @ DET",
         "kickoff": "8/23/2025, 12:00:00 PM",
         "status": "Final",
@@ -78,17 +78,17 @@
         }
       },
       {
-        "matchup": "SEA @ GB",
-        "kickoff": "8/23/2025, 3:00:00 PM",
-        "status": "Live: Q1",
+        "matchup": "DEN @ NO",
+        "kickoff": "8/23/2025, 12:00:00 PM",
+        "status": "Final",
         "score": {
           "home": {
-            "name": "GB",
-            "score": "0"
+            "name": "NO",
+            "score": "19"
           },
           "away": {
-            "name": "SEA",
-            "score": "0"
+            "name": "DEN",
+            "score": "28"
           }
         }
       },
