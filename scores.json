@@ -5,7 +5,7 @@
       {
         "matchup": "ATL @ DAL",
         "kickoff": "8/22/2025, 7:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "DAL",
@@ -28,7 +28,7 @@
           },
           "away": {
             "name": "CHI",
-            "score": "16"
+            "score": "22"
           }
         }
       },
