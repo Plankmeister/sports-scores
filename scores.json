@@ -3,96 +3,6 @@
     "week": 4,
     "games": [
       {
-        "matchup": "PHI @ NYJ",
-        "kickoff": "8/22/2025, 6:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "NYJ",
-            "score": "17"
-          },
-          "away": {
-            "name": "PHI",
-            "score": "19"
-          }
-        }
-      },
-      {
-        "matchup": "ATL @ DAL",
-        "kickoff": "8/22/2025, 7:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "DAL",
-            "score": "31"
-          },
-          "away": {
-            "name": "ATL",
-            "score": "13"
-          }
-        }
-      },
-      {
-        "matchup": "MIN @ TEN",
-        "kickoff": "8/22/2025, 7:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "TEN",
-            "score": "23"
-          },
-          "away": {
-            "name": "MIN",
-            "score": "13"
-          }
-        }
-      },
-      {
-        "matchup": "CHI @ KC",
-        "kickoff": "8/22/2025, 7:20:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "KC",
-            "score": "27"
-          },
-          "away": {
-            "name": "CHI",
-            "score": "29"
-          }
-        }
-      },
-      {
-        "matchup": "PIT @ CAR",
-        "kickoff": "8/21/2025, 6:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "CAR",
-            "score": "10"
-          },
-          "away": {
-            "name": "PIT",
-            "score": "19"
-          }
-        }
-      },
-      {
-        "matchup": "NE @ NYG",
-        "kickoff": "8/21/2025, 7:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "NYG",
-            "score": "42"
-          },
-          "away": {
-            "name": "NE",
-            "score": "10"
-          }
-        }
-      },
-      {
         "matchup": "BAL @ WSH",
         "kickoff": "8/23/2025, 11:00:00 AM",
         "status": "Scheduled",
@@ -151,6 +61,96 @@
         "kickoff": "8/23/2025, 9:00:00 PM",
         "status": "Scheduled",
         "score": null
+      },
+      {
+        "matchup": "PIT @ CAR",
+        "kickoff": "8/21/2025, 6:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "CAR",
+            "score": "10"
+          },
+          "away": {
+            "name": "PIT",
+            "score": "19"
+          }
+        }
+      },
+      {
+        "matchup": "NE @ NYG",
+        "kickoff": "8/21/2025, 7:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "NYG",
+            "score": "42"
+          },
+          "away": {
+            "name": "NE",
+            "score": "10"
+          }
+        }
+      },
+      {
+        "matchup": "PHI @ NYJ",
+        "kickoff": "8/22/2025, 6:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "NYJ",
+            "score": "17"
+          },
+          "away": {
+            "name": "PHI",
+            "score": "19"
+          }
+        }
+      },
+      {
+        "matchup": "ATL @ DAL",
+        "kickoff": "8/22/2025, 7:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "DAL",
+            "score": "31"
+          },
+          "away": {
+            "name": "ATL",
+            "score": "13"
+          }
+        }
+      },
+      {
+        "matchup": "MIN @ TEN",
+        "kickoff": "8/22/2025, 7:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "TEN",
+            "score": "23"
+          },
+          "away": {
+            "name": "MIN",
+            "score": "13"
+          }
+        }
+      },
+      {
+        "matchup": "CHI @ KC",
+        "kickoff": "8/22/2025, 7:20:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "KC",
+            "score": "27"
+          },
+          "away": {
+            "name": "CHI",
+            "score": "29"
+          }
+        }
       }
     ]
   },
