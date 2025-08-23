@@ -3,21 +3,6 @@
     "week": 4,
     "games": [
       {
-        "matchup": "CHI @ KC",
-        "kickoff": "8/22/2025, 7:20:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "KC",
-            "score": "27"
-          },
-          "away": {
-            "name": "CHI",
-            "score": "29"
-          }
-        }
-      },
-      {
         "matchup": "PHI @ NYJ",
         "kickoff": "8/22/2025, 6:30:00 PM",
         "status": "Final",
@@ -59,6 +44,21 @@
           "away": {
             "name": "MIN",
             "score": "13"
+          }
+        }
+      },
+      {
+        "matchup": "CHI @ KC",
+        "kickoff": "8/22/2025, 7:20:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "KC",
+            "score": "27"
+          },
+          "away": {
+            "name": "CHI",
+            "score": "29"
           }
         }
       },
