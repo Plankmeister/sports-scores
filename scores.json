@@ -28,18 +28,18 @@
           },
           "away": {
             "name": "BUF",
-            "score": "17"
+            "score": "20"
           }
         }
       },
       {
         "matchup": "LAC @ SF",
         "kickoff": "8/23/2025, 7:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "SF",
-            "score": "0"
+            "score": "6"
           },
           "away": {
             "name": "LAC",
