@@ -3,21 +3,6 @@
     "week": 4,
     "games": [
       {
-        "matchup": "JAX @ MIA",
-        "kickoff": "8/23/2025, 6:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "MIA",
-            "score": "14"
-          },
-          "away": {
-            "name": "JAX",
-            "score": "6"
-          }
-        }
-      },
-      {
         "matchup": "BUF @ TB",
         "kickoff": "8/23/2025, 6:30:00 PM",
         "status": "Live: Q4",
@@ -138,10 +123,34 @@
         }
       },
       {
+        "matchup": "JAX @ MIA",
+        "kickoff": "8/23/2025, 6:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "MIA",
+            "score": "14"
+          },
+          "away": {
+            "name": "JAX",
+            "score": "6"
+          }
+        }
+      },
+      {
         "matchup": "LV @ ARI",
         "kickoff": "8/23/2025, 9:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ARI",
+            "score": "0"
+          },
+          "away": {
+            "name": "LV",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "PIT @ CAR",
