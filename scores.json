@@ -9,7 +9,7 @@
         "score": {
           "home": {
             "name": "TB",
-            "score": "13"
+            "score": "19"
           },
           "away": {
             "name": "BUF",
@@ -29,6 +29,21 @@
           "away": {
             "name": "LAC",
             "score": "13"
+          }
+        }
+      },
+      {
+        "matchup": "LV @ ARI",
+        "kickoff": "8/23/2025, 9:00:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ARI",
+            "score": "0"
+          },
+          "away": {
+            "name": "LV",
+            "score": "7"
           }
         }
       },
@@ -134,21 +149,6 @@
           "away": {
             "name": "JAX",
             "score": "6"
-          }
-        }
-      },
-      {
-        "matchup": "LV @ ARI",
-        "kickoff": "8/23/2025, 9:00:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "ARI",
-            "score": "0"
-          },
-          "away": {
-            "name": "LV",
-            "score": "0"
           }
         }
       },
