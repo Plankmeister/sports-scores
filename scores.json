@@ -3,28 +3,13 @@
     "week": 4,
     "games": [
       {
-        "matchup": "BUF @ TB",
-        "kickoff": "8/23/2025, 6:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "TB",
-            "score": "19"
-          },
-          "away": {
-            "name": "BUF",
-            "score": "23"
-          }
-        }
-      },
-      {
         "matchup": "LAC @ SF",
         "kickoff": "8/23/2025, 7:30:00 PM",
         "status": "Live: Q3",
         "score": {
           "home": {
             "name": "SF",
-            "score": "6"
+            "score": "13"
           },
           "away": {
             "name": "LAC",
@@ -39,7 +24,7 @@
         "score": {
           "home": {
             "name": "ARI",
-            "score": "6"
+            "score": "7"
           },
           "away": {
             "name": "LV",
@@ -149,6 +134,21 @@
           "away": {
             "name": "JAX",
             "score": "6"
+          }
+        }
+      },
+      {
+        "matchup": "BUF @ TB",
+        "kickoff": "8/23/2025, 6:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "TB",
+            "score": "19"
+          },
+          "away": {
+            "name": "BUF",
+            "score": "23"
           }
         }
       },
