@@ -103,6 +103,12 @@
   "collegeFootball": {
     "games": [
       {
+        "matchup": "BOIS @ USF",
+        "kickoff": "8/28/2025, 4:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
         "matchup": "ISU VS KSU",
         "kickoff": "8/23/2025, 11:00:00 AM",
         "status": "Final",
@@ -116,12 +122,6 @@
             "score": "24"
           }
         }
-      },
-      {
-        "matchup": "BOIS @ USF",
-        "kickoff": "8/28/2025, 4:30:00 PM",
-        "status": "Scheduled",
-        "score": null
       },
       {
         "matchup": "WIU @ ILL",
