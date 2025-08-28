@@ -105,8 +105,17 @@
       {
         "matchup": "BOIS @ USF",
         "kickoff": "8/28/2025, 4:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "USF",
+            "score": "0"
+          },
+          "away": {
+            "name": "BOIS",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "ISU VS KSU",
