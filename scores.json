@@ -133,25 +133,19 @@
         }
       },
       {
-        "matchup": "TEX @ OSU",
-        "kickoff": "8/30/2025, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "OSU",
-            "score": "14"
-          },
-          "away": {
-            "name": "TEX",
-            "score": "7"
-          }
-        }
-      },
-      {
         "matchup": "NEV @ PSU",
         "kickoff": "8/30/2025, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "PSU",
+            "score": "0"
+          },
+          "away": {
+            "name": "NEV",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "MRSH @ UGA",
@@ -169,12 +163,6 @@
         }
       },
       {
-        "matchup": "ALA @ FSU",
-        "kickoff": "8/30/2025, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
         "matchup": "SDAK @ ISU",
         "kickoff": "8/30/2025, 2:30:00 PM",
         "status": "Live: Q1",
@@ -188,6 +176,27 @@
             "score": "0"
           }
         }
+      },
+      {
+        "matchup": "TEX @ OSU",
+        "kickoff": "8/30/2025, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "OSU",
+            "score": "14"
+          },
+          "away": {
+            "name": "TEX",
+            "score": "7"
+          }
+        }
+      },
+      {
+        "matchup": "ALA @ FSU",
+        "kickoff": "8/30/2025, 2:30:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
         "matchup": "MTST @ ORE",
