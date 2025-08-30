@@ -109,7 +109,7 @@
         "score": {
           "home": {
             "name": "TENN",
-            "score": "38"
+            "score": "45"
           },
           "away": {
             "name": "SYR",
@@ -154,7 +154,7 @@
         "score": {
           "home": {
             "name": "UGA",
-            "score": "0"
+            "score": "7"
           },
           "away": {
             "name": "MRSH",
@@ -195,8 +195,17 @@
       {
         "matchup": "ALA @ FSU",
         "kickoff": "8/30/2025, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "FSU",
+            "score": "0"
+          },
+          "away": {
+            "name": "ALA",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "MTST @ ORE",
