@@ -103,21 +103,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "SYR VS TENN",
-        "kickoff": "8/30/2025, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "TENN",
-            "score": "45"
-          },
-          "away": {
-            "name": "SYR",
-            "score": "26"
-          }
-        }
-      },
-      {
         "matchup": "ODU @ IU",
         "kickoff": "8/30/2025, 1:30:00 PM",
         "status": "Live: Q2",
@@ -135,7 +120,7 @@
       {
         "matchup": "NEV @ PSU",
         "kickoff": "8/30/2025, 2:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "PSU",
@@ -180,7 +165,7 @@
       {
         "matchup": "SDAK @ ISU",
         "kickoff": "8/30/2025, 2:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "ISU",
@@ -189,6 +174,21 @@
           "away": {
             "name": "SDAK",
             "score": "7"
+          }
+        }
+      },
+      {
+        "matchup": "MTST @ ORE",
+        "kickoff": "8/30/2025, 3:00:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ORE",
+            "score": "7"
+          },
+          "away": {
+            "name": "MTST",
+            "score": "0"
           }
         }
       },
@@ -208,17 +208,17 @@
         }
       },
       {
-        "matchup": "MTST @ ORE",
-        "kickoff": "8/30/2025, 3:00:00 PM",
-        "status": "Live: Q1",
+        "matchup": "SYR VS TENN",
+        "kickoff": "8/30/2025, 11:00:00 AM",
+        "status": "Final",
         "score": {
           "home": {
-            "name": "ORE",
-            "score": "7"
+            "name": "TENN",
+            "score": "45"
           },
           "away": {
-            "name": "MTST",
-            "score": "0"
+            "name": "SYR",
+            "score": "26"
           }
         }
       },
