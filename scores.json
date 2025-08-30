@@ -105,7 +105,7 @@
       {
         "matchup": "NEV @ PSU",
         "kickoff": "8/30/2025, 2:30:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "PSU",
@@ -150,7 +150,7 @@
       {
         "matchup": "SDAK @ ISU",
         "kickoff": "8/30/2025, 2:30:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "ISU",
@@ -184,7 +184,7 @@
         "score": {
           "home": {
             "name": "OU",
-            "score": "7"
+            "score": "14"
           },
           "away": {
             "name": "ILST",
