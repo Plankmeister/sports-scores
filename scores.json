@@ -135,7 +135,7 @@
       {
         "matchup": "MRSH @ UGA",
         "kickoff": "8/30/2025, 2:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "UGA",
@@ -154,7 +154,7 @@
         "score": {
           "home": {
             "name": "FSU",
-            "score": "0"
+            "score": "7"
           },
           "away": {
             "name": "ALA",
@@ -184,7 +184,7 @@
         "score": {
           "home": {
             "name": "ORE",
-            "score": "7"
+            "score": "14"
           },
           "away": {
             "name": "MTST",
