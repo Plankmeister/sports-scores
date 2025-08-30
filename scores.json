@@ -124,7 +124,7 @@
         "score": {
           "home": {
             "name": "IU",
-            "score": "10"
+            "score": "17"
           },
           "away": {
             "name": "ODU",
@@ -139,7 +139,7 @@
         "score": {
           "home": {
             "name": "PSU",
-            "score": "0"
+            "score": "7"
           },
           "away": {
             "name": "NEV",
@@ -163,13 +163,28 @@
         }
       },
       {
+        "matchup": "ALA @ FSU",
+        "kickoff": "8/30/2025, 2:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "FSU",
+            "score": "0"
+          },
+          "away": {
+            "name": "ALA",
+            "score": "0"
+          }
+        }
+      },
+      {
         "matchup": "SDAK @ ISU",
         "kickoff": "8/30/2025, 2:30:00 PM",
         "status": "Live: Q1",
         "score": {
           "home": {
             "name": "ISU",
-            "score": "7"
+            "score": "14"
           },
           "away": {
             "name": "SDAK",
@@ -189,21 +204,6 @@
           "away": {
             "name": "TEX",
             "score": "7"
-          }
-        }
-      },
-      {
-        "matchup": "ALA @ FSU",
-        "kickoff": "8/30/2025, 2:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "FSU",
-            "score": "0"
-          },
-          "away": {
-            "name": "ALA",
-            "score": "0"
           }
         }
       },
