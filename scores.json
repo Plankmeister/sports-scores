@@ -105,7 +105,7 @@
       {
         "matchup": "MRSH @ UGA",
         "kickoff": "8/30/2025, 2:30:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "UGA",
@@ -240,14 +240,32 @@
       {
         "matchup": "LIU @ FLA",
         "kickoff": "8/30/2025, 6:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "FLA",
+            "score": "7"
+          },
+          "away": {
+            "name": "LIU",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "UND @ KSU",
         "kickoff": "8/30/2025, 6:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "KSU",
+            "score": "0"
+          },
+          "away": {
+            "name": "UND",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "UTSA @ TA&M",
