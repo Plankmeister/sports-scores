@@ -111,8 +111,17 @@
       {
         "matchup": "SYR VS TENN",
         "kickoff": "8/30/2025, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "TENN",
+            "score": "0"
+          },
+          "away": {
+            "name": "SYR",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "ODU @ IU",
