@@ -156,8 +156,17 @@
       {
         "matchup": "MRSH @ UGA",
         "kickoff": "8/30/2025, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "UGA",
+            "score": "0"
+          },
+          "away": {
+            "name": "MRSH",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "ALA @ FSU",
@@ -168,8 +177,17 @@
       {
         "matchup": "SDAK @ ISU",
         "kickoff": "8/30/2025, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ISU",
+            "score": "7"
+          },
+          "away": {
+            "name": "SDAK",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "MTST @ ORE",
