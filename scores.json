@@ -103,22 +103,31 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "TEX @ OSU",
-        "kickoff": "8/30/2025, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
         "matchup": "SYR VS TENN",
         "kickoff": "8/30/2025, 11:00:00 AM",
         "status": "Live: Q1",
         "score": {
           "home": {
             "name": "TENN",
-            "score": "0"
+            "score": "3"
           },
           "away": {
             "name": "SYR",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "TEX @ OSU",
+        "kickoff": "8/30/2025, 11:00:00 AM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "OSU",
+            "score": "0"
+          },
+          "away": {
+            "name": "TEX",
             "score": "0"
           }
         }
