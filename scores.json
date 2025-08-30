@@ -120,11 +120,11 @@
       {
         "matchup": "LIU @ FLA",
         "kickoff": "8/30/2025, 6:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "FLA",
-            "score": "14"
+            "score": "17"
           },
           "away": {
             "name": "LIU",
@@ -135,7 +135,7 @@
       {
         "matchup": "UND @ KSU",
         "kickoff": "8/30/2025, 6:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "KSU",
@@ -158,6 +158,36 @@
           },
           "away": {
             "name": "UTSA",
+            "score": "3"
+          }
+        }
+      },
+      {
+        "matchup": "UNM @ MICH",
+        "kickoff": "8/30/2025, 6:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MICH",
+            "score": "7"
+          },
+          "away": {
+            "name": "UNM",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "UAPB @ TTU",
+        "kickoff": "8/30/2025, 6:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "TTU",
+            "score": "7"
+          },
+          "away": {
+            "name": "UAPB",
             "score": "0"
           }
         }
@@ -287,36 +317,6 @@
         "kickoff": "8/30/2025, 6:30:00 PM",
         "status": "Scheduled",
         "score": null
-      },
-      {
-        "matchup": "UNM @ MICH",
-        "kickoff": "8/30/2025, 6:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "MICH",
-            "score": "7"
-          },
-          "away": {
-            "name": "UNM",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "UAPB @ TTU",
-        "kickoff": "8/30/2025, 6:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "TTU",
-            "score": "7"
-          },
-          "away": {
-            "name": "UAPB",
-            "score": "0"
-          }
-        }
       },
       {
         "matchup": "GAST @ MISS",
