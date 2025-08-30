@@ -105,7 +105,7 @@
       {
         "matchup": "SYR VS TENN",
         "kickoff": "8/30/2025, 11:00:00 AM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "TENN",
@@ -154,7 +154,7 @@
         "score": {
           "home": {
             "name": "UGA",
-            "score": "7"
+            "score": "13"
           },
           "away": {
             "name": "MRSH",
@@ -173,7 +173,7 @@
           },
           "away": {
             "name": "ALA",
-            "score": "0"
+            "score": "7"
           }
         }
       },
@@ -210,8 +210,17 @@
       {
         "matchup": "MTST @ ORE",
         "kickoff": "8/30/2025, 3:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ORE",
+            "score": "7"
+          },
+          "away": {
+            "name": "MTST",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "ILST @ OU",
