@@ -139,7 +139,7 @@
         "score": {
           "home": {
             "name": "KSU",
-            "score": "3"
+            "score": "10"
           },
           "away": {
             "name": "UND",
@@ -291,8 +291,17 @@
       {
         "matchup": "UNM @ MICH",
         "kickoff": "8/30/2025, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MICH",
+            "score": "0"
+          },
+          "away": {
+            "name": "UNM",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "UAPB @ TTU",
