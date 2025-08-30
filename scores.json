@@ -105,7 +105,7 @@
       {
         "matchup": "ALA @ FSU",
         "kickoff": "8/30/2025, 2:30:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "FSU",
@@ -139,7 +139,7 @@
         "score": {
           "home": {
             "name": "FLA",
-            "score": "7"
+            "score": "14"
           },
           "away": {
             "name": "LIU",
@@ -154,7 +154,7 @@
         "score": {
           "home": {
             "name": "KSU",
-            "score": "0"
+            "score": "3"
           },
           "away": {
             "name": "UND",
