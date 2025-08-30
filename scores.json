@@ -128,14 +128,14 @@
           },
           "away": {
             "name": "SYR",
-            "score": "20"
+            "score": "26"
           }
         }
       },
       {
         "matchup": "ODU @ IU",
         "kickoff": "8/30/2025, 1:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "IU",
