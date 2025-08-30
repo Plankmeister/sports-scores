@@ -120,7 +120,7 @@
       {
         "matchup": "NEV @ PSU",
         "kickoff": "8/30/2025, 2:30:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "PSU",
@@ -165,7 +165,7 @@
       {
         "matchup": "SDAK @ ISU",
         "kickoff": "8/30/2025, 2:30:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "ISU",
@@ -184,11 +184,11 @@
         "score": {
           "home": {
             "name": "ORE",
-            "score": "17"
+            "score": "31"
           },
           "away": {
             "name": "MTST",
-            "score": "0"
+            "score": "3"
           }
         }
       },
