@@ -103,28 +103,13 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "UAPB @ TTU",
-        "kickoff": "8/30/2025, 6:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "TTU",
-            "score": "67"
-          },
-          "away": {
-            "name": "UAPB",
-            "score": "7"
-          }
-        }
-      },
-      {
         "matchup": "ETAM @ SMU",
         "kickoff": "8/30/2025, 8:15:00 PM",
         "status": "Live: Q4",
         "score": {
           "home": {
             "name": "SMU",
-            "score": "35"
+            "score": "42"
           },
           "away": {
             "name": "ETAM",
@@ -410,6 +395,21 @@
           },
           "away": {
             "name": "SDAK",
+            "score": "7"
+          }
+        }
+      },
+      {
+        "matchup": "UAPB @ TTU",
+        "kickoff": "8/30/2025, 6:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "TTU",
+            "score": "67"
+          },
+          "away": {
+            "name": "UAPB",
             "score": "7"
           }
         }
