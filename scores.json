@@ -105,7 +105,7 @@
       {
         "matchup": "ILST @ OU",
         "kickoff": "8/30/2025, 5:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "OU",
@@ -150,7 +150,7 @@
       {
         "matchup": "UTSA @ TA&M",
         "kickoff": "8/30/2025, 6:00:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "TA&M",
@@ -158,7 +158,7 @@
           },
           "away": {
             "name": "UTSA",
-            "score": "10"
+            "score": "17"
           }
         }
       },
@@ -184,7 +184,7 @@
         "score": {
           "home": {
             "name": "MICH",
-            "score": "17"
+            "score": "24"
           },
           "away": {
             "name": "UNM",
@@ -218,7 +218,7 @@
           },
           "away": {
             "name": "GAST",
-            "score": "0"
+            "score": "7"
           }
         }
       },
