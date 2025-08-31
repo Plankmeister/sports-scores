@@ -118,21 +118,6 @@
         }
       },
       {
-        "matchup": "UTSA @ TA&M",
-        "kickoff": "8/30/2025, 6:00:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "TA&M",
-            "score": "42"
-          },
-          "away": {
-            "name": "UTSA",
-            "score": "24"
-          }
-        }
-      },
-      {
         "matchup": "LSU @ CLEM",
         "kickoff": "8/30/2025, 6:30:00 PM",
         "status": "Live: Q4",
@@ -324,6 +309,21 @@
           "away": {
             "name": "ILST",
             "score": "3"
+          }
+        }
+      },
+      {
+        "matchup": "UTSA @ TA&M",
+        "kickoff": "8/30/2025, 6:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "TA&M",
+            "score": "42"
+          },
+          "away": {
+            "name": "UTSA",
+            "score": "24"
           }
         }
       },
