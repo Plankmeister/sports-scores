@@ -105,7 +105,7 @@
       {
         "matchup": "LIU @ FLA",
         "kickoff": "8/30/2025, 6:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "FLA",
@@ -139,7 +139,7 @@
         "score": {
           "home": {
             "name": "TA&M",
-            "score": "35"
+            "score": "42"
           },
           "away": {
             "name": "UTSA",
@@ -210,14 +210,29 @@
       {
         "matchup": "ETAM @ SMU",
         "kickoff": "8/30/2025, 8:15:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "SMU",
-            "score": "14"
+            "score": "21"
           },
           "away": {
             "name": "ETAM",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "NAU @ ASU",
+        "kickoff": "8/30/2025, 9:00:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ASU",
+            "score": "7"
+          },
+          "away": {
+            "name": "NAU",
             "score": "0"
           }
         }
@@ -354,21 +369,6 @@
           "away": {
             "name": "SYR",
             "score": "26"
-          }
-        }
-      },
-      {
-        "matchup": "NAU @ ASU",
-        "kickoff": "8/30/2025, 9:00:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "ASU",
-            "score": "0"
-          },
-          "away": {
-            "name": "NAU",
-            "score": "0"
           }
         }
       },
