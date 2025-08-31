@@ -124,7 +124,7 @@
         "score": {
           "home": {
             "name": "FLA",
-            "score": "17"
+            "score": "24"
           },
           "away": {
             "name": "LIU",
@@ -143,7 +143,7 @@
           },
           "away": {
             "name": "UND",
-            "score": "7"
+            "score": "14"
           }
         }
       },
@@ -159,6 +159,21 @@
           "away": {
             "name": "UTSA",
             "score": "3"
+          }
+        }
+      },
+      {
+        "matchup": "LSU @ CLEM",
+        "kickoff": "8/30/2025, 6:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "CLEM",
+            "score": "0"
+          },
+          "away": {
+            "name": "LSU",
+            "score": "0"
           }
         }
       },
@@ -309,21 +324,6 @@
           "away": {
             "name": "SYR",
             "score": "26"
-          }
-        }
-      },
-      {
-        "matchup": "LSU @ CLEM",
-        "kickoff": "8/30/2025, 6:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "CLEM",
-            "score": "0"
-          },
-          "away": {
-            "name": "LSU",
-            "score": "0"
           }
         }
       },
