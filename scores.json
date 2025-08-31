@@ -128,7 +128,7 @@
           },
           "away": {
             "name": "UND",
-            "score": "27"
+            "score": "28"
           }
         }
       },
@@ -139,7 +139,7 @@
         "score": {
           "home": {
             "name": "TA&M",
-            "score": "28"
+            "score": "35"
           },
           "away": {
             "name": "UTSA",
@@ -169,7 +169,7 @@
         "score": {
           "home": {
             "name": "MICH",
-            "score": "24"
+            "score": "27"
           },
           "away": {
             "name": "UNM",
@@ -195,11 +195,11 @@
       {
         "matchup": "GAST @ MISS",
         "kickoff": "8/30/2025, 6:45:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "MISS",
-            "score": "25"
+            "score": "31"
           },
           "away": {
             "name": "GAST",
@@ -214,7 +214,7 @@
         "score": {
           "home": {
             "name": "SMU",
-            "score": "7"
+            "score": "14"
           },
           "away": {
             "name": "ETAM",
