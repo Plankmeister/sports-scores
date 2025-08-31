@@ -103,21 +103,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "UND @ KSU",
-        "kickoff": "8/30/2025, 6:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "KSU",
-            "score": "38"
-          },
-          "away": {
-            "name": "UND",
-            "score": "35"
-          }
-        }
-      },
-      {
         "matchup": "LSU @ CLEM",
         "kickoff": "8/30/2025, 6:30:00 PM",
         "status": "Live: Q4",
@@ -135,7 +120,7 @@
       {
         "matchup": "UNM @ MICH",
         "kickoff": "8/30/2025, 6:30:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "MICH",
@@ -169,7 +154,7 @@
         "score": {
           "home": {
             "name": "MISS",
-            "score": "49"
+            "score": "56"
           },
           "away": {
             "name": "GAST",
@@ -294,6 +279,21 @@
           "away": {
             "name": "LIU",
             "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "UND @ KSU",
+        "kickoff": "8/30/2025, 6:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "KSU",
+            "score": "38"
+          },
+          "away": {
+            "name": "UND",
+            "score": "35"
           }
         }
       },
