@@ -109,7 +109,7 @@
         "score": {
           "home": {
             "name": "FLA",
-            "score": "47"
+            "score": "48"
           },
           "away": {
             "name": "LIU",
@@ -204,6 +204,21 @@
           "away": {
             "name": "GAST",
             "score": "7"
+          }
+        }
+      },
+      {
+        "matchup": "ETAM @ SMU",
+        "kickoff": "8/30/2025, 8:15:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "SMU",
+            "score": "7"
+          },
+          "away": {
+            "name": "ETAM",
+            "score": "0"
           }
         }
       },
@@ -339,21 +354,6 @@
           "away": {
             "name": "SYR",
             "score": "26"
-          }
-        }
-      },
-      {
-        "matchup": "ETAM @ SMU",
-        "kickoff": "8/30/2025, 8:15:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "SMU",
-            "score": "7"
-          },
-          "away": {
-            "name": "ETAM",
-            "score": "0"
           }
         }
       },
