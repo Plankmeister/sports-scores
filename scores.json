@@ -105,7 +105,7 @@
       {
         "matchup": "UAPB @ TTU",
         "kickoff": "8/30/2025, 6:30:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "TTU",
@@ -120,11 +120,11 @@
       {
         "matchup": "ETAM @ SMU",
         "kickoff": "8/30/2025, 8:15:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "SMU",
-            "score": "28"
+            "score": "35"
           },
           "away": {
             "name": "ETAM",
@@ -144,6 +144,63 @@
           "away": {
             "name": "NAU",
             "score": "6"
+          }
+        }
+      },
+      {
+        "matchup": "VT VS SC",
+        "kickoff": "8/31/2025, 2:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "ND @ MIA",
+        "kickoff": "8/31/2025, 6:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "ISU VS KSU",
+        "kickoff": "8/23/2025, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "KSU",
+            "score": "21"
+          },
+          "away": {
+            "name": "ISU",
+            "score": "24"
+          }
+        }
+      },
+      {
+        "matchup": "BOIS @ USF",
+        "kickoff": "8/28/2025, 4:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "USF",
+            "score": "34"
+          },
+          "away": {
+            "name": "BOIS",
+            "score": "7"
+          }
+        }
+      },
+      {
+        "matchup": "WIU @ ILL",
+        "kickoff": "8/29/2025, 6:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "ILL",
+            "score": "52"
+          },
+          "away": {
+            "name": "WIU",
+            "score": "3"
           }
         }
       },
@@ -371,63 +428,6 @@
             "score": "26"
           }
         }
-      },
-      {
-        "matchup": "ISU VS KSU",
-        "kickoff": "8/23/2025, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "KSU",
-            "score": "21"
-          },
-          "away": {
-            "name": "ISU",
-            "score": "24"
-          }
-        }
-      },
-      {
-        "matchup": "BOIS @ USF",
-        "kickoff": "8/28/2025, 4:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "USF",
-            "score": "34"
-          },
-          "away": {
-            "name": "BOIS",
-            "score": "7"
-          }
-        }
-      },
-      {
-        "matchup": "WIU @ ILL",
-        "kickoff": "8/29/2025, 6:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "ILL",
-            "score": "52"
-          },
-          "away": {
-            "name": "WIU",
-            "score": "3"
-          }
-        }
-      },
-      {
-        "matchup": "VT VS SC",
-        "kickoff": "8/31/2025, 2:00:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "ND @ MIA",
-        "kickoff": "8/31/2025, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
       }
     ]
   }
