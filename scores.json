@@ -118,21 +118,6 @@
         }
       },
       {
-        "matchup": "UNM @ MICH",
-        "kickoff": "8/30/2025, 6:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "MICH",
-            "score": "34"
-          },
-          "away": {
-            "name": "UNM",
-            "score": "17"
-          }
-        }
-      },
-      {
         "matchup": "UAPB @ TTU",
         "kickoff": "8/30/2025, 6:30:00 PM",
         "status": "Live: Q3",
@@ -150,11 +135,11 @@
       {
         "matchup": "GAST @ MISS",
         "kickoff": "8/30/2025, 6:45:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "MISS",
-            "score": "56"
+            "score": "63"
           },
           "away": {
             "name": "GAST",
@@ -263,6 +248,21 @@
           },
           "away": {
             "name": "ALA",
+            "score": "17"
+          }
+        }
+      },
+      {
+        "matchup": "UNM @ MICH",
+        "kickoff": "8/30/2025, 6:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "MICH",
+            "score": "34"
+          },
+          "away": {
+            "name": "UNM",
             "score": "17"
           }
         }
