@@ -105,7 +105,7 @@
       {
         "matchup": "UND @ KSU",
         "kickoff": "8/30/2025, 6:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "KSU",
@@ -195,7 +195,7 @@
       {
         "matchup": "NAU @ ASU",
         "kickoff": "8/30/2025, 9:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "ASU",
@@ -203,7 +203,7 @@
           },
           "away": {
             "name": "NAU",
-            "score": "0"
+            "score": "3"
           }
         }
       },
