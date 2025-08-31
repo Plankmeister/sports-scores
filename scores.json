@@ -120,7 +120,7 @@
       {
         "matchup": "LIU @ FLA",
         "kickoff": "8/30/2025, 6:00:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "FLA",
@@ -135,7 +135,7 @@
       {
         "matchup": "UND @ KSU",
         "kickoff": "8/30/2025, 6:00:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "KSU",
@@ -188,7 +188,7 @@
           },
           "away": {
             "name": "UNM",
-            "score": "7"
+            "score": "10"
           }
         }
       },
@@ -334,7 +334,7 @@
         "score": {
           "home": {
             "name": "MISS",
-            "score": "10"
+            "score": "17"
           },
           "away": {
             "name": "GAST",
