@@ -103,36 +103,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "ND @ MIA",
-        "kickoff": "8/31/2025, 6:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "MIA",
-            "score": "27"
-          },
-          "away": {
-            "name": "ND",
-            "score": "24"
-          }
-        }
-      },
-      {
-        "matchup": "VT VS SC",
-        "kickoff": "8/31/2025, 2:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "SC",
-            "score": "24"
-          },
-          "away": {
-            "name": "VT",
-            "score": "11"
-          }
-        }
-      },
-      {
         "matchup": "ISU VS KSU",
         "kickoff": "8/23/2025, 11:00:00 AM",
         "status": "Final",
@@ -444,6 +414,36 @@
           "away": {
             "name": "SYR",
             "score": "26"
+          }
+        }
+      },
+      {
+        "matchup": "ND @ MIA",
+        "kickoff": "8/31/2025, 6:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "MIA",
+            "score": "27"
+          },
+          "away": {
+            "name": "ND",
+            "score": "24"
+          }
+        }
+      },
+      {
+        "matchup": "VT VS SC",
+        "kickoff": "8/31/2025, 2:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "SC",
+            "score": "24"
+          },
+          "away": {
+            "name": "VT",
+            "score": "11"
           }
         }
       }
