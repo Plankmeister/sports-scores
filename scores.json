@@ -103,8 +103,8 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "EWU @ BOIS",
-        "kickoff": "9/5/2025, 8:00:00 PM",
+        "matchup": "FIU @ PSU",
+        "kickoff": "9/6/2025, 11:00:00 AM",
         "status": "Scheduled",
         "score": null
       },
@@ -115,13 +115,19 @@
         "score": null
       },
       {
-        "matchup": "FIU @ PSU",
+        "matchup": "ILL @ DUKE",
         "kickoff": "9/6/2025, 11:00:00 AM",
         "status": "Scheduled",
         "score": null
       },
       {
-        "matchup": "ILL @ DUKE",
+        "matchup": "ETAM @ FSU",
+        "kickoff": "9/6/2025, 11:00:00 AM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "IOWA @ ISU",
         "kickoff": "9/6/2025, 11:00:00 AM",
         "status": "Scheduled",
         "score": null
@@ -134,12 +140,6 @@
       },
       {
         "matchup": "KENN @ IU",
-        "kickoff": "9/6/2025, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "IOWA @ ISU",
         "kickoff": "9/6/2025, 11:00:00 AM",
         "status": "Scheduled",
         "score": null
@@ -163,12 +163,6 @@
         "score": null
       },
       {
-        "matchup": "TROY @ CLEM",
-        "kickoff": "9/6/2025, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
         "matchup": "APSU @ UGA",
         "kickoff": "9/6/2025, 2:30:00 PM",
         "status": "Scheduled",
@@ -176,6 +170,12 @@
       },
       {
         "matchup": "OKST @ ORE",
+        "kickoff": "9/6/2025, 2:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "TROY @ CLEM",
         "kickoff": "9/6/2025, 2:30:00 PM",
         "status": "Scheduled",
         "score": null
@@ -199,6 +199,12 @@
         "score": null
       },
       {
+        "matchup": "CP @ UTAH",
+        "kickoff": "9/6/2025, 5:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
         "matchup": "BCU @ MIA",
         "kickoff": "9/6/2025, 6:00:00 PM",
         "status": "Scheduled",
@@ -206,12 +212,6 @@
       },
       {
         "matchup": "SCST @ SC",
-        "kickoff": "9/6/2025, 6:00:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "ARMY @ KSU",
         "kickoff": "9/6/2025, 6:00:00 PM",
         "status": "Scheduled",
         "score": null
