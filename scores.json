@@ -153,7 +153,7 @@
       {
         "matchup": "ILL @ DUKE",
         "kickoff": "9/6/2025, 11:00:00 AM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "DUKE",
@@ -168,11 +168,11 @@
       {
         "matchup": "ETAM @ FSU",
         "kickoff": "9/6/2025, 11:00:00 AM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "FSU",
-            "score": "21"
+            "score": "28"
           },
           "away": {
             "name": "ETAM",
@@ -206,7 +206,7 @@
           },
           "away": {
             "name": "BAY",
-            "score": "0"
+            "score": "7"
           }
         }
       },
