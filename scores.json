@@ -168,7 +168,7 @@
       {
         "matchup": "TROY @ CLEM",
         "kickoff": "9/6/2025, 2:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "CLEM",
@@ -176,7 +176,7 @@
           },
           "away": {
             "name": "TROY",
-            "score": "7"
+            "score": "10"
           }
         }
       },
@@ -202,7 +202,7 @@
         "score": {
           "home": {
             "name": "TENN",
-            "score": "48"
+            "score": "54"
           },
           "away": {
             "name": "ETSU",
@@ -221,7 +221,7 @@
           },
           "away": {
             "name": "USF",
-            "score": "3"
+            "score": "6"
           }
         }
       },
