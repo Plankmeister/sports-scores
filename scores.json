@@ -127,7 +127,7 @@
         "score": {
           "home": {
             "name": "UGA",
-            "score": "14"
+            "score": "21"
           },
           "away": {
             "name": "APSU",
@@ -176,7 +176,7 @@
           },
           "away": {
             "name": "TROY",
-            "score": "10"
+            "score": "16"
           }
         }
       },
@@ -191,7 +191,7 @@
           },
           "away": {
             "name": "MISS",
-            "score": "17"
+            "score": "20"
           }
         }
       },
@@ -202,7 +202,7 @@
         "score": {
           "home": {
             "name": "TENN",
-            "score": "55"
+            "score": "62"
           },
           "away": {
             "name": "ETSU",
@@ -213,7 +213,7 @@
       {
         "matchup": "USF @ FLA",
         "kickoff": "9/6/2025, 3:15:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "FLA",
