@@ -138,7 +138,7 @@
       {
         "matchup": "OKST @ ORE",
         "kickoff": "9/6/2025, 2:30:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "ORE",
@@ -157,7 +157,7 @@
         "score": {
           "home": {
             "name": "CLEM",
-            "score": "10"
+            "score": "17"
           },
           "away": {
             "name": "TROY",
@@ -187,7 +187,7 @@
         "score": {
           "home": {
             "name": "FLA",
-            "score": "9"
+            "score": "16"
           },
           "away": {
             "name": "USF",
@@ -206,7 +206,7 @@
           },
           "away": {
             "name": "CP",
-            "score": "3"
+            "score": "6"
           }
         }
       },
