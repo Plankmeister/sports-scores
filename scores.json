@@ -123,7 +123,7 @@
       {
         "matchup": "SJSU @ TEX",
         "kickoff": "9/6/2025, 11:00:00 AM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "TEX",
@@ -293,7 +293,7 @@
           },
           "away": {
             "name": "TROY",
-            "score": "0"
+            "score": "7"
           }
         }
       },
