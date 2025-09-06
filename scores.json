@@ -121,39 +121,9 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "SJSU @ TEX",
-        "kickoff": "9/6/2025, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "TEX",
-            "score": "38"
-          },
-          "away": {
-            "name": "SJSU",
-            "score": "7"
-          }
-        }
-      },
-      {
-        "matchup": "ILL @ DUKE",
-        "kickoff": "9/6/2025, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "DUKE",
-            "score": "19"
-          },
-          "away": {
-            "name": "ILL",
-            "score": "45"
-          }
-        }
-      },
-      {
         "matchup": "BAY @ SMU",
         "kickoff": "9/6/2025, 11:00:00 AM",
-        "status": "Live: Q4",
+        "status": "Live: Q5",
         "score": {
           "home": {
             "name": "SMU",
@@ -161,7 +131,7 @@
           },
           "away": {
             "name": "BAY",
-            "score": "38"
+            "score": "45"
           }
         }
       },
@@ -196,6 +166,81 @@
         }
       },
       {
+        "matchup": "GRAM @ OSU",
+        "kickoff": "9/6/2025, 2:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "OSU",
+            "score": "7"
+          },
+          "away": {
+            "name": "GRAM",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "OKST @ ORE",
+        "kickoff": "9/6/2025, 2:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ORE",
+            "score": "7"
+          },
+          "away": {
+            "name": "OKST",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "TROY @ CLEM",
+        "kickoff": "9/6/2025, 2:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "CLEM",
+            "score": "0"
+          },
+          "away": {
+            "name": "TROY",
+            "score": "7"
+          }
+        }
+      },
+      {
+        "matchup": "MISS @ UK",
+        "kickoff": "9/6/2025, 2:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "UK",
+            "score": "0"
+          },
+          "away": {
+            "name": "MISS",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "ETSU @ TENN",
+        "kickoff": "9/6/2025, 2:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "TENN",
+            "score": "10"
+          },
+          "away": {
+            "name": "ETSU",
+            "score": "0"
+          }
+        }
+      },
+      {
         "matchup": "FIU @ PSU",
         "kickoff": "9/6/2025, 11:00:00 AM",
         "status": "Final",
@@ -207,6 +252,36 @@
           "away": {
             "name": "FIU",
             "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "SJSU @ TEX",
+        "kickoff": "9/6/2025, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "TEX",
+            "score": "38"
+          },
+          "away": {
+            "name": "SJSU",
+            "score": "7"
+          }
+        }
+      },
+      {
+        "matchup": "ILL @ DUKE",
+        "kickoff": "9/6/2025, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "DUKE",
+            "score": "19"
+          },
+          "away": {
+            "name": "ILL",
+            "score": "45"
           }
         }
       },
@@ -267,72 +342,6 @@
           "away": {
             "name": "KENT",
             "score": "14"
-          }
-        }
-      },
-      {
-        "matchup": "GRAM @ OSU",
-        "kickoff": "9/6/2025, 2:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "OSU",
-            "score": "7"
-          },
-          "away": {
-            "name": "GRAM",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "OKST @ ORE",
-        "kickoff": "9/6/2025, 2:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "ORE",
-            "score": "7"
-          },
-          "away": {
-            "name": "OKST",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "TROY @ CLEM",
-        "kickoff": "9/6/2025, 2:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "CLEM",
-            "score": "0"
-          },
-          "away": {
-            "name": "TROY",
-            "score": "7"
-          }
-        }
-      },
-      {
-        "matchup": "MISS @ UK",
-        "kickoff": "9/6/2025, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "ETSU @ TENN",
-        "kickoff": "9/6/2025, 2:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "TENN",
-            "score": "7"
-          },
-          "away": {
-            "name": "ETSU",
-            "score": "0"
           }
         }
       },
