@@ -123,8 +123,17 @@
       {
         "matchup": "FIU @ PSU",
         "kickoff": "9/6/2025, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "PSU",
+            "score": "0"
+          },
+          "away": {
+            "name": "FIU",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "SJSU @ TEX",
