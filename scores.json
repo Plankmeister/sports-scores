@@ -127,7 +127,7 @@
         "score": {
           "home": {
             "name": "PSU",
-            "score": "7"
+            "score": "10"
           },
           "away": {
             "name": "FIU",
@@ -146,7 +146,7 @@
           },
           "away": {
             "name": "SJSU",
-            "score": "6"
+            "score": "7"
           }
         }
       },
@@ -202,7 +202,7 @@
         "score": {
           "home": {
             "name": "SMU",
-            "score": "17"
+            "score": "24"
           },
           "away": {
             "name": "BAY",
@@ -217,11 +217,11 @@
         "score": {
           "home": {
             "name": "IU",
-            "score": "14"
+            "score": "21"
           },
           "away": {
             "name": "KENN",
-            "score": "0"
+            "score": "3"
           }
         }
       },
