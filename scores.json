@@ -138,7 +138,7 @@
       {
         "matchup": "SJSU @ TEX",
         "kickoff": "9/6/2025, 11:00:00 AM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "TEX",
@@ -153,7 +153,7 @@
       {
         "matchup": "ILL @ DUKE",
         "kickoff": "9/6/2025, 11:00:00 AM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "DUKE",
@@ -172,7 +172,7 @@
         "score": {
           "home": {
             "name": "FSU",
-            "score": "56"
+            "score": "63"
           },
           "away": {
             "name": "ETAM",
@@ -183,7 +183,7 @@
       {
         "matchup": "IOWA @ ISU",
         "kickoff": "9/6/2025, 11:00:00 AM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "ISU",
@@ -217,7 +217,7 @@
         "score": {
           "home": {
             "name": "IU",
-            "score": "28"
+            "score": "34"
           },
           "away": {
             "name": "KENN",
