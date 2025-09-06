@@ -121,21 +121,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "USU @ TA&M",
-        "kickoff": "9/6/2025, 11:45:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "TA&M",
-            "score": "44"
-          },
-          "away": {
-            "name": "USU",
-            "score": "22"
-          }
-        }
-      },
-      {
         "matchup": "APSU @ UGA",
         "kickoff": "9/6/2025, 1:28:00 PM",
         "status": "Live: Q2",
@@ -172,7 +157,7 @@
         "score": {
           "home": {
             "name": "ORE",
-            "score": "19"
+            "score": "20"
           },
           "away": {
             "name": "OKST",
@@ -312,6 +297,21 @@
           "away": {
             "name": "BAY",
             "score": "48"
+          }
+        }
+      },
+      {
+        "matchup": "USU @ TA&M",
+        "kickoff": "9/6/2025, 11:45:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "TA&M",
+            "score": "44"
+          },
+          "away": {
+            "name": "USU",
+            "score": "22"
           }
         }
       },
