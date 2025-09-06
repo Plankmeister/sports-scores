@@ -121,43 +121,13 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "APSU @ UGA",
-        "kickoff": "9/6/2025, 1:28:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "UGA",
-            "score": "28"
-          },
-          "away": {
-            "name": "APSU",
-            "score": "6"
-          }
-        }
-      },
-      {
-        "matchup": "OKST @ ORE",
-        "kickoff": "9/6/2025, 2:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "ORE",
-            "score": "69"
-          },
-          "away": {
-            "name": "OKST",
-            "score": "3"
-          }
-        }
-      },
-      {
         "matchup": "TROY @ CLEM",
         "kickoff": "9/6/2025, 2:30:00 PM",
         "status": "Live: Q3",
         "score": {
           "home": {
             "name": "CLEM",
-            "score": "17"
+            "score": "20"
           },
           "away": {
             "name": "TROY",
@@ -176,7 +146,7 @@
           },
           "away": {
             "name": "MISS",
-            "score": "27"
+            "score": "30"
           }
         }
       },
@@ -226,6 +196,21 @@
         }
       },
       {
+        "matchup": "SCST @ SC",
+        "kickoff": "9/6/2025, 6:00:00 PM",
+        "status": "Live: Q0",
+        "score": {
+          "home": {
+            "name": "SC",
+            "score": "0"
+          },
+          "away": {
+            "name": "SCST",
+            "score": "0"
+          }
+        }
+      },
+      {
         "matchup": "GRAM @ OSU",
         "kickoff": "9/6/2025, 2:30:00 PM",
         "status": "Final",
@@ -252,6 +237,36 @@
           "away": {
             "name": "FIU",
             "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "APSU @ UGA",
+        "kickoff": "9/6/2025, 1:28:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "UGA",
+            "score": "28"
+          },
+          "away": {
+            "name": "APSU",
+            "score": "6"
+          }
+        }
+      },
+      {
+        "matchup": "OKST @ ORE",
+        "kickoff": "9/6/2025, 2:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "ORE",
+            "score": "69"
+          },
+          "away": {
+            "name": "OKST",
+            "score": "3"
           }
         }
       },
@@ -387,21 +402,6 @@
           "away": {
             "name": "KENT",
             "score": "14"
-          }
-        }
-      },
-      {
-        "matchup": "SCST @ SC",
-        "kickoff": "9/6/2025, 6:00:00 PM",
-        "status": "Live: Q0",
-        "score": {
-          "home": {
-            "name": "SC",
-            "score": "0"
-          },
-          "away": {
-            "name": "SCST",
-            "score": "0"
           }
         }
       },
