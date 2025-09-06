@@ -138,7 +138,7 @@
       {
         "matchup": "ILL @ DUKE",
         "kickoff": "9/6/2025, 11:00:00 AM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "DUKE",
@@ -273,14 +273,32 @@
       {
         "matchup": "GRAM @ OSU",
         "kickoff": "9/6/2025, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "OSU",
+            "score": "7"
+          },
+          "away": {
+            "name": "GRAM",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "OKST @ ORE",
         "kickoff": "9/6/2025, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ORE",
+            "score": "7"
+          },
+          "away": {
+            "name": "OKST",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "TROY @ CLEM",
@@ -306,8 +324,17 @@
       {
         "matchup": "ETSU @ TENN",
         "kickoff": "9/6/2025, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "TENN",
+            "score": "7"
+          },
+          "away": {
+            "name": "ETSU",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "USF @ FLA",
