@@ -123,7 +123,7 @@
       {
         "matchup": "FIU @ PSU",
         "kickoff": "9/6/2025, 11:00:00 AM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "PSU",
@@ -157,7 +157,7 @@
         "score": {
           "home": {
             "name": "DUKE",
-            "score": "6"
+            "score": "13"
           },
           "away": {
             "name": "ILL",
@@ -191,7 +191,7 @@
           },
           "away": {
             "name": "IOWA",
-            "score": "3"
+            "score": "10"
           }
         }
       },
