@@ -123,7 +123,7 @@
       {
         "matchup": "FIU @ PSU",
         "kickoff": "9/6/2025, 11:00:00 AM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "PSU",
@@ -172,7 +172,7 @@
         "score": {
           "home": {
             "name": "FSU",
-            "score": "76"
+            "score": "77"
           },
           "away": {
             "name": "ETAM",
@@ -206,7 +206,7 @@
           },
           "away": {
             "name": "BAY",
-            "score": "24"
+            "score": "31"
           }
         }
       },
@@ -262,7 +262,7 @@
         "score": {
           "home": {
             "name": "UGA",
-            "score": "13"
+            "score": "14"
           },
           "away": {
             "name": "APSU",
