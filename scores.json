@@ -136,21 +136,6 @@
         }
       },
       {
-        "matchup": "GRAM @ OSU",
-        "kickoff": "9/6/2025, 2:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "OSU",
-            "score": "70"
-          },
-          "away": {
-            "name": "GRAM",
-            "score": "0"
-          }
-        }
-      },
-      {
         "matchup": "OKST @ ORE",
         "kickoff": "9/6/2025, 2:30:00 PM",
         "status": "Live: Q4",
@@ -172,7 +157,7 @@
         "score": {
           "home": {
             "name": "CLEM",
-            "score": "3"
+            "score": "10"
           },
           "away": {
             "name": "TROY",
@@ -192,21 +177,6 @@
           "away": {
             "name": "MISS",
             "score": "27"
-          }
-        }
-      },
-      {
-        "matchup": "ETSU @ TENN",
-        "kickoff": "9/6/2025, 2:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "TENN",
-            "score": "72"
-          },
-          "away": {
-            "name": "ETSU",
-            "score": "17"
           }
         }
       },
@@ -237,6 +207,36 @@
           "away": {
             "name": "CP",
             "score": "3"
+          }
+        }
+      },
+      {
+        "matchup": "BCU @ MIA",
+        "kickoff": "9/6/2025, 6:00:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MIA",
+            "score": "0"
+          },
+          "away": {
+            "name": "BCU",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "GRAM @ OSU",
+        "kickoff": "9/6/2025, 2:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "OSU",
+            "score": "70"
+          },
+          "away": {
+            "name": "GRAM",
+            "score": "0"
           }
         }
       },
@@ -346,6 +346,21 @@
         }
       },
       {
+        "matchup": "ETSU @ TENN",
+        "kickoff": "9/6/2025, 2:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "TENN",
+            "score": "72"
+          },
+          "away": {
+            "name": "ETSU",
+            "score": "17"
+          }
+        }
+      },
+      {
         "matchup": "KENN @ IU",
         "kickoff": "9/6/2025, 11:00:00 AM",
         "status": "Final",
@@ -376,16 +391,19 @@
         }
       },
       {
-        "matchup": "BCU @ MIA",
-        "kickoff": "9/6/2025, 6:00:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
         "matchup": "SCST @ SC",
         "kickoff": "9/6/2025, 6:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q0",
+        "score": {
+          "home": {
+            "name": "SC",
+            "score": "0"
+          },
+          "away": {
+            "name": "SCST",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "LT @ LSU",
