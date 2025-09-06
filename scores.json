@@ -183,7 +183,7 @@
       {
         "matchup": "IOWA @ ISU",
         "kickoff": "9/6/2025, 11:00:00 AM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "ISU",
@@ -198,7 +198,7 @@
       {
         "matchup": "BAY @ SMU",
         "kickoff": "9/6/2025, 11:00:00 AM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "SMU",
@@ -217,7 +217,7 @@
         "score": {
           "home": {
             "name": "IU",
-            "score": "42"
+            "score": "49"
           },
           "away": {
             "name": "KENN",
@@ -228,7 +228,7 @@
       {
         "matchup": "KENT @ TTU",
         "kickoff": "9/6/2025, 11:00:00 AM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "TTU",
@@ -262,7 +262,7 @@
         "score": {
           "home": {
             "name": "UGA",
-            "score": "0"
+            "score": "7"
           },
           "away": {
             "name": "APSU",
