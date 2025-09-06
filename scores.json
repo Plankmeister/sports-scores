@@ -127,7 +127,7 @@
         "score": {
           "home": {
             "name": "UGA",
-            "score": "21"
+            "score": "27"
           },
           "away": {
             "name": "APSU",
@@ -138,11 +138,11 @@
       {
         "matchup": "GRAM @ OSU",
         "kickoff": "9/6/2025, 2:30:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "OSU",
-            "score": "69"
+            "score": "70"
           },
           "away": {
             "name": "GRAM",
@@ -168,7 +168,7 @@
       {
         "matchup": "TROY @ CLEM",
         "kickoff": "9/6/2025, 2:30:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "CLEM",
@@ -221,7 +221,7 @@
           },
           "away": {
             "name": "USF",
-            "score": "13"
+            "score": "15"
           }
         }
       },
