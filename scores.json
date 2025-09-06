@@ -136,21 +136,6 @@
         }
       },
       {
-        "matchup": "KENT @ TTU",
-        "kickoff": "9/6/2025, 11:00:00 AM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "TTU",
-            "score": "14"
-          },
-          "away": {
-            "name": "KENT",
-            "score": "0"
-          }
-        }
-      },
-      {
         "matchup": "SJSU @ TEX",
         "kickoff": "9/6/2025, 11:00:00 AM",
         "status": "Live: Q1",
@@ -187,7 +172,7 @@
         "score": {
           "home": {
             "name": "FSU",
-            "score": "0"
+            "score": "7"
           },
           "away": {
             "name": "ETAM",
@@ -202,7 +187,7 @@
         "score": {
           "home": {
             "name": "ISU",
-            "score": "0"
+            "score": "3"
           },
           "away": {
             "name": "IOWA",
@@ -232,10 +217,25 @@
         "score": {
           "home": {
             "name": "IU",
-            "score": "0"
+            "score": "7"
           },
           "away": {
             "name": "KENN",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "KENT @ TTU",
+        "kickoff": "9/6/2025, 11:00:00 AM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "TTU",
+            "score": "14"
+          },
+          "away": {
+            "name": "KENT",
             "score": "0"
           }
         }
