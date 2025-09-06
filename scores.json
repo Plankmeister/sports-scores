@@ -123,7 +123,7 @@
       {
         "matchup": "FIU @ PSU",
         "kickoff": "9/6/2025, 11:00:00 AM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "PSU",
@@ -172,7 +172,7 @@
         "score": {
           "home": {
             "name": "FSU",
-            "score": "63"
+            "score": "70"
           },
           "away": {
             "name": "ETAM",
@@ -191,7 +191,7 @@
           },
           "away": {
             "name": "IOWA",
-            "score": "10"
+            "score": "13"
           }
         }
       },
@@ -232,7 +232,7 @@
         "score": {
           "home": {
             "name": "TTU",
-            "score": "54"
+            "score": "55"
           },
           "away": {
             "name": "KENT",
@@ -258,8 +258,17 @@
       {
         "matchup": "APSU @ UGA",
         "kickoff": "9/6/2025, 1:28:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "UGA",
+            "score": "0"
+          },
+          "away": {
+            "name": "APSU",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "GRAM @ OSU",
