@@ -127,7 +127,7 @@
         "score": {
           "home": {
             "name": "UGA",
-            "score": "27"
+            "score": "28"
           },
           "away": {
             "name": "APSU",
@@ -198,7 +198,7 @@
       {
         "matchup": "ETSU @ TENN",
         "kickoff": "9/6/2025, 2:30:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "TENN",
@@ -213,7 +213,7 @@
       {
         "matchup": "USF @ FLA",
         "kickoff": "9/6/2025, 3:15:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "FLA",
