@@ -153,7 +153,7 @@
       {
         "matchup": "IOWA @ ISU",
         "kickoff": "9/6/2025, 11:00:00 AM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "ISU",
@@ -198,7 +198,7 @@
       {
         "matchup": "KENT @ TTU",
         "kickoff": "9/6/2025, 11:00:00 AM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "TTU",
@@ -217,11 +217,11 @@
         "score": {
           "home": {
             "name": "TA&M",
-            "score": "30"
+            "score": "37"
           },
           "away": {
             "name": "USU",
-            "score": "6"
+            "score": "14"
           }
         }
       },
