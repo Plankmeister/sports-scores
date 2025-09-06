@@ -142,7 +142,7 @@
         "score": {
           "home": {
             "name": "OSU",
-            "score": "21"
+            "score": "28"
           },
           "away": {
             "name": "GRAM",
@@ -161,7 +161,7 @@
           },
           "away": {
             "name": "OKST",
-            "score": "0"
+            "score": "3"
           }
         }
       },
@@ -183,7 +183,7 @@
       {
         "matchup": "MISS @ UK",
         "kickoff": "9/6/2025, 2:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "UK",
@@ -206,6 +206,21 @@
           },
           "away": {
             "name": "ETSU",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "USF @ FLA",
+        "kickoff": "9/6/2025, 3:15:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "FLA",
+            "score": "0"
+          },
+          "away": {
+            "name": "USF",
             "score": "0"
           }
         }
@@ -342,21 +357,6 @@
           "away": {
             "name": "KENT",
             "score": "14"
-          }
-        }
-      },
-      {
-        "matchup": "USF @ FLA",
-        "kickoff": "9/6/2025, 3:15:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "FLA",
-            "score": "0"
-          },
-          "away": {
-            "name": "USF",
-            "score": "0"
           }
         }
       },
