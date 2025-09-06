@@ -138,7 +138,7 @@
       {
         "matchup": "GRAM @ OSU",
         "kickoff": "9/6/2025, 2:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "OSU",
@@ -187,7 +187,7 @@
         "score": {
           "home": {
             "name": "UK",
-            "score": "0"
+            "score": "7"
           },
           "away": {
             "name": "MISS",
@@ -198,7 +198,7 @@
       {
         "matchup": "ETSU @ TENN",
         "kickoff": "9/6/2025, 2:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "TENN",
@@ -348,8 +348,17 @@
       {
         "matchup": "USF @ FLA",
         "kickoff": "9/6/2025, 3:15:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "FLA",
+            "score": "0"
+          },
+          "away": {
+            "name": "USF",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "CP @ UTAH",
