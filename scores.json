@@ -168,11 +168,11 @@
       {
         "matchup": "ETAM @ FSU",
         "kickoff": "9/6/2025, 11:00:00 AM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "FSU",
-            "score": "49"
+            "score": "56"
           },
           "away": {
             "name": "ETAM",
@@ -198,7 +198,7 @@
       {
         "matchup": "BAY @ SMU",
         "kickoff": "9/6/2025, 11:00:00 AM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "SMU",
@@ -221,14 +221,14 @@
           },
           "away": {
             "name": "KENN",
-            "score": "6"
+            "score": "9"
           }
         }
       },
       {
         "matchup": "KENT @ TTU",
         "kickoff": "9/6/2025, 11:00:00 AM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "TTU",
