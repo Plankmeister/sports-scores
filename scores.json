@@ -121,21 +121,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "FIU @ PSU",
-        "kickoff": "9/6/2025, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "PSU",
-            "score": "34"
-          },
-          "away": {
-            "name": "FIU",
-            "score": "0"
-          }
-        }
-      },
-      {
         "matchup": "SJSU @ TEX",
         "kickoff": "9/6/2025, 11:00:00 AM",
         "status": "Live: Q4",
@@ -166,28 +151,13 @@
         }
       },
       {
-        "matchup": "ETAM @ FSU",
-        "kickoff": "9/6/2025, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "FSU",
-            "score": "77"
-          },
-          "away": {
-            "name": "ETAM",
-            "score": "3"
-          }
-        }
-      },
-      {
         "matchup": "IOWA @ ISU",
         "kickoff": "9/6/2025, 11:00:00 AM",
         "status": "Live: Q4",
         "score": {
           "home": {
             "name": "ISU",
-            "score": "13"
+            "score": "16"
           },
           "away": {
             "name": "IOWA",
@@ -213,7 +183,7 @@
       {
         "matchup": "KENN @ IU",
         "kickoff": "9/6/2025, 11:00:00 AM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "IU",
@@ -266,6 +236,36 @@
           },
           "away": {
             "name": "APSU",
+            "score": "3"
+          }
+        }
+      },
+      {
+        "matchup": "FIU @ PSU",
+        "kickoff": "9/6/2025, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "PSU",
+            "score": "34"
+          },
+          "away": {
+            "name": "FIU",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "ETAM @ FSU",
+        "kickoff": "9/6/2025, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "FSU",
+            "score": "77"
+          },
+          "away": {
+            "name": "ETAM",
             "score": "3"
           }
         }
