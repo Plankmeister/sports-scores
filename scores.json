@@ -146,22 +146,7 @@
           },
           "away": {
             "name": "ILL",
-            "score": "38"
-          }
-        }
-      },
-      {
-        "matchup": "IOWA @ ISU",
-        "kickoff": "9/6/2025, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "ISU",
-            "score": "16"
-          },
-          "away": {
-            "name": "IOWA",
-            "score": "13"
+            "score": "45"
           }
         }
       },
@@ -181,43 +166,13 @@
         }
       },
       {
-        "matchup": "KENN @ IU",
-        "kickoff": "9/6/2025, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "IU",
-            "score": "56"
-          },
-          "away": {
-            "name": "KENN",
-            "score": "9"
-          }
-        }
-      },
-      {
-        "matchup": "KENT @ TTU",
-        "kickoff": "9/6/2025, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "TTU",
-            "score": "62"
-          },
-          "away": {
-            "name": "KENT",
-            "score": "14"
-          }
-        }
-      },
-      {
         "matchup": "USU @ TA&M",
         "kickoff": "9/6/2025, 11:45:00 AM",
         "status": "Live: Q4",
         "score": {
           "home": {
             "name": "TA&M",
-            "score": "37"
+            "score": "44"
           },
           "away": {
             "name": "USU",
@@ -271,6 +226,51 @@
         }
       },
       {
+        "matchup": "IOWA @ ISU",
+        "kickoff": "9/6/2025, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "ISU",
+            "score": "16"
+          },
+          "away": {
+            "name": "IOWA",
+            "score": "13"
+          }
+        }
+      },
+      {
+        "matchup": "KENN @ IU",
+        "kickoff": "9/6/2025, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "IU",
+            "score": "56"
+          },
+          "away": {
+            "name": "KENN",
+            "score": "9"
+          }
+        }
+      },
+      {
+        "matchup": "KENT @ TTU",
+        "kickoff": "9/6/2025, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "TTU",
+            "score": "62"
+          },
+          "away": {
+            "name": "KENT",
+            "score": "14"
+          }
+        }
+      },
+      {
         "matchup": "GRAM @ OSU",
         "kickoff": "9/6/2025, 2:30:00 PM",
         "status": "Scheduled",
@@ -285,8 +285,17 @@
       {
         "matchup": "TROY @ CLEM",
         "kickoff": "9/6/2025, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "CLEM",
+            "score": "0"
+          },
+          "away": {
+            "name": "TROY",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "MISS @ UK",
