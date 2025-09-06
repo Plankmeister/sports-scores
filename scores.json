@@ -146,7 +146,7 @@
           },
           "away": {
             "name": "SJSU",
-            "score": "0"
+            "score": "6"
           }
         }
       },
@@ -172,7 +172,7 @@
         "score": {
           "home": {
             "name": "FSU",
-            "score": "35"
+            "score": "42"
           },
           "away": {
             "name": "ETAM",
@@ -206,7 +206,7 @@
           },
           "away": {
             "name": "BAY",
-            "score": "7"
+            "score": "14"
           }
         }
       },
@@ -251,7 +251,7 @@
           },
           "away": {
             "name": "USU",
-            "score": "0"
+            "score": "6"
           }
         }
       },
