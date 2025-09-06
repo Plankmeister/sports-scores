@@ -131,7 +131,7 @@
           },
           "away": {
             "name": "APSU",
-            "score": "3"
+            "score": "6"
           }
         }
       },
@@ -157,7 +157,7 @@
         "score": {
           "home": {
             "name": "ORE",
-            "score": "62"
+            "score": "69"
           },
           "away": {
             "name": "OKST",
@@ -172,7 +172,7 @@
         "score": {
           "home": {
             "name": "CLEM",
-            "score": "6"
+            "score": "3"
           },
           "away": {
             "name": "TROY",
@@ -191,14 +191,14 @@
           },
           "away": {
             "name": "MISS",
-            "score": "20"
+            "score": "27"
           }
         }
       },
       {
         "matchup": "ETSU @ TENN",
         "kickoff": "9/6/2025, 2:30:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "TENN",
@@ -232,7 +232,7 @@
         "score": {
           "home": {
             "name": "UTAH",
-            "score": "7"
+            "score": "14"
           },
           "away": {
             "name": "CP",
