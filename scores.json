@@ -161,14 +161,14 @@
           },
           "away": {
             "name": "ILL",
-            "score": "21"
+            "score": "28"
           }
         }
       },
       {
         "matchup": "ETAM @ FSU",
         "kickoff": "9/6/2025, 11:00:00 AM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "FSU",
@@ -213,7 +213,7 @@
       {
         "matchup": "KENN @ IU",
         "kickoff": "9/6/2025, 11:00:00 AM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "IU",
@@ -243,7 +243,7 @@
       {
         "matchup": "USU @ TA&M",
         "kickoff": "9/6/2025, 11:45:00 AM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "TA&M",
