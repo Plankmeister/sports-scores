@@ -127,7 +127,7 @@
         "score": {
           "home": {
             "name": "PSU",
-            "score": "27"
+            "score": "34"
           },
           "away": {
             "name": "FIU",
@@ -161,7 +161,7 @@
           },
           "away": {
             "name": "ILL",
-            "score": "28"
+            "score": "31"
           }
         }
       },
@@ -172,7 +172,7 @@
         "score": {
           "home": {
             "name": "FSU",
-            "score": "70"
+            "score": "76"
           },
           "away": {
             "name": "ETAM",
@@ -217,7 +217,7 @@
         "score": {
           "home": {
             "name": "IU",
-            "score": "49"
+            "score": "56"
           },
           "away": {
             "name": "KENN",
@@ -232,7 +232,7 @@
         "score": {
           "home": {
             "name": "TTU",
-            "score": "55"
+            "score": "62"
           },
           "away": {
             "name": "KENT",
@@ -258,11 +258,11 @@
       {
         "matchup": "APSU @ UGA",
         "kickoff": "9/6/2025, 1:28:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "UGA",
-            "score": "7"
+            "score": "13"
           },
           "away": {
             "name": "APSU",
