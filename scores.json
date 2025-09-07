@@ -127,7 +127,7 @@
         "score": {
           "home": {
             "name": "SC",
-            "score": "17"
+            "score": "24"
           },
           "away": {
             "name": "SCST",
@@ -168,15 +168,15 @@
       {
         "matchup": "LT @ LSU",
         "kickoff": "9/6/2025, 6:30:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "LSU",
-            "score": "20"
+            "score": "23"
           },
           "away": {
             "name": "LT",
-            "score": "0"
+            "score": "7"
           }
         }
       },
