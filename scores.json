@@ -183,7 +183,7 @@
       {
         "matchup": "MICH @ OU",
         "kickoff": "9/6/2025, 6:30:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "OU",
@@ -191,7 +191,7 @@
           },
           "away": {
             "name": "MICH",
-            "score": "0"
+            "score": "7"
           }
         }
       },
