@@ -121,24 +121,9 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "BCU @ MIA",
-        "kickoff": "9/6/2025, 6:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "MIA",
-            "score": "45"
-          },
-          "away": {
-            "name": "BCU",
-            "score": "3"
-          }
-        }
-      },
-      {
         "matchup": "SCST @ SC",
         "kickoff": "9/6/2025, 6:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "SC",
@@ -202,7 +187,7 @@
         "score": {
           "home": {
             "name": "ALA",
-            "score": "42"
+            "score": "45"
           },
           "away": {
             "name": "ULM",
@@ -252,6 +237,21 @@
           "away": {
             "name": "APSU",
             "score": "6"
+          }
+        }
+      },
+      {
+        "matchup": "BCU @ MIA",
+        "kickoff": "9/6/2025, 6:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "MIA",
+            "score": "45"
+          },
+          "away": {
+            "name": "BCU",
+            "score": "3"
           }
         }
       },
