@@ -73,7 +73,7 @@
           },
           "away": {
             "name": "ARI",
-            "score": "0"
+            "score": "3"
           }
         }
       },
@@ -84,7 +84,7 @@
         "score": {
           "home": {
             "name": "NYJ",
-            "score": "3"
+            "score": "9"
           },
           "away": {
             "name": "PIT",
@@ -99,7 +99,7 @@
         "score": {
           "home": {
             "name": "WSH",
-            "score": "0"
+            "score": "7"
           },
           "away": {
             "name": "NYG",
