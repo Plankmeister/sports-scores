@@ -33,21 +33,6 @@
         }
       },
       {
-        "matchup": "MIA @ IND",
-        "kickoff": "9/7/2025, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "IND",
-            "score": "33"
-          },
-          "away": {
-            "name": "MIA",
-            "score": "8"
-          }
-        }
-      },
-      {
         "matchup": "LV @ NE",
         "kickoff": "9/7/2025, 12:00:00 PM",
         "status": "Live: Q4",
@@ -110,7 +95,7 @@
       {
         "matchup": "CAR @ JAX",
         "kickoff": "9/7/2025, 12:00:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "JAX",
@@ -119,6 +104,21 @@
           "away": {
             "name": "CAR",
             "score": "3"
+          }
+        }
+      },
+      {
+        "matchup": "MIA @ IND",
+        "kickoff": "9/7/2025, 12:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "IND",
+            "score": "33"
+          },
+          "away": {
+            "name": "MIA",
+            "score": "8"
           }
         }
       },
