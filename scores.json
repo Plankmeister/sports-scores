@@ -121,21 +121,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "SCST @ SC",
-        "kickoff": "9/6/2025, 6:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "SC",
-            "score": "38"
-          },
-          "away": {
-            "name": "SCST",
-            "score": "10"
-          }
-        }
-      },
-      {
         "matchup": "GRAM @ OSU",
         "kickoff": "9/6/2025, 2:30:00 PM",
         "status": "Final",
@@ -252,6 +237,21 @@
           "away": {
             "name": "TROY",
             "score": "16"
+          }
+        }
+      },
+      {
+        "matchup": "SCST @ SC",
+        "kickoff": "9/6/2025, 6:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "SC",
+            "score": "38"
+          },
+          "away": {
+            "name": "SCST",
+            "score": "10"
           }
         }
       },
