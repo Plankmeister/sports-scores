@@ -5,50 +5,122 @@
       {
         "matchup": "TB @ ATL",
         "kickoff": "9/7/2025, 12:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ATL",
+            "score": "7"
+          },
+          "away": {
+            "name": "TB",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "CIN @ CLE",
         "kickoff": "9/7/2025, 12:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "CLE",
+            "score": "0"
+          },
+          "away": {
+            "name": "CIN",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "MIA @ IND",
         "kickoff": "9/7/2025, 12:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "IND",
+            "score": "0"
+          },
+          "away": {
+            "name": "MIA",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "LV @ NE",
         "kickoff": "9/7/2025, 12:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "NE",
+            "score": "0"
+          },
+          "away": {
+            "name": "LV",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "ARI @ NO",
         "kickoff": "9/7/2025, 12:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "NO",
+            "score": "0"
+          },
+          "away": {
+            "name": "ARI",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "PIT @ NYJ",
         "kickoff": "9/7/2025, 12:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "NYJ",
+            "score": "0"
+          },
+          "away": {
+            "name": "PIT",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "NYG @ WSH",
         "kickoff": "9/7/2025, 12:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "WSH",
+            "score": "0"
+          },
+          "away": {
+            "name": "NYG",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "CAR @ JAX",
         "kickoff": "9/7/2025, 12:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "JAX",
+            "score": "0"
+          },
+          "away": {
+            "name": "CAR",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "TEN @ DEN",
