@@ -138,7 +138,7 @@
       {
         "matchup": "ASU @ MSST",
         "kickoff": "9/6/2025, 6:30:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "MSST",
@@ -157,7 +157,7 @@
         "score": {
           "home": {
             "name": "OU",
-            "score": "21"
+            "score": "24"
           },
           "away": {
             "name": "MICH",
@@ -172,7 +172,7 @@
         "score": {
           "home": {
             "name": "ALA",
-            "score": "66"
+            "score": "73"
           },
           "away": {
             "name": "ULM",
