@@ -20,7 +20,7 @@
       {
         "matchup": "CIN @ CLE",
         "kickoff": "9/7/2025, 12:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "CLE",
@@ -35,7 +35,7 @@
       {
         "matchup": "MIA @ IND",
         "kickoff": "9/7/2025, 12:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "IND",
@@ -118,7 +118,7 @@
           },
           "away": {
             "name": "CAR",
-            "score": "0"
+            "score": "3"
           }
         }
       },
