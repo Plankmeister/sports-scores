@@ -13,7 +13,7 @@
           },
           "away": {
             "name": "TEN",
-            "score": "9"
+            "score": "12"
           }
         }
       },
@@ -43,14 +43,14 @@
           },
           "away": {
             "name": "DET",
-            "score": "3"
+            "score": "6"
           }
         }
       },
       {
         "matchup": "HOU @ LAR",
         "kickoff": "9/7/2025, 3:25:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "LAR",
