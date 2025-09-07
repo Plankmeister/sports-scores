@@ -127,26 +127,11 @@
         "score": {
           "home": {
             "name": "SC",
-            "score": "14"
+            "score": "17"
           },
           "away": {
             "name": "SCST",
             "score": "3"
-          }
-        }
-      },
-      {
-        "matchup": "LT @ LSU",
-        "kickoff": "9/6/2025, 6:30:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "LSU",
-            "score": "23"
-          },
-          "away": {
-            "name": "LT",
-            "score": "7"
           }
         }
       },
@@ -222,6 +207,21 @@
           "away": {
             "name": "FIU",
             "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "LT @ LSU",
+        "kickoff": "9/6/2025, 6:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "LSU",
+            "score": "23"
+          },
+          "away": {
+            "name": "LT",
+            "score": "7"
           }
         }
       },
