@@ -121,28 +121,13 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "CP @ UTAH",
-        "kickoff": "9/6/2025, 5:00:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "UTAH",
-            "score": "63"
-          },
-          "away": {
-            "name": "CP",
-            "score": "9"
-          }
-        }
-      },
-      {
         "matchup": "BCU @ MIA",
         "kickoff": "9/6/2025, 6:00:00 PM",
         "status": "Live: Q4",
         "score": {
           "home": {
             "name": "MIA",
-            "score": "35"
+            "score": "42"
           },
           "away": {
             "name": "BCU",
@@ -168,7 +153,7 @@
       {
         "matchup": "LT @ LSU",
         "kickoff": "9/6/2025, 6:30:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "LSU",
@@ -191,7 +176,7 @@
           },
           "away": {
             "name": "ASU",
-            "score": "0"
+            "score": "3"
           }
         }
       },
@@ -217,7 +202,7 @@
         "score": {
           "home": {
             "name": "ALA",
-            "score": "35"
+            "score": "42"
           },
           "away": {
             "name": "ULM",
@@ -462,6 +447,21 @@
           "away": {
             "name": "KENT",
             "score": "14"
+          }
+        }
+      },
+      {
+        "matchup": "CP @ UTAH",
+        "kickoff": "9/6/2025, 5:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "UTAH",
+            "score": "63"
+          },
+          "away": {
+            "name": "CP",
+            "score": "9"
           }
         }
       }
