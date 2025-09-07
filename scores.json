@@ -138,7 +138,7 @@
       {
         "matchup": "USF @ FLA",
         "kickoff": "9/6/2025, 3:15:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "FLA",
@@ -146,7 +146,7 @@
           },
           "away": {
             "name": "USF",
-            "score": "15"
+            "score": "18"
           }
         }
       },
@@ -453,8 +453,17 @@
       {
         "matchup": "ULM @ ALA",
         "kickoff": "9/6/2025, 6:45:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ALA",
+            "score": "0"
+          },
+          "away": {
+            "name": "ULM",
+            "score": "0"
+          }
+        }
       }
     ]
   }
