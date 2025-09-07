@@ -136,24 +136,9 @@
         }
       },
       {
-        "matchup": "USF @ FLA",
-        "kickoff": "9/6/2025, 3:15:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "FLA",
-            "score": "16"
-          },
-          "away": {
-            "name": "USF",
-            "score": "18"
-          }
-        }
-      },
-      {
         "matchup": "CP @ UTAH",
         "kickoff": "9/6/2025, 5:00:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "UTAH",
@@ -236,6 +221,21 @@
           },
           "away": {
             "name": "MICH",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "ULM @ ALA",
+        "kickoff": "9/6/2025, 6:45:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ALA",
+            "score": "7"
+          },
+          "away": {
+            "name": "ULM",
             "score": "0"
           }
         }
@@ -327,6 +327,21 @@
           "away": {
             "name": "ILL",
             "score": "45"
+          }
+        }
+      },
+      {
+        "matchup": "USF @ FLA",
+        "kickoff": "9/6/2025, 3:15:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "FLA",
+            "score": "16"
+          },
+          "away": {
+            "name": "USF",
+            "score": "18"
           }
         }
       },
@@ -447,21 +462,6 @@
           "away": {
             "name": "KENT",
             "score": "14"
-          }
-        }
-      },
-      {
-        "matchup": "ULM @ ALA",
-        "kickoff": "9/6/2025, 6:45:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "ALA",
-            "score": "7"
-          },
-          "away": {
-            "name": "ULM",
-            "score": "0"
           }
         }
       }
