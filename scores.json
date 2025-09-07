@@ -9,7 +9,7 @@
         "score": {
           "home": {
             "name": "ATL",
-            "score": "13"
+            "score": "20"
           },
           "away": {
             "name": "TB",
@@ -35,11 +35,11 @@
       {
         "matchup": "LV @ NE",
         "kickoff": "9/7/2025, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "NE",
-            "score": "10"
+            "score": "13"
           },
           "away": {
             "name": "LV",
@@ -73,7 +73,7 @@
           },
           "away": {
             "name": "PIT",
-            "score": "31"
+            "score": "34"
           }
         }
       },
@@ -125,14 +125,32 @@
       {
         "matchup": "TEN @ DEN",
         "kickoff": "9/7/2025, 3:05:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "DEN",
+            "score": "0"
+          },
+          "away": {
+            "name": "TEN",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "SF @ SEA",
         "kickoff": "9/7/2025, 3:05:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "SEA",
+            "score": "0"
+          },
+          "away": {
+            "name": "SF",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "DET @ GB",
