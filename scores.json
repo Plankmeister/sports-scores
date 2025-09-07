@@ -9,7 +9,7 @@
         "score": {
           "home": {
             "name": "ATL",
-            "score": "7"
+            "score": "10"
           },
           "away": {
             "name": "TB",
@@ -24,7 +24,7 @@
         "score": {
           "home": {
             "name": "CLE",
-            "score": "7"
+            "score": "10"
           },
           "away": {
             "name": "CIN",
@@ -39,7 +39,7 @@
         "score": {
           "home": {
             "name": "IND",
-            "score": "17"
+            "score": "20"
           },
           "away": {
             "name": "MIA",
@@ -88,7 +88,7 @@
           },
           "away": {
             "name": "PIT",
-            "score": "10"
+            "score": "17"
           }
         }
       },
