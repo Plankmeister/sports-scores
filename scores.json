@@ -13,7 +13,7 @@
           },
           "away": {
             "name": "TB",
-            "score": "3"
+            "score": "10"
           }
         }
       },
@@ -28,7 +28,7 @@
           },
           "away": {
             "name": "CIN",
-            "score": "7"
+            "score": "14"
           }
         }
       },
@@ -84,7 +84,7 @@
         "score": {
           "home": {
             "name": "NYJ",
-            "score": "16"
+            "score": "19"
           },
           "away": {
             "name": "PIT",
