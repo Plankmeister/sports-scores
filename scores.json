@@ -3,21 +3,6 @@
     "week": 1,
     "games": [
       {
-        "matchup": "MIN @ CHI",
-        "kickoff": "9/8/2025, 7:15:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "CHI",
-            "score": "24"
-          },
-          "away": {
-            "name": "MIN",
-            "score": "27"
-          }
-        }
-      },
-      {
         "matchup": "DAL @ PHI",
         "kickoff": "9/4/2025, 7:20:00 PM",
         "status": "Final",
@@ -239,6 +224,21 @@
           "away": {
             "name": "BAL",
             "score": "40"
+          }
+        }
+      },
+      {
+        "matchup": "MIN @ CHI",
+        "kickoff": "9/8/2025, 7:15:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "CHI",
+            "score": "24"
+          },
+          "away": {
+            "name": "MIN",
+            "score": "27"
           }
         }
       }
