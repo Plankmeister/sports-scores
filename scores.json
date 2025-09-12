@@ -114,8 +114,17 @@
       {
         "matchup": "INST @ IU",
         "kickoff": "9/12/2025, 5:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "IU",
+            "score": "0"
+          },
+          "away": {
+            "name": "INST",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "ORE @ NU",
