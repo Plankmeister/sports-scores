@@ -129,7 +129,7 @@
       {
         "matchup": "UGA @ TENN",
         "kickoff": "9/13/2025, 2:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "TENN",
@@ -137,7 +137,7 @@
           },
           "away": {
             "name": "UGA",
-            "score": "7"
+            "score": "14"
           }
         }
       },
@@ -167,7 +167,7 @@
           },
           "away": {
             "name": "ISU",
-            "score": "3"
+            "score": "9"
           }
         }
       },
@@ -178,7 +178,7 @@
         "score": {
           "home": {
             "name": "TEX",
-            "score": "0"
+            "score": "7"
           },
           "away": {
             "name": "UTEP",
