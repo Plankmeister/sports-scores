@@ -114,7 +114,7 @@
       {
         "matchup": "ORE @ NU",
         "kickoff": "9/13/2025, 11:00:00 AM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "NU",
@@ -129,11 +129,11 @@
       {
         "matchup": "CLEM @ GT",
         "kickoff": "9/13/2025, 11:00:00 AM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "GT",
-            "score": "3"
+            "score": "10"
           },
           "away": {
             "name": "CLEM",
@@ -152,7 +152,7 @@
           },
           "away": {
             "name": "OU",
-            "score": "11"
+            "score": "18"
           }
         }
       },
@@ -163,7 +163,7 @@
         "score": {
           "home": {
             "name": "ALA",
-            "score": "7"
+            "score": "14"
           },
           "away": {
             "name": "WIS",
@@ -189,8 +189,17 @@
       {
         "matchup": "USA @ AUB",
         "kickoff": "9/13/2025, 11:45:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "AUB",
+            "score": "0"
+          },
+          "away": {
+            "name": "USA",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "UL @ MIZ",
