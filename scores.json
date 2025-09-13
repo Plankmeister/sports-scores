@@ -144,7 +144,7 @@
       {
         "matchup": "OU @ TEM",
         "kickoff": "9/13/2025, 11:00:00 AM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "TEM",
@@ -159,7 +159,7 @@
       {
         "matchup": "WIS @ ALA",
         "kickoff": "9/13/2025, 11:00:00 AM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "ALA",
@@ -174,11 +174,11 @@
       {
         "matchup": "CMU @ MICH",
         "kickoff": "9/13/2025, 11:00:00 AM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "MICH",
-            "score": "14"
+            "score": "21"
           },
           "away": {
             "name": "CMU",
