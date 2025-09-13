@@ -137,7 +137,7 @@
           },
           "away": {
             "name": "CLEM",
-            "score": "0"
+            "score": "7"
           }
         }
       },
@@ -148,7 +148,7 @@
         "score": {
           "home": {
             "name": "TEM",
-            "score": "0"
+            "score": "3"
           },
           "away": {
             "name": "OU",
@@ -189,11 +189,11 @@
       {
         "matchup": "USA @ AUB",
         "kickoff": "9/13/2025, 11:45:00 AM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "AUB",
-            "score": "7"
+            "score": "14"
           },
           "away": {
             "name": "USA",
@@ -212,7 +212,7 @@
           },
           "away": {
             "name": "UL",
-            "score": "0"
+            "score": "6"
           }
         }
       },
