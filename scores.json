@@ -152,7 +152,7 @@
           },
           "away": {
             "name": "OU",
-            "score": "28"
+            "score": "34"
           }
         }
       },
@@ -174,11 +174,11 @@
       {
         "matchup": "CMU @ MICH",
         "kickoff": "9/13/2025, 11:00:00 AM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "MICH",
-            "score": "49"
+            "score": "55"
           },
           "away": {
             "name": "CMU",
@@ -212,7 +212,7 @@
           },
           "away": {
             "name": "UL",
-            "score": "3"
+            "score": "10"
           }
         }
       },
