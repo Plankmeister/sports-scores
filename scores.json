@@ -114,14 +114,32 @@
       {
         "matchup": "ORE @ NU",
         "kickoff": "9/13/2025, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "NU",
+            "score": "0"
+          },
+          "away": {
+            "name": "ORE",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "CLEM @ GT",
         "kickoff": "9/13/2025, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "GT",
+            "score": "0"
+          },
+          "away": {
+            "name": "CLEM",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "OU @ TEM",
@@ -160,7 +178,7 @@
         "score": {
           "home": {
             "name": "MICH",
-            "score": "0"
+            "score": "6"
           },
           "away": {
             "name": "CMU",
