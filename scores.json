@@ -133,7 +133,7 @@
         "score": {
           "home": {
             "name": "GT",
-            "score": "13"
+            "score": "21"
           },
           "away": {
             "name": "CLEM",
@@ -152,7 +152,7 @@
           },
           "away": {
             "name": "OU",
-            "score": "41"
+            "score": "42"
           }
         }
       },
@@ -167,7 +167,7 @@
           },
           "away": {
             "name": "WIS",
-            "score": "7"
+            "score": "14"
           }
         }
       },
@@ -178,7 +178,7 @@
         "score": {
           "home": {
             "name": "MICH",
-            "score": "62"
+            "score": "63"
           },
           "away": {
             "name": "CMU",
@@ -208,7 +208,7 @@
         "score": {
           "home": {
             "name": "MIZ",
-            "score": "35"
+            "score": "38"
           },
           "away": {
             "name": "UL",
