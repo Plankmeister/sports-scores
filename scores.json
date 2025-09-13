@@ -112,21 +112,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "INST @ IU",
-        "kickoff": "9/12/2025, 5:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "IU",
-            "score": "73"
-          },
-          "away": {
-            "name": "INST",
-            "score": "0"
-          }
-        }
-      },
-      {
         "matchup": "ORE @ NU",
         "kickoff": "9/13/2025, 11:00:00 AM",
         "status": "Scheduled",
@@ -245,6 +230,21 @@
         "kickoff": "9/13/2025, 7:00:00 PM",
         "status": "Scheduled",
         "score": null
+      },
+      {
+        "matchup": "INST @ IU",
+        "kickoff": "9/12/2025, 5:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "IU",
+            "score": "73"
+          },
+          "away": {
+            "name": "INST",
+            "score": "0"
+          }
+        }
       }
     ]
   }
