@@ -122,14 +122,14 @@
           },
           "away": {
             "name": "ORE",
-            "score": "31"
+            "score": "34"
           }
         }
       },
       {
         "matchup": "CLEM @ GT",
         "kickoff": "9/13/2025, 11:00:00 AM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "GT",
@@ -152,7 +152,7 @@
           },
           "away": {
             "name": "OU",
-            "score": "35"
+            "score": "41"
           }
         }
       },
@@ -178,7 +178,7 @@
         "score": {
           "home": {
             "name": "MICH",
-            "score": "56"
+            "score": "62"
           },
           "away": {
             "name": "CMU",
@@ -197,7 +197,7 @@
           },
           "away": {
             "name": "USA",
-            "score": "9"
+            "score": "15"
           }
         }
       },
