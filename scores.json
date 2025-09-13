@@ -152,7 +152,7 @@
           },
           "away": {
             "name": "OU",
-            "score": "25"
+            "score": "28"
           }
         }
       },
@@ -163,11 +163,11 @@
         "score": {
           "home": {
             "name": "ALA",
-            "score": "21"
+            "score": "28"
           },
           "away": {
             "name": "WIS",
-            "score": "0"
+            "score": "7"
           }
         }
       },
@@ -193,7 +193,7 @@
         "score": {
           "home": {
             "name": "AUB",
-            "score": "14"
+            "score": "21"
           },
           "away": {
             "name": "USA",
@@ -204,11 +204,11 @@
       {
         "matchup": "UL @ MIZ",
         "kickoff": "9/13/2025, 12:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "MIZ",
-            "score": "14"
+            "score": "21"
           },
           "away": {
             "name": "UL",
