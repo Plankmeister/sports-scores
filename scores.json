@@ -112,21 +112,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "UGA @ TENN",
-        "kickoff": "9/13/2025, 2:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "TENN",
-            "score": "41"
-          },
-          "away": {
-            "name": "UGA",
-            "score": "44"
-          }
-        }
-      },
-      {
         "matchup": "ORST @ TTU",
         "kickoff": "9/13/2025, 2:30:00 PM",
         "status": "Live: Q2",
@@ -138,36 +123,6 @@
           "away": {
             "name": "ORST",
             "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "ISU @ ARST",
-        "kickoff": "9/13/2025, 3:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "ARST",
-            "score": "16"
-          },
-          "away": {
-            "name": "ISU",
-            "score": "24"
-          }
-        }
-      },
-      {
-        "matchup": "UTEP @ TEX",
-        "kickoff": "9/13/2025, 3:15:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "TEX",
-            "score": "27"
-          },
-          "away": {
-            "name": "UTEP",
-            "score": "10"
           }
         }
       },
@@ -227,6 +182,36 @@
           },
           "away": {
             "name": "ARK",
+            "score": "7"
+          }
+        }
+      },
+      {
+        "matchup": "FLA @ LSU",
+        "kickoff": "9/13/2025, 6:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "LSU",
+            "score": "0"
+          },
+          "away": {
+            "name": "FLA",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "TA&M @ ND",
+        "kickoff": "9/13/2025, 6:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ND",
+            "score": "0"
+          },
+          "away": {
+            "name": "TA&M",
             "score": "0"
           }
         }
@@ -262,6 +247,36 @@
         }
       },
       {
+        "matchup": "UGA @ TENN",
+        "kickoff": "9/13/2025, 2:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "TENN",
+            "score": "41"
+          },
+          "away": {
+            "name": "UGA",
+            "score": "44"
+          }
+        }
+      },
+      {
+        "matchup": "UTEP @ TEX",
+        "kickoff": "9/13/2025, 3:15:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "TEX",
+            "score": "27"
+          },
+          "away": {
+            "name": "UTEP",
+            "score": "10"
+          }
+        }
+      },
+      {
         "matchup": "CLEM @ GT",
         "kickoff": "9/13/2025, 11:00:00 AM",
         "status": "Final",
@@ -288,6 +303,21 @@
           "away": {
             "name": "OU",
             "score": "42"
+          }
+        }
+      },
+      {
+        "matchup": "ISU @ ARST",
+        "kickoff": "9/13/2025, 3:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "ARST",
+            "score": "16"
+          },
+          "away": {
+            "name": "ISU",
+            "score": "24"
           }
         }
       },
@@ -350,18 +380,6 @@
             "score": "10"
           }
         }
-      },
-      {
-        "matchup": "FLA @ LSU",
-        "kickoff": "9/13/2025, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "TA&M @ ND",
-        "kickoff": "9/13/2025, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
       },
       {
         "matchup": "VAN @ SC",
