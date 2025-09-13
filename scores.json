@@ -137,14 +137,14 @@
           },
           "away": {
             "name": "CLEM",
-            "score": "7"
+            "score": "14"
           }
         }
       },
       {
         "matchup": "OU @ TEM",
         "kickoff": "9/13/2025, 11:00:00 AM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "TEM",
@@ -193,7 +193,7 @@
         "score": {
           "home": {
             "name": "AUB",
-            "score": "21"
+            "score": "28"
           },
           "away": {
             "name": "USA",
@@ -212,7 +212,7 @@
           },
           "away": {
             "name": "UL",
-            "score": "0"
+            "score": "3"
           }
         }
       },
