@@ -112,21 +112,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "VILL @ PSU",
-        "kickoff": "9/13/2025, 2:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "PSU",
-            "score": "52"
-          },
-          "away": {
-            "name": "VILL",
-            "score": "6"
-          }
-        }
-      },
-      {
         "matchup": "UGA @ TENN",
         "kickoff": "9/13/2025, 2:30:00 PM",
         "status": "Live: Q4",
@@ -193,11 +178,71 @@
         "score": {
           "home": {
             "name": "MIA",
-            "score": "14"
+            "score": "21"
           },
           "away": {
             "name": "USF",
-            "score": "3"
+            "score": "6"
+          }
+        }
+      },
+      {
+        "matchup": "OHIO @ OSU",
+        "kickoff": "9/13/2025, 6:00:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "OSU",
+            "score": "0"
+          },
+          "away": {
+            "name": "OHIO",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "WMU @ ILL",
+        "kickoff": "9/13/2025, 6:00:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ILL",
+            "score": "0"
+          },
+          "away": {
+            "name": "WMU",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "ARK @ MISS",
+        "kickoff": "9/13/2025, 6:00:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MISS",
+            "score": "0"
+          },
+          "away": {
+            "name": "ARK",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "VILL @ PSU",
+        "kickoff": "9/13/2025, 2:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "PSU",
+            "score": "52"
+          },
+          "away": {
+            "name": "VILL",
+            "score": "6"
           }
         }
       },
@@ -303,51 +348,6 @@
           "away": {
             "name": "UL",
             "score": "10"
-          }
-        }
-      },
-      {
-        "matchup": "OHIO @ OSU",
-        "kickoff": "9/13/2025, 6:00:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "OSU",
-            "score": "0"
-          },
-          "away": {
-            "name": "OHIO",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "WMU @ ILL",
-        "kickoff": "9/13/2025, 6:00:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "ILL",
-            "score": "0"
-          },
-          "away": {
-            "name": "WMU",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "ARK @ MISS",
-        "kickoff": "9/13/2025, 6:00:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "MISS",
-            "score": "0"
-          },
-          "away": {
-            "name": "ARK",
-            "score": "0"
           }
         }
       },
