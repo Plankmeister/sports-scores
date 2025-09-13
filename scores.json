@@ -141,14 +141,32 @@
       {
         "matchup": "WIS @ ALA",
         "kickoff": "9/13/2025, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ALA",
+            "score": "0"
+          },
+          "away": {
+            "name": "WIS",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "CMU @ MICH",
         "kickoff": "9/13/2025, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MICH",
+            "score": "0"
+          },
+          "away": {
+            "name": "CMU",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "USA @ AUB",
