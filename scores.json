@@ -112,36 +112,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "OU @ TEM",
-        "kickoff": "9/13/2025, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "TEM",
-            "score": "3"
-          },
-          "away": {
-            "name": "OU",
-            "score": "42"
-          }
-        }
-      },
-      {
-        "matchup": "USA @ AUB",
-        "kickoff": "9/13/2025, 11:45:00 AM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "AUB",
-            "score": "31"
-          },
-          "away": {
-            "name": "USA",
-            "score": "15"
-          }
-        }
-      },
-      {
         "matchup": "UL @ MIZ",
         "kickoff": "9/13/2025, 12:00:00 PM",
         "status": "Live: Q4",
@@ -153,6 +123,36 @@
           "away": {
             "name": "UL",
             "score": "10"
+          }
+        }
+      },
+      {
+        "matchup": "VILL @ PSU",
+        "kickoff": "9/13/2025, 2:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "PSU",
+            "score": "0"
+          },
+          "away": {
+            "name": "VILL",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "ORST @ TTU",
+        "kickoff": "9/13/2025, 2:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "TTU",
+            "score": "0"
+          },
+          "away": {
+            "name": "ORST",
+            "score": "0"
           }
         }
       },
@@ -187,6 +187,21 @@
         }
       },
       {
+        "matchup": "OU @ TEM",
+        "kickoff": "9/13/2025, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "TEM",
+            "score": "3"
+          },
+          "away": {
+            "name": "OU",
+            "score": "42"
+          }
+        }
+      },
+      {
         "matchup": "WIS @ ALA",
         "kickoff": "9/13/2025, 11:00:00 AM",
         "status": "Final",
@@ -217,37 +232,31 @@
         }
       },
       {
-        "matchup": "VILL @ PSU",
-        "kickoff": "9/13/2025, 2:30:00 PM",
-        "status": "Live: Q1",
+        "matchup": "USA @ AUB",
+        "kickoff": "9/13/2025, 11:45:00 AM",
+        "status": "Final",
         "score": {
           "home": {
-            "name": "PSU",
-            "score": "0"
+            "name": "AUB",
+            "score": "31"
           },
           "away": {
-            "name": "VILL",
-            "score": "0"
+            "name": "USA",
+            "score": "15"
           }
         }
       },
       {
         "matchup": "UGA @ TENN",
         "kickoff": "9/13/2025, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "ORST @ TTU",
-        "kickoff": "9/13/2025, 2:30:00 PM",
         "status": "Live: Q1",
         "score": {
           "home": {
-            "name": "TTU",
+            "name": "TENN",
             "score": "0"
           },
           "away": {
-            "name": "ORST",
+            "name": "UGA",
             "score": "0"
           }
         }
