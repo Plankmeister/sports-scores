@@ -144,7 +144,7 @@
       {
         "matchup": "UL @ MIZ",
         "kickoff": "9/13/2025, 12:00:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "MIZ",
@@ -219,8 +219,17 @@
       {
         "matchup": "VILL @ PSU",
         "kickoff": "9/13/2025, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "PSU",
+            "score": "0"
+          },
+          "away": {
+            "name": "VILL",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "UGA @ TENN",
@@ -231,8 +240,17 @@
       {
         "matchup": "ORST @ TTU",
         "kickoff": "9/13/2025, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "TTU",
+            "score": "0"
+          },
+          "away": {
+            "name": "ORST",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "ISU @ ARST",
