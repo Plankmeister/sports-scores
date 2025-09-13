@@ -112,21 +112,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "ORE @ NU",
-        "kickoff": "9/13/2025, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "NU",
-            "score": "14"
-          },
-          "away": {
-            "name": "ORE",
-            "score": "34"
-          }
-        }
-      },
-      {
         "matchup": "CLEM @ GT",
         "kickoff": "9/13/2025, 11:00:00 AM",
         "status": "Live: Q4",
@@ -157,36 +142,6 @@
         }
       },
       {
-        "matchup": "WIS @ ALA",
-        "kickoff": "9/13/2025, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "ALA",
-            "score": "38"
-          },
-          "away": {
-            "name": "WIS",
-            "score": "14"
-          }
-        }
-      },
-      {
-        "matchup": "CMU @ MICH",
-        "kickoff": "9/13/2025, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "MICH",
-            "score": "63"
-          },
-          "away": {
-            "name": "CMU",
-            "score": "3"
-          }
-        }
-      },
-      {
         "matchup": "USA @ AUB",
         "kickoff": "9/13/2025, 11:45:00 AM",
         "status": "Live: Q4",
@@ -213,6 +168,51 @@
           "away": {
             "name": "UL",
             "score": "10"
+          }
+        }
+      },
+      {
+        "matchup": "ORE @ NU",
+        "kickoff": "9/13/2025, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "NU",
+            "score": "14"
+          },
+          "away": {
+            "name": "ORE",
+            "score": "34"
+          }
+        }
+      },
+      {
+        "matchup": "WIS @ ALA",
+        "kickoff": "9/13/2025, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "ALA",
+            "score": "38"
+          },
+          "away": {
+            "name": "WIS",
+            "score": "14"
+          }
+        }
+      },
+      {
+        "matchup": "CMU @ MICH",
+        "kickoff": "9/13/2025, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "MICH",
+            "score": "63"
+          },
+          "away": {
+            "name": "CMU",
+            "score": "3"
           }
         }
       },
