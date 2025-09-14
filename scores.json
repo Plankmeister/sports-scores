@@ -28,14 +28,14 @@
           },
           "away": {
             "name": "NYG",
-            "score": "16"
+            "score": "23"
           }
         }
       },
       {
         "matchup": "CHI @ DET",
         "kickoff": "9/14/2025, 12:00:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "DET",
@@ -58,7 +58,7 @@
           },
           "away": {
             "name": "LAR",
-            "score": "20"
+            "score": "27"
           }
         }
       },
@@ -69,7 +69,7 @@
         "score": {
           "home": {
             "name": "MIA",
-            "score": "20"
+            "score": "27"
           },
           "away": {
             "name": "NE",
