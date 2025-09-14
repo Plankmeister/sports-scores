@@ -118,7 +118,7 @@
         "score": {
           "home": {
             "name": "TTU",
-            "score": "28"
+            "score": "34"
           },
           "away": {
             "name": "ORST",
@@ -208,7 +208,7 @@
         "score": {
           "home": {
             "name": "ND",
-            "score": "7"
+            "score": "14"
           },
           "away": {
             "name": "TA&M",
@@ -228,6 +228,21 @@
           "away": {
             "name": "VAN",
             "score": "7"
+          }
+        }
+      },
+      {
+        "matchup": "UTAH @ WYO",
+        "kickoff": "9/13/2025, 7:00:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "WYO",
+            "score": "0"
+          },
+          "away": {
+            "name": "UTAH",
+            "score": "3"
           }
         }
       },
@@ -393,21 +408,6 @@
           "away": {
             "name": "UL",
             "score": "10"
-          }
-        }
-      },
-      {
-        "matchup": "UTAH @ WYO",
-        "kickoff": "9/13/2025, 7:00:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "WYO",
-            "score": "0"
-          },
-          "away": {
-            "name": "UTAH",
-            "score": "3"
           }
         }
       },
