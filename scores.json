@@ -112,36 +112,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "OHIO @ OSU",
-        "kickoff": "9/13/2025, 6:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "OSU",
-            "score": "37"
-          },
-          "away": {
-            "name": "OHIO",
-            "score": "9"
-          }
-        }
-      },
-      {
-        "matchup": "WMU @ ILL",
-        "kickoff": "9/13/2025, 6:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "ILL",
-            "score": "38"
-          },
-          "away": {
-            "name": "WMU",
-            "score": "0"
-          }
-        }
-      },
-      {
         "matchup": "ARK @ MISS",
         "kickoff": "9/13/2025, 6:00:00 PM",
         "status": "Live: Q4",
@@ -159,7 +129,7 @@
       {
         "matchup": "FLA @ LSU",
         "kickoff": "9/13/2025, 6:30:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "LSU",
@@ -197,14 +167,14 @@
           },
           "away": {
             "name": "VAN",
-            "score": "21"
+            "score": "24"
           }
         }
       },
       {
         "matchup": "UTAH @ WYO",
         "kickoff": "9/13/2025, 7:00:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "WYO",
@@ -213,6 +183,21 @@
           "away": {
             "name": "UTAH",
             "score": "17"
+          }
+        }
+      },
+      {
+        "matchup": "OHIO @ OSU",
+        "kickoff": "9/13/2025, 6:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "OSU",
+            "score": "37"
+          },
+          "away": {
+            "name": "OHIO",
+            "score": "9"
           }
         }
       },
@@ -288,6 +273,21 @@
           "away": {
             "name": "UTEP",
             "score": "10"
+          }
+        }
+      },
+      {
+        "matchup": "WMU @ ILL",
+        "kickoff": "9/13/2025, 6:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "ILL",
+            "score": "38"
+          },
+          "away": {
+            "name": "WMU",
+            "score": "0"
           }
         }
       },
