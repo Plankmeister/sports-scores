@@ -118,7 +118,7 @@
         "score": {
           "home": {
             "name": "TTU",
-            "score": "35"
+            "score": "38"
           },
           "away": {
             "name": "ORST",
@@ -182,7 +182,7 @@
           },
           "away": {
             "name": "ARK",
-            "score": "21"
+            "score": "27"
           }
         }
       },
@@ -212,7 +212,7 @@
           },
           "away": {
             "name": "TA&M",
-            "score": "7"
+            "score": "14"
           }
         }
       },
@@ -234,7 +234,7 @@
       {
         "matchup": "UTAH @ WYO",
         "kickoff": "9/13/2025, 7:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "WYO",
