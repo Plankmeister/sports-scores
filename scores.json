@@ -9,7 +9,7 @@
         "score": {
           "home": {
             "name": "CIN",
-            "score": "10"
+            "score": "17"
           },
           "away": {
             "name": "JAX",
@@ -20,7 +20,7 @@
       {
         "matchup": "NYG @ DAL",
         "kickoff": "9/14/2025, 12:00:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "DAL",
@@ -80,7 +80,7 @@
       {
         "matchup": "SF @ NO",
         "kickoff": "9/14/2025, 12:00:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "NO",
@@ -118,7 +118,7 @@
           },
           "away": {
             "name": "SEA",
-            "score": "7"
+            "score": "14"
           }
         }
       },
@@ -129,7 +129,7 @@
         "score": {
           "home": {
             "name": "BAL",
-            "score": "10"
+            "score": "13"
           },
           "away": {
             "name": "CLE",
