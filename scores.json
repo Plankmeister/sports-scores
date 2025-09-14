@@ -13,7 +13,7 @@
           },
           "away": {
             "name": "JAX",
-            "score": "7"
+            "score": "14"
           }
         }
       },
@@ -28,7 +28,7 @@
           },
           "away": {
             "name": "NYG",
-            "score": "3"
+            "score": "6"
           }
         }
       },
@@ -103,7 +103,7 @@
           },
           "away": {
             "name": "BUF",
-            "score": "10"
+            "score": "13"
           }
         }
       },
@@ -129,7 +129,7 @@
         "score": {
           "home": {
             "name": "BAL",
-            "score": "3"
+            "score": "10"
           },
           "away": {
             "name": "CLE",
