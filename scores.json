@@ -112,21 +112,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "ARK @ MISS",
-        "kickoff": "9/13/2025, 6:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "MISS",
-            "score": "41"
-          },
-          "away": {
-            "name": "ARK",
-            "score": "35"
-          }
-        }
-      },
-      {
         "matchup": "FLA @ LSU",
         "kickoff": "9/13/2025, 6:30:00 PM",
         "status": "Live: Q4",
@@ -144,11 +129,11 @@
       {
         "matchup": "TA&M @ ND",
         "kickoff": "9/13/2025, 6:30:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "ND",
-            "score": "31"
+            "score": "34"
           },
           "away": {
             "name": "TA&M",
@@ -167,7 +152,7 @@
           },
           "away": {
             "name": "VAN",
-            "score": "30"
+            "score": "31"
           }
         }
       },
@@ -182,7 +167,7 @@
           },
           "away": {
             "name": "UTAH",
-            "score": "17"
+            "score": "24"
           }
         }
       },
@@ -333,6 +318,21 @@
           "away": {
             "name": "ISU",
             "score": "24"
+          }
+        }
+      },
+      {
+        "matchup": "ARK @ MISS",
+        "kickoff": "9/13/2025, 6:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "MISS",
+            "score": "41"
+          },
+          "away": {
+            "name": "ARK",
+            "score": "35"
           }
         }
       },
