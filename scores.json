@@ -148,7 +148,7 @@
         "score": {
           "home": {
             "name": "OSU",
-            "score": "6"
+            "score": "13"
           },
           "away": {
             "name": "OHIO",
@@ -212,7 +212,7 @@
           },
           "away": {
             "name": "TA&M",
-            "score": "0"
+            "score": "7"
           }
         }
       },
@@ -227,7 +227,7 @@
           },
           "away": {
             "name": "VAN",
-            "score": "0"
+            "score": "7"
           }
         }
       },
@@ -399,8 +399,17 @@
       {
         "matchup": "UTAH @ WYO",
         "kickoff": "9/13/2025, 7:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "WYO",
+            "score": "0"
+          },
+          "away": {
+            "name": "UTAH",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "INST @ IU",
