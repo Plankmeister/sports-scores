@@ -122,14 +122,14 @@
           },
           "away": {
             "name": "ORST",
-            "score": "7"
+            "score": "14"
           }
         }
       },
       {
         "matchup": "USF @ MIA",
         "kickoff": "9/13/2025, 3:30:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "MIA",
@@ -159,7 +159,7 @@
       {
         "matchup": "WMU @ ILL",
         "kickoff": "9/13/2025, 6:00:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "ILL",
