@@ -163,7 +163,7 @@
         "score": {
           "home": {
             "name": "ILL",
-            "score": "9"
+            "score": "10"
           },
           "away": {
             "name": "WMU",
@@ -174,11 +174,11 @@
       {
         "matchup": "ARK @ MISS",
         "kickoff": "9/13/2025, 6:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "MISS",
-            "score": "7"
+            "score": "14"
           },
           "away": {
             "name": "ARK",
@@ -197,7 +197,7 @@
           },
           "away": {
             "name": "FLA",
-            "score": "0"
+            "score": "3"
           }
         }
       },
@@ -384,8 +384,17 @@
       {
         "matchup": "VAN @ SC",
         "kickoff": "9/13/2025, 6:45:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "SC",
+            "score": "0"
+          },
+          "away": {
+            "name": "VAN",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "UTAH @ WYO",
