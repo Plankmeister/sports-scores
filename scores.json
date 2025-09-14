@@ -114,7 +114,7 @@
       {
         "matchup": "FLA @ LSU",
         "kickoff": "9/13/2025, 6:30:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "LSU",
@@ -137,14 +137,14 @@
           },
           "away": {
             "name": "TA&M",
-            "score": "31"
+            "score": "34"
           }
         }
       },
       {
         "matchup": "VAN @ SC",
         "kickoff": "9/13/2025, 6:45:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "SC",
