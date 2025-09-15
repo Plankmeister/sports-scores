@@ -185,8 +185,17 @@
       {
         "matchup": "ATL @ MIN",
         "kickoff": "9/14/2025, 7:20:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MIN",
+            "score": "0"
+          },
+          "away": {
+            "name": "ATL",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "WSH @ GB",
