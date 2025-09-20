@@ -129,11 +129,11 @@
       {
         "matchup": "AUB @ OU",
         "kickoff": "9/20/2025, 2:30:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "OU",
-            "score": "13"
+            "score": "16"
           },
           "away": {
             "name": "AUB",
@@ -148,7 +148,7 @@
         "score": {
           "home": {
             "name": "MISS",
-            "score": "38"
+            "score": "45"
           },
           "away": {
             "name": "TULN",
