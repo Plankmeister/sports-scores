@@ -118,7 +118,7 @@
         "score": {
           "home": {
             "name": "FSU",
-            "score": "59"
+            "score": "66"
           },
           "away": {
             "name": "KENT",
@@ -137,7 +137,7 @@
           },
           "away": {
             "name": "AUB",
-            "score": "10"
+            "score": "17"
           }
         }
       },
@@ -163,7 +163,7 @@
         "score": {
           "home": {
             "name": "NEB",
-            "score": "20"
+            "score": "27"
           },
           "away": {
             "name": "MICH",
@@ -189,7 +189,7 @@
       {
         "matchup": "TEM @ GT",
         "kickoff": "9/20/2025, 4:05:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "GT",
@@ -197,7 +197,7 @@
           },
           "away": {
             "name": "TEM",
-            "score": "7"
+            "score": "14"
           }
         }
       },
