@@ -129,8 +129,17 @@
       {
         "matchup": "UAB @ TENN",
         "kickoff": "9/20/2025, 11:45:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "TENN",
+            "score": "7"
+          },
+          "away": {
+            "name": "UAB",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "ORST @ ORE",
