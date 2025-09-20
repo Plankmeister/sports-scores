@@ -114,11 +114,11 @@
       {
         "matchup": "ORST @ ORE",
         "kickoff": "9/20/2025, 2:00:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "ORE",
-            "score": "31"
+            "score": "38"
           },
           "away": {
             "name": "ORST",
@@ -152,7 +152,7 @@
           },
           "away": {
             "name": "AUB",
-            "score": "3"
+            "score": "10"
           }
         }
       },
@@ -208,7 +208,7 @@
         "score": {
           "home": {
             "name": "GT",
-            "score": "7"
+            "score": "14"
           },
           "away": {
             "name": "TEM",
