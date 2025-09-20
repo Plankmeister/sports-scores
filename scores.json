@@ -118,7 +118,7 @@
         "score": {
           "home": {
             "name": "ND",
-            "score": "49"
+            "score": "55"
           },
           "away": {
             "name": "PUR",
@@ -133,7 +133,7 @@
         "score": {
           "home": {
             "name": "GT",
-            "score": "35"
+            "score": "38"
           },
           "away": {
             "name": "TEM",
@@ -264,8 +264,17 @@
       {
         "matchup": "FLA @ MIA",
         "kickoff": "9/20/2025, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MIA",
+            "score": "0"
+          },
+          "away": {
+            "name": "FLA",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "ILL @ IU",
