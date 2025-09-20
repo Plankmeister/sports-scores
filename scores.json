@@ -122,14 +122,14 @@
           },
           "away": {
             "name": "TTU",
-            "score": "27"
+            "score": "34"
           }
         }
       },
       {
         "matchup": "UAB @ TENN",
         "kickoff": "9/20/2025, 11:45:00 AM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "TENN",
@@ -152,7 +152,7 @@
           },
           "away": {
             "name": "ORST",
-            "score": "0"
+            "score": "7"
           }
         }
       },
