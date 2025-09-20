@@ -112,21 +112,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "TTU @ UTAH",
-        "kickoff": "9/20/2025, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "UTAH",
-            "score": "10"
-          },
-          "away": {
-            "name": "TTU",
-            "score": "34"
-          }
-        }
-      },
-      {
         "matchup": "UAB @ TENN",
         "kickoff": "9/20/2025, 11:45:00 AM",
         "status": "Live: Q4",
@@ -163,7 +148,7 @@
         "score": {
           "home": {
             "name": "FSU",
-            "score": "7"
+            "score": "14"
           },
           "away": {
             "name": "KENT",
@@ -228,6 +213,21 @@
           "away": {
             "name": "PUR",
             "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "TTU @ UTAH",
+        "kickoff": "9/20/2025, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "UTAH",
+            "score": "10"
+          },
+          "away": {
+            "name": "TTU",
+            "score": "34"
           }
         }
       },
