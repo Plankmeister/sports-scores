@@ -163,7 +163,7 @@
         "score": {
           "home": {
             "name": "MISS",
-            "score": "31"
+            "score": "38"
           },
           "away": {
             "name": "TULN",
@@ -174,11 +174,11 @@
       {
         "matchup": "MICH @ NEB",
         "kickoff": "9/20/2025, 2:30:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "NEB",
-            "score": "17"
+            "score": "20"
           },
           "away": {
             "name": "MICH",
