@@ -112,28 +112,13 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "UAB @ TENN",
-        "kickoff": "9/20/2025, 11:45:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "TENN",
-            "score": "56"
-          },
-          "away": {
-            "name": "UAB",
-            "score": "24"
-          }
-        }
-      },
-      {
         "matchup": "ORST @ ORE",
         "kickoff": "9/20/2025, 2:00:00 PM",
         "status": "Live: Q2",
         "score": {
           "home": {
             "name": "ORE",
-            "score": "14"
+            "score": "21"
           },
           "away": {
             "name": "ORST",
@@ -148,7 +133,7 @@
         "score": {
           "home": {
             "name": "FSU",
-            "score": "28"
+            "score": "35"
           },
           "away": {
             "name": "KENT",
@@ -174,11 +159,11 @@
       {
         "matchup": "TULN @ MISS",
         "kickoff": "9/20/2025, 2:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "MISS",
-            "score": "10"
+            "score": "13"
           },
           "away": {
             "name": "TULN",
@@ -217,6 +202,21 @@
         }
       },
       {
+        "matchup": "UAB @ TENN",
+        "kickoff": "9/20/2025, 11:45:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "TENN",
+            "score": "56"
+          },
+          "away": {
+            "name": "UAB",
+            "score": "24"
+          }
+        }
+      },
+      {
         "matchup": "TTU @ UTAH",
         "kickoff": "9/20/2025, 11:00:00 AM",
         "status": "Final",
@@ -233,7 +233,7 @@
       },
       {
         "matchup": "TEM @ GT",
-        "kickoff": "9/20/2025, 3:30:00 PM",
+        "kickoff": "9/20/2025, 4:05:00 PM",
         "status": "Scheduled",
         "score": null
       },
