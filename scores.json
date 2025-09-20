@@ -144,7 +144,7 @@
       {
         "matchup": "AUB @ OU",
         "kickoff": "9/20/2025, 2:30:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "OU",
@@ -182,7 +182,7 @@
           },
           "away": {
             "name": "MICH",
-            "score": "17"
+            "score": "20"
           }
         }
       },
@@ -204,7 +204,7 @@
       {
         "matchup": "TEM @ GT",
         "kickoff": "9/20/2025, 4:05:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "GT",
