@@ -129,7 +129,7 @@
       {
         "matchup": "KENT @ FSU",
         "kickoff": "9/20/2025, 2:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "FSU",
@@ -174,7 +174,7 @@
       {
         "matchup": "MICH @ NEB",
         "kickoff": "9/20/2025, 2:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "NEB",
@@ -189,7 +189,7 @@
       {
         "matchup": "PUR @ ND",
         "kickoff": "9/20/2025, 2:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "ND",
@@ -197,7 +197,7 @@
           },
           "away": {
             "name": "PUR",
-            "score": "7"
+            "score": "10"
           }
         }
       },
