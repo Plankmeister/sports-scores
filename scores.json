@@ -202,6 +202,21 @@
         }
       },
       {
+        "matchup": "TEM @ GT",
+        "kickoff": "9/20/2025, 4:05:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "GT",
+            "score": "7"
+          },
+          "away": {
+            "name": "TEM",
+            "score": "0"
+          }
+        }
+      },
+      {
         "matchup": "UAB @ TENN",
         "kickoff": "9/20/2025, 11:45:00 AM",
         "status": "Final",
@@ -228,21 +243,6 @@
           "away": {
             "name": "TTU",
             "score": "34"
-          }
-        }
-      },
-      {
-        "matchup": "TEM @ GT",
-        "kickoff": "9/20/2025, 4:05:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "GT",
-            "score": "7"
-          },
-          "away": {
-            "name": "TEM",
-            "score": "0"
           }
         }
       },
