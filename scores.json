@@ -112,28 +112,13 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "KENT @ FSU",
-        "kickoff": "9/20/2025, 2:30:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "FSU",
-            "score": "66"
-          },
-          "away": {
-            "name": "KENT",
-            "score": "10"
-          }
-        }
-      },
-      {
         "matchup": "AUB @ OU",
         "kickoff": "9/20/2025, 2:30:00 PM",
         "status": "Live: Q4",
         "score": {
           "home": {
             "name": "OU",
-            "score": "22"
+            "score": "24"
           },
           "away": {
             "name": "AUB",
@@ -144,7 +129,7 @@
       {
         "matchup": "PUR @ ND",
         "kickoff": "9/20/2025, 2:30:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "ND",
@@ -172,6 +157,21 @@
         }
       },
       {
+        "matchup": "SC @ MIZ",
+        "kickoff": "9/20/2025, 6:00:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MIZ",
+            "score": "0"
+          },
+          "away": {
+            "name": "SC",
+            "score": "0"
+          }
+        }
+      },
+      {
         "matchup": "ORST @ ORE",
         "kickoff": "9/20/2025, 2:00:00 PM",
         "status": "Final",
@@ -183,6 +183,21 @@
           "away": {
             "name": "ORST",
             "score": "7"
+          }
+        }
+      },
+      {
+        "matchup": "KENT @ FSU",
+        "kickoff": "9/20/2025, 2:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "FSU",
+            "score": "66"
+          },
+          "away": {
+            "name": "KENT",
+            "score": "10"
           }
         }
       },
@@ -243,21 +258,6 @@
           "away": {
             "name": "MICH",
             "score": "30"
-          }
-        }
-      },
-      {
-        "matchup": "SC @ MIZ",
-        "kickoff": "9/20/2025, 6:00:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "MIZ",
-            "score": "0"
-          },
-          "away": {
-            "name": "SC",
-            "score": "0"
           }
         }
       },
