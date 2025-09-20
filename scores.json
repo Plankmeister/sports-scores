@@ -118,7 +118,7 @@
         "score": {
           "home": {
             "name": "ND",
-            "score": "55"
+            "score": "56"
           },
           "away": {
             "name": "PUR",
@@ -152,6 +152,21 @@
           },
           "away": {
             "name": "SC",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "FLA @ MIA",
+        "kickoff": "9/20/2025, 6:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MIA",
+            "score": "0"
+          },
+          "away": {
+            "name": "FLA",
             "score": "0"
           }
         }
@@ -262,25 +277,19 @@
         }
       },
       {
-        "matchup": "FLA @ MIA",
+        "matchup": "ILL @ IU",
         "kickoff": "9/20/2025, 6:30:00 PM",
         "status": "Live: Q1",
         "score": {
           "home": {
-            "name": "MIA",
+            "name": "IU",
             "score": "0"
           },
           "away": {
-            "name": "FLA",
+            "name": "ILL",
             "score": "0"
           }
         }
-      },
-      {
-        "matchup": "ILL @ IU",
-        "kickoff": "9/20/2025, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
       },
       {
         "matchup": "GAST @ VAN",
