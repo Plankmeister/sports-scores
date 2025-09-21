@@ -3,58 +3,13 @@
     "week": 3,
     "games": [
       {
-        "matchup": "DEN @ LAC",
-        "kickoff": "9/21/2025, 3:05:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "LAC",
-            "score": "23"
-          },
-          "away": {
-            "name": "DEN",
-            "score": "20"
-          }
-        }
-      },
-      {
-        "matchup": "NO @ SEA",
-        "kickoff": "9/21/2025, 3:05:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "SEA",
-            "score": "44"
-          },
-          "away": {
-            "name": "NO",
-            "score": "13"
-          }
-        }
-      },
-      {
-        "matchup": "DAL @ CHI",
-        "kickoff": "9/21/2025, 3:25:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "CHI",
-            "score": "31"
-          },
-          "away": {
-            "name": "DAL",
-            "score": "14"
-          }
-        }
-      },
-      {
         "matchup": "ARI @ SF",
         "kickoff": "9/21/2025, 3:25:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "SF",
-            "score": "13"
+            "score": "16"
           },
           "away": {
             "name": "ARI",
@@ -194,6 +149,51 @@
           "away": {
             "name": "HOU",
             "score": "10"
+          }
+        }
+      },
+      {
+        "matchup": "DEN @ LAC",
+        "kickoff": "9/21/2025, 3:05:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "LAC",
+            "score": "23"
+          },
+          "away": {
+            "name": "DEN",
+            "score": "20"
+          }
+        }
+      },
+      {
+        "matchup": "NO @ SEA",
+        "kickoff": "9/21/2025, 3:05:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "SEA",
+            "score": "44"
+          },
+          "away": {
+            "name": "NO",
+            "score": "13"
+          }
+        }
+      },
+      {
+        "matchup": "DAL @ CHI",
+        "kickoff": "9/21/2025, 3:25:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "CHI",
+            "score": "31"
+          },
+          "away": {
+            "name": "DAL",
+            "score": "14"
           }
         }
       },
