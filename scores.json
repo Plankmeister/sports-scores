@@ -114,7 +114,7 @@
       {
         "matchup": "PUR @ ND",
         "kickoff": "9/20/2025, 2:30:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "ND",
@@ -123,21 +123,6 @@
           "away": {
             "name": "PUR",
             "score": "30"
-          }
-        }
-      },
-      {
-        "matchup": "TEM @ GT",
-        "kickoff": "9/20/2025, 4:05:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "GT",
-            "score": "45"
-          },
-          "away": {
-            "name": "TEM",
-            "score": "24"
           }
         }
       },
@@ -193,7 +178,7 @@
         "score": {
           "home": {
             "name": "VAN",
-            "score": "7"
+            "score": "14"
           },
           "away": {
             "name": "GAST",
@@ -208,7 +193,7 @@
         "score": {
           "home": {
             "name": "LSU",
-            "score": "7"
+            "score": "14"
           },
           "away": {
             "name": "SELA",
@@ -223,7 +208,7 @@
         "score": {
           "home": {
             "name": "TEX",
-            "score": "7"
+            "score": "14"
           },
           "away": {
             "name": "SHSU",
@@ -318,6 +303,21 @@
           "away": {
             "name": "TTU",
             "score": "34"
+          }
+        }
+      },
+      {
+        "matchup": "TEM @ GT",
+        "kickoff": "9/20/2025, 4:05:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "GT",
+            "score": "45"
+          },
+          "away": {
+            "name": "TEM",
+            "score": "24"
           }
         }
       },
