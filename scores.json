@@ -35,11 +35,11 @@
       {
         "matchup": "LAR @ PHI",
         "kickoff": "9/21/2025, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "PHI",
-            "score": "27"
+            "score": "33"
           },
           "away": {
             "name": "LAR",
@@ -58,14 +58,14 @@
           },
           "away": {
             "name": "NYJ",
-            "score": "20"
+            "score": "27"
           }
         }
       },
       {
         "matchup": "LV @ WSH",
         "kickoff": "9/21/2025, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "WSH",
@@ -80,7 +80,7 @@
       {
         "matchup": "HOU @ JAX",
         "kickoff": "9/21/2025, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "JAX",
