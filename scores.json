@@ -5,7 +5,7 @@
       {
         "matchup": "GB @ CLE",
         "kickoff": "9/21/2025, 12:00:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "CLE",
@@ -39,7 +39,7 @@
         "score": {
           "home": {
             "name": "MIN",
-            "score": "24"
+            "score": "31"
           },
           "away": {
             "name": "CIN",
@@ -50,7 +50,7 @@
       {
         "matchup": "PIT @ NE",
         "kickoff": "9/21/2025, 12:00:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "NE",
@@ -84,7 +84,7 @@
         "score": {
           "home": {
             "name": "TB",
-            "score": "13"
+            "score": "20"
           },
           "away": {
             "name": "NYJ",
@@ -110,7 +110,7 @@
       {
         "matchup": "ATL @ CAR",
         "kickoff": "9/21/2025, 12:00:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "CAR",
