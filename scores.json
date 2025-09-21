@@ -39,7 +39,7 @@
         "score": {
           "home": {
             "name": "SEA",
-            "score": "7"
+            "score": "14"
           },
           "away": {
             "name": "NO",
@@ -170,14 +170,32 @@
       {
         "matchup": "DAL @ CHI",
         "kickoff": "9/21/2025, 3:25:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "CHI",
+            "score": "0"
+          },
+          "away": {
+            "name": "DAL",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "ARI @ SF",
         "kickoff": "9/21/2025, 3:25:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "SF",
+            "score": "0"
+          },
+          "away": {
+            "name": "ARI",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "KC @ NYG",
