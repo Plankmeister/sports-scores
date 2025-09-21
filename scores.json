@@ -24,7 +24,7 @@
         "score": {
           "home": {
             "name": "TEN",
-            "score": "0"
+            "score": "3"
           },
           "away": {
             "name": "IND",
@@ -58,7 +58,7 @@
           },
           "away": {
             "name": "PIT",
-            "score": "0"
+            "score": "7"
           }
         }
       },
@@ -69,7 +69,7 @@
         "score": {
           "home": {
             "name": "PHI",
-            "score": "0"
+            "score": "7"
           },
           "away": {
             "name": "LAR",
@@ -88,7 +88,7 @@
           },
           "away": {
             "name": "NYJ",
-            "score": "0"
+            "score": "3"
           }
         }
       },
@@ -103,7 +103,7 @@
           },
           "away": {
             "name": "LV",
-            "score": "0"
+            "score": "3"
           }
         }
       },
