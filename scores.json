@@ -114,7 +114,7 @@
       {
         "matchup": "FLA @ MIA",
         "kickoff": "9/20/2025, 6:30:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "MIA",
@@ -133,7 +133,7 @@
         "score": {
           "home": {
             "name": "VAN",
-            "score": "56"
+            "score": "63"
           },
           "away": {
             "name": "GAST",
@@ -339,8 +339,17 @@
       {
         "matchup": "MSU @ USC",
         "kickoff": "9/20/2025, 10:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "USC",
+            "score": "0"
+          },
+          "away": {
+            "name": "MSU",
+            "score": "0"
+          }
+        }
       }
     ]
   }
