@@ -114,7 +114,7 @@
       {
         "matchup": "SC @ MIZ",
         "kickoff": "9/20/2025, 6:00:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "MIZ",
@@ -144,7 +144,7 @@
       {
         "matchup": "ILL @ IU",
         "kickoff": "9/20/2025, 6:30:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "IU",
@@ -163,7 +163,7 @@
         "score": {
           "home": {
             "name": "VAN",
-            "score": "35"
+            "score": "42"
           },
           "away": {
             "name": "GAST",
@@ -174,7 +174,7 @@
       {
         "matchup": "SELA @ LSU",
         "kickoff": "9/20/2025, 6:45:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "LSU",
