@@ -118,7 +118,7 @@
         "score": {
           "home": {
             "name": "MIZ",
-            "score": "18"
+            "score": "26"
           },
           "away": {
             "name": "SC",
@@ -148,7 +148,7 @@
         "score": {
           "home": {
             "name": "IU",
-            "score": "35"
+            "score": "42"
           },
           "away": {
             "name": "ILL",
@@ -178,7 +178,7 @@
         "score": {
           "home": {
             "name": "LSU",
-            "score": "35"
+            "score": "42"
           },
           "away": {
             "name": "SELA",
@@ -189,11 +189,11 @@
       {
         "matchup": "SHSU @ TEX",
         "kickoff": "9/20/2025, 7:00:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "TEX",
-            "score": "31"
+            "score": "38"
           },
           "away": {
             "name": "SHSU",
