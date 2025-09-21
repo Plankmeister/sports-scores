@@ -50,7 +50,7 @@
       {
         "matchup": "PIT @ NE",
         "kickoff": "9/21/2025, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "NE",
@@ -69,7 +69,7 @@
         "score": {
           "home": {
             "name": "PHI",
-            "score": "21"
+            "score": "27"
           },
           "away": {
             "name": "LAR",
@@ -103,14 +103,14 @@
           },
           "away": {
             "name": "LV",
-            "score": "16"
+            "score": "24"
           }
         }
       },
       {
         "matchup": "ATL @ CAR",
         "kickoff": "9/21/2025, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "CAR",
