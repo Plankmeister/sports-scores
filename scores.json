@@ -200,8 +200,17 @@
       {
         "matchup": "KC @ NYG",
         "kickoff": "9/21/2025, 7:20:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "NYG",
+            "score": "0"
+          },
+          "away": {
+            "name": "KC",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "MIA @ BUF",
