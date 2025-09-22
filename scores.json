@@ -3,6 +3,27 @@
     "week": 3,
     "games": [
       {
+        "matchup": "DET @ BAL",
+        "kickoff": "9/22/2025, 7:15:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "MIA @ BUF",
+        "kickoff": "9/18/2025, 7:15:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "BUF",
+            "score": "31"
+          },
+          "away": {
+            "name": "MIA",
+            "score": "21"
+          }
+        }
+      },
+      {
         "matchup": "GB @ CLE",
         "kickoff": "9/21/2025, 12:00:00 PM",
         "status": "Final",
@@ -211,271 +232,106 @@
             "score": "22"
           }
         }
-      },
-      {
-        "matchup": "MIA @ BUF",
-        "kickoff": "9/18/2025, 7:15:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "BUF",
-            "score": "31"
-          },
-          "away": {
-            "name": "MIA",
-            "score": "21"
-          }
-        }
-      },
-      {
-        "matchup": "DET @ BAL",
-        "kickoff": "9/22/2025, 7:15:00 PM",
-        "status": "Scheduled",
-        "score": null
       }
     ]
   },
   "collegeFootball": {
     "games": [
       {
-        "matchup": "SELA @ LSU",
-        "kickoff": "9/20/2025, 6:45:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "LSU",
-            "score": "56"
-          },
-          "away": {
-            "name": "SELA",
-            "score": "10"
-          }
-        }
+        "matchup": "FSU @ UVA",
+        "kickoff": "9/26/2025, 6:00:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "FLA @ MIA",
-        "kickoff": "9/20/2025, 6:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "MIA",
-            "score": "26"
-          },
-          "away": {
-            "name": "FLA",
-            "score": "7"
-          }
-        }
+        "matchup": "TCU @ ASU",
+        "kickoff": "9/26/2025, 8:00:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "ORST @ ORE",
-        "kickoff": "9/20/2025, 2:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "ORE",
-            "score": "41"
-          },
-          "away": {
-            "name": "ORST",
-            "score": "7"
-          }
-        }
+        "matchup": "GT @ WAKE",
+        "kickoff": "9/27/2025, 11:00:00 AM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "KENT @ FSU",
-        "kickoff": "9/20/2025, 2:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "FSU",
-            "score": "66"
-          },
-          "away": {
-            "name": "KENT",
-            "score": "10"
-          }
-        }
+        "matchup": "USC @ ILL",
+        "kickoff": "9/27/2025, 11:00:00 AM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "SHSU @ TEX",
-        "kickoff": "9/20/2025, 7:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "TEX",
-            "score": "55"
-          },
-          "away": {
-            "name": "SHSU",
-            "score": "0"
-          }
-        }
+        "matchup": "ND @ ARK",
+        "kickoff": "9/27/2025, 11:00:00 AM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "ILL @ IU",
-        "kickoff": "9/20/2025, 6:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "IU",
-            "score": "63"
-          },
-          "away": {
-            "name": "ILL",
-            "score": "10"
-          }
-        }
+        "matchup": "USU @ VAN",
+        "kickoff": "9/27/2025, 11:45:00 AM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "AUB @ OU",
-        "kickoff": "9/20/2025, 2:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "OU",
-            "score": "24"
-          },
-          "away": {
-            "name": "AUB",
-            "score": "17"
-          }
-        }
+        "matchup": "OSU @ WASH",
+        "kickoff": "9/27/2025, 2:30:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "TULN @ MISS",
-        "kickoff": "9/20/2025, 2:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "MISS",
-            "score": "45"
-          },
-          "away": {
-            "name": "TULN",
-            "score": "10"
-          }
-        }
+        "matchup": "LSU @ MISS",
+        "kickoff": "9/27/2025, 2:30:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "UAB @ TENN",
-        "kickoff": "9/20/2025, 11:45:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "TENN",
-            "score": "56"
-          },
-          "away": {
-            "name": "UAB",
-            "score": "24"
-          }
-        }
+        "matchup": "AUB @ TA&M",
+        "kickoff": "9/27/2025, 2:30:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "TTU @ UTAH",
-        "kickoff": "9/20/2025, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "UTAH",
-            "score": "10"
-          },
-          "away": {
-            "name": "TTU",
-            "score": "34"
-          }
-        }
+        "matchup": "IU @ IOWA",
+        "kickoff": "9/27/2025, 2:30:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "TEM @ GT",
-        "kickoff": "9/20/2025, 4:05:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "GT",
-            "score": "45"
-          },
-          "away": {
-            "name": "TEM",
-            "score": "24"
-          }
-        }
+        "matchup": "TENN @ MSST",
+        "kickoff": "9/27/2025, 3:15:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "GAST @ VAN",
-        "kickoff": "9/20/2025, 6:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "VAN",
-            "score": "70"
-          },
-          "away": {
-            "name": "GAST",
-            "score": "21"
-          }
-        }
+        "matchup": "ARIZ @ ISU",
+        "kickoff": "9/27/2025, 6:00:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "MICH @ NEB",
-        "kickoff": "9/20/2025, 2:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "NEB",
-            "score": "27"
-          },
-          "away": {
-            "name": "MICH",
-            "score": "30"
-          }
-        }
+        "matchup": "ORE @ PSU",
+        "kickoff": "9/27/2025, 6:30:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "SC @ MIZ",
-        "kickoff": "9/20/2025, 6:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "MIZ",
-            "score": "29"
-          },
-          "away": {
-            "name": "SC",
-            "score": "20"
-          }
-        }
+        "matchup": "ALA @ UGA",
+        "kickoff": "9/27/2025, 6:30:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "PUR @ ND",
-        "kickoff": "9/20/2025, 2:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "ND",
-            "score": "56"
-          },
-          "away": {
-            "name": "PUR",
-            "score": "30"
-          }
-        }
+        "matchup": "MASS @ MIZ",
+        "kickoff": "9/27/2025, 6:30:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "MSU @ USC",
-        "kickoff": "9/20/2025, 10:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "USC",
-            "score": "45"
-          },
-          "away": {
-            "name": "MSU",
-            "score": "31"
-          }
-        }
+        "matchup": "BYU @ COLO",
+        "kickoff": "9/27/2025, 9:15:00 PM",
+        "status": "Scheduled",
+        "score": null
       }
     ]
   }
