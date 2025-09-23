@@ -5,8 +5,17 @@
       {
         "matchup": "DET @ BAL",
         "kickoff": "9/22/2025, 7:15:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "BAL",
+            "score": "0"
+          },
+          "away": {
+            "name": "DET",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "MIA @ BUF",
