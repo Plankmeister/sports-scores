@@ -3,21 +3,6 @@
     "week": 3,
     "games": [
       {
-        "matchup": "DET @ BAL",
-        "kickoff": "9/22/2025, 7:15:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "BAL",
-            "score": "30"
-          },
-          "away": {
-            "name": "DET",
-            "score": "38"
-          }
-        }
-      },
-      {
         "matchup": "MIA @ BUF",
         "kickoff": "9/18/2025, 7:15:00 PM",
         "status": "Final",
@@ -239,6 +224,21 @@
           "away": {
             "name": "KC",
             "score": "22"
+          }
+        }
+      },
+      {
+        "matchup": "DET @ BAL",
+        "kickoff": "9/22/2025, 7:15:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "BAL",
+            "score": "30"
+          },
+          "away": {
+            "name": "DET",
+            "score": "38"
           }
         }
       }
