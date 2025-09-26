@@ -5,8 +5,17 @@
       {
         "matchup": "SEA @ ARI",
         "kickoff": "9/25/2025, 7:15:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ARI",
+            "score": "0"
+          },
+          "away": {
+            "name": "SEA",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "MIN VS PIT",
