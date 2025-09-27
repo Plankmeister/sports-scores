@@ -129,7 +129,7 @@
       {
         "matchup": "USC @ ILL",
         "kickoff": "9/27/2025, 11:00:00 AM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "ILL",
@@ -167,7 +167,7 @@
           },
           "away": {
             "name": "USU",
-            "score": "14"
+            "score": "21"
           }
         }
       },
