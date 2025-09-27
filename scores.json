@@ -159,8 +159,17 @@
       {
         "matchup": "USU @ VAN",
         "kickoff": "9/27/2025, 11:45:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "VAN",
+            "score": "0"
+          },
+          "away": {
+            "name": "USU",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "OSU @ WASH",
