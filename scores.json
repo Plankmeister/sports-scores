@@ -112,36 +112,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "GT @ WAKE",
-        "kickoff": "9/27/2025, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "WAKE",
-            "score": "29"
-          },
-          "away": {
-            "name": "GT",
-            "score": "30"
-          }
-        }
-      },
-      {
-        "matchup": "USU @ VAN",
-        "kickoff": "9/27/2025, 11:45:00 AM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "VAN",
-            "score": "55"
-          },
-          "away": {
-            "name": "USU",
-            "score": "35"
-          }
-        }
-      },
-      {
         "matchup": "OSU @ WASH",
         "kickoff": "9/27/2025, 2:30:00 PM",
         "status": "Live: Q1",
@@ -198,6 +168,36 @@
           "away": {
             "name": "IU",
             "score": "7"
+          }
+        }
+      },
+      {
+        "matchup": "GT @ WAKE",
+        "kickoff": "9/27/2025, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "WAKE",
+            "score": "29"
+          },
+          "away": {
+            "name": "GT",
+            "score": "30"
+          }
+        }
+      },
+      {
+        "matchup": "USU @ VAN",
+        "kickoff": "9/27/2025, 11:45:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "VAN",
+            "score": "55"
+          },
+          "away": {
+            "name": "USU",
+            "score": "35"
           }
         }
       },
