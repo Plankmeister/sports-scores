@@ -133,7 +133,7 @@
         "score": {
           "home": {
             "name": "MISS",
-            "score": "0"
+            "score": "3"
           },
           "away": {
             "name": "LSU",
@@ -144,7 +144,7 @@
       {
         "matchup": "AUB @ TA&M",
         "kickoff": "9/27/2025, 2:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "TA&M",
@@ -168,6 +168,21 @@
           "away": {
             "name": "IU",
             "score": "7"
+          }
+        }
+      },
+      {
+        "matchup": "TENN @ MSST",
+        "kickoff": "9/27/2025, 3:15:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MSST",
+            "score": "7"
+          },
+          "away": {
+            "name": "TENN",
+            "score": "0"
           }
         }
       },
@@ -230,12 +245,6 @@
             "score": "56"
           }
         }
-      },
-      {
-        "matchup": "TENN @ MSST",
-        "kickoff": "9/27/2025, 3:15:00 PM",
-        "status": "Scheduled",
-        "score": null
       },
       {
         "matchup": "ARIZ @ ISU",
