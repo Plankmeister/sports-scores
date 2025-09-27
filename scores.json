@@ -114,20 +114,47 @@
       {
         "matchup": "GT @ WAKE",
         "kickoff": "9/27/2025, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "WAKE",
+            "score": "0"
+          },
+          "away": {
+            "name": "GT",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "USC @ ILL",
         "kickoff": "9/27/2025, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ILL",
+            "score": "0"
+          },
+          "away": {
+            "name": "USC",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "ND @ ARK",
         "kickoff": "9/27/2025, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ARK",
+            "score": "0"
+          },
+          "away": {
+            "name": "ND",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "USU @ VAN",
