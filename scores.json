@@ -276,8 +276,17 @@
       {
         "matchup": "MASS @ MIZ",
         "kickoff": "9/27/2025, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MIZ",
+            "score": "0"
+          },
+          "away": {
+            "name": "MASS",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "BYU @ COLO",
