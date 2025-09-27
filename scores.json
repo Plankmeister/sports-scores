@@ -122,18 +122,18 @@
           },
           "away": {
             "name": "GT",
-            "score": "20"
+            "score": "23"
           }
         }
       },
       {
         "matchup": "USC @ ILL",
         "kickoff": "9/27/2025, 11:00:00 AM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "ILL",
-            "score": "31"
+            "score": "34"
           },
           "away": {
             "name": "USC",
@@ -148,7 +148,7 @@
         "score": {
           "home": {
             "name": "VAN",
-            "score": "48"
+            "score": "55"
           },
           "away": {
             "name": "USU",
@@ -163,7 +163,7 @@
         "score": {
           "home": {
             "name": "TA&M",
-            "score": "6"
+            "score": "7"
           },
           "away": {
             "name": "AUB",
