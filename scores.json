@@ -112,21 +112,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "FSU @ UVA",
-        "kickoff": "9/26/2025, 6:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "UVA",
-            "score": "46"
-          },
-          "away": {
-            "name": "FSU",
-            "score": "38"
-          }
-        }
-      },
-      {
         "matchup": "TCU @ ASU",
         "kickoff": "9/26/2025, 8:00:00 PM",
         "status": "Live: Q2",
@@ -138,6 +123,21 @@
           "away": {
             "name": "TCU",
             "score": "17"
+          }
+        }
+      },
+      {
+        "matchup": "FSU @ UVA",
+        "kickoff": "9/26/2025, 6:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "UVA",
+            "score": "46"
+          },
+          "away": {
+            "name": "FSU",
+            "score": "38"
           }
         }
       },
