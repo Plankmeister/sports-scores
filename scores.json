@@ -129,7 +129,7 @@
       {
         "matchup": "AUB @ TA&M",
         "kickoff": "9/27/2025, 2:30:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "TA&M",
@@ -144,11 +144,11 @@
       {
         "matchup": "IU @ IOWA",
         "kickoff": "9/27/2025, 2:30:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "IOWA",
-            "score": "13"
+            "score": "15"
           },
           "away": {
             "name": "IU",
@@ -249,8 +249,17 @@
       {
         "matchup": "ARIZ @ ISU",
         "kickoff": "9/27/2025, 6:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ISU",
+            "score": "0"
+          },
+          "away": {
+            "name": "ARIZ",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "ORE @ PSU",
