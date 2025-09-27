@@ -152,7 +152,7 @@
           },
           "away": {
             "name": "USU",
-            "score": "21"
+            "score": "28"
           }
         }
       },
@@ -163,7 +163,7 @@
         "score": {
           "home": {
             "name": "TA&M",
-            "score": "0"
+            "score": "6"
           },
           "away": {
             "name": "AUB",
@@ -204,14 +204,32 @@
       {
         "matchup": "OSU @ WASH",
         "kickoff": "9/27/2025, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "WASH",
+            "score": "0"
+          },
+          "away": {
+            "name": "OSU",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "LSU @ MISS",
         "kickoff": "9/27/2025, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MISS",
+            "score": "0"
+          },
+          "away": {
+            "name": "LSU",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "TENN @ MSST",
