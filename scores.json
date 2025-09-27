@@ -137,22 +137,7 @@
           },
           "away": {
             "name": "USC",
-            "score": "31"
-          }
-        }
-      },
-      {
-        "matchup": "ND @ ARK",
-        "kickoff": "9/27/2025, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "ARK",
-            "score": "13"
-          },
-          "away": {
-            "name": "ND",
-            "score": "56"
+            "score": "32"
           }
         }
       },
@@ -172,22 +157,19 @@
         }
       },
       {
-        "matchup": "OSU @ WASH",
-        "kickoff": "9/27/2025, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "LSU @ MISS",
-        "kickoff": "9/27/2025, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
         "matchup": "AUB @ TA&M",
         "kickoff": "9/27/2025, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "TA&M",
+            "score": "0"
+          },
+          "away": {
+            "name": "AUB",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "IU @ IOWA",
@@ -200,9 +182,36 @@
           },
           "away": {
             "name": "IU",
-            "score": "0"
+            "score": "7"
           }
         }
+      },
+      {
+        "matchup": "ND @ ARK",
+        "kickoff": "9/27/2025, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "ARK",
+            "score": "13"
+          },
+          "away": {
+            "name": "ND",
+            "score": "56"
+          }
+        }
+      },
+      {
+        "matchup": "OSU @ WASH",
+        "kickoff": "9/27/2025, 2:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "LSU @ MISS",
+        "kickoff": "9/27/2025, 2:30:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
         "matchup": "TENN @ MSST",
