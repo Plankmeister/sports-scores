@@ -122,7 +122,7 @@
           },
           "away": {
             "name": "GT",
-            "score": "9"
+            "score": "10"
           }
         }
       },
@@ -133,7 +133,7 @@
         "score": {
           "home": {
             "name": "ILL",
-            "score": "17"
+            "score": "24"
           },
           "away": {
             "name": "USC",
@@ -152,14 +152,14 @@
           },
           "away": {
             "name": "ND",
-            "score": "42"
+            "score": "49"
           }
         }
       },
       {
         "matchup": "USU @ VAN",
         "kickoff": "9/27/2025, 11:45:00 AM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "VAN",
