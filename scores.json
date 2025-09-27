@@ -112,21 +112,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "TCU @ ASU",
-        "kickoff": "9/26/2025, 8:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "ASU",
-            "score": "27"
-          },
-          "away": {
-            "name": "TCU",
-            "score": "24"
-          }
-        }
-      },
-      {
         "matchup": "GT @ WAKE",
         "kickoff": "9/27/2025, 11:00:00 AM",
         "status": "Scheduled",
@@ -222,6 +207,21 @@
           "away": {
             "name": "FSU",
             "score": "38"
+          }
+        }
+      },
+      {
+        "matchup": "TCU @ ASU",
+        "kickoff": "9/26/2025, 8:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "ASU",
+            "score": "27"
+          },
+          "away": {
+            "name": "TCU",
+            "score": "24"
           }
         }
       }
