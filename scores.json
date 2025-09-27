@@ -122,7 +122,7 @@
           },
           "away": {
             "name": "TENN",
-            "score": "33"
+            "score": "34"
           }
         }
       },
@@ -279,14 +279,32 @@
       {
         "matchup": "ORE @ PSU",
         "kickoff": "9/27/2025, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "PSU",
+            "score": "0"
+          },
+          "away": {
+            "name": "ORE",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "ALA @ UGA",
         "kickoff": "9/27/2025, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "UGA",
+            "score": "0"
+          },
+          "away": {
+            "name": "ALA",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "BYU @ COLO",
