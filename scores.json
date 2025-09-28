@@ -133,7 +133,7 @@
         "score": {
           "home": {
             "name": "PSU",
-            "score": "3"
+            "score": "10"
           },
           "away": {
             "name": "ORE",
@@ -309,8 +309,17 @@
       {
         "matchup": "BYU @ COLO",
         "kickoff": "9/27/2025, 9:15:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "COLO",
+            "score": "0"
+          },
+          "away": {
+            "name": "BYU",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "FSU @ UVA",
