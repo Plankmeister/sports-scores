@@ -9,7 +9,7 @@
         "score": {
           "home": {
             "name": "ATL",
-            "score": "3"
+            "score": "10"
           },
           "away": {
             "name": "WSH",
@@ -24,7 +24,7 @@
         "score": {
           "home": {
             "name": "BUF",
-            "score": "7"
+            "score": "13"
           },
           "away": {
             "name": "NO",
@@ -39,7 +39,7 @@
         "score": {
           "home": {
             "name": "DET",
-            "score": "0"
+            "score": "6"
           },
           "away": {
             "name": "CLE",
@@ -88,7 +88,7 @@
           },
           "away": {
             "name": "PHI",
-            "score": "13"
+            "score": "14"
           }
         }
       },
