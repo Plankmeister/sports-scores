@@ -5,7 +5,7 @@
       {
         "matchup": "WSH @ ATL",
         "kickoff": "9/28/2025, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "ATL",
@@ -24,7 +24,7 @@
         "score": {
           "home": {
             "name": "BUF",
-            "score": "28"
+            "score": "31"
           },
           "away": {
             "name": "NO",
@@ -39,7 +39,7 @@
         "score": {
           "home": {
             "name": "DET",
-            "score": "33"
+            "score": "34"
           },
           "away": {
             "name": "CLE",
@@ -50,7 +50,7 @@
       {
         "matchup": "CAR @ NE",
         "kickoff": "9/28/2025, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "NE",
