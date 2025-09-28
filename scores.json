@@ -3,62 +3,47 @@
     "week": 4,
     "games": [
       {
-        "matchup": "NO @ BUF",
-        "kickoff": "9/28/2025, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "BUF",
-            "score": "31"
-          },
-          "away": {
-            "name": "NO",
-            "score": "19"
-          }
-        }
-      },
-      {
-        "matchup": "CLE @ DET",
-        "kickoff": "9/28/2025, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "DET",
-            "score": "34"
-          },
-          "away": {
-            "name": "CLE",
-            "score": "10"
-          }
-        }
-      },
-      {
-        "matchup": "LAC @ NYG",
-        "kickoff": "9/28/2025, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "NYG",
-            "score": "21"
-          },
-          "away": {
-            "name": "LAC",
-            "score": "18"
-          }
-        }
-      },
-      {
         "matchup": "PHI @ TB",
         "kickoff": "9/28/2025, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "TB",
-            "score": "23"
+            "score": "25"
           },
           "away": {
             "name": "PHI",
             "score": "31"
+          }
+        }
+      },
+      {
+        "matchup": "IND @ LAR",
+        "kickoff": "9/28/2025, 3:05:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "LAR",
+            "score": "3"
+          },
+          "away": {
+            "name": "IND",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "JAX @ SF",
+        "kickoff": "9/28/2025, 3:05:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "SF",
+            "score": "3"
+          },
+          "away": {
+            "name": "JAX",
+            "score": "0"
           }
         }
       },
@@ -93,6 +78,36 @@
         }
       },
       {
+        "matchup": "NO @ BUF",
+        "kickoff": "9/28/2025, 12:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "BUF",
+            "score": "31"
+          },
+          "away": {
+            "name": "NO",
+            "score": "19"
+          }
+        }
+      },
+      {
+        "matchup": "CLE @ DET",
+        "kickoff": "9/28/2025, 12:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "DET",
+            "score": "34"
+          },
+          "away": {
+            "name": "CLE",
+            "score": "10"
+          }
+        }
+      },
+      {
         "matchup": "CAR @ NE",
         "kickoff": "9/28/2025, 12:00:00 PM",
         "status": "Final",
@@ -108,6 +123,21 @@
         }
       },
       {
+        "matchup": "LAC @ NYG",
+        "kickoff": "9/28/2025, 12:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "NYG",
+            "score": "21"
+          },
+          "away": {
+            "name": "LAC",
+            "score": "18"
+          }
+        }
+      },
+      {
         "matchup": "TEN @ HOU",
         "kickoff": "9/28/2025, 12:00:00 PM",
         "status": "Final",
@@ -118,36 +148,6 @@
           },
           "away": {
             "name": "TEN",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "IND @ LAR",
-        "kickoff": "9/28/2025, 3:05:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "LAR",
-            "score": "0"
-          },
-          "away": {
-            "name": "IND",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "JAX @ SF",
-        "kickoff": "9/28/2025, 3:05:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "SF",
-            "score": "3"
-          },
-          "away": {
-            "name": "JAX",
             "score": "0"
           }
         }
