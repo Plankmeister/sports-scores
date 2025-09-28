@@ -28,7 +28,7 @@
           },
           "away": {
             "name": "NO",
-            "score": "0"
+            "score": "7"
           }
         }
       },
@@ -43,22 +43,7 @@
           },
           "away": {
             "name": "CLE",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "MIN VS PIT",
-        "kickoff": "9/28/2025, 8:30:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "PIT",
-            "score": "24"
-          },
-          "away": {
-            "name": "MIN",
-            "score": "21"
+            "score": "7"
           }
         }
       },
@@ -103,7 +88,7 @@
           },
           "away": {
             "name": "PHI",
-            "score": "7"
+            "score": "13"
           }
         }
       },
@@ -114,11 +99,26 @@
         "score": {
           "home": {
             "name": "HOU",
-            "score": "0"
+            "score": "3"
           },
           "away": {
             "name": "TEN",
             "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "MIN VS PIT",
+        "kickoff": "9/28/2025, 8:30:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "PIT",
+            "score": "24"
+          },
+          "away": {
+            "name": "MIN",
+            "score": "21"
           }
         }
       },
