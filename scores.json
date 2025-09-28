@@ -144,7 +144,7 @@
       {
         "matchup": "MASS @ MIZ",
         "kickoff": "9/27/2025, 6:30:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "MIZ",
@@ -163,7 +163,7 @@
         "score": {
           "home": {
             "name": "COLO",
-            "score": "7"
+            "score": "14"
           },
           "away": {
             "name": "BYU",
