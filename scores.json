@@ -112,36 +112,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "ORE @ PSU",
-        "kickoff": "9/27/2025, 6:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "PSU",
-            "score": "24"
-          },
-          "away": {
-            "name": "ORE",
-            "score": "30"
-          }
-        }
-      },
-      {
-        "matchup": "ALA @ UGA",
-        "kickoff": "9/27/2025, 6:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "UGA",
-            "score": "21"
-          },
-          "away": {
-            "name": "ALA",
-            "score": "24"
-          }
-        }
-      },
-      {
         "matchup": "BYU @ COLO",
         "kickoff": "9/27/2025, 9:15:00 PM",
         "status": "Live: Q2",
@@ -172,6 +142,21 @@
         }
       },
       {
+        "matchup": "ORE @ PSU",
+        "kickoff": "9/27/2025, 6:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "PSU",
+            "score": "24"
+          },
+          "away": {
+            "name": "ORE",
+            "score": "30"
+          }
+        }
+      },
+      {
         "matchup": "LSU @ MISS",
         "kickoff": "9/27/2025, 2:30:00 PM",
         "status": "Final",
@@ -183,6 +168,21 @@
           "away": {
             "name": "LSU",
             "score": "19"
+          }
+        }
+      },
+      {
+        "matchup": "ALA @ UGA",
+        "kickoff": "9/27/2025, 6:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "UGA",
+            "score": "21"
+          },
+          "away": {
+            "name": "ALA",
+            "score": "24"
           }
         }
       },
