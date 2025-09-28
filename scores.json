@@ -155,14 +155,32 @@
       {
         "matchup": "BAL @ KC",
         "kickoff": "9/28/2025, 3:25:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "KC",
+            "score": "0"
+          },
+          "away": {
+            "name": "BAL",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "CHI @ LV",
         "kickoff": "9/28/2025, 3:25:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "LV",
+            "score": "0"
+          },
+          "away": {
+            "name": "CHI",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "GB @ DAL",
