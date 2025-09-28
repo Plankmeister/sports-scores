@@ -39,7 +39,7 @@
         "score": {
           "home": {
             "name": "DET",
-            "score": "17"
+            "score": "20"
           },
           "away": {
             "name": "CLE",
@@ -54,7 +54,7 @@
         "score": {
           "home": {
             "name": "NE",
-            "score": "21"
+            "score": "28"
           },
           "away": {
             "name": "CAR",
@@ -69,7 +69,7 @@
         "score": {
           "home": {
             "name": "NYG",
-            "score": "10"
+            "score": "13"
           },
           "away": {
             "name": "LAC",
@@ -88,7 +88,7 @@
           },
           "away": {
             "name": "PHI",
-            "score": "21"
+            "score": "24"
           }
         }
       },
