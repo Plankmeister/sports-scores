@@ -13,14 +13,14 @@
           },
           "away": {
             "name": "WSH",
-            "score": "0"
+            "score": "7"
           }
         }
       },
       {
         "matchup": "NO @ BUF",
         "kickoff": "9/28/2025, 12:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "BUF",
@@ -35,11 +35,11 @@
       {
         "matchup": "CLE @ DET",
         "kickoff": "9/28/2025, 12:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "DET",
-            "score": "7"
+            "score": "10"
           },
           "away": {
             "name": "CLE",
@@ -80,11 +80,11 @@
       {
         "matchup": "PHI @ TB",
         "kickoff": "9/28/2025, 12:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "TB",
-            "score": "0"
+            "score": "3"
           },
           "away": {
             "name": "PHI",
@@ -99,7 +99,7 @@
         "score": {
           "home": {
             "name": "HOU",
-            "score": "3"
+            "score": "6"
           },
           "away": {
             "name": "TEN",
