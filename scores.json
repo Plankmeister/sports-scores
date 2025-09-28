@@ -142,21 +142,6 @@
         }
       },
       {
-        "matchup": "MASS @ MIZ",
-        "kickoff": "9/27/2025, 6:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "MIZ",
-            "score": "42"
-          },
-          "away": {
-            "name": "MASS",
-            "score": "6"
-          }
-        }
-      },
-      {
         "matchup": "BYU @ COLO",
         "kickoff": "9/27/2025, 9:15:00 PM",
         "status": "Live: Q1",
@@ -288,6 +273,21 @@
           "away": {
             "name": "USU",
             "score": "35"
+          }
+        }
+      },
+      {
+        "matchup": "MASS @ MIZ",
+        "kickoff": "9/27/2025, 6:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "MIZ",
+            "score": "42"
+          },
+          "away": {
+            "name": "MASS",
+            "score": "6"
           }
         }
       },
