@@ -43,7 +43,7 @@
           },
           "away": {
             "name": "CLE",
-            "score": "7"
+            "score": "10"
           }
         }
       },
@@ -84,7 +84,7 @@
         "score": {
           "home": {
             "name": "TB",
-            "score": "6"
+            "score": "13"
           },
           "away": {
             "name": "PHI",
@@ -99,7 +99,7 @@
         "score": {
           "home": {
             "name": "HOU",
-            "score": "6"
+            "score": "12"
           },
           "away": {
             "name": "TEN",
