@@ -3,21 +3,6 @@
     "week": 4,
     "games": [
       {
-        "matchup": "GB @ DAL",
-        "kickoff": "9/28/2025, 7:20:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "DAL",
-            "score": "40"
-          },
-          "away": {
-            "name": "GB",
-            "score": "40"
-          }
-        }
-      },
-      {
         "matchup": "NYJ @ MIA",
         "kickoff": "9/29/2025, 6:15:00 PM",
         "status": "Scheduled",
@@ -221,6 +206,21 @@
           "away": {
             "name": "CHI",
             "score": "25"
+          }
+        }
+      },
+      {
+        "matchup": "GB @ DAL",
+        "kickoff": "9/28/2025, 7:20:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "DAL",
+            "score": "40"
+          },
+          "away": {
+            "name": "GB",
+            "score": "40"
           }
         }
       }
