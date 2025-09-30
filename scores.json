@@ -20,8 +20,17 @@
       {
         "matchup": "CIN @ DEN",
         "kickoff": "9/29/2025, 7:15:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "DEN",
+            "score": "0"
+          },
+          "away": {
+            "name": "CIN",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "SEA @ ARI",
