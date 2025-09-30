@@ -3,36 +3,6 @@
     "week": 4,
     "games": [
       {
-        "matchup": "NYJ @ MIA",
-        "kickoff": "9/29/2025, 6:15:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "MIA",
-            "score": "27"
-          },
-          "away": {
-            "name": "NYJ",
-            "score": "21"
-          }
-        }
-      },
-      {
-        "matchup": "CIN @ DEN",
-        "kickoff": "9/29/2025, 7:15:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "DEN",
-            "score": "28"
-          },
-          "away": {
-            "name": "CIN",
-            "score": "3"
-          }
-        }
-      },
-      {
         "matchup": "SEA @ ARI",
         "kickoff": "9/25/2025, 7:15:00 PM",
         "status": "Final",
@@ -239,6 +209,36 @@
           "away": {
             "name": "GB",
             "score": "40"
+          }
+        }
+      },
+      {
+        "matchup": "NYJ @ MIA",
+        "kickoff": "9/29/2025, 6:15:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "MIA",
+            "score": "27"
+          },
+          "away": {
+            "name": "NYJ",
+            "score": "21"
+          }
+        }
+      },
+      {
+        "matchup": "CIN @ DEN",
+        "kickoff": "9/29/2025, 7:15:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "DEN",
+            "score": "28"
+          },
+          "away": {
+            "name": "CIN",
+            "score": "3"
           }
         }
       }
