@@ -100,49 +100,10 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "WKU @ DEL",
-        "kickoff": "10/3/2025, 6:00:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "CLT @ USF",
-        "kickoff": "10/3/2025, 6:00:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "UNM @ SJSU",
-        "kickoff": "10/3/2025, 9:00:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
         "matchup": "WVU @ BYU",
         "kickoff": "10/3/2025, 9:30:00 PM",
         "status": "Scheduled",
         "score": null
-      },
-      {
-        "matchup": "CSU @ SDSU",
-        "kickoff": "10/3/2025, 9:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "SHSU @ NMSU",
-        "kickoff": "10/2/2025, 8:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "NMSU",
-            "score": "37"
-          },
-          "away": {
-            "name": "SHSU",
-            "score": "10"
-          }
-        }
       },
       {
         "matchup": "UK @ UGA",
@@ -165,72 +126,6 @@
       {
         "matchup": "ILL @ PUR",
         "kickoff": "10/4/2025, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "BC @ PITT",
-        "kickoff": "10/4/2025, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "CLEM @ UNC",
-        "kickoff": "10/4/2025, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "KSU @ BAY",
-        "kickoff": "10/4/2025, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "AFA @ NAVY",
-        "kickoff": "10/4/2025, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "ARMY @ UAB",
-        "kickoff": "10/4/2025, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "OHIO @ BALL",
-        "kickoff": "10/4/2025, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "WAKE @ VT",
-        "kickoff": "10/4/2025, 12:00:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "UTSA @ TEM",
-        "kickoff": "10/4/2025, 12:00:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "CAM @ NCSU",
-        "kickoff": "10/4/2025, 1:00:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "WMU @ MASS",
-        "kickoff": "10/4/2025, 1:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "OKST @ ARIZ",
-        "kickoff": "10/4/2025, 2:00:00 PM",
         "status": "Scheduled",
         "score": null
       },
@@ -265,103 +160,13 @@
         "score": null
       },
       {
-        "matchup": "WASH @ MD",
-        "kickoff": "10/4/2025, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "ULM @ NU",
-        "kickoff": "10/4/2025, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "ORST @ APP",
-        "kickoff": "10/4/2025, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "SYR @ SMU",
-        "kickoff": "10/4/2025, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "FIU @ CONN",
-        "kickoff": "10/4/2025, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "JMU @ GAST",
-        "kickoff": "10/4/2025, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "CMU @ AKR",
-        "kickoff": "10/4/2025, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "EMU @ BUFF",
-        "kickoff": "10/4/2025, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "M-OH @ NIU",
-        "kickoff": "10/4/2025, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
         "matchup": "KENT @ OU",
         "kickoff": "10/4/2025, 3:00:00 PM",
         "status": "Scheduled",
         "score": null
       },
       {
-        "matchup": "MSU @ NEB",
-        "kickoff": "10/4/2025, 3:00:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "TXST @ ARST",
-        "kickoff": "10/4/2025, 3:00:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "CCU @ ODU",
-        "kickoff": "10/4/2025, 5:00:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
         "matchup": "TTU @ HOU",
-        "kickoff": "10/4/2025, 6:00:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "UNLV @ WYO",
-        "kickoff": "10/4/2025, 6:00:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "USA @ TROY",
-        "kickoff": "10/4/2025, 6:00:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "FAU @ RICE",
         "kickoff": "10/4/2025, 6:00:00 PM",
         "status": "Scheduled",
         "score": null
@@ -381,36 +186,6 @@
       {
         "matchup": "MSST @ TA&M",
         "kickoff": "10/4/2025, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "COLO @ TCU",
-        "kickoff": "10/4/2025, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "KU @ UCF",
-        "kickoff": "10/4/2025, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "TLSA @ MEM",
-        "kickoff": "10/4/2025, 7:00:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "DUKE @ CAL",
-        "kickoff": "10/4/2025, 9:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "NEV @ FRES",
-        "kickoff": "10/4/2025, 9:30:00 PM",
         "status": "Scheduled",
         "score": null
       }
