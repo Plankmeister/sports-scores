@@ -100,21 +100,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "SHSU @ NMSU",
-        "kickoff": "10/2/2025, 8:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "NMSU",
-            "score": "37"
-          },
-          "away": {
-            "name": "SHSU",
-            "score": "10"
-          }
-        }
-      },
-      {
         "matchup": "WKU @ DEL",
         "kickoff": "10/3/2025, 6:00:00 PM",
         "status": "Scheduled",
@@ -143,6 +128,21 @@
         "kickoff": "10/3/2025, 9:30:00 PM",
         "status": "Scheduled",
         "score": null
+      },
+      {
+        "matchup": "SHSU @ NMSU",
+        "kickoff": "10/2/2025, 8:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "NMSU",
+            "score": "37"
+          },
+          "away": {
+            "name": "SHSU",
+            "score": "10"
+          }
+        }
       },
       {
         "matchup": "UK @ UGA",
