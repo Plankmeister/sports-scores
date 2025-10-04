@@ -130,21 +130,6 @@
         }
       },
       {
-        "matchup": "ILL @ PUR",
-        "kickoff": "10/4/2025, 11:00:00 AM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "PUR",
-            "score": "7"
-          },
-          "away": {
-            "name": "ILL",
-            "score": "0"
-          }
-        }
-      },
-      {
         "matchup": "WIS @ MICH",
         "kickoff": "10/4/2025, 11:00:00 AM",
         "status": "Live: Q1",
@@ -156,6 +141,21 @@
           "away": {
             "name": "WIS",
             "score": "7"
+          }
+        }
+      },
+      {
+        "matchup": "ILL @ PUR",
+        "kickoff": "10/4/2025, 11:00:00 AM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "PUR",
+            "score": "7"
+          },
+          "away": {
+            "name": "ILL",
+            "score": "0"
           }
         }
       },
