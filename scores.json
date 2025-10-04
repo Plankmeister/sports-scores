@@ -125,7 +125,7 @@
           },
           "away": {
             "name": "MINN",
-            "score": "0"
+            "score": "3"
           }
         }
       },
@@ -282,8 +282,17 @@
       {
         "matchup": "MIA @ FSU",
         "kickoff": "10/4/2025, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "FSU",
+            "score": "0"
+          },
+          "away": {
+            "name": "MIA",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "MSST @ TA&M",
