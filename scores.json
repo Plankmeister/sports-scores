@@ -102,8 +102,17 @@
       {
         "matchup": "UK @ UGA",
         "kickoff": "10/4/2025, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "UGA",
+            "score": "0"
+          },
+          "away": {
+            "name": "UK",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "ISU @ CIN",
@@ -121,12 +130,6 @@
         }
       },
       {
-        "matchup": "WIS @ MICH",
-        "kickoff": "10/4/2025, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
         "matchup": "ILL @ PUR",
         "kickoff": "10/4/2025, 11:00:00 AM",
         "status": "Live: Q1",
@@ -137,6 +140,21 @@
           },
           "away": {
             "name": "ILL",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "WIS @ MICH",
+        "kickoff": "10/4/2025, 11:00:00 AM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MICH",
+            "score": "0"
+          },
+          "away": {
+            "name": "WIS",
             "score": "0"
           }
         }
