@@ -102,7 +102,7 @@
       {
         "matchup": "WVU @ BYU",
         "kickoff": "10/3/2025, 9:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "BYU",
@@ -110,7 +110,7 @@
           },
           "away": {
             "name": "WVU",
-            "score": "0"
+            "score": "3"
           }
         }
       },
