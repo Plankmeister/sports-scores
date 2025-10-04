@@ -110,7 +110,7 @@
           },
           "away": {
             "name": "TTU",
-            "score": "3"
+            "score": "6"
           }
         }
       },
@@ -267,8 +267,17 @@
       {
         "matchup": "MINN @ OSU",
         "kickoff": "10/4/2025, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "OSU",
+            "score": "0"
+          },
+          "away": {
+            "name": "MINN",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "MIA @ FSU",
