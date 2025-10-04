@@ -102,7 +102,7 @@
       {
         "matchup": "UK @ UGA",
         "kickoff": "10/4/2025, 11:00:00 AM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "UGA",
@@ -110,14 +110,14 @@
           },
           "away": {
             "name": "UK",
-            "score": "0"
+            "score": "7"
           }
         }
       },
       {
         "matchup": "ISU @ CIN",
         "kickoff": "10/4/2025, 11:00:00 AM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "CIN",
@@ -125,7 +125,7 @@
           },
           "away": {
             "name": "ISU",
-            "score": "0"
+            "score": "7"
           }
         }
       },
