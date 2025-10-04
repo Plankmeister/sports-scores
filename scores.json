@@ -132,7 +132,7 @@
       {
         "matchup": "ILL @ PUR",
         "kickoff": "10/4/2025, 11:00:00 AM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "PUR",
@@ -168,8 +168,17 @@
       {
         "matchup": "TEX @ FLA",
         "kickoff": "10/4/2025, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "FLA",
+            "score": "0"
+          },
+          "away": {
+            "name": "TEX",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "VAN @ ALA",
@@ -186,8 +195,17 @@
       {
         "matchup": "UVA @ LOU",
         "kickoff": "10/4/2025, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "LOU",
+            "score": "0"
+          },
+          "away": {
+            "name": "UVA",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "KENT @ OU",
