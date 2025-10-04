@@ -106,7 +106,7 @@
         "score": {
           "home": {
             "name": "UCLA",
-            "score": "10"
+            "score": "17"
           },
           "away": {
             "name": "PSU",
@@ -125,14 +125,14 @@
           },
           "away": {
             "name": "TEX",
-            "score": "0"
+            "score": "7"
           }
         }
       },
       {
         "matchup": "VAN @ ALA",
         "kickoff": "10/4/2025, 2:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "ALA",
@@ -181,7 +181,7 @@
         "score": {
           "home": {
             "name": "OU",
-            "score": "0"
+            "score": "7"
           },
           "away": {
             "name": "KENT",
