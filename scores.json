@@ -110,7 +110,7 @@
           },
           "away": {
             "name": "PSU",
-            "score": "0"
+            "score": "7"
           }
         }
       },
@@ -140,7 +140,7 @@
           },
           "away": {
             "name": "VAN",
-            "score": "0"
+            "score": "7"
           }
         }
       },
@@ -237,8 +237,17 @@
       {
         "matchup": "KENT @ OU",
         "kickoff": "10/4/2025, 3:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "OU",
+            "score": "0"
+          },
+          "away": {
+            "name": "KENT",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "TTU @ HOU",
