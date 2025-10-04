@@ -106,7 +106,7 @@
         "score": {
           "home": {
             "name": "UGA",
-            "score": "7"
+            "score": "14"
           },
           "away": {
             "name": "UK",
@@ -147,7 +147,7 @@
       {
         "matchup": "ILL @ PUR",
         "kickoff": "10/4/2025, 11:00:00 AM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "PUR",
@@ -155,7 +155,7 @@
           },
           "away": {
             "name": "ILL",
-            "score": "0"
+            "score": "3"
           }
         }
       },
