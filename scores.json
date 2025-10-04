@@ -222,8 +222,17 @@
       {
         "matchup": "VAN @ ALA",
         "kickoff": "10/4/2025, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ALA",
+            "score": "0"
+          },
+          "away": {
+            "name": "VAN",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "KENT @ OU",
