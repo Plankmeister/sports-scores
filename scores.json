@@ -115,6 +115,21 @@
         }
       },
       {
+        "matchup": "MINN @ OSU",
+        "kickoff": "10/4/2025, 6:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "OSU",
+            "score": "0"
+          },
+          "away": {
+            "name": "MINN",
+            "score": "0"
+          }
+        }
+      },
+      {
         "matchup": "KENT @ OU",
         "kickoff": "10/4/2025, 3:00:00 PM",
         "status": "Final",
@@ -265,21 +280,6 @@
         }
       },
       {
-        "matchup": "MINN @ OSU",
-        "kickoff": "10/4/2025, 6:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "OSU",
-            "score": "0"
-          },
-          "away": {
-            "name": "MINN",
-            "score": "0"
-          }
-        }
-      },
-      {
         "matchup": "MIA @ FSU",
         "kickoff": "10/4/2025, 6:30:00 PM",
         "status": "Scheduled",
@@ -288,8 +288,17 @@
       {
         "matchup": "MSST @ TA&M",
         "kickoff": "10/4/2025, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "TA&M",
+            "score": "0"
+          },
+          "away": {
+            "name": "MSST",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "WVU @ BYU",
