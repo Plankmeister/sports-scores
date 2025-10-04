@@ -117,7 +117,7 @@
       {
         "matchup": "UVA @ LOU",
         "kickoff": "10/4/2025, 2:30:00 PM",
-        "status": "Live: Q5",
+        "status": "Final",
         "score": {
           "home": {
             "name": "LOU",
@@ -125,7 +125,7 @@
           },
           "away": {
             "name": "UVA",
-            "score": "24"
+            "score": "30"
           }
         }
       },
