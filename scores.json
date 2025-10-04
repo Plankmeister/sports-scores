@@ -117,7 +117,7 @@
       {
         "matchup": "ISU @ CIN",
         "kickoff": "10/4/2025, 11:00:00 AM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "CIN",
@@ -147,11 +147,11 @@
       {
         "matchup": "ILL @ PUR",
         "kickoff": "10/4/2025, 11:00:00 AM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "PUR",
-            "score": "21"
+            "score": "27"
           },
           "away": {
             "name": "ILL",
