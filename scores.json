@@ -5,8 +5,17 @@
       {
         "matchup": "MIN VS CLE",
         "kickoff": "10/5/2025, 8:30:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "CLE",
+            "score": "0"
+          },
+          "away": {
+            "name": "MIN",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "LV @ IND",
