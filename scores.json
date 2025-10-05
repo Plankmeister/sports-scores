@@ -110,7 +110,7 @@
           },
           "away": {
             "name": "TTU",
-            "score": "25"
+            "score": "28"
           }
         }
       },
@@ -132,7 +132,7 @@
       {
         "matchup": "MIA @ FSU",
         "kickoff": "10/4/2025, 6:30:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "FSU",
