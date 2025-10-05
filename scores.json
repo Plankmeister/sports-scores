@@ -3,21 +3,6 @@
     "week": 5,
     "games": [
       {
-        "matchup": "LV @ IND",
-        "kickoff": "10/5/2025, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "IND",
-            "score": "40"
-          },
-          "away": {
-            "name": "LV",
-            "score": "6"
-          }
-        }
-      },
-      {
         "matchup": "NYG @ NO",
         "kickoff": "10/5/2025, 12:00:00 PM",
         "status": "Live: Q4",
@@ -43,7 +28,7 @@
           },
           "away": {
             "name": "DAL",
-            "score": "30"
+            "score": "37"
           }
         }
       },
@@ -69,26 +54,11 @@
         "score": {
           "home": {
             "name": "CAR",
-            "score": "20"
+            "score": "27"
           },
           "away": {
             "name": "MIA",
             "score": "24"
-          }
-        }
-      },
-      {
-        "matchup": "HOU @ BAL",
-        "kickoff": "10/5/2025, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "BAL",
-            "score": "10"
-          },
-          "away": {
-            "name": "HOU",
-            "score": "44"
           }
         }
       },
@@ -104,6 +74,36 @@
           "away": {
             "name": "MIN",
             "score": "21"
+          }
+        }
+      },
+      {
+        "matchup": "LV @ IND",
+        "kickoff": "10/5/2025, 12:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "IND",
+            "score": "40"
+          },
+          "away": {
+            "name": "LV",
+            "score": "6"
+          }
+        }
+      },
+      {
+        "matchup": "HOU @ BAL",
+        "kickoff": "10/5/2025, 12:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "BAL",
+            "score": "10"
+          },
+          "away": {
+            "name": "HOU",
+            "score": "44"
           }
         }
       },
