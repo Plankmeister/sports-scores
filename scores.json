@@ -3,51 +3,6 @@
     "week": 5,
     "games": [
       {
-        "matchup": "TEN @ ARI",
-        "kickoff": "10/5/2025, 3:05:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "ARI",
-            "score": "21"
-          },
-          "away": {
-            "name": "TEN",
-            "score": "22"
-          }
-        }
-      },
-      {
-        "matchup": "DET @ CIN",
-        "kickoff": "10/5/2025, 3:25:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "CIN",
-            "score": "24"
-          },
-          "away": {
-            "name": "DET",
-            "score": "37"
-          }
-        }
-      },
-      {
-        "matchup": "WSH @ LAC",
-        "kickoff": "10/5/2025, 3:25:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "LAC",
-            "score": "10"
-          },
-          "away": {
-            "name": "WSH",
-            "score": "27"
-          }
-        }
-      },
-      {
         "matchup": "MIN VS CLE",
         "kickoff": "10/5/2025, 8:30:00 AM",
         "status": "Final",
@@ -153,6 +108,21 @@
         }
       },
       {
+        "matchup": "TEN @ ARI",
+        "kickoff": "10/5/2025, 3:05:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "ARI",
+            "score": "21"
+          },
+          "away": {
+            "name": "TEN",
+            "score": "22"
+          }
+        }
+      },
+      {
         "matchup": "TB @ SEA",
         "kickoff": "10/5/2025, 3:05:00 PM",
         "status": "Final",
@@ -164,6 +134,36 @@
           "away": {
             "name": "TB",
             "score": "38"
+          }
+        }
+      },
+      {
+        "matchup": "DET @ CIN",
+        "kickoff": "10/5/2025, 3:25:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "CIN",
+            "score": "24"
+          },
+          "away": {
+            "name": "DET",
+            "score": "37"
+          }
+        }
+      },
+      {
+        "matchup": "WSH @ LAC",
+        "kickoff": "10/5/2025, 3:25:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "LAC",
+            "score": "10"
+          },
+          "away": {
+            "name": "WSH",
+            "score": "27"
           }
         }
       },
