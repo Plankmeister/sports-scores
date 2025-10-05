@@ -28,7 +28,7 @@
           },
           "away": {
             "name": "TEN",
-            "score": "0"
+            "score": "3"
           }
         }
       },
@@ -140,14 +140,32 @@
       {
         "matchup": "DET @ CIN",
         "kickoff": "10/5/2025, 3:25:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "CIN",
+            "score": "0"
+          },
+          "away": {
+            "name": "DET",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "WSH @ LAC",
         "kickoff": "10/5/2025, 3:25:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "LAC",
+            "score": "0"
+          },
+          "away": {
+            "name": "WSH",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "NE @ BUF",
