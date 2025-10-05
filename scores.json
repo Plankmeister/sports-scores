@@ -100,21 +100,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "MIA @ FSU",
-        "kickoff": "10/4/2025, 6:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "FSU",
-            "score": "22"
-          },
-          "away": {
-            "name": "MIA",
-            "score": "28"
-          }
-        }
-      },
-      {
         "matchup": "MINN @ OSU",
         "kickoff": "10/4/2025, 6:30:00 PM",
         "status": "Final",
@@ -126,6 +111,21 @@
           "away": {
             "name": "MINN",
             "score": "3"
+          }
+        }
+      },
+      {
+        "matchup": "MIA @ FSU",
+        "kickoff": "10/4/2025, 6:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "FSU",
+            "score": "22"
+          },
+          "away": {
+            "name": "MIA",
+            "score": "28"
           }
         }
       },
