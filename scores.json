@@ -117,11 +117,11 @@
       {
         "matchup": "MINN @ OSU",
         "kickoff": "10/4/2025, 6:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "OSU",
-            "score": "6"
+            "score": "7"
           },
           "away": {
             "name": "MINN",
@@ -147,7 +147,7 @@
       {
         "matchup": "MSST @ TA&M",
         "kickoff": "10/4/2025, 6:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "TA&M",
