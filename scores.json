@@ -110,14 +110,32 @@
       {
         "matchup": "TEN @ ARI",
         "kickoff": "10/5/2025, 3:05:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ARI",
+            "score": "0"
+          },
+          "away": {
+            "name": "TEN",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "TB @ SEA",
         "kickoff": "10/5/2025, 3:05:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "SEA",
+            "score": "0"
+          },
+          "away": {
+            "name": "TB",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "DET @ CIN",
