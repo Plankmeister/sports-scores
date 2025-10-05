@@ -100,6 +100,21 @@
   "collegeFootball": {
     "games": [
       {
+        "matchup": "WVU @ BYU",
+        "kickoff": "10/3/2025, 9:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "BYU",
+            "score": "38"
+          },
+          "away": {
+            "name": "WVU",
+            "score": "24"
+          }
+        }
+      },
+      {
         "matchup": "MINN @ OSU",
         "kickoff": "10/4/2025, 6:30:00 PM",
         "status": "Final",
@@ -306,21 +321,6 @@
           "away": {
             "name": "UVA",
             "score": "30"
-          }
-        }
-      },
-      {
-        "matchup": "WVU @ BYU",
-        "kickoff": "10/3/2025, 9:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "BYU",
-            "score": "38"
-          },
-          "away": {
-            "name": "WVU",
-            "score": "24"
           }
         }
       }
