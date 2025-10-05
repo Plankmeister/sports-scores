@@ -130,6 +130,36 @@
         }
       },
       {
+        "matchup": "MIA @ FSU",
+        "kickoff": "10/4/2025, 6:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "FSU",
+            "score": "0"
+          },
+          "away": {
+            "name": "MIA",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "MSST @ TA&M",
+        "kickoff": "10/4/2025, 6:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "TA&M",
+            "score": "0"
+          },
+          "away": {
+            "name": "MSST",
+            "score": "0"
+          }
+        }
+      },
+      {
         "matchup": "KENT @ OU",
         "kickoff": "10/4/2025, 3:00:00 PM",
         "status": "Final",
@@ -276,36 +306,6 @@
           "away": {
             "name": "UVA",
             "score": "30"
-          }
-        }
-      },
-      {
-        "matchup": "MIA @ FSU",
-        "kickoff": "10/4/2025, 6:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "FSU",
-            "score": "0"
-          },
-          "away": {
-            "name": "MIA",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "MSST @ TA&M",
-        "kickoff": "10/4/2025, 6:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "TA&M",
-            "score": "0"
-          },
-          "away": {
-            "name": "MSST",
-            "score": "0"
           }
         }
       },
