@@ -3,21 +3,6 @@
     "week": 5,
     "games": [
       {
-        "matchup": "DEN @ PHI",
-        "kickoff": "10/5/2025, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "PHI",
-            "score": "17"
-          },
-          "away": {
-            "name": "DEN",
-            "score": "21"
-          }
-        }
-      },
-      {
         "matchup": "TEN @ ARI",
         "kickoff": "10/5/2025, 3:05:00 PM",
         "status": "Live: Q1",
@@ -44,6 +29,36 @@
           "away": {
             "name": "TB",
             "score": "3"
+          }
+        }
+      },
+      {
+        "matchup": "DET @ CIN",
+        "kickoff": "10/5/2025, 3:25:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "CIN",
+            "score": "0"
+          },
+          "away": {
+            "name": "DET",
+            "score": "7"
+          }
+        }
+      },
+      {
+        "matchup": "WSH @ LAC",
+        "kickoff": "10/5/2025, 3:25:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "LAC",
+            "score": "0"
+          },
+          "away": {
+            "name": "WSH",
+            "score": "0"
           }
         }
       },
@@ -108,6 +123,21 @@
         }
       },
       {
+        "matchup": "DEN @ PHI",
+        "kickoff": "10/5/2025, 12:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "PHI",
+            "score": "17"
+          },
+          "away": {
+            "name": "DEN",
+            "score": "21"
+          }
+        }
+      },
+      {
         "matchup": "MIA @ CAR",
         "kickoff": "10/5/2025, 12:00:00 PM",
         "status": "Final",
@@ -134,36 +164,6 @@
           "away": {
             "name": "HOU",
             "score": "44"
-          }
-        }
-      },
-      {
-        "matchup": "DET @ CIN",
-        "kickoff": "10/5/2025, 3:25:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "CIN",
-            "score": "0"
-          },
-          "away": {
-            "name": "DET",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "WSH @ LAC",
-        "kickoff": "10/5/2025, 3:25:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "LAC",
-            "score": "0"
-          },
-          "away": {
-            "name": "WSH",
-            "score": "0"
           }
         }
       },
