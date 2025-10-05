@@ -9,7 +9,7 @@
         "score": {
           "home": {
             "name": "IND",
-            "score": "32"
+            "score": "40"
           },
           "away": {
             "name": "LV",
@@ -20,7 +20,7 @@
       {
         "matchup": "NYG @ NO",
         "kickoff": "10/5/2025, 12:00:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "NO",
@@ -43,7 +43,7 @@
           },
           "away": {
             "name": "DAL",
-            "score": "23"
+            "score": "30"
           }
         }
       },
@@ -65,7 +65,7 @@
       {
         "matchup": "MIA @ CAR",
         "kickoff": "10/5/2025, 12:00:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "CAR",
@@ -80,7 +80,7 @@
       {
         "matchup": "HOU @ BAL",
         "kickoff": "10/5/2025, 12:00:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "BAL",
