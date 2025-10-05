@@ -110,7 +110,7 @@
           },
           "away": {
             "name": "TTU",
-            "score": "34"
+            "score": "35"
           }
         }
       },
@@ -121,7 +121,7 @@
         "score": {
           "home": {
             "name": "OSU",
-            "score": "34"
+            "score": "35"
           },
           "away": {
             "name": "MINN",
@@ -147,11 +147,11 @@
       {
         "matchup": "MSST @ TA&M",
         "kickoff": "10/4/2025, 6:30:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "TA&M",
-            "score": "14"
+            "score": "21"
           },
           "away": {
             "name": "MSST",
