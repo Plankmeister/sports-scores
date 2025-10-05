@@ -100,6 +100,21 @@
   "collegeFootball": {
     "games": [
       {
+        "matchup": "MIA @ FSU",
+        "kickoff": "10/4/2025, 6:30:00 PM",
+        "status": "Live: Q4",
+        "score": {
+          "home": {
+            "name": "FSU",
+            "score": "19"
+          },
+          "away": {
+            "name": "MIA",
+            "score": "28"
+          }
+        }
+      },
+      {
         "matchup": "MINN @ OSU",
         "kickoff": "10/4/2025, 6:30:00 PM",
         "status": "Final",
@@ -115,36 +130,6 @@
         }
       },
       {
-        "matchup": "MIA @ FSU",
-        "kickoff": "10/4/2025, 6:30:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "FSU",
-            "score": "11"
-          },
-          "away": {
-            "name": "MIA",
-            "score": "28"
-          }
-        }
-      },
-      {
-        "matchup": "MSST @ TA&M",
-        "kickoff": "10/4/2025, 6:30:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "TA&M",
-            "score": "31"
-          },
-          "away": {
-            "name": "MSST",
-            "score": "9"
-          }
-        }
-      },
-      {
         "matchup": "KENT @ OU",
         "kickoff": "10/4/2025, 3:00:00 PM",
         "status": "Final",
@@ -156,6 +141,21 @@
           "away": {
             "name": "KENT",
             "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "MSST @ TA&M",
+        "kickoff": "10/4/2025, 6:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "TA&M",
+            "score": "31"
+          },
+          "away": {
+            "name": "MSST",
+            "score": "9"
           }
         }
       },
