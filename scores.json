@@ -3,21 +3,6 @@
     "week": 5,
     "games": [
       {
-        "matchup": "NE @ BUF",
-        "kickoff": "10/5/2025, 7:20:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "BUF",
-            "score": "20"
-          },
-          "away": {
-            "name": "NE",
-            "score": "23"
-          }
-        }
-      },
-      {
         "matchup": "MIN VS CLE",
         "kickoff": "10/5/2025, 8:30:00 AM",
         "status": "Final",
@@ -179,6 +164,21 @@
           "away": {
             "name": "WSH",
             "score": "27"
+          }
+        }
+      },
+      {
+        "matchup": "NE @ BUF",
+        "kickoff": "10/5/2025, 7:20:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "BUF",
+            "score": "20"
+          },
+          "away": {
+            "name": "NE",
+            "score": "23"
           }
         }
       },
