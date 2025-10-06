@@ -170,8 +170,17 @@
       {
         "matchup": "NE @ BUF",
         "kickoff": "10/5/2025, 7:20:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "BUF",
+            "score": "0"
+          },
+          "away": {
+            "name": "NE",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "SF @ LAR",
