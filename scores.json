@@ -3,6 +3,27 @@
     "week": 5,
     "games": [
       {
+        "matchup": "KC @ JAX",
+        "kickoff": "10/6/2025, 7:15:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "SF @ LAR",
+        "kickoff": "10/2/2025, 7:15:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "LAR",
+            "score": "23"
+          },
+          "away": {
+            "name": "SF",
+            "score": "26"
+          }
+        }
+      },
+      {
         "matchup": "MIN VS CLE",
         "kickoff": "10/5/2025, 8:30:00 AM",
         "status": "Final",
@@ -181,27 +202,6 @@
             "score": "23"
           }
         }
-      },
-      {
-        "matchup": "SF @ LAR",
-        "kickoff": "10/2/2025, 7:15:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "LAR",
-            "score": "23"
-          },
-          "away": {
-            "name": "SF",
-            "score": "26"
-          }
-        }
-      },
-      {
-        "matchup": "KC @ JAX",
-        "kickoff": "10/6/2025, 7:15:00 PM",
-        "status": "Scheduled",
-        "score": null
       }
     ]
   },
