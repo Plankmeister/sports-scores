@@ -5,8 +5,17 @@
       {
         "matchup": "KC @ JAX",
         "kickoff": "10/6/2025, 7:15:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "JAX",
+            "score": "0"
+          },
+          "away": {
+            "name": "KC",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "SF @ LAR",
