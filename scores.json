@@ -3,21 +3,6 @@
     "week": 5,
     "games": [
       {
-        "matchup": "KC @ JAX",
-        "kickoff": "10/6/2025, 7:15:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "JAX",
-            "score": "31"
-          },
-          "away": {
-            "name": "KC",
-            "score": "28"
-          }
-        }
-      },
-      {
         "matchup": "SF @ LAR",
         "kickoff": "10/2/2025, 7:15:00 PM",
         "status": "Final",
@@ -209,6 +194,21 @@
           "away": {
             "name": "NE",
             "score": "23"
+          }
+        }
+      },
+      {
+        "matchup": "KC @ JAX",
+        "kickoff": "10/6/2025, 7:15:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "JAX",
+            "score": "31"
+          },
+          "away": {
+            "name": "KC",
+            "score": "28"
           }
         }
       }
