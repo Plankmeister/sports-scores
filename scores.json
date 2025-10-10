@@ -5,8 +5,17 @@
       {
         "matchup": "PHI @ NYG",
         "kickoff": "10/9/2025, 7:15:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "NYG",
+            "score": "0"
+          },
+          "away": {
+            "name": "PHI",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "DEN VS NYJ",
