@@ -123,7 +123,7 @@
       {
         "matchup": "ALA @ MIZ",
         "kickoff": "10/11/2025, 11:00:00 AM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "MIZ",
@@ -131,14 +131,14 @@
           },
           "away": {
             "name": "ALA",
-            "score": "7"
+            "score": "14"
           }
         }
       },
       {
         "matchup": "PITT @ FSU",
         "kickoff": "10/11/2025, 11:00:00 AM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "FSU",
@@ -146,15 +146,24 @@
           },
           "away": {
             "name": "PITT",
-            "score": "7"
+            "score": "14"
           }
         }
       },
       {
         "matchup": "WSU @ MISS",
         "kickoff": "10/11/2025, 11:45:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MISS",
+            "score": "0"
+          },
+          "away": {
+            "name": "WSU",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "IU @ ORE",
