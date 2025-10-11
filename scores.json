@@ -108,7 +108,7 @@
       {
         "matchup": "IU @ ORE",
         "kickoff": "10/11/2025, 2:30:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "ORE",
@@ -127,7 +127,7 @@
         "score": {
           "home": {
             "name": "TEX",
-            "score": "3"
+            "score": "10"
           },
           "away": {
             "name": "OU",
@@ -168,11 +168,11 @@
       {
         "matchup": "ISU @ COLO",
         "kickoff": "10/11/2025, 2:30:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "COLO",
-            "score": "7"
+            "score": "14"
           },
           "away": {
             "name": "ISU",
