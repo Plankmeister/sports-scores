@@ -106,21 +106,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "IU @ ORE",
-        "kickoff": "10/11/2025, 2:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "ORE",
-            "score": "20"
-          },
-          "away": {
-            "name": "IU",
-            "score": "30"
-          }
-        }
-      },
-      {
         "matchup": "ARK @ TENN",
         "kickoff": "10/11/2025, 3:15:00 PM",
         "status": "Live: Q4",
@@ -131,7 +116,22 @@
           },
           "away": {
             "name": "ARK",
-            "score": "17"
+            "score": "24"
+          }
+        }
+      },
+      {
+        "matchup": "FLA @ TA&M",
+        "kickoff": "10/11/2025, 6:00:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "TA&M",
+            "score": "7"
+          },
+          "away": {
+            "name": "FLA",
+            "score": "7"
           }
         }
       },
@@ -147,6 +147,21 @@
           "away": {
             "name": "OSU",
             "score": "34"
+          }
+        }
+      },
+      {
+        "matchup": "IU @ ORE",
+        "kickoff": "10/11/2025, 2:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "ORE",
+            "score": "20"
+          },
+          "away": {
+            "name": "IU",
+            "score": "30"
           }
         }
       },
@@ -252,21 +267,6 @@
           "away": {
             "name": "PITT",
             "score": "34"
-          }
-        }
-      },
-      {
-        "matchup": "FLA @ TA&M",
-        "kickoff": "10/11/2025, 6:00:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "TA&M",
-            "score": "6"
-          },
-          "away": {
-            "name": "FLA",
-            "score": "7"
           }
         }
       },
