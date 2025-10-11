@@ -116,14 +116,14 @@
           },
           "away": {
             "name": "IU",
-            "score": "27"
+            "score": "30"
           }
         }
       },
       {
         "matchup": "OU VS TEX",
         "kickoff": "10/11/2025, 2:30:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "TEX",
@@ -153,7 +153,7 @@
       {
         "matchup": "ISU @ COLO",
         "kickoff": "10/11/2025, 2:30:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "COLO",
