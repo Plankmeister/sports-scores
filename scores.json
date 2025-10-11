@@ -108,7 +108,7 @@
       {
         "matchup": "WSU @ MISS",
         "kickoff": "10/11/2025, 11:45:00 AM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "MISS",
@@ -157,7 +157,7 @@
         "score": {
           "home": {
             "name": "GT",
-            "score": "8"
+            "score": "15"
           },
           "away": {
             "name": "VT",
