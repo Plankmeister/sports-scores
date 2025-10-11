@@ -108,20 +108,47 @@
       {
         "matchup": "OSU @ ILL",
         "kickoff": "10/11/2025, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ILL",
+            "score": "0"
+          },
+          "away": {
+            "name": "OSU",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "ALA @ MIZ",
         "kickoff": "10/11/2025, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MIZ",
+            "score": "7"
+          },
+          "away": {
+            "name": "ALA",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "PITT @ FSU",
         "kickoff": "10/11/2025, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "FSU",
+            "score": "0"
+          },
+          "away": {
+            "name": "PITT",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "WSU @ MISS",
