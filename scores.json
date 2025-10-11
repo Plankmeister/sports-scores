@@ -108,7 +108,7 @@
       {
         "matchup": "OSU @ ILL",
         "kickoff": "10/11/2025, 11:00:00 AM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "ILL",
@@ -146,7 +146,7 @@
           },
           "away": {
             "name": "WSU",
-            "score": "14"
+            "score": "21"
           }
         }
       },
@@ -157,7 +157,7 @@
         "score": {
           "home": {
             "name": "GT",
-            "score": "0"
+            "score": "8"
           },
           "away": {
             "name": "VT",
@@ -172,7 +172,7 @@
         "score": {
           "home": {
             "name": "ND",
-            "score": "0"
+            "score": "7"
           },
           "away": {
             "name": "NCSU",
@@ -228,8 +228,17 @@
       {
         "matchup": "OU VS TEX",
         "kickoff": "10/11/2025, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "TEX",
+            "score": "0"
+          },
+          "away": {
+            "name": "OU",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "ARK @ TENN",
