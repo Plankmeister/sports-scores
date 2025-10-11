@@ -138,7 +138,7 @@
       {
         "matchup": "VT @ GT",
         "kickoff": "10/11/2025, 2:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "GT",
@@ -153,7 +153,7 @@
       {
         "matchup": "NCSU @ ND",
         "kickoff": "10/11/2025, 2:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "ND",
@@ -161,7 +161,7 @@
           },
           "away": {
             "name": "NCSU",
-            "score": "0"
+            "score": "7"
           }
         }
       },
