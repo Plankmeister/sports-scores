@@ -116,7 +116,7 @@
           },
           "away": {
             "name": "ARK",
-            "score": "24"
+            "score": "31"
           }
         }
       },
@@ -131,7 +131,7 @@
           },
           "away": {
             "name": "FLA",
-            "score": "7"
+            "score": "14"
           }
         }
       },
@@ -157,7 +157,7 @@
         "score": {
           "home": {
             "name": "USC",
-            "score": "0"
+            "score": "7"
           },
           "away": {
             "name": "MICH",
@@ -303,8 +303,17 @@
       {
         "matchup": "UGA @ AUB",
         "kickoff": "10/11/2025, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "AUB",
+            "score": "0"
+          },
+          "away": {
+            "name": "UGA",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "SC @ LSU",
