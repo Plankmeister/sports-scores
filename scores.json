@@ -116,7 +116,7 @@
           },
           "away": {
             "name": "IU",
-            "score": "3"
+            "score": "10"
           }
         }
       },
@@ -172,7 +172,7 @@
         "score": {
           "home": {
             "name": "COLO",
-            "score": "0"
+            "score": "6"
           },
           "away": {
             "name": "ISU",
@@ -243,8 +243,17 @@
       {
         "matchup": "ARK @ TENN",
         "kickoff": "10/11/2025, 3:15:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "TENN",
+            "score": "0"
+          },
+          "away": {
+            "name": "ARK",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "FLA @ TA&M",
