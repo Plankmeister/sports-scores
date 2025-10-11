@@ -106,36 +106,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "OSU @ ILL",
-        "kickoff": "10/11/2025, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "ILL",
-            "score": "16"
-          },
-          "away": {
-            "name": "OSU",
-            "score": "34"
-          }
-        }
-      },
-      {
-        "matchup": "PITT @ FSU",
-        "kickoff": "10/11/2025, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "FSU",
-            "score": "31"
-          },
-          "away": {
-            "name": "PITT",
-            "score": "34"
-          }
-        }
-      },
-      {
         "matchup": "WSU @ MISS",
         "kickoff": "10/11/2025, 11:45:00 AM",
         "status": "Live: Q4",
@@ -147,6 +117,36 @@
           "away": {
             "name": "WSU",
             "score": "21"
+          }
+        }
+      },
+      {
+        "matchup": "IU @ ORE",
+        "kickoff": "10/11/2025, 2:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ORE",
+            "score": "0"
+          },
+          "away": {
+            "name": "IU",
+            "score": "3"
+          }
+        }
+      },
+      {
+        "matchup": "OU VS TEX",
+        "kickoff": "10/11/2025, 2:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "TEX",
+            "score": "0"
+          },
+          "away": {
+            "name": "OU",
+            "score": "3"
           }
         }
       },
@@ -196,6 +196,21 @@
         }
       },
       {
+        "matchup": "OSU @ ILL",
+        "kickoff": "10/11/2025, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "ILL",
+            "score": "16"
+          },
+          "away": {
+            "name": "OSU",
+            "score": "34"
+          }
+        }
+      },
+      {
         "matchup": "ALA @ MIZ",
         "kickoff": "10/11/2025, 11:00:00 AM",
         "status": "Final",
@@ -211,32 +226,17 @@
         }
       },
       {
-        "matchup": "IU @ ORE",
-        "kickoff": "10/11/2025, 2:30:00 PM",
-        "status": "Live: Q1",
+        "matchup": "PITT @ FSU",
+        "kickoff": "10/11/2025, 11:00:00 AM",
+        "status": "Final",
         "score": {
           "home": {
-            "name": "ORE",
-            "score": "0"
+            "name": "FSU",
+            "score": "31"
           },
           "away": {
-            "name": "IU",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "OU VS TEX",
-        "kickoff": "10/11/2025, 2:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "TEX",
-            "score": "0"
-          },
-          "away": {
-            "name": "OU",
-            "score": "3"
+            "name": "PITT",
+            "score": "34"
           }
         }
       },
