@@ -106,21 +106,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "USF @ UNT",
-        "kickoff": "10/10/2025, 6:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "UNT",
-            "score": "36"
-          },
-          "away": {
-            "name": "USF",
-            "score": "63"
-          }
-        }
-      },
-      {
         "matchup": "OSU @ ILL",
         "kickoff": "10/11/2025, 11:00:00 AM",
         "status": "Scheduled",
@@ -221,6 +206,21 @@
         "kickoff": "10/11/2025, 9:15:00 PM",
         "status": "Scheduled",
         "score": null
+      },
+      {
+        "matchup": "USF @ UNT",
+        "kickoff": "10/10/2025, 6:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "UNT",
+            "score": "36"
+          },
+          "away": {
+            "name": "USF",
+            "score": "63"
+          }
+        }
       }
     ]
   }
