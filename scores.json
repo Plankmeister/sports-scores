@@ -127,7 +127,7 @@
         "score": {
           "home": {
             "name": "TEX",
-            "score": "20"
+            "score": "23"
           },
           "away": {
             "name": "OU",
@@ -138,7 +138,7 @@
       {
         "matchup": "VT @ GT",
         "kickoff": "10/11/2025, 2:30:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "GT",
@@ -157,7 +157,7 @@
         "score": {
           "home": {
             "name": "ND",
-            "score": "29"
+            "score": "35"
           },
           "away": {
             "name": "NCSU",
