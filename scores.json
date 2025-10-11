@@ -121,24 +121,9 @@
         }
       },
       {
-        "matchup": "ALA @ MIZ",
-        "kickoff": "10/11/2025, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "MIZ",
-            "score": "24"
-          },
-          "away": {
-            "name": "ALA",
-            "score": "27"
-          }
-        }
-      },
-      {
         "matchup": "PITT @ FSU",
         "kickoff": "10/11/2025, 11:00:00 AM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "FSU",
@@ -166,22 +151,19 @@
         }
       },
       {
-        "matchup": "IU @ ORE",
-        "kickoff": "10/11/2025, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "OU VS TEX",
-        "kickoff": "10/11/2025, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
         "matchup": "VT @ GT",
         "kickoff": "10/11/2025, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "GT",
+            "score": "0"
+          },
+          "away": {
+            "name": "VT",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "NCSU @ ND",
@@ -212,6 +194,42 @@
             "score": "0"
           }
         }
+      },
+      {
+        "matchup": "ALA @ MIZ",
+        "kickoff": "10/11/2025, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "MIZ",
+            "score": "24"
+          },
+          "away": {
+            "name": "ALA",
+            "score": "27"
+          }
+        }
+      },
+      {
+        "matchup": "IU @ ORE",
+        "kickoff": "10/11/2025, 2:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ORE",
+            "score": "0"
+          },
+          "away": {
+            "name": "IU",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "OU VS TEX",
+        "kickoff": "10/11/2025, 2:30:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
         "matchup": "ARK @ TENN",
