@@ -108,7 +108,7 @@
       {
         "matchup": "IU @ ORE",
         "kickoff": "10/11/2025, 2:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "ORE",
@@ -142,7 +142,7 @@
         "score": {
           "home": {
             "name": "GT",
-            "score": "15"
+            "score": "18"
           },
           "away": {
             "name": "VT",
@@ -168,14 +168,29 @@
       {
         "matchup": "ISU @ COLO",
         "kickoff": "10/11/2025, 2:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "COLO",
-            "score": "6"
+            "score": "7"
           },
           "away": {
             "name": "ISU",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "ARK @ TENN",
+        "kickoff": "10/11/2025, 3:15:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "TENN",
+            "score": "0"
+          },
+          "away": {
+            "name": "ARK",
             "score": "0"
           }
         }
@@ -237,21 +252,6 @@
           "away": {
             "name": "PITT",
             "score": "34"
-          }
-        }
-      },
-      {
-        "matchup": "ARK @ TENN",
-        "kickoff": "10/11/2025, 3:15:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "TENN",
-            "score": "0"
-          },
-          "away": {
-            "name": "ARK",
-            "score": "0"
           }
         }
       },
