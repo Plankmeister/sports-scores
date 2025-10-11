@@ -116,14 +116,14 @@
           },
           "away": {
             "name": "IU",
-            "score": "13"
+            "score": "20"
           }
         }
       },
       {
         "matchup": "OU VS TEX",
         "kickoff": "10/11/2025, 2:30:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "TEX",
@@ -157,7 +157,7 @@
         "score": {
           "home": {
             "name": "ND",
-            "score": "17"
+            "score": "24"
           },
           "away": {
             "name": "NCSU",
