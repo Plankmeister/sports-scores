@@ -123,7 +123,7 @@
       {
         "matchup": "OU VS TEX",
         "kickoff": "10/11/2025, 2:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "TEX",
@@ -191,7 +191,7 @@
           },
           "away": {
             "name": "ARK",
-            "score": "0"
+            "score": "7"
           }
         }
       },
