@@ -108,7 +108,7 @@
       {
         "matchup": "BYU @ ARIZ",
         "kickoff": "10/11/2025, 7:00:00 PM",
-        "status": "Live: Q5",
+        "status": "Live: Q6",
         "score": {
           "home": {
             "name": "ARIZ",
@@ -116,7 +116,7 @@
           },
           "away": {
             "name": "BYU",
-            "score": "24"
+            "score": "27"
           }
         }
       },
@@ -127,7 +127,7 @@
         "score": {
           "home": {
             "name": "UTAH",
-            "score": "28"
+            "score": "35"
           },
           "away": {
             "name": "ASU",
