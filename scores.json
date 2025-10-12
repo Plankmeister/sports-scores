@@ -348,8 +348,17 @@
       {
         "matchup": "ASU @ UTAH",
         "kickoff": "10/11/2025, 9:25:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "UTAH",
+            "score": "0"
+          },
+          "away": {
+            "name": "ASU",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "USF @ UNT",
