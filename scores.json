@@ -106,21 +106,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "ASU @ UTAH",
-        "kickoff": "10/11/2025, 9:25:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "UTAH",
-            "score": "42"
-          },
-          "away": {
-            "name": "ASU",
-            "score": "10"
-          }
-        }
-      },
-      {
         "matchup": "USF @ UNT",
         "kickoff": "10/10/2025, 6:30:00 PM",
         "status": "Final",
@@ -342,6 +327,21 @@
           "away": {
             "name": "BYU",
             "score": "33"
+          }
+        }
+      },
+      {
+        "matchup": "ASU @ UTAH",
+        "kickoff": "10/11/2025, 9:25:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "UTAH",
+            "score": "42"
+          },
+          "away": {
+            "name": "ASU",
+            "score": "10"
           }
         }
       },
