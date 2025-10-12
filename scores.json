@@ -3,21 +3,6 @@
     "week": 6,
     "games": [
       {
-        "matchup": "DEN VS NYJ",
-        "kickoff": "10/12/2025, 8:30:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "NYJ",
-            "score": "11"
-          },
-          "away": {
-            "name": "DEN",
-            "score": "13"
-          }
-        }
-      },
-      {
         "matchup": "ARI @ IND",
         "kickoff": "10/12/2025, 12:00:00 PM",
         "status": "Live: Q1",
@@ -43,7 +28,7 @@
           },
           "away": {
             "name": "LAC",
-            "score": "0"
+            "score": "3"
           }
         }
       },
@@ -58,7 +43,7 @@
           },
           "away": {
             "name": "NE",
-            "score": "0"
+            "score": "7"
           }
         }
       },
@@ -114,11 +99,26 @@
         "score": {
           "home": {
             "name": "BAL",
-            "score": "0"
+            "score": "3"
           },
           "away": {
             "name": "LAR",
             "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "DEN VS NYJ",
+        "kickoff": "10/12/2025, 8:30:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "NYJ",
+            "score": "11"
+          },
+          "away": {
+            "name": "DEN",
+            "score": "13"
           }
         }
       },
