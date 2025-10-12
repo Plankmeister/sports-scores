@@ -123,11 +123,11 @@
       {
         "matchup": "KU @ TTU",
         "kickoff": "10/11/2025, 6:30:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "TTU",
-            "score": "28"
+            "score": "35"
           },
           "away": {
             "name": "KU",
@@ -146,7 +146,7 @@
           },
           "away": {
             "name": "UGA",
-            "score": "3"
+            "score": "10"
           }
         }
       },
@@ -161,7 +161,7 @@
           },
           "away": {
             "name": "MICH",
-            "score": "7"
+            "score": "13"
           }
         }
       },
@@ -172,7 +172,7 @@
         "score": {
           "home": {
             "name": "LSU",
-            "score": "10"
+            "score": "17"
           },
           "away": {
             "name": "SC",
@@ -187,7 +187,7 @@
         "score": {
           "home": {
             "name": "ARIZ",
-            "score": "7"
+            "score": "10"
           },
           "away": {
             "name": "BYU",
