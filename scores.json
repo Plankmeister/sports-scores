@@ -3,36 +3,6 @@
     "week": 6,
     "games": [
       {
-        "matchup": "CIN @ GB",
-        "kickoff": "10/12/2025, 3:25:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "GB",
-            "score": "27"
-          },
-          "away": {
-            "name": "CIN",
-            "score": "18"
-          }
-        }
-      },
-      {
-        "matchup": "SF @ TB",
-        "kickoff": "10/12/2025, 3:25:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "TB",
-            "score": "30"
-          },
-          "away": {
-            "name": "SF",
-            "score": "19"
-          }
-        }
-      },
-      {
         "matchup": "DEN VS NYJ",
         "kickoff": "10/12/2025, 8:30:00 AM",
         "status": "Final",
@@ -164,6 +134,36 @@
           "away": {
             "name": "TEN",
             "score": "10"
+          }
+        }
+      },
+      {
+        "matchup": "CIN @ GB",
+        "kickoff": "10/12/2025, 3:25:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "GB",
+            "score": "27"
+          },
+          "away": {
+            "name": "CIN",
+            "score": "18"
+          }
+        }
+      },
+      {
+        "matchup": "SF @ TB",
+        "kickoff": "10/12/2025, 3:25:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "TB",
+            "score": "30"
+          },
+          "away": {
+            "name": "SF",
+            "score": "19"
           }
         }
       },
