@@ -106,21 +106,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "ARK @ TENN",
-        "kickoff": "10/11/2025, 3:15:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "TENN",
-            "score": "34"
-          },
-          "away": {
-            "name": "ARK",
-            "score": "31"
-          }
-        }
-      },
-      {
         "matchup": "FLA @ TA&M",
         "kickoff": "10/11/2025, 6:00:00 PM",
         "status": "Live: Q2",
@@ -142,7 +127,7 @@
         "score": {
           "home": {
             "name": "TTU",
-            "score": "15"
+            "score": "18"
           },
           "away": {
             "name": "KU",
@@ -176,6 +161,36 @@
           },
           "away": {
             "name": "MICH",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "SC @ LSU",
+        "kickoff": "10/11/2025, 6:45:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "LSU",
+            "score": "3"
+          },
+          "away": {
+            "name": "SC",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "BYU @ ARIZ",
+        "kickoff": "10/11/2025, 7:00:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ARIZ",
+            "score": "0"
+          },
+          "away": {
+            "name": "BYU",
             "score": "0"
           }
         }
@@ -256,6 +271,21 @@
         }
       },
       {
+        "matchup": "ARK @ TENN",
+        "kickoff": "10/11/2025, 3:15:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "TENN",
+            "score": "34"
+          },
+          "away": {
+            "name": "ARK",
+            "score": "31"
+          }
+        }
+      },
+      {
         "matchup": "VT @ GT",
         "kickoff": "10/11/2025, 2:30:00 PM",
         "status": "Final",
@@ -312,36 +342,6 @@
           "away": {
             "name": "PITT",
             "score": "34"
-          }
-        }
-      },
-      {
-        "matchup": "SC @ LSU",
-        "kickoff": "10/11/2025, 6:45:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "LSU",
-            "score": "3"
-          },
-          "away": {
-            "name": "SC",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "BYU @ ARIZ",
-        "kickoff": "10/11/2025, 7:00:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "ARIZ",
-            "score": "0"
-          },
-          "away": {
-            "name": "BYU",
-            "score": "0"
           }
         }
       },
