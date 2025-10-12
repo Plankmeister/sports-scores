@@ -108,7 +108,7 @@
       {
         "matchup": "FLA @ TA&M",
         "kickoff": "10/11/2025, 6:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "TA&M",
@@ -138,7 +138,7 @@
       {
         "matchup": "UGA @ AUB",
         "kickoff": "10/11/2025, 6:30:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "AUB",
@@ -187,7 +187,7 @@
         "score": {
           "home": {
             "name": "ARIZ",
-            "score": "10"
+            "score": "17"
           },
           "away": {
             "name": "BYU",
