@@ -13,14 +13,14 @@
           },
           "away": {
             "name": "ARI",
-            "score": "17"
+            "score": "23"
           }
         }
       },
       {
         "matchup": "LAC @ MIA",
         "kickoff": "10/12/2025, 12:00:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "MIA",
@@ -73,7 +73,7 @@
           },
           "away": {
             "name": "DAL",
-            "score": "17"
+            "score": "24"
           }
         }
       },
