@@ -20,7 +20,7 @@
       {
         "matchup": "LAC @ MIA",
         "kickoff": "10/12/2025, 12:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "MIA",
@@ -43,14 +43,14 @@
           },
           "away": {
             "name": "NE",
-            "score": "7"
+            "score": "14"
           }
         }
       },
       {
         "matchup": "CLE @ PIT",
         "kickoff": "10/12/2025, 12:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "PIT",
@@ -73,14 +73,14 @@
           },
           "away": {
             "name": "DAL",
-            "score": "3"
+            "score": "10"
           }
         }
       },
       {
         "matchup": "SEA @ JAX",
         "kickoff": "10/12/2025, 12:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "JAX",
@@ -95,7 +95,7 @@
       {
         "matchup": "LAR @ BAL",
         "kickoff": "10/12/2025, 12:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "BAL",
