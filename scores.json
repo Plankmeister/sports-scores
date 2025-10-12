@@ -5,7 +5,7 @@
       {
         "matchup": "ARI @ IND",
         "kickoff": "10/12/2025, 12:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "IND",
@@ -35,7 +35,7 @@
       {
         "matchup": "NE @ NO",
         "kickoff": "10/12/2025, 12:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "NO",
@@ -54,7 +54,7 @@
         "score": {
           "home": {
             "name": "PIT",
-            "score": "3"
+            "score": "6"
           },
           "away": {
             "name": "CLE",
@@ -69,7 +69,7 @@
         "score": {
           "home": {
             "name": "CAR",
-            "score": "3"
+            "score": "10"
           },
           "away": {
             "name": "DAL",
@@ -88,7 +88,7 @@
           },
           "away": {
             "name": "SEA",
-            "score": "0"
+            "score": "3"
           }
         }
       },
