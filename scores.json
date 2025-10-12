@@ -140,14 +140,32 @@
       {
         "matchup": "CIN @ GB",
         "kickoff": "10/12/2025, 3:25:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "GB",
+            "score": "0"
+          },
+          "away": {
+            "name": "CIN",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "SF @ TB",
         "kickoff": "10/12/2025, 3:25:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "TB",
+            "score": "0"
+          },
+          "away": {
+            "name": "SF",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "DET @ KC",
