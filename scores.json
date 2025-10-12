@@ -3,6 +3,51 @@
     "week": 6,
     "games": [
       {
+        "matchup": "CLE @ PIT",
+        "kickoff": "10/12/2025, 12:00:00 PM",
+        "status": "Live: Q4",
+        "score": {
+          "home": {
+            "name": "PIT",
+            "score": "23"
+          },
+          "away": {
+            "name": "CLE",
+            "score": "9"
+          }
+        }
+      },
+      {
+        "matchup": "TEN @ LV",
+        "kickoff": "10/12/2025, 3:05:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "LV",
+            "score": "0"
+          },
+          "away": {
+            "name": "TEN",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "DEN VS NYJ",
+        "kickoff": "10/12/2025, 8:30:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "NYJ",
+            "score": "11"
+          },
+          "away": {
+            "name": "DEN",
+            "score": "13"
+          }
+        }
+      },
+      {
         "matchup": "ARI @ IND",
         "kickoff": "10/12/2025, 12:00:00 PM",
         "status": "Final",
@@ -48,21 +93,6 @@
         }
       },
       {
-        "matchup": "CLE @ PIT",
-        "kickoff": "10/12/2025, 12:00:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "PIT",
-            "score": "23"
-          },
-          "away": {
-            "name": "CLE",
-            "score": "9"
-          }
-        }
-      },
-      {
         "matchup": "DAL @ CAR",
         "kickoff": "10/12/2025, 12:00:00 PM",
         "status": "Final",
@@ -93,21 +123,6 @@
         }
       },
       {
-        "matchup": "DEN VS NYJ",
-        "kickoff": "10/12/2025, 8:30:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "NYJ",
-            "score": "11"
-          },
-          "away": {
-            "name": "DEN",
-            "score": "13"
-          }
-        }
-      },
-      {
         "matchup": "LAR @ BAL",
         "kickoff": "10/12/2025, 12:00:00 PM",
         "status": "Final",
@@ -119,21 +134,6 @@
           "away": {
             "name": "LAR",
             "score": "17"
-          }
-        }
-      },
-      {
-        "matchup": "TEN @ LV",
-        "kickoff": "10/12/2025, 3:05:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "LV",
-            "score": "0"
-          },
-          "away": {
-            "name": "TEN",
-            "score": "0"
           }
         }
       },
