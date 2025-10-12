@@ -5,7 +5,7 @@
       {
         "matchup": "TEN @ LV",
         "kickoff": "10/12/2025, 3:05:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "LV",
@@ -28,7 +28,7 @@
           },
           "away": {
             "name": "CIN",
-            "score": "10"
+            "score": "18"
           }
         }
       },
