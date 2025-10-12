@@ -106,28 +106,13 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "FLA @ TA&M",
-        "kickoff": "10/11/2025, 6:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "TA&M",
-            "score": "34"
-          },
-          "away": {
-            "name": "FLA",
-            "score": "17"
-          }
-        }
-      },
-      {
         "matchup": "KU @ TTU",
         "kickoff": "10/11/2025, 6:30:00 PM",
         "status": "Live: Q4",
         "score": {
           "home": {
             "name": "TTU",
-            "score": "35"
+            "score": "42"
           },
           "away": {
             "name": "KU",
@@ -146,21 +131,6 @@
           },
           "away": {
             "name": "UGA",
-            "score": "13"
-          }
-        }
-      },
-      {
-        "matchup": "MICH @ USC",
-        "kickoff": "10/11/2025, 6:30:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "USC",
-            "score": "31"
-          },
-          "away": {
-            "name": "MICH",
             "score": "13"
           }
         }
@@ -206,7 +176,7 @@
           },
           "away": {
             "name": "ASU",
-            "score": "0"
+            "score": "3"
           }
         }
       },
@@ -252,6 +222,21 @@
           "away": {
             "name": "WSU",
             "score": "21"
+          }
+        }
+      },
+      {
+        "matchup": "FLA @ TA&M",
+        "kickoff": "10/11/2025, 6:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "TA&M",
+            "score": "34"
+          },
+          "away": {
+            "name": "FLA",
+            "score": "17"
           }
         }
       },
@@ -312,6 +297,21 @@
           "away": {
             "name": "VT",
             "score": "20"
+          }
+        }
+      },
+      {
+        "matchup": "MICH @ USC",
+        "kickoff": "10/11/2025, 6:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "USC",
+            "score": "31"
+          },
+          "away": {
+            "name": "MICH",
+            "score": "13"
           }
         }
       },
