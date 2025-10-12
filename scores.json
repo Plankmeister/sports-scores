@@ -108,7 +108,7 @@
       {
         "matchup": "ARK @ TENN",
         "kickoff": "10/11/2025, 3:15:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "TENN",
@@ -142,10 +142,25 @@
         "score": {
           "home": {
             "name": "TTU",
-            "score": "7"
+            "score": "15"
           },
           "away": {
             "name": "KU",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "UGA @ AUB",
+        "kickoff": "10/11/2025, 6:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "AUB",
+            "score": "0"
+          },
+          "away": {
+            "name": "UGA",
             "score": "0"
           }
         }
@@ -301,25 +316,19 @@
         }
       },
       {
-        "matchup": "UGA @ AUB",
-        "kickoff": "10/11/2025, 6:30:00 PM",
+        "matchup": "SC @ LSU",
+        "kickoff": "10/11/2025, 6:45:00 PM",
         "status": "Live: Q1",
         "score": {
           "home": {
-            "name": "AUB",
+            "name": "LSU",
             "score": "0"
           },
           "away": {
-            "name": "UGA",
+            "name": "SC",
             "score": "0"
           }
         }
-      },
-      {
-        "matchup": "SC @ LSU",
-        "kickoff": "10/11/2025, 6:45:00 PM",
-        "status": "Scheduled",
-        "score": null
       },
       {
         "matchup": "BYU @ ARIZ",
