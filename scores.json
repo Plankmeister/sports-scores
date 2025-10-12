@@ -127,7 +127,7 @@
         "score": {
           "home": {
             "name": "TTU",
-            "score": "18"
+            "score": "21"
           },
           "away": {
             "name": "KU",
@@ -138,11 +138,11 @@
       {
         "matchup": "UGA @ AUB",
         "kickoff": "10/11/2025, 6:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "AUB",
-            "score": "7"
+            "score": "10"
           },
           "away": {
             "name": "UGA",
@@ -176,7 +176,7 @@
           },
           "away": {
             "name": "SC",
-            "score": "0"
+            "score": "6"
           }
         }
       },
