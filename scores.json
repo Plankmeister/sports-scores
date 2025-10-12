@@ -157,7 +157,7 @@
         "score": {
           "home": {
             "name": "AUB",
-            "score": "0"
+            "score": "7"
           },
           "away": {
             "name": "UGA",
@@ -322,7 +322,7 @@
         "score": {
           "home": {
             "name": "LSU",
-            "score": "0"
+            "score": "3"
           },
           "away": {
             "name": "SC",
@@ -333,8 +333,17 @@
       {
         "matchup": "BYU @ ARIZ",
         "kickoff": "10/11/2025, 7:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ARIZ",
+            "score": "0"
+          },
+          "away": {
+            "name": "BYU",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "ASU @ UTAH",
