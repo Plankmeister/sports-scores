@@ -5,8 +5,17 @@
       {
         "matchup": "DEN VS NYJ",
         "kickoff": "10/12/2025, 8:30:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "NYJ",
+            "score": "0"
+          },
+          "away": {
+            "name": "DEN",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "ARI @ IND",
