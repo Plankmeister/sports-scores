@@ -3,24 +3,9 @@
     "week": 6,
     "games": [
       {
-        "matchup": "CLE @ PIT",
-        "kickoff": "10/12/2025, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "PIT",
-            "score": "23"
-          },
-          "away": {
-            "name": "CLE",
-            "score": "9"
-          }
-        }
-      },
-      {
         "matchup": "TEN @ LV",
         "kickoff": "10/12/2025, 3:05:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "LV",
@@ -28,6 +13,36 @@
           },
           "away": {
             "name": "TEN",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "CIN @ GB",
+        "kickoff": "10/12/2025, 3:25:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "GB",
+            "score": "0"
+          },
+          "away": {
+            "name": "CIN",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "SF @ TB",
+        "kickoff": "10/12/2025, 3:25:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "TB",
+            "score": "0"
+          },
+          "away": {
+            "name": "SF",
             "score": "0"
           }
         }
@@ -93,6 +108,21 @@
         }
       },
       {
+        "matchup": "CLE @ PIT",
+        "kickoff": "10/12/2025, 12:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "PIT",
+            "score": "23"
+          },
+          "away": {
+            "name": "CLE",
+            "score": "9"
+          }
+        }
+      },
+      {
         "matchup": "DAL @ CAR",
         "kickoff": "10/12/2025, 12:00:00 PM",
         "status": "Final",
@@ -134,36 +164,6 @@
           "away": {
             "name": "LAR",
             "score": "17"
-          }
-        }
-      },
-      {
-        "matchup": "CIN @ GB",
-        "kickoff": "10/12/2025, 3:25:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "GB",
-            "score": "0"
-          },
-          "away": {
-            "name": "CIN",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "SF @ TB",
-        "kickoff": "10/12/2025, 3:25:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "TB",
-            "score": "0"
-          },
-          "away": {
-            "name": "SF",
-            "score": "0"
           }
         }
       },
