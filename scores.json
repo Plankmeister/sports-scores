@@ -13,7 +13,7 @@
           },
           "away": {
             "name": "TEN",
-            "score": "3"
+            "score": "10"
           }
         }
       },
@@ -24,7 +24,7 @@
         "score": {
           "home": {
             "name": "GB",
-            "score": "17"
+            "score": "24"
           },
           "away": {
             "name": "CIN",
@@ -35,7 +35,7 @@
       {
         "matchup": "SF @ TB",
         "kickoff": "10/12/2025, 3:25:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "TB",
