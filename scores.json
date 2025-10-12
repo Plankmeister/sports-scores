@@ -106,21 +106,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "BYU @ ARIZ",
-        "kickoff": "10/11/2025, 7:00:00 PM",
-        "status": "Live: Q6",
-        "score": {
-          "home": {
-            "name": "ARIZ",
-            "score": "27"
-          },
-          "away": {
-            "name": "BYU",
-            "score": "33"
-          }
-        }
-      },
-      {
         "matchup": "ASU @ UTAH",
         "kickoff": "10/11/2025, 9:25:00 PM",
         "status": "Live: Q4",
@@ -342,6 +327,21 @@
           "away": {
             "name": "NCSU",
             "score": "7"
+          }
+        }
+      },
+      {
+        "matchup": "BYU @ ARIZ",
+        "kickoff": "10/11/2025, 7:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "ARIZ",
+            "score": "27"
+          },
+          "away": {
+            "name": "BYU",
+            "score": "33"
           }
         }
       },
