@@ -5,8 +5,17 @@
       {
         "matchup": "BUF @ ATL",
         "kickoff": "10/13/2025, 6:15:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ATL",
+            "score": "0"
+          },
+          "away": {
+            "name": "BUF",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "CHI @ WSH",
