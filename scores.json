@@ -170,8 +170,17 @@
       {
         "matchup": "DET @ KC",
         "kickoff": "10/12/2025, 7:20:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "KC",
+            "score": "0"
+          },
+          "away": {
+            "name": "DET",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "PHI @ NYG",
