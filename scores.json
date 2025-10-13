@@ -3,6 +3,33 @@
     "week": 6,
     "games": [
       {
+        "matchup": "BUF @ ATL",
+        "kickoff": "10/13/2025, 6:15:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "CHI @ WSH",
+        "kickoff": "10/13/2025, 7:15:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "PHI @ NYG",
+        "kickoff": "10/9/2025, 7:15:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "NYG",
+            "score": "34"
+          },
+          "away": {
+            "name": "PHI",
+            "score": "17"
+          }
+        }
+      },
+      {
         "matchup": "DEN VS NYJ",
         "kickoff": "10/12/2025, 8:30:00 AM",
         "status": "Final",
@@ -181,33 +208,6 @@
             "score": "17"
           }
         }
-      },
-      {
-        "matchup": "PHI @ NYG",
-        "kickoff": "10/9/2025, 7:15:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "NYG",
-            "score": "34"
-          },
-          "away": {
-            "name": "PHI",
-            "score": "17"
-          }
-        }
-      },
-      {
-        "matchup": "BUF @ ATL",
-        "kickoff": "10/13/2025, 6:15:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "CHI @ WSH",
-        "kickoff": "10/13/2025, 7:15:00 PM",
-        "status": "Scheduled",
-        "score": null
       }
     ]
   },
