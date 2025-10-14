@@ -20,7 +20,7 @@
       {
         "matchup": "CHI @ WSH",
         "kickoff": "10/13/2025, 7:15:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "WSH",
@@ -28,7 +28,7 @@
           },
           "away": {
             "name": "CHI",
-            "score": "6"
+            "score": "12"
           }
         }
       },
