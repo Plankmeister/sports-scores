@@ -3,36 +3,6 @@
     "week": 6,
     "games": [
       {
-        "matchup": "BUF @ ATL",
-        "kickoff": "10/13/2025, 6:15:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "ATL",
-            "score": "24"
-          },
-          "away": {
-            "name": "BUF",
-            "score": "14"
-          }
-        }
-      },
-      {
-        "matchup": "CHI @ WSH",
-        "kickoff": "10/13/2025, 7:15:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "WSH",
-            "score": "24"
-          },
-          "away": {
-            "name": "CHI",
-            "score": "25"
-          }
-        }
-      },
-      {
         "matchup": "PHI @ NYG",
         "kickoff": "10/9/2025, 7:15:00 PM",
         "status": "Final",
@@ -224,6 +194,36 @@
           "away": {
             "name": "DET",
             "score": "17"
+          }
+        }
+      },
+      {
+        "matchup": "BUF @ ATL",
+        "kickoff": "10/13/2025, 6:15:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "ATL",
+            "score": "24"
+          },
+          "away": {
+            "name": "BUF",
+            "score": "14"
+          }
+        }
+      },
+      {
+        "matchup": "CHI @ WSH",
+        "kickoff": "10/13/2025, 7:15:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "WSH",
+            "score": "24"
+          },
+          "away": {
+            "name": "CHI",
+            "score": "25"
           }
         }
       }
