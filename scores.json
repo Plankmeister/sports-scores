@@ -5,8 +5,17 @@
       {
         "matchup": "PIT @ CIN",
         "kickoff": "10/16/2025, 7:15:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "CIN",
+            "score": "0"
+          },
+          "away": {
+            "name": "PIT",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "LAR VS JAX",
