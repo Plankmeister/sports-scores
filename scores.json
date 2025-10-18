@@ -108,7 +108,7 @@
       {
         "matchup": "OSU @ WIS",
         "kickoff": "10/18/2025, 2:30:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "WIS",
@@ -157,7 +157,7 @@
         "score": {
           "home": {
             "name": "ASU",
-            "score": "6"
+            "score": "9"
           },
           "away": {
             "name": "TTU",
@@ -228,8 +228,17 @@
       {
         "matchup": "TA&M @ ARK",
         "kickoff": "10/18/2025, 4:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ARK",
+            "score": "0"
+          },
+          "away": {
+            "name": "TA&M",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "ORE @ RUTG",
