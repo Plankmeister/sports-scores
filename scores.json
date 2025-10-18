@@ -116,7 +116,7 @@
           },
           "away": {
             "name": "TTU",
-            "score": "14"
+            "score": "20"
           }
         }
       },
@@ -138,7 +138,7 @@
       {
         "matchup": "TA&M @ ARK",
         "kickoff": "10/18/2025, 4:30:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "ARK",
@@ -153,7 +153,7 @@
       {
         "matchup": "ORE @ RUTG",
         "kickoff": "10/18/2025, 5:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "RUTG",
@@ -177,6 +177,21 @@
           "away": {
             "name": "WSU",
             "score": "7"
+          }
+        }
+      },
+      {
+        "matchup": "TEX @ UK",
+        "kickoff": "10/18/2025, 6:00:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "UK",
+            "score": "0"
+          },
+          "away": {
+            "name": "TEX",
+            "score": "0"
           }
         }
       },
@@ -267,21 +282,6 @@
           "away": {
             "name": "OU",
             "score": "26"
-          }
-        }
-      },
-      {
-        "matchup": "TEX @ UK",
-        "kickoff": "10/18/2025, 6:00:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "UK",
-            "score": "0"
-          },
-          "away": {
-            "name": "TEX",
-            "score": "0"
           }
         }
       },
