@@ -127,7 +127,7 @@
         "score": {
           "home": {
             "name": "IU",
-            "score": "35"
+            "score": "38"
           },
           "away": {
             "name": "MSU",
@@ -142,7 +142,7 @@
         "score": {
           "home": {
             "name": "UGA",
-            "score": "40"
+            "score": "43"
           },
           "away": {
             "name": "MISS",
@@ -153,11 +153,11 @@
       {
         "matchup": "TTU @ ASU",
         "kickoff": "10/18/2025, 3:00:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "ASU",
-            "score": "16"
+            "score": "19"
           },
           "away": {
             "name": "TTU",
@@ -187,7 +187,7 @@
         "score": {
           "home": {
             "name": "ARK",
-            "score": "6"
+            "score": "12"
           },
           "away": {
             "name": "TA&M",
@@ -251,15 +251,24 @@
           },
           "away": {
             "name": "ORE",
-            "score": "0"
+            "score": "7"
           }
         }
       },
       {
         "matchup": "WSU @ UVA",
         "kickoff": "10/18/2025, 5:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "UVA",
+            "score": "0"
+          },
+          "away": {
+            "name": "WSU",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "TEX @ UK",
