@@ -108,7 +108,7 @@
       {
         "matchup": "LSU @ VAN",
         "kickoff": "10/18/2025, 11:00:00 AM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "VAN",
@@ -116,14 +116,14 @@
           },
           "away": {
             "name": "LSU",
-            "score": "3"
+            "score": "10"
           }
         }
       },
       {
         "matchup": "GT @ DUKE",
         "kickoff": "10/18/2025, 11:00:00 AM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "DUKE",
@@ -138,8 +138,17 @@
       {
         "matchup": "OU @ SC",
         "kickoff": "10/18/2025, 11:45:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "SC",
+            "score": "0"
+          },
+          "away": {
+            "name": "OU",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "OSU @ WIS",
