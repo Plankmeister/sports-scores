@@ -154,12 +154,6 @@
         "score": null
       },
       {
-        "matchup": "TA&M @ ARK",
-        "kickoff": "10/18/2025, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
         "matchup": "MISS @ UGA",
         "kickoff": "10/18/2025, 2:30:00 PM",
         "status": "Scheduled",
@@ -174,6 +168,12 @@
       {
         "matchup": "MEM @ UAB",
         "kickoff": "10/18/2025, 3:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "TA&M @ ARK",
+        "kickoff": "10/18/2025, 4:30:00 PM",
         "status": "Scheduled",
         "score": null
       },
