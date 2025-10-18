@@ -131,7 +131,7 @@
           },
           "away": {
             "name": "MSU",
-            "score": "0"
+            "score": "3"
           }
         }
       },
@@ -183,8 +183,17 @@
       {
         "matchup": "MISS @ UGA",
         "kickoff": "10/18/2025, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "UGA",
+            "score": "0"
+          },
+          "away": {
+            "name": "MISS",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "TTU @ ASU",
