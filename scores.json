@@ -108,7 +108,7 @@
       {
         "matchup": "OSU @ WIS",
         "kickoff": "10/18/2025, 2:30:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "WIS",
@@ -247,7 +247,7 @@
         "score": {
           "home": {
             "name": "RUTG",
-            "score": "0"
+            "score": "3"
           },
           "away": {
             "name": "ORE",
