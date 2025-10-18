@@ -116,7 +116,22 @@
           },
           "away": {
             "name": "OU",
-            "score": "24"
+            "score": "26"
+          }
+        }
+      },
+      {
+        "matchup": "OSU @ WIS",
+        "kickoff": "10/18/2025, 2:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "WIS",
+            "score": "0"
+          },
+          "away": {
+            "name": "OSU",
+            "score": "7"
           }
         }
       },
@@ -127,11 +142,26 @@
         "score": {
           "home": {
             "name": "IU",
-            "score": "0"
+            "score": "6"
           },
           "away": {
             "name": "MSU",
             "score": "3"
+          }
+        }
+      },
+      {
+        "matchup": "MISS @ UGA",
+        "kickoff": "10/18/2025, 2:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "UGA",
+            "score": "3"
+          },
+          "away": {
+            "name": "MISS",
+            "score": "0"
           }
         }
       },
@@ -162,36 +192,6 @@
           "away": {
             "name": "GT",
             "score": "27"
-          }
-        }
-      },
-      {
-        "matchup": "OSU @ WIS",
-        "kickoff": "10/18/2025, 2:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "WIS",
-            "score": "0"
-          },
-          "away": {
-            "name": "OSU",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "MISS @ UGA",
-        "kickoff": "10/18/2025, 2:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "UGA",
-            "score": "3"
-          },
-          "away": {
-            "name": "MISS",
-            "score": "0"
           }
         }
       },
