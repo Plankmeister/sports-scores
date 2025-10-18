@@ -127,7 +127,7 @@
         "score": {
           "home": {
             "name": "IU",
-            "score": "28"
+            "score": "35"
           },
           "away": {
             "name": "MSU",
@@ -146,14 +146,14 @@
           },
           "away": {
             "name": "MISS",
-            "score": "34"
+            "score": "35"
           }
         }
       },
       {
         "matchup": "TTU @ ASU",
         "kickoff": "10/18/2025, 3:00:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "ASU",
@@ -172,7 +172,7 @@
         "score": {
           "home": {
             "name": "UAB",
-            "score": "17"
+            "score": "24"
           },
           "away": {
             "name": "MEM",
