@@ -108,7 +108,7 @@
       {
         "matchup": "TTU @ ASU",
         "kickoff": "10/18/2025, 3:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "ASU",
@@ -127,7 +127,7 @@
         "score": {
           "home": {
             "name": "ARK",
-            "score": "20"
+            "score": "26"
           },
           "away": {
             "name": "TA&M",
@@ -146,7 +146,7 @@
           },
           "away": {
             "name": "ORE",
-            "score": "28"
+            "score": "35"
           }
         }
       },
@@ -168,7 +168,7 @@
       {
         "matchup": "TEX @ UK",
         "kickoff": "10/18/2025, 6:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "UK",
@@ -187,7 +187,7 @@
         "score": {
           "home": {
             "name": "ND",
-            "score": "0"
+            "score": "7"
           },
           "away": {
             "name": "USC",
