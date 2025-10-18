@@ -106,21 +106,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "OU @ SC",
-        "kickoff": "10/18/2025, 11:45:00 AM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "SC",
-            "score": "7"
-          },
-          "away": {
-            "name": "OU",
-            "score": "26"
-          }
-        }
-      },
-      {
         "matchup": "OSU @ WIS",
         "kickoff": "10/18/2025, 2:30:00 PM",
         "status": "Live: Q1",
@@ -138,7 +123,7 @@
       {
         "matchup": "MSU @ IU",
         "kickoff": "10/18/2025, 2:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "IU",
@@ -162,6 +147,36 @@
           "away": {
             "name": "MISS",
             "score": "7"
+          }
+        }
+      },
+      {
+        "matchup": "TTU @ ASU",
+        "kickoff": "10/18/2025, 3:00:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ASU",
+            "score": "0"
+          },
+          "away": {
+            "name": "TTU",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "MEM @ UAB",
+        "kickoff": "10/18/2025, 3:00:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "UAB",
+            "score": "6"
+          },
+          "away": {
+            "name": "MEM",
+            "score": "0"
           }
         }
       },
@@ -196,23 +211,17 @@
         }
       },
       {
-        "matchup": "TTU @ ASU",
-        "kickoff": "10/18/2025, 3:00:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "MEM @ UAB",
-        "kickoff": "10/18/2025, 3:00:00 PM",
-        "status": "Live: Q1",
+        "matchup": "OU @ SC",
+        "kickoff": "10/18/2025, 11:45:00 AM",
+        "status": "Final",
         "score": {
           "home": {
-            "name": "UAB",
-            "score": "0"
+            "name": "SC",
+            "score": "7"
           },
           "away": {
-            "name": "MEM",
-            "score": "0"
+            "name": "OU",
+            "score": "26"
           }
         }
       },
