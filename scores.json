@@ -112,26 +112,11 @@
         "score": {
           "home": {
             "name": "ASU",
-            "score": "19"
+            "score": "26"
           },
           "away": {
             "name": "TTU",
             "score": "22"
-          }
-        }
-      },
-      {
-        "matchup": "MEM @ UAB",
-        "kickoff": "10/18/2025, 3:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "UAB",
-            "score": "31"
-          },
-          "away": {
-            "name": "MEM",
-            "score": "24"
           }
         }
       },
@@ -191,6 +176,21 @@
           },
           "away": {
             "name": "TEX",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "USC @ ND",
+        "kickoff": "10/18/2025, 6:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ND",
+            "score": "0"
+          },
+          "away": {
+            "name": "USC",
             "score": "0"
           }
         }
@@ -286,13 +286,22 @@
         }
       },
       {
-        "matchup": "TENN @ ALA",
-        "kickoff": "10/18/2025, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "matchup": "MEM @ UAB",
+        "kickoff": "10/18/2025, 3:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "UAB",
+            "score": "31"
+          },
+          "away": {
+            "name": "MEM",
+            "score": "24"
+          }
+        }
       },
       {
-        "matchup": "USC @ ND",
+        "matchup": "TENN @ ALA",
         "kickoff": "10/18/2025, 6:30:00 PM",
         "status": "Scheduled",
         "score": null
@@ -300,8 +309,17 @@
       {
         "matchup": "FAU @ USF",
         "kickoff": "10/18/2025, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "USF",
+            "score": "7"
+          },
+          "away": {
+            "name": "FAU",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "MIZ @ AUB",
