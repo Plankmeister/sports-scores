@@ -116,7 +116,7 @@
           },
           "away": {
             "name": "OSU",
-            "score": "17"
+            "score": "20"
           }
         }
       },
@@ -138,7 +138,7 @@
       {
         "matchup": "MISS @ UGA",
         "kickoff": "10/18/2025, 2:30:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "UGA",
@@ -146,7 +146,7 @@
           },
           "away": {
             "name": "MISS",
-            "score": "21"
+            "score": "28"
           }
         }
       },
@@ -232,7 +232,7 @@
         "score": {
           "home": {
             "name": "ARK",
-            "score": "0"
+            "score": "3"
           },
           "away": {
             "name": "TA&M",
