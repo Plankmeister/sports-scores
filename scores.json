@@ -131,7 +131,7 @@
           },
           "away": {
             "name": "OSU",
-            "score": "7"
+            "score": "10"
           }
         }
       },
@@ -161,7 +161,7 @@
           },
           "away": {
             "name": "MISS",
-            "score": "0"
+            "score": "7"
           }
         }
       },
@@ -204,8 +204,17 @@
       {
         "matchup": "MEM @ UAB",
         "kickoff": "10/18/2025, 3:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "UAB",
+            "score": "0"
+          },
+          "away": {
+            "name": "MEM",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "TA&M @ ARK",
