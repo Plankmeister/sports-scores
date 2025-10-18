@@ -106,21 +106,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "LSU @ VAN",
-        "kickoff": "10/18/2025, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "VAN",
-            "score": "31"
-          },
-          "away": {
-            "name": "LSU",
-            "score": "24"
-          }
-        }
-      },
-      {
         "matchup": "GT @ DUKE",
         "kickoff": "10/18/2025, 11:00:00 AM",
         "status": "Live: Q4",
@@ -146,6 +131,21 @@
           },
           "away": {
             "name": "OU",
+            "score": "24"
+          }
+        }
+      },
+      {
+        "matchup": "LSU @ VAN",
+        "kickoff": "10/18/2025, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "VAN",
+            "score": "31"
+          },
+          "away": {
+            "name": "LSU",
             "score": "24"
           }
         }
