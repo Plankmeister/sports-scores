@@ -131,7 +131,7 @@
           },
           "away": {
             "name": "TA&M",
-            "score": "28"
+            "score": "31"
           }
         }
       },
@@ -161,7 +161,7 @@
           },
           "away": {
             "name": "WSU",
-            "score": "7"
+            "score": "14"
           }
         }
       },
@@ -191,7 +191,7 @@
           },
           "away": {
             "name": "USC",
-            "score": "0"
+            "score": "7"
           }
         }
       },
@@ -303,8 +303,17 @@
       {
         "matchup": "TENN @ ALA",
         "kickoff": "10/18/2025, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ALA",
+            "score": "0"
+          },
+          "away": {
+            "name": "TENN",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "FAU @ USF",
