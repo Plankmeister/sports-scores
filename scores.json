@@ -131,18 +131,18 @@
           },
           "away": {
             "name": "MSU",
-            "score": "3"
+            "score": "10"
           }
         }
       },
       {
         "matchup": "MISS @ UGA",
         "kickoff": "10/18/2025, 2:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "UGA",
-            "score": "3"
+            "score": "10"
           },
           "away": {
             "name": "MISS",
@@ -176,7 +176,7 @@
           },
           "away": {
             "name": "MEM",
-            "score": "6"
+            "score": "7"
           }
         }
       },
