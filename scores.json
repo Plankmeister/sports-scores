@@ -191,7 +191,7 @@
           },
           "away": {
             "name": "TA&M",
-            "score": "14"
+            "score": "21"
           }
         }
       },
@@ -243,8 +243,17 @@
       {
         "matchup": "ORE @ RUTG",
         "kickoff": "10/18/2025, 5:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "RUTG",
+            "score": "0"
+          },
+          "away": {
+            "name": "ORE",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "WSU @ UVA",
