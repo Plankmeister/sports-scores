@@ -112,7 +112,7 @@
         "score": {
           "home": {
             "name": "RUTG",
-            "score": "3"
+            "score": "9"
           },
           "away": {
             "name": "ORE",
@@ -138,7 +138,7 @@
       {
         "matchup": "TEX @ UK",
         "kickoff": "10/18/2025, 6:00:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "UK",
@@ -153,7 +153,7 @@
       {
         "matchup": "TENN @ ALA",
         "kickoff": "10/18/2025, 6:30:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "ALA",
@@ -191,7 +191,7 @@
           },
           "away": {
             "name": "FAU",
-            "score": "6"
+            "score": "13"
           }
         }
       },
