@@ -112,7 +112,7 @@
         "score": {
           "home": {
             "name": "RUTG",
-            "score": "9"
+            "score": "10"
           },
           "away": {
             "name": "ORE",
@@ -127,7 +127,7 @@
         "score": {
           "home": {
             "name": "UVA",
-            "score": "20"
+            "score": "22"
           },
           "away": {
             "name": "WSU",
@@ -142,7 +142,7 @@
         "score": {
           "home": {
             "name": "UK",
-            "score": "3"
+            "score": "10"
           },
           "away": {
             "name": "TEX",
@@ -172,7 +172,7 @@
         "score": {
           "home": {
             "name": "ND",
-            "score": "14"
+            "score": "21"
           },
           "away": {
             "name": "USC",
@@ -198,7 +198,7 @@
       {
         "matchup": "MIZ @ AUB",
         "kickoff": "10/18/2025, 6:45:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "AUB",
