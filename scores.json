@@ -110,14 +110,32 @@
       {
         "matchup": "NYG @ DEN",
         "kickoff": "10/19/2025, 3:05:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "DEN",
+            "score": "0"
+          },
+          "away": {
+            "name": "NYG",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "IND @ LAC",
         "kickoff": "10/19/2025, 3:05:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "LAC",
+            "score": "0"
+          },
+          "away": {
+            "name": "IND",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "WSH @ DAL",
