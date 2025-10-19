@@ -24,11 +24,41 @@
         "score": {
           "home": {
             "name": "LAC",
-            "score": "0"
+            "score": "3"
           },
           "away": {
             "name": "IND",
             "score": "6"
+          }
+        }
+      },
+      {
+        "matchup": "WSH @ DAL",
+        "kickoff": "10/19/2025, 3:25:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "DAL",
+            "score": "0"
+          },
+          "away": {
+            "name": "WSH",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "GB @ ARI",
+        "kickoff": "10/19/2025, 3:25:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ARI",
+            "score": "0"
+          },
+          "away": {
+            "name": "GB",
+            "score": "0"
           }
         }
       },
@@ -136,18 +166,6 @@
             "score": "13"
           }
         }
-      },
-      {
-        "matchup": "WSH @ DAL",
-        "kickoff": "10/19/2025, 3:25:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "GB @ ARI",
-        "kickoff": "10/19/2025, 3:25:00 PM",
-        "status": "Scheduled",
-        "score": null
       },
       {
         "matchup": "ATL @ SF",
