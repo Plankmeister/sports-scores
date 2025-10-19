@@ -123,7 +123,7 @@
       {
         "matchup": "USC @ ND",
         "kickoff": "10/18/2025, 6:30:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "ND",
@@ -132,21 +132,6 @@
           "away": {
             "name": "USC",
             "score": "24"
-          }
-        }
-      },
-      {
-        "matchup": "FAU @ USF",
-        "kickoff": "10/18/2025, 6:30:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "USF",
-            "score": "48"
-          },
-          "away": {
-            "name": "FAU",
-            "score": "13"
           }
         }
       },
@@ -172,7 +157,7 @@
         "score": {
           "home": {
             "name": "BYU",
-            "score": "17"
+            "score": "24"
           },
           "away": {
             "name": "UTAH",
@@ -342,6 +327,21 @@
           "away": {
             "name": "WSU",
             "score": "20"
+          }
+        }
+      },
+      {
+        "matchup": "FAU @ USF",
+        "kickoff": "10/18/2025, 6:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "USF",
+            "score": "48"
+          },
+          "away": {
+            "name": "FAU",
+            "score": "13"
           }
         }
       },
