@@ -108,11 +108,11 @@
       {
         "matchup": "TA&M @ ARK",
         "kickoff": "10/18/2025, 4:30:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "ARK",
-            "score": "41"
+            "score": "42"
           },
           "away": {
             "name": "TA&M",
@@ -191,7 +191,7 @@
           },
           "away": {
             "name": "USC",
-            "score": "10"
+            "score": "13"
           }
         }
       },
@@ -251,7 +251,7 @@
           },
           "away": {
             "name": "CIN",
-            "score": "14"
+            "score": "21"
           }
         }
       },
