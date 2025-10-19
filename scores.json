@@ -116,7 +116,7 @@
           },
           "away": {
             "name": "TA&M",
-            "score": "31"
+            "score": "38"
           }
         }
       },
@@ -146,7 +146,7 @@
           },
           "away": {
             "name": "WSU",
-            "score": "14"
+            "score": "17"
           }
         }
       },
@@ -337,7 +337,7 @@
         "score": {
           "home": {
             "name": "AUB",
-            "score": "0"
+            "score": "7"
           },
           "away": {
             "name": "MIZ",
@@ -348,14 +348,32 @@
       {
         "matchup": "UTAH @ BYU",
         "kickoff": "10/18/2025, 7:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "BYU",
+            "score": "0"
+          },
+          "away": {
+            "name": "UTAH",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "CIN @ OKST",
         "kickoff": "10/18/2025, 7:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "OKST",
+            "score": "0"
+          },
+          "away": {
+            "name": "CIN",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "LOU @ MIA",
