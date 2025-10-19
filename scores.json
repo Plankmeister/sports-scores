@@ -116,14 +116,14 @@
           },
           "away": {
             "name": "ORE",
-            "score": "55"
+            "score": "56"
           }
         }
       },
       {
         "matchup": "WSU @ UVA",
         "kickoff": "10/18/2025, 5:30:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "UVA",
@@ -142,7 +142,7 @@
         "score": {
           "home": {
             "name": "UK",
-            "score": "0"
+            "score": "3"
           },
           "away": {
             "name": "TEX",
@@ -221,7 +221,7 @@
           },
           "away": {
             "name": "UTAH",
-            "score": "0"
+            "score": "7"
           }
         }
       },
