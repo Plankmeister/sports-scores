@@ -106,21 +106,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "ORE @ RUTG",
-        "kickoff": "10/18/2025, 5:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "RUTG",
-            "score": "10"
-          },
-          "away": {
-            "name": "ORE",
-            "score": "56"
-          }
-        }
-      },
-      {
         "matchup": "TEX @ UK",
         "kickoff": "10/18/2025, 6:00:00 PM",
         "status": "Live: Q4",
@@ -157,11 +142,11 @@
         "score": {
           "home": {
             "name": "ND",
-            "score": "21"
+            "score": "27"
           },
           "away": {
             "name": "USC",
-            "score": "16"
+            "score": "24"
           }
         }
       },
@@ -172,7 +157,7 @@
         "score": {
           "home": {
             "name": "USF",
-            "score": "24"
+            "score": "31"
           },
           "away": {
             "name": "FAU",
@@ -297,6 +282,21 @@
           "away": {
             "name": "TTU",
             "score": "22"
+          }
+        }
+      },
+      {
+        "matchup": "ORE @ RUTG",
+        "kickoff": "10/18/2025, 5:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "RUTG",
+            "score": "10"
+          },
+          "away": {
+            "name": "ORE",
+            "score": "56"
           }
         }
       },
