@@ -106,21 +106,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "TEX @ UK",
-        "kickoff": "10/18/2025, 6:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "UK",
-            "score": "13"
-          },
-          "away": {
-            "name": "TEX",
-            "score": "16"
-          }
-        }
-      },
-      {
         "matchup": "TENN @ ALA",
         "kickoff": "10/18/2025, 6:30:00 PM",
         "status": "Live: Q4",
@@ -176,7 +161,7 @@
           },
           "away": {
             "name": "MIZ",
-            "score": "10"
+            "score": "16"
           }
         }
       },
@@ -357,6 +342,21 @@
           "away": {
             "name": "WSU",
             "score": "20"
+          }
+        }
+      },
+      {
+        "matchup": "TEX @ UK",
+        "kickoff": "10/18/2025, 6:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "UK",
+            "score": "13"
+          },
+          "away": {
+            "name": "TEX",
+            "score": "16"
           }
         }
       },
