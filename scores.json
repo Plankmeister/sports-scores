@@ -106,21 +106,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "TA&M @ ARK",
-        "kickoff": "10/18/2025, 4:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "ARK",
-            "score": "42"
-          },
-          "away": {
-            "name": "TA&M",
-            "score": "45"
-          }
-        }
-      },
-      {
         "matchup": "ORE @ RUTG",
         "kickoff": "10/18/2025, 5:30:00 PM",
         "status": "Live: Q3",
@@ -131,7 +116,7 @@
           },
           "away": {
             "name": "ORE",
-            "score": "49"
+            "score": "55"
           }
         }
       },
@@ -198,7 +183,7 @@
       {
         "matchup": "FAU @ USF",
         "kickoff": "10/18/2025, 6:30:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "USF",
@@ -206,7 +191,7 @@
           },
           "away": {
             "name": "FAU",
-            "score": "3"
+            "score": "6"
           }
         }
       },
@@ -282,6 +267,21 @@
           "away": {
             "name": "MSU",
             "score": "13"
+          }
+        }
+      },
+      {
+        "matchup": "TA&M @ ARK",
+        "kickoff": "10/18/2025, 4:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "ARK",
+            "score": "42"
+          },
+          "away": {
+            "name": "TA&M",
+            "score": "45"
           }
         }
       },
