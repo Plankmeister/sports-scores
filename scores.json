@@ -5,8 +5,17 @@
       {
         "matchup": "LAR VS JAX",
         "kickoff": "10/19/2025, 8:30:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "JAX",
+            "score": "0"
+          },
+          "away": {
+            "name": "LAR",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "NO @ CHI",
