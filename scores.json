@@ -108,7 +108,7 @@
       {
         "matchup": "TA&M @ ARK",
         "kickoff": "10/18/2025, 4:30:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "ARK",
@@ -131,7 +131,7 @@
           },
           "away": {
             "name": "ORE",
-            "score": "35"
+            "score": "41"
           }
         }
       },
@@ -161,7 +161,7 @@
           },
           "away": {
             "name": "TEX",
-            "score": "0"
+            "score": "6"
           }
         }
       },
@@ -198,7 +198,7 @@
       {
         "matchup": "FAU @ USF",
         "kickoff": "10/18/2025, 6:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "USF",
@@ -207,6 +207,51 @@
           "away": {
             "name": "FAU",
             "score": "3"
+          }
+        }
+      },
+      {
+        "matchup": "MIZ @ AUB",
+        "kickoff": "10/18/2025, 6:45:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "AUB",
+            "score": "7"
+          },
+          "away": {
+            "name": "MIZ",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "UTAH @ BYU",
+        "kickoff": "10/18/2025, 7:00:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "BYU",
+            "score": "0"
+          },
+          "away": {
+            "name": "UTAH",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "CIN @ OKST",
+        "kickoff": "10/18/2025, 7:00:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "OKST",
+            "score": "0"
+          },
+          "away": {
+            "name": "CIN",
+            "score": "0"
           }
         }
       },
@@ -327,51 +372,6 @@
           "away": {
             "name": "MEM",
             "score": "24"
-          }
-        }
-      },
-      {
-        "matchup": "MIZ @ AUB",
-        "kickoff": "10/18/2025, 6:45:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "AUB",
-            "score": "7"
-          },
-          "away": {
-            "name": "MIZ",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "UTAH @ BYU",
-        "kickoff": "10/18/2025, 7:00:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "BYU",
-            "score": "0"
-          },
-          "away": {
-            "name": "UTAH",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "CIN @ OKST",
-        "kickoff": "10/18/2025, 7:00:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "OKST",
-            "score": "0"
-          },
-          "away": {
-            "name": "CIN",
-            "score": "0"
           }
         }
       },
