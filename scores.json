@@ -13,7 +13,7 @@
           },
           "away": {
             "name": "NYG",
-            "score": "7"
+            "score": "13"
           }
         }
       },
@@ -28,7 +28,7 @@
           },
           "away": {
             "name": "IND",
-            "score": "13"
+            "score": "20"
           }
         }
       },
@@ -39,7 +39,7 @@
         "score": {
           "home": {
             "name": "DAL",
-            "score": "10"
+            "score": "17"
           },
           "away": {
             "name": "WSH",
