@@ -221,14 +221,14 @@
           },
           "away": {
             "name": "MIZ",
-            "score": "3"
+            "score": "10"
           }
         }
       },
       {
         "matchup": "UTAH @ BYU",
         "kickoff": "10/18/2025, 7:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "BYU",
@@ -243,7 +243,7 @@
       {
         "matchup": "CIN @ OKST",
         "kickoff": "10/18/2025, 7:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "OKST",
@@ -251,7 +251,7 @@
           },
           "away": {
             "name": "CIN",
-            "score": "7"
+            "score": "14"
           }
         }
       },
