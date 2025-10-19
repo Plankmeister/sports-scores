@@ -3,6 +3,51 @@
     "week": 7,
     "games": [
       {
+        "matchup": "NYG @ DEN",
+        "kickoff": "10/19/2025, 3:05:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "DEN",
+            "score": "0"
+          },
+          "away": {
+            "name": "NYG",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "IND @ LAC",
+        "kickoff": "10/19/2025, 3:05:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "LAC",
+            "score": "0"
+          },
+          "away": {
+            "name": "IND",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "LAR VS JAX",
+        "kickoff": "10/19/2025, 8:30:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "JAX",
+            "score": "7"
+          },
+          "away": {
+            "name": "LAR",
+            "score": "35"
+          }
+        }
+      },
+      {
         "matchup": "NO @ CHI",
         "kickoff": "10/19/2025, 12:00:00 PM",
         "status": "Final",
@@ -29,51 +74,6 @@
           "away": {
             "name": "MIA",
             "score": "6"
-          }
-        }
-      },
-      {
-        "matchup": "PHI @ MIN",
-        "kickoff": "10/19/2025, 12:00:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "MIN",
-            "score": "22"
-          },
-          "away": {
-            "name": "PHI",
-            "score": "28"
-          }
-        }
-      },
-      {
-        "matchup": "CAR @ NYJ",
-        "kickoff": "10/19/2025, 12:00:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "NYJ",
-            "score": "6"
-          },
-          "away": {
-            "name": "CAR",
-            "score": "13"
-          }
-        }
-      },
-      {
-        "matchup": "LAR VS JAX",
-        "kickoff": "10/19/2025, 8:30:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "JAX",
-            "score": "7"
-          },
-          "away": {
-            "name": "LAR",
-            "score": "35"
           }
         }
       },
@@ -108,32 +108,32 @@
         }
       },
       {
-        "matchup": "NYG @ DEN",
-        "kickoff": "10/19/2025, 3:05:00 PM",
-        "status": "Live: Q1",
+        "matchup": "PHI @ MIN",
+        "kickoff": "10/19/2025, 12:00:00 PM",
+        "status": "Final",
         "score": {
           "home": {
-            "name": "DEN",
-            "score": "0"
+            "name": "MIN",
+            "score": "22"
           },
           "away": {
-            "name": "NYG",
-            "score": "0"
+            "name": "PHI",
+            "score": "28"
           }
         }
       },
       {
-        "matchup": "IND @ LAC",
-        "kickoff": "10/19/2025, 3:05:00 PM",
-        "status": "Live: Q1",
+        "matchup": "CAR @ NYJ",
+        "kickoff": "10/19/2025, 12:00:00 PM",
+        "status": "Final",
         "score": {
           "home": {
-            "name": "LAC",
-            "score": "0"
+            "name": "NYJ",
+            "score": "6"
           },
           "away": {
-            "name": "IND",
-            "score": "0"
+            "name": "CAR",
+            "score": "13"
           }
         }
       },
