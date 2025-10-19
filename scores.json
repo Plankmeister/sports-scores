@@ -3,21 +3,6 @@
     "week": 7,
     "games": [
       {
-        "matchup": "PIT @ CIN",
-        "kickoff": "10/16/2025, 7:15:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "CIN",
-            "score": "33"
-          },
-          "away": {
-            "name": "PIT",
-            "score": "31"
-          }
-        }
-      },
-      {
         "matchup": "LAR VS JAX",
         "kickoff": "10/19/2025, 8:30:00 AM",
         "status": "Scheduled",
@@ -88,6 +73,21 @@
         "kickoff": "10/19/2025, 7:20:00 PM",
         "status": "Scheduled",
         "score": null
+      },
+      {
+        "matchup": "PIT @ CIN",
+        "kickoff": "10/16/2025, 7:15:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "CIN",
+            "score": "33"
+          },
+          "away": {
+            "name": "PIT",
+            "score": "31"
+          }
+        }
       },
       {
         "matchup": "TB @ DET",
