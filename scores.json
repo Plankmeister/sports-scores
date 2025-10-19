@@ -106,28 +106,13 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "TTU @ ASU",
-        "kickoff": "10/18/2025, 3:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "ASU",
-            "score": "26"
-          },
-          "away": {
-            "name": "TTU",
-            "score": "22"
-          }
-        }
-      },
-      {
         "matchup": "TA&M @ ARK",
         "kickoff": "10/18/2025, 4:30:00 PM",
         "status": "Live: Q3",
         "score": {
           "home": {
             "name": "ARK",
-            "score": "26"
+            "score": "27"
           },
           "away": {
             "name": "TA&M",
@@ -181,6 +166,21 @@
         }
       },
       {
+        "matchup": "TENN @ ALA",
+        "kickoff": "10/18/2025, 6:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ALA",
+            "score": "7"
+          },
+          "away": {
+            "name": "TENN",
+            "score": "0"
+          }
+        }
+      },
+      {
         "matchup": "USC @ ND",
         "kickoff": "10/18/2025, 6:30:00 PM",
         "status": "Live: Q1",
@@ -192,6 +192,21 @@
           "away": {
             "name": "USC",
             "score": "7"
+          }
+        }
+      },
+      {
+        "matchup": "FAU @ USF",
+        "kickoff": "10/18/2025, 6:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "USF",
+            "score": "7"
+          },
+          "away": {
+            "name": "FAU",
+            "score": "3"
           }
         }
       },
@@ -237,6 +252,21 @@
           "away": {
             "name": "MISS",
             "score": "35"
+          }
+        }
+      },
+      {
+        "matchup": "TTU @ ASU",
+        "kickoff": "10/18/2025, 3:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "ASU",
+            "score": "26"
+          },
+          "away": {
+            "name": "TTU",
+            "score": "22"
           }
         }
       },
@@ -301,40 +331,19 @@
         }
       },
       {
-        "matchup": "TENN @ ALA",
-        "kickoff": "10/18/2025, 6:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "ALA",
-            "score": "0"
-          },
-          "away": {
-            "name": "TENN",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "FAU @ USF",
-        "kickoff": "10/18/2025, 6:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "USF",
-            "score": "7"
-          },
-          "away": {
-            "name": "FAU",
-            "score": "0"
-          }
-        }
-      },
-      {
         "matchup": "MIZ @ AUB",
         "kickoff": "10/18/2025, 6:45:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "AUB",
+            "score": "0"
+          },
+          "away": {
+            "name": "MIZ",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "UTAH @ BYU",
