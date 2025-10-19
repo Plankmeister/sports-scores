@@ -106,6 +106,36 @@
   "collegeFootball": {
     "games": [
       {
+        "matchup": "LOU @ MIA",
+        "kickoff": "10/17/2025, 6:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "MIA",
+            "score": "21"
+          },
+          "away": {
+            "name": "LOU",
+            "score": "24"
+          }
+        }
+      },
+      {
+        "matchup": "NEB @ MINN",
+        "kickoff": "10/17/2025, 7:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "MINN",
+            "score": "24"
+          },
+          "away": {
+            "name": "NEB",
+            "score": "6"
+          }
+        }
+      },
+      {
         "matchup": "OSU @ WIS",
         "kickoff": "10/18/2025, 2:30:00 PM",
         "status": "Final",
@@ -372,36 +402,6 @@
           "away": {
             "name": "CIN",
             "score": "49"
-          }
-        }
-      },
-      {
-        "matchup": "LOU @ MIA",
-        "kickoff": "10/17/2025, 6:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "MIA",
-            "score": "21"
-          },
-          "away": {
-            "name": "LOU",
-            "score": "24"
-          }
-        }
-      },
-      {
-        "matchup": "NEB @ MINN",
-        "kickoff": "10/17/2025, 7:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "MINN",
-            "score": "24"
-          },
-          "away": {
-            "name": "NEB",
-            "score": "6"
           }
         }
       }
