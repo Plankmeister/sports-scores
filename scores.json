@@ -116,22 +116,7 @@
           },
           "away": {
             "name": "MIZ",
-            "score": "17"
-          }
-        }
-      },
-      {
-        "matchup": "UTAH @ BYU",
-        "kickoff": "10/18/2025, 7:00:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "BYU",
-            "score": "24"
-          },
-          "away": {
-            "name": "UTAH",
-            "score": "21"
+            "score": "23"
           }
         }
       },
@@ -297,6 +282,21 @@
           "away": {
             "name": "OU",
             "score": "26"
+          }
+        }
+      },
+      {
+        "matchup": "UTAH @ BYU",
+        "kickoff": "10/18/2025, 7:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "BYU",
+            "score": "24"
+          },
+          "away": {
+            "name": "UTAH",
+            "score": "21"
           }
         }
       },
