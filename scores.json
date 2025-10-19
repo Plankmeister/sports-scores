@@ -112,7 +112,7 @@
         "score": {
           "home": {
             "name": "UK",
-            "score": "10"
+            "score": "13"
           },
           "away": {
             "name": "TEX",
@@ -131,7 +131,7 @@
           },
           "away": {
             "name": "TENN",
-            "score": "13"
+            "score": "20"
           }
         }
       },
@@ -172,7 +172,7 @@
         "score": {
           "home": {
             "name": "AUB",
-            "score": "14"
+            "score": "17"
           },
           "away": {
             "name": "MIZ",
@@ -198,7 +198,7 @@
       {
         "matchup": "CIN @ OKST",
         "kickoff": "10/18/2025, 7:00:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "OKST",
@@ -206,7 +206,7 @@
           },
           "away": {
             "name": "CIN",
-            "score": "28"
+            "score": "35"
           }
         }
       },
