@@ -35,7 +35,7 @@
       {
         "matchup": "NE @ TEN",
         "kickoff": "10/19/2025, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "TEN",
@@ -50,7 +50,7 @@
       {
         "matchup": "LV @ KC",
         "kickoff": "10/19/2025, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "KC",
@@ -84,7 +84,7 @@
         "score": {
           "home": {
             "name": "NYJ",
-            "score": "3"
+            "score": "6"
           },
           "away": {
             "name": "CAR",
