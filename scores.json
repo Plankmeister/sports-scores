@@ -116,7 +116,7 @@
           },
           "away": {
             "name": "TA&M",
-            "score": "38"
+            "score": "45"
           }
         }
       },
@@ -138,7 +138,7 @@
       {
         "matchup": "WSU @ UVA",
         "kickoff": "10/18/2025, 5:30:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "UVA",
@@ -202,7 +202,7 @@
         "score": {
           "home": {
             "name": "USF",
-            "score": "14"
+            "score": "20"
           },
           "away": {
             "name": "FAU",
@@ -221,7 +221,7 @@
           },
           "away": {
             "name": "MIZ",
-            "score": "0"
+            "score": "3"
           }
         }
       },
