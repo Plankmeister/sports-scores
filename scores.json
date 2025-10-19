@@ -106,21 +106,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "MIZ @ AUB",
-        "kickoff": "10/18/2025, 6:45:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "AUB",
-            "score": "17"
-          },
-          "away": {
-            "name": "MIZ",
-            "score": "23"
-          }
-        }
-      },
-      {
         "matchup": "OSU @ WIS",
         "kickoff": "10/18/2025, 2:30:00 PM",
         "status": "Final",
@@ -297,6 +282,21 @@
           "away": {
             "name": "UTAH",
             "score": "21"
+          }
+        }
+      },
+      {
+        "matchup": "MIZ @ AUB",
+        "kickoff": "10/18/2025, 6:45:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "AUB",
+            "score": "17"
+          },
+          "away": {
+            "name": "MIZ",
+            "score": "23"
           }
         }
       },
