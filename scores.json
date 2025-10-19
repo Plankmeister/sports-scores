@@ -108,7 +108,7 @@
       {
         "matchup": "ORE @ RUTG",
         "kickoff": "10/18/2025, 5:30:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "RUTG",
@@ -117,21 +117,6 @@
           "away": {
             "name": "ORE",
             "score": "56"
-          }
-        }
-      },
-      {
-        "matchup": "WSU @ UVA",
-        "kickoff": "10/18/2025, 5:30:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "UVA",
-            "score": "22"
-          },
-          "away": {
-            "name": "WSU",
-            "score": "20"
           }
         }
       },
@@ -176,7 +161,7 @@
           },
           "away": {
             "name": "USC",
-            "score": "13"
+            "score": "16"
           }
         }
       },
@@ -187,7 +172,7 @@
         "score": {
           "home": {
             "name": "USF",
-            "score": "21"
+            "score": "24"
           },
           "away": {
             "name": "FAU",
@@ -213,7 +198,7 @@
       {
         "matchup": "UTAH @ BYU",
         "kickoff": "10/18/2025, 7:00:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "BYU",
@@ -228,7 +213,7 @@
       {
         "matchup": "CIN @ OKST",
         "kickoff": "10/18/2025, 7:00:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "OKST",
@@ -357,6 +342,21 @@
           "away": {
             "name": "OU",
             "score": "26"
+          }
+        }
+      },
+      {
+        "matchup": "WSU @ UVA",
+        "kickoff": "10/18/2025, 5:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "UVA",
+            "score": "22"
+          },
+          "away": {
+            "name": "WSU",
+            "score": "20"
           }
         }
       },
