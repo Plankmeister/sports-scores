@@ -3,6 +3,21 @@
     "week": 7,
     "games": [
       {
+        "matchup": "ATL @ SF",
+        "kickoff": "10/19/2025, 7:20:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "SF",
+            "score": "0"
+          },
+          "away": {
+            "name": "ATL",
+            "score": "0"
+          }
+        }
+      },
+      {
         "matchup": "LAR VS JAX",
         "kickoff": "10/19/2025, 8:30:00 AM",
         "status": "Final",
@@ -166,12 +181,6 @@
             "score": "27"
           }
         }
-      },
-      {
-        "matchup": "ATL @ SF",
-        "kickoff": "10/19/2025, 7:20:00 PM",
-        "status": "Scheduled",
-        "score": null
       },
       {
         "matchup": "PIT @ CIN",
