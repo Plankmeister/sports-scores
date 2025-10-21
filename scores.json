@@ -5,7 +5,7 @@
       {
         "matchup": "TB @ DET",
         "kickoff": "10/20/2025, 6:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "DET",
@@ -24,7 +24,7 @@
         "score": {
           "home": {
             "name": "SEA",
-            "score": "0"
+            "score": "7"
           },
           "away": {
             "name": "HOU",
