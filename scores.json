@@ -111,7 +111,7 @@
       {
         "matchup": "USF @ MEM",
         "kickoff": "10/25/2025, 11:00:00 AM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "MEM",
@@ -149,7 +149,7 @@
           },
           "away": {
             "name": "BYU",
-            "score": "0"
+            "score": "7"
           }
         }
       },
@@ -160,7 +160,7 @@
         "score": {
           "home": {
             "name": "WASH",
-            "score": "0"
+            "score": "7"
           },
           "away": {
             "name": "ILL",
@@ -216,8 +216,17 @@
       {
         "matchup": "ALA @ SC",
         "kickoff": "10/25/2025, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "SC",
+            "score": "0"
+          },
+          "away": {
+            "name": "ALA",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "OKST @ TTU",
