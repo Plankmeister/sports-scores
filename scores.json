@@ -111,7 +111,7 @@
       {
         "matchup": "MIZ @ VAN",
         "kickoff": "10/25/2025, 2:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "VAN",
@@ -126,7 +126,7 @@
       {
         "matchup": "BYU @ ISU",
         "kickoff": "10/25/2025, 2:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "ISU",
@@ -141,7 +141,7 @@
       {
         "matchup": "ILL @ WASH",
         "kickoff": "10/25/2025, 2:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "WASH",
@@ -252,8 +252,17 @@
       {
         "matchup": "TEX @ MSST",
         "kickoff": "10/25/2025, 3:15:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MSST",
+            "score": "0"
+          },
+          "away": {
+            "name": "TEX",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "WIS @ ORE",
