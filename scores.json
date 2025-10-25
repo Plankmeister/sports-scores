@@ -96,7 +96,7 @@
       {
         "matchup": "ALA @ SC",
         "kickoff": "10/25/2025, 2:30:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "SC",
@@ -164,7 +164,7 @@
           },
           "away": {
             "name": "STAN",
-            "score": "0"
+            "score": "7"
           }
         }
       },
