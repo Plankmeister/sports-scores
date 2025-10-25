@@ -100,7 +100,7 @@
         "score": {
           "home": {
             "name": "SC",
-            "score": "12"
+            "score": "15"
           },
           "away": {
             "name": "ALA",
@@ -126,7 +126,7 @@
       {
         "matchup": "BYU @ ISU",
         "kickoff": "10/25/2025, 2:30:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "ISU",
@@ -134,7 +134,7 @@
           },
           "away": {
             "name": "BYU",
-            "score": "27"
+            "score": "34"
           }
         }
       },
