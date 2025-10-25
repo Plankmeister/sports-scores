@@ -104,7 +104,7 @@
           },
           "away": {
             "name": "ALA",
-            "score": "14"
+            "score": "22"
           }
         }
       },
@@ -115,7 +115,7 @@
         "score": {
           "home": {
             "name": "VAN",
-            "score": "10"
+            "score": "17"
           },
           "away": {
             "name": "MIZ",
@@ -139,28 +139,13 @@
         }
       },
       {
-        "matchup": "ILL @ WASH",
-        "kickoff": "10/25/2025, 2:30:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "WASH",
-            "score": "42"
-          },
-          "away": {
-            "name": "ILL",
-            "score": "25"
-          }
-        }
-      },
-      {
         "matchup": "OKST @ TTU",
         "kickoff": "10/25/2025, 3:00:00 PM",
         "status": "Live: Q3",
         "score": {
           "home": {
             "name": "TTU",
-            "score": "35"
+            "score": "42"
           },
           "away": {
             "name": "OKST",
@@ -190,7 +175,7 @@
         "score": {
           "home": {
             "name": "MSST",
-            "score": "30"
+            "score": "31"
           },
           "away": {
             "name": "TEX",
@@ -270,6 +255,21 @@
           "away": {
             "name": "USF",
             "score": "31"
+          }
+        }
+      },
+      {
+        "matchup": "ILL @ WASH",
+        "kickoff": "10/25/2025, 2:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "WASH",
+            "score": "42"
+          },
+          "away": {
+            "name": "ILL",
+            "score": "25"
           }
         }
       },
