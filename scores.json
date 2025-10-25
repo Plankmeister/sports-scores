@@ -94,21 +94,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "ALA @ SC",
-        "kickoff": "10/25/2025, 2:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "SC",
-            "score": "22"
-          },
-          "away": {
-            "name": "ALA",
-            "score": "29"
-          }
-        }
-      },
-      {
         "matchup": "OKST @ TTU",
         "kickoff": "10/25/2025, 3:00:00 PM",
         "status": "Live: Q4",
@@ -124,21 +109,6 @@
         }
       },
       {
-        "matchup": "BAY @ CIN",
-        "kickoff": "10/25/2025, 3:00:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "CIN",
-            "score": "41"
-          },
-          "away": {
-            "name": "BAY",
-            "score": "20"
-          }
-        }
-      },
-      {
         "matchup": "TEX @ MSST",
         "kickoff": "10/25/2025, 3:15:00 PM",
         "status": "Live: Q4",
@@ -150,6 +120,21 @@
           "away": {
             "name": "TEX",
             "score": "28"
+          }
+        }
+      },
+      {
+        "matchup": "WIS @ ORE",
+        "kickoff": "10/25/2025, 6:00:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ORE",
+            "score": "0"
+          },
+          "away": {
+            "name": "WIS",
+            "score": "0"
           }
         }
       },
@@ -180,6 +165,21 @@
           "away": {
             "name": "UCLA",
             "score": "6"
+          }
+        }
+      },
+      {
+        "matchup": "ALA @ SC",
+        "kickoff": "10/25/2025, 2:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "SC",
+            "score": "22"
+          },
+          "away": {
+            "name": "ALA",
+            "score": "29"
           }
         }
       },
@@ -274,6 +274,21 @@
         }
       },
       {
+        "matchup": "BAY @ CIN",
+        "kickoff": "10/25/2025, 3:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "CIN",
+            "score": "41"
+          },
+          "away": {
+            "name": "BAY",
+            "score": "20"
+          }
+        }
+      },
+      {
         "matchup": "ILL @ WASH",
         "kickoff": "10/25/2025, 2:30:00 PM",
         "status": "Final",
@@ -285,21 +300,6 @@
           "away": {
             "name": "ILL",
             "score": "25"
-          }
-        }
-      },
-      {
-        "matchup": "WIS @ ORE",
-        "kickoff": "10/25/2025, 6:00:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "ORE",
-            "score": "0"
-          },
-          "away": {
-            "name": "WIS",
-            "score": "0"
           }
         }
       },
