@@ -96,20 +96,47 @@
       {
         "matchup": "UCLA @ IU",
         "kickoff": "10/25/2025, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "IU",
+            "score": "0"
+          },
+          "away": {
+            "name": "UCLA",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "SYR @ GT",
         "kickoff": "10/25/2025, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "GT",
+            "score": "0"
+          },
+          "away": {
+            "name": "SYR",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "MISS @ OU",
         "kickoff": "10/25/2025, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "OU",
+            "score": "0"
+          },
+          "away": {
+            "name": "MISS",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "UVA @ UNC",
@@ -133,7 +160,7 @@
         "score": {
           "home": {
             "name": "MEM",
-            "score": "0"
+            "score": "7"
           },
           "away": {
             "name": "USF",
