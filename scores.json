@@ -134,7 +134,7 @@
           },
           "away": {
             "name": "MISS",
-            "score": "31"
+            "score": "34"
           }
         }
       },
@@ -160,7 +160,7 @@
         "score": {
           "home": {
             "name": "MEM",
-            "score": "23"
+            "score": "26"
           },
           "away": {
             "name": "USF",
