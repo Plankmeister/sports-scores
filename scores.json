@@ -114,14 +114,32 @@
       {
         "matchup": "UVA @ UNC",
         "kickoff": "10/25/2025, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "UNC",
+            "score": "0"
+          },
+          "away": {
+            "name": "UVA",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "USF @ MEM",
         "kickoff": "10/25/2025, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MEM",
+            "score": "0"
+          },
+          "away": {
+            "name": "USF",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "ALA @ SC",
