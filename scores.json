@@ -111,7 +111,7 @@
       {
         "matchup": "MIZ @ VAN",
         "kickoff": "10/25/2025, 2:30:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "VAN",
@@ -141,7 +141,7 @@
       {
         "matchup": "ILL @ WASH",
         "kickoff": "10/25/2025, 2:30:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "WASH",
@@ -190,7 +190,7 @@
         "score": {
           "home": {
             "name": "MSST",
-            "score": "13"
+            "score": "14"
           },
           "away": {
             "name": "TEX",
