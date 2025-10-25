@@ -111,7 +111,7 @@
       {
         "matchup": "MIZ @ VAN",
         "kickoff": "10/25/2025, 2:30:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "VAN",
@@ -119,7 +119,7 @@
           },
           "away": {
             "name": "MIZ",
-            "score": "3"
+            "score": "10"
           }
         }
       },
@@ -130,7 +130,7 @@
         "score": {
           "home": {
             "name": "ISU",
-            "score": "24"
+            "score": "27"
           },
           "away": {
             "name": "BYU",
@@ -145,7 +145,7 @@
         "score": {
           "home": {
             "name": "WASH",
-            "score": "34"
+            "score": "35"
           },
           "away": {
             "name": "ILL",
