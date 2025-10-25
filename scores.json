@@ -321,8 +321,17 @@
       {
         "matchup": "TA&M @ LSU",
         "kickoff": "10/25/2025, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "LSU",
+            "score": "0"
+          },
+          "away": {
+            "name": "TA&M",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "MICH @ MSU",
