@@ -154,6 +154,21 @@
         }
       },
       {
+        "matchup": "OKST @ TTU",
+        "kickoff": "10/25/2025, 3:00:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "TTU",
+            "score": "13"
+          },
+          "away": {
+            "name": "OKST",
+            "score": "0"
+          }
+        }
+      },
+      {
         "matchup": "BAY @ CIN",
         "kickoff": "10/25/2025, 3:00:00 PM",
         "status": "Live: Q1",
@@ -255,21 +270,6 @@
           "away": {
             "name": "USF",
             "score": "31"
-          }
-        }
-      },
-      {
-        "matchup": "OKST @ TTU",
-        "kickoff": "10/25/2025, 3:00:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "TTU",
-            "score": "7"
-          },
-          "away": {
-            "name": "OKST",
-            "score": "0"
           }
         }
       },
