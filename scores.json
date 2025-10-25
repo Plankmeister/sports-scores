@@ -126,11 +126,11 @@
       {
         "matchup": "MISS @ OU",
         "kickoff": "10/25/2025, 11:00:00 AM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "OU",
-            "score": "3"
+            "score": "10"
           },
           "away": {
             "name": "MISS",
@@ -141,7 +141,7 @@
       {
         "matchup": "UVA @ UNC",
         "kickoff": "10/25/2025, 11:00:00 AM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "UNC",
