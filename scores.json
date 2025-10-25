@@ -141,11 +141,11 @@
       {
         "matchup": "ILL @ WASH",
         "kickoff": "10/25/2025, 2:30:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "WASH",
-            "score": "28"
+            "score": "34"
           },
           "away": {
             "name": "ILL",
@@ -179,7 +179,7 @@
           },
           "away": {
             "name": "BAY",
-            "score": "6"
+            "score": "12"
           }
         }
       },
