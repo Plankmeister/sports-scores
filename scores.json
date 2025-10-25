@@ -160,7 +160,7 @@
         "score": {
           "home": {
             "name": "TTU",
-            "score": "13"
+            "score": "21"
           },
           "away": {
             "name": "OKST",
@@ -186,7 +186,7 @@
       {
         "matchup": "TEX @ MSST",
         "kickoff": "10/25/2025, 3:15:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "MSST",
@@ -194,7 +194,7 @@
           },
           "away": {
             "name": "TEX",
-            "score": "7"
+            "score": "10"
           }
         }
       },
