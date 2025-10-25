@@ -94,32 +94,17 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "MISS @ OU",
-        "kickoff": "10/25/2025, 11:00:00 AM",
-        "status": "Final",
+        "matchup": "ALA @ SC",
+        "kickoff": "10/25/2025, 2:30:00 PM",
+        "status": "Live: Q1",
         "score": {
           "home": {
-            "name": "OU",
-            "score": "26"
+            "name": "SC",
+            "score": "0"
           },
           "away": {
-            "name": "MISS",
-            "score": "34"
-          }
-        }
-      },
-      {
-        "matchup": "USF @ MEM",
-        "kickoff": "10/25/2025, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "MEM",
-            "score": "34"
-          },
-          "away": {
-            "name": "USF",
-            "score": "31"
+            "name": "ALA",
+            "score": "0"
           }
         }
       },
@@ -199,6 +184,21 @@
         }
       },
       {
+        "matchup": "MISS @ OU",
+        "kickoff": "10/25/2025, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "OU",
+            "score": "26"
+          },
+          "away": {
+            "name": "MISS",
+            "score": "34"
+          }
+        }
+      },
+      {
         "matchup": "UVA @ UNC",
         "kickoff": "10/25/2025, 11:00:00 AM",
         "status": "Final",
@@ -214,17 +214,17 @@
         }
       },
       {
-        "matchup": "ALA @ SC",
-        "kickoff": "10/25/2025, 2:30:00 PM",
-        "status": "Live: Q1",
+        "matchup": "USF @ MEM",
+        "kickoff": "10/25/2025, 11:00:00 AM",
+        "status": "Final",
         "score": {
           "home": {
-            "name": "SC",
-            "score": "0"
+            "name": "MEM",
+            "score": "34"
           },
           "away": {
-            "name": "ALA",
-            "score": "0"
+            "name": "USF",
+            "score": "31"
           }
         }
       },
