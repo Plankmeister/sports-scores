@@ -111,7 +111,7 @@
       {
         "matchup": "SYR @ GT",
         "kickoff": "10/25/2025, 11:00:00 AM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "GT",
@@ -134,7 +134,7 @@
           },
           "away": {
             "name": "MISS",
-            "score": "25"
+            "score": "31"
           }
         }
       },
@@ -160,7 +160,7 @@
         "score": {
           "home": {
             "name": "MEM",
-            "score": "17"
+            "score": "23"
           },
           "away": {
             "name": "USF",
