@@ -96,7 +96,7 @@
       {
         "matchup": "UCLA @ IU",
         "kickoff": "10/25/2025, 11:00:00 AM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "IU",
@@ -111,7 +111,7 @@
       {
         "matchup": "SYR @ GT",
         "kickoff": "10/25/2025, 11:00:00 AM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "GT",
@@ -145,7 +145,7 @@
         "score": {
           "home": {
             "name": "UNC",
-            "score": "0"
+            "score": "3"
           },
           "away": {
             "name": "UVA",
@@ -156,7 +156,7 @@
       {
         "matchup": "USF @ MEM",
         "kickoff": "10/25/2025, 11:00:00 AM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "MEM",
