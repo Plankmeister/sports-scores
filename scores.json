@@ -94,21 +94,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "OKST @ TTU",
-        "kickoff": "10/25/2025, 3:00:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "TTU",
-            "score": "42"
-          },
-          "away": {
-            "name": "OKST",
-            "score": "0"
-          }
-        }
-      },
-      {
         "matchup": "TEX @ MSST",
         "kickoff": "10/25/2025, 3:15:00 PM",
         "status": "Live: Q4",
@@ -119,7 +104,7 @@
           },
           "away": {
             "name": "TEX",
-            "score": "31"
+            "score": "38"
           }
         }
       },
@@ -150,6 +135,21 @@
           "away": {
             "name": "STAN",
             "score": "7"
+          }
+        }
+      },
+      {
+        "matchup": "BC @ LOU",
+        "kickoff": "10/25/2025, 6:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "LOU",
+            "score": "0"
+          },
+          "away": {
+            "name": "BC",
+            "score": "0"
           }
         }
       },
@@ -244,6 +244,21 @@
         }
       },
       {
+        "matchup": "OKST @ TTU",
+        "kickoff": "10/25/2025, 3:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "TTU",
+            "score": "42"
+          },
+          "away": {
+            "name": "OKST",
+            "score": "0"
+          }
+        }
+      },
+      {
         "matchup": "UVA @ UNC",
         "kickoff": "10/25/2025, 11:00:00 AM",
         "status": "Final",
@@ -308,21 +323,6 @@
         "kickoff": "10/25/2025, 6:30:00 PM",
         "status": "Scheduled",
         "score": null
-      },
-      {
-        "matchup": "BC @ LOU",
-        "kickoff": "10/25/2025, 6:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "LOU",
-            "score": "0"
-          },
-          "away": {
-            "name": "BC",
-            "score": "0"
-          }
-        }
       },
       {
         "matchup": "MICH @ MSU",
