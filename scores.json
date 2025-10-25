@@ -312,8 +312,17 @@
       {
         "matchup": "BC @ LOU",
         "kickoff": "10/25/2025, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "LOU",
+            "score": "0"
+          },
+          "away": {
+            "name": "BC",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "MICH @ MSU",
