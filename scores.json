@@ -96,7 +96,7 @@
       {
         "matchup": "ALA @ SC",
         "kickoff": "10/25/2025, 2:30:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "SC",
@@ -145,7 +145,7 @@
         "score": {
           "home": {
             "name": "WASH",
-            "score": "21"
+            "score": "28"
           },
           "away": {
             "name": "ILL",
@@ -160,7 +160,7 @@
         "score": {
           "home": {
             "name": "TTU",
-            "score": "21"
+            "score": "28"
           },
           "away": {
             "name": "OKST",
