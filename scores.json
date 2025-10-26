@@ -13,7 +13,7 @@
           },
           "away": {
             "name": "MIA",
-            "score": "31"
+            "score": "34"
           }
         }
       },
@@ -43,7 +43,7 @@
           },
           "away": {
             "name": "CLE",
-            "score": "7"
+            "score": "13"
           }
         }
       },
@@ -69,7 +69,7 @@
         "score": {
           "home": {
             "name": "CAR",
-            "score": "3"
+            "score": "9"
           },
           "away": {
             "name": "BUF",
@@ -99,7 +99,7 @@
         "score": {
           "home": {
             "name": "HOU",
-            "score": "23"
+            "score": "26"
           },
           "away": {
             "name": "SF",
