@@ -111,7 +111,7 @@
       {
         "matchup": "BC @ LOU",
         "kickoff": "10/25/2025, 6:30:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "LOU",
@@ -126,11 +126,11 @@
       {
         "matchup": "MICH @ MSU",
         "kickoff": "10/25/2025, 6:30:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "MSU",
-            "score": "13"
+            "score": "20"
           },
           "away": {
             "name": "MICH",
