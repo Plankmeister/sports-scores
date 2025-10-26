@@ -94,21 +94,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "WIS @ ORE",
-        "kickoff": "10/25/2025, 6:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "ORE",
-            "score": "21"
-          },
-          "away": {
-            "name": "WIS",
-            "score": "7"
-          }
-        }
-      },
-      {
         "matchup": "TA&M @ LSU",
         "kickoff": "10/25/2025, 6:30:00 PM",
         "status": "Live: Q4",
@@ -119,7 +104,7 @@
           },
           "away": {
             "name": "TA&M",
-            "score": "42"
+            "score": "49"
           }
         }
       },
@@ -210,6 +195,21 @@
           "away": {
             "name": "ALA",
             "score": "29"
+          }
+        }
+      },
+      {
+        "matchup": "WIS @ ORE",
+        "kickoff": "10/25/2025, 6:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "ORE",
+            "score": "21"
+          },
+          "away": {
+            "name": "WIS",
+            "score": "7"
           }
         }
       },
