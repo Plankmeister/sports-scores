@@ -94,21 +94,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "HOU @ ASU",
-        "kickoff": "10/25/2025, 7:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "ASU",
-            "score": "16"
-          },
-          "away": {
-            "name": "HOU",
-            "score": "24"
-          }
-        }
-      },
-      {
         "matchup": "UCLA @ IU",
         "kickoff": "10/25/2025, 11:00:00 AM",
         "status": "Final",
@@ -360,6 +345,21 @@
           "away": {
             "name": "ILL",
             "score": "25"
+          }
+        }
+      },
+      {
+        "matchup": "HOU @ ASU",
+        "kickoff": "10/25/2025, 7:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "ASU",
+            "score": "16"
+          },
+          "away": {
+            "name": "HOU",
+            "score": "24"
           }
         }
       },
