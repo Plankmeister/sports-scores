@@ -94,21 +94,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "TEX @ MSST",
-        "kickoff": "10/25/2025, 3:15:00 PM",
-        "status": "Live: Q5",
-        "score": {
-          "home": {
-            "name": "MSST",
-            "score": "38"
-          },
-          "away": {
-            "name": "TEX",
-            "score": "45"
-          }
-        }
-      },
-      {
         "matchup": "WIS @ ORE",
         "kickoff": "10/25/2025, 6:00:00 PM",
         "status": "Live: Q2",
@@ -145,7 +130,7 @@
         "score": {
           "home": {
             "name": "LSU",
-            "score": "0"
+            "score": "7"
           },
           "away": {
             "name": "TA&M",
@@ -156,7 +141,7 @@
       {
         "matchup": "BC @ LOU",
         "kickoff": "10/25/2025, 6:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "LOU",
@@ -164,7 +149,7 @@
           },
           "away": {
             "name": "BC",
-            "score": "3"
+            "score": "10"
           }
         }
       },
@@ -195,6 +180,21 @@
           "away": {
             "name": "TENN",
             "score": "7"
+          }
+        }
+      },
+      {
+        "matchup": "HOU @ ASU",
+        "kickoff": "10/25/2025, 7:00:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ASU",
+            "score": "0"
+          },
+          "away": {
+            "name": "HOU",
+            "score": "0"
           }
         }
       },
@@ -349,6 +349,21 @@
         }
       },
       {
+        "matchup": "TEX @ MSST",
+        "kickoff": "10/25/2025, 3:15:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "MSST",
+            "score": "38"
+          },
+          "away": {
+            "name": "TEX",
+            "score": "45"
+          }
+        }
+      },
+      {
         "matchup": "ILL @ WASH",
         "kickoff": "10/25/2025, 2:30:00 PM",
         "status": "Final",
@@ -360,21 +375,6 @@
           "away": {
             "name": "ILL",
             "score": "25"
-          }
-        }
-      },
-      {
-        "matchup": "HOU @ ASU",
-        "kickoff": "10/25/2025, 7:00:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "ASU",
-            "score": "0"
-          },
-          "away": {
-            "name": "HOU",
-            "score": "0"
           }
         }
       }
