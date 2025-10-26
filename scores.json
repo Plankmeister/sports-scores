@@ -100,7 +100,7 @@
         "score": {
           "home": {
             "name": "ORE",
-            "score": "14"
+            "score": "21"
           },
           "away": {
             "name": "WIS",
@@ -115,7 +115,7 @@
         "score": {
           "home": {
             "name": "MIA",
-            "score": "35"
+            "score": "41"
           },
           "away": {
             "name": "STAN",
@@ -134,7 +134,7 @@
           },
           "away": {
             "name": "TA&M",
-            "score": "21"
+            "score": "28"
           }
         }
       },
@@ -145,7 +145,7 @@
         "score": {
           "home": {
             "name": "LOU",
-            "score": "21"
+            "score": "28"
           },
           "away": {
             "name": "BC",
@@ -194,7 +194,7 @@
           },
           "away": {
             "name": "HOU",
-            "score": "10"
+            "score": "17"
           }
         }
       },
