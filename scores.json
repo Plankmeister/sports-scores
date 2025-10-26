@@ -5,7 +5,7 @@
       {
         "matchup": "MIA @ ATL",
         "kickoff": "10/26/2025, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "ATL",
@@ -58,7 +58,7 @@
           },
           "away": {
             "name": "NYG",
-            "score": "13"
+            "score": "20"
           }
         }
       },
@@ -84,7 +84,7 @@
         "score": {
           "home": {
             "name": "BAL",
-            "score": "23"
+            "score": "30"
           },
           "away": {
             "name": "CHI",
