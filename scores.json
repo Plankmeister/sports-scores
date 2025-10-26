@@ -3,21 +3,6 @@
     "week": 8,
     "games": [
       {
-        "matchup": "MIN @ LAC",
-        "kickoff": "10/23/2025, 7:15:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "LAC",
-            "score": "37"
-          },
-          "away": {
-            "name": "MIN",
-            "score": "10"
-          }
-        }
-      },
-      {
         "matchup": "MIA @ ATL",
         "kickoff": "10/26/2025, 12:00:00 PM",
         "status": "Scheduled",
@@ -82,6 +67,21 @@
         "kickoff": "10/26/2025, 7:20:00 PM",
         "status": "Scheduled",
         "score": null
+      },
+      {
+        "matchup": "MIN @ LAC",
+        "kickoff": "10/23/2025, 7:15:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "LAC",
+            "score": "37"
+          },
+          "away": {
+            "name": "MIN",
+            "score": "10"
+          }
+        }
       },
       {
         "matchup": "WSH @ KC",
