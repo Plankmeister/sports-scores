@@ -111,11 +111,11 @@
       {
         "matchup": "STAN @ MIA",
         "kickoff": "10/25/2025, 6:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "MIA",
-            "score": "41"
+            "score": "42"
           },
           "away": {
             "name": "STAN",
@@ -171,7 +171,7 @@
       {
         "matchup": "TENN @ UK",
         "kickoff": "10/25/2025, 6:45:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "UK",
