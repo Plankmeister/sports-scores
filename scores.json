@@ -18,6 +18,36 @@
         }
       },
       {
+        "matchup": "DAL @ DEN",
+        "kickoff": "10/26/2025, 3:25:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "DEN",
+            "score": "0"
+          },
+          "away": {
+            "name": "DAL",
+            "score": "3"
+          }
+        }
+      },
+      {
+        "matchup": "TEN @ IND",
+        "kickoff": "10/26/2025, 3:25:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "IND",
+            "score": "3"
+          },
+          "away": {
+            "name": "TEN",
+            "score": "0"
+          }
+        }
+      },
+      {
         "matchup": "MIA @ ATL",
         "kickoff": "10/26/2025, 12:00:00 PM",
         "status": "Final",
@@ -119,36 +149,6 @@
           "away": {
             "name": "SF",
             "score": "15"
-          }
-        }
-      },
-      {
-        "matchup": "DAL @ DEN",
-        "kickoff": "10/26/2025, 3:25:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "DEN",
-            "score": "0"
-          },
-          "away": {
-            "name": "DAL",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "TEN @ IND",
-        "kickoff": "10/26/2025, 3:25:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "IND",
-            "score": "3"
-          },
-          "away": {
-            "name": "TEN",
-            "score": "0"
           }
         }
       },
