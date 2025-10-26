@@ -3,28 +3,13 @@
     "week": 8,
     "games": [
       {
-        "matchup": "TB @ NO",
-        "kickoff": "10/26/2025, 3:05:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "NO",
-            "score": "3"
-          },
-          "away": {
-            "name": "TB",
-            "score": "23"
-          }
-        }
-      },
-      {
         "matchup": "DAL @ DEN",
         "kickoff": "10/26/2025, 3:25:00 PM",
         "status": "Live: Q4",
         "score": {
           "home": {
             "name": "DEN",
-            "score": "37"
+            "score": "44"
           },
           "away": {
             "name": "DAL",
@@ -149,6 +134,21 @@
           "away": {
             "name": "SF",
             "score": "15"
+          }
+        }
+      },
+      {
+        "matchup": "TB @ NO",
+        "kickoff": "10/26/2025, 3:05:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "NO",
+            "score": "3"
+          },
+          "away": {
+            "name": "TB",
+            "score": "23"
           }
         }
       },
