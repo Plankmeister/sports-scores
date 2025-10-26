@@ -5,44 +5,107 @@
       {
         "matchup": "MIA @ ATL",
         "kickoff": "10/26/2025, 12:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ATL",
+            "score": "0"
+          },
+          "away": {
+            "name": "MIA",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "NYJ @ CIN",
         "kickoff": "10/26/2025, 12:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "CIN",
+            "score": "0"
+          },
+          "away": {
+            "name": "NYJ",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "CLE @ NE",
         "kickoff": "10/26/2025, 12:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "NE",
+            "score": "0"
+          },
+          "away": {
+            "name": "CLE",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "NYG @ PHI",
         "kickoff": "10/26/2025, 12:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "PHI",
+            "score": "7"
+          },
+          "away": {
+            "name": "NYG",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "BUF @ CAR",
         "kickoff": "10/26/2025, 12:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "CAR",
+            "score": "0"
+          },
+          "away": {
+            "name": "BUF",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "CHI @ BAL",
         "kickoff": "10/26/2025, 12:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "BAL",
+            "score": "0"
+          },
+          "away": {
+            "name": "CHI",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "SF @ HOU",
         "kickoff": "10/26/2025, 12:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "HOU",
+            "score": "0"
+          },
+          "away": {
+            "name": "SF",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "TB @ NO",
