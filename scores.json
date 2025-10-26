@@ -9,7 +9,7 @@
         "score": {
           "home": {
             "name": "ATL",
-            "score": "0"
+            "score": "3"
           },
           "away": {
             "name": "MIA",
@@ -20,7 +20,7 @@
       {
         "matchup": "NYJ @ CIN",
         "kickoff": "10/26/2025, 12:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "CIN",
@@ -28,14 +28,14 @@
           },
           "away": {
             "name": "NYJ",
-            "score": "0"
+            "score": "3"
           }
         }
       },
       {
         "matchup": "CLE @ NE",
         "kickoff": "10/26/2025, 12:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "NE",
@@ -99,7 +99,7 @@
         "score": {
           "home": {
             "name": "HOU",
-            "score": "3"
+            "score": "6"
           },
           "away": {
             "name": "SF",
