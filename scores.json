@@ -5,8 +5,17 @@
       {
         "matchup": "WSH @ KC",
         "kickoff": "10/27/2025, 7:15:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "KC",
+            "score": "0"
+          },
+          "away": {
+            "name": "WSH",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "MIN @ LAC",
