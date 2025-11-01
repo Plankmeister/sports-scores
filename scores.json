@@ -100,36 +100,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "UGA VS FLA",
-        "kickoff": "11/1/2025, 2:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "FLA",
-            "score": "20"
-          },
-          "away": {
-            "name": "UGA",
-            "score": "24"
-          }
-        }
-      },
-      {
-        "matchup": "TTU @ KSU",
-        "kickoff": "11/1/2025, 2:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "KSU",
-            "score": "20"
-          },
-          "away": {
-            "name": "TTU",
-            "score": "43"
-          }
-        }
-      },
-      {
         "matchup": "UVA @ CAL",
         "kickoff": "11/1/2025, 2:45:00 PM",
         "status": "Live: Q4",
@@ -140,7 +110,37 @@
           },
           "away": {
             "name": "UVA",
-            "score": "24"
+            "score": "31"
+          }
+        }
+      },
+      {
+        "matchup": "SC @ MISS",
+        "kickoff": "11/1/2025, 6:00:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MISS",
+            "score": "0"
+          },
+          "away": {
+            "name": "SC",
+            "score": "7"
+          }
+        }
+      },
+      {
+        "matchup": "PUR @ MICH",
+        "kickoff": "11/1/2025, 6:00:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MICH",
+            "score": "0"
+          },
+          "away": {
+            "name": "PUR",
+            "score": "0"
           }
         }
       },
@@ -171,6 +171,21 @@
           "away": {
             "name": "IU",
             "score": "55"
+          }
+        }
+      },
+      {
+        "matchup": "UGA VS FLA",
+        "kickoff": "11/1/2025, 2:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "FLA",
+            "score": "20"
+          },
+          "away": {
+            "name": "UGA",
+            "score": "24"
           }
         }
       },
@@ -220,6 +235,21 @@
         }
       },
       {
+        "matchup": "TTU @ KSU",
+        "kickoff": "11/1/2025, 2:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "KSU",
+            "score": "20"
+          },
+          "away": {
+            "name": "TTU",
+            "score": "43"
+          }
+        }
+      },
+      {
         "matchup": "LOU @ VT",
         "kickoff": "11/1/2025, 2:00:00 PM",
         "status": "Final",
@@ -246,36 +276,6 @@
           "away": {
             "name": "WVU",
             "score": "45"
-          }
-        }
-      },
-      {
-        "matchup": "SC @ MISS",
-        "kickoff": "11/1/2025, 6:00:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "MISS",
-            "score": "0"
-          },
-          "away": {
-            "name": "SC",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "PUR @ MICH",
-        "kickoff": "11/1/2025, 6:00:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "MICH",
-            "score": "0"
-          },
-          "away": {
-            "name": "PUR",
-            "score": "0"
           }
         }
       },
