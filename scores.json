@@ -106,7 +106,7 @@
         "score": {
           "home": {
             "name": "MISS",
-            "score": "3"
+            "score": "9"
           },
           "away": {
             "name": "SC",
@@ -303,8 +303,17 @@
       {
         "matchup": "USC @ NEB",
         "kickoff": "11/1/2025, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "NEB",
+            "score": "0"
+          },
+          "away": {
+            "name": "USC",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "CIN @ UTAH",
