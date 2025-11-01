@@ -177,8 +177,17 @@
       {
         "matchup": "IU @ MD",
         "kickoff": "11/1/2025, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MD",
+            "score": "0"
+          },
+          "away": {
+            "name": "IU",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "UGA VS FLA",
@@ -189,8 +198,17 @@
       {
         "matchup": "ND @ BC",
         "kickoff": "11/1/2025, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "BC",
+            "score": "0"
+          },
+          "away": {
+            "name": "ND",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "TTU @ KSU",
