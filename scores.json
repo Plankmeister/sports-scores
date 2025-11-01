@@ -100,24 +100,9 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "VAN @ TEX",
-        "kickoff": "11/1/2025, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "TEX",
-            "score": "34"
-          },
-          "away": {
-            "name": "VAN",
-            "score": "31"
-          }
-        }
-      },
-      {
         "matchup": "MIA @ SMU",
         "kickoff": "11/1/2025, 11:00:00 AM",
-        "status": "Live: Q4",
+        "status": "Live: Q5",
         "score": {
           "home": {
             "name": "SMU",
@@ -132,7 +117,7 @@
       {
         "matchup": "LOU @ VT",
         "kickoff": "11/1/2025, 2:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "VT",
@@ -141,36 +126,6 @@
           "away": {
             "name": "LOU",
             "score": "7"
-          }
-        }
-      },
-      {
-        "matchup": "PSU @ OSU",
-        "kickoff": "11/1/2025, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "OSU",
-            "score": "38"
-          },
-          "away": {
-            "name": "PSU",
-            "score": "14"
-          }
-        }
-      },
-      {
-        "matchup": "WVU @ HOU",
-        "kickoff": "11/1/2025, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "HOU",
-            "score": "35"
-          },
-          "away": {
-            "name": "WVU",
-            "score": "45"
           }
         }
       },
@@ -200,7 +155,7 @@
           },
           "away": {
             "name": "UGA",
-            "score": "0"
+            "score": "7"
           }
         }
       },
@@ -235,10 +190,64 @@
         }
       },
       {
+        "matchup": "PSU @ OSU",
+        "kickoff": "11/1/2025, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "OSU",
+            "score": "38"
+          },
+          "away": {
+            "name": "PSU",
+            "score": "14"
+          }
+        }
+      },
+      {
+        "matchup": "VAN @ TEX",
+        "kickoff": "11/1/2025, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "TEX",
+            "score": "34"
+          },
+          "away": {
+            "name": "VAN",
+            "score": "31"
+          }
+        }
+      },
+      {
+        "matchup": "WVU @ HOU",
+        "kickoff": "11/1/2025, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "HOU",
+            "score": "35"
+          },
+          "away": {
+            "name": "WVU",
+            "score": "45"
+          }
+        }
+      },
+      {
         "matchup": "UVA @ CAL",
         "kickoff": "11/1/2025, 2:45:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "CAL",
+            "score": "0"
+          },
+          "away": {
+            "name": "UVA",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "SC @ MISS",
