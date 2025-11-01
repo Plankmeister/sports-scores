@@ -102,11 +102,11 @@
       {
         "matchup": "MIA @ SMU",
         "kickoff": "11/1/2025, 11:00:00 AM",
-        "status": "Live: Q5",
+        "status": "Final",
         "score": {
           "home": {
             "name": "SMU",
-            "score": "20"
+            "score": "26"
           },
           "away": {
             "name": "MIA",
@@ -181,7 +181,7 @@
         "score": {
           "home": {
             "name": "KSU",
-            "score": "0"
+            "score": "7"
           },
           "away": {
             "name": "TTU",
@@ -245,7 +245,7 @@
           },
           "away": {
             "name": "UVA",
-            "score": "0"
+            "score": "7"
           }
         }
       },
