@@ -110,7 +110,7 @@
           },
           "away": {
             "name": "LOU",
-            "score": "21"
+            "score": "28"
           }
         }
       },
@@ -136,7 +136,7 @@
         "score": {
           "home": {
             "name": "FLA",
-            "score": "10"
+            "score": "17"
           },
           "away": {
             "name": "UGA",
@@ -147,7 +147,7 @@
       {
         "matchup": "ND @ BC",
         "kickoff": "11/1/2025, 2:30:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "BC",
@@ -170,7 +170,7 @@
           },
           "away": {
             "name": "TTU",
-            "score": "22"
+            "score": "29"
           }
         }
       },
@@ -181,7 +181,7 @@
         "score": {
           "home": {
             "name": "CAL",
-            "score": "7"
+            "score": "14"
           },
           "away": {
             "name": "UVA",
