@@ -100,21 +100,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "PSU @ OSU",
-        "kickoff": "11/1/2025, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "OSU",
-            "score": "38"
-          },
-          "away": {
-            "name": "PSU",
-            "score": "14"
-          }
-        }
-      },
-      {
         "matchup": "VAN @ TEX",
         "kickoff": "11/1/2025, 11:00:00 AM",
         "status": "Live: Q4",
@@ -171,6 +156,21 @@
           "away": {
             "name": "LOU",
             "score": "7"
+          }
+        }
+      },
+      {
+        "matchup": "PSU @ OSU",
+        "kickoff": "11/1/2025, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "OSU",
+            "score": "38"
+          },
+          "away": {
+            "name": "PSU",
+            "score": "14"
           }
         }
       },
