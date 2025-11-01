@@ -121,7 +121,7 @@
         "score": {
           "home": {
             "name": "SMU",
-            "score": "17"
+            "score": "20"
           },
           "away": {
             "name": "MIA",
@@ -136,7 +136,7 @@
         "score": {
           "home": {
             "name": "VT",
-            "score": "7"
+            "score": "9"
           },
           "away": {
             "name": "LOU",
@@ -181,7 +181,7 @@
         "score": {
           "home": {
             "name": "MD",
-            "score": "0"
+            "score": "3"
           },
           "away": {
             "name": "IU",
@@ -192,8 +192,17 @@
       {
         "matchup": "UGA VS FLA",
         "kickoff": "11/1/2025, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "FLA",
+            "score": "0"
+          },
+          "away": {
+            "name": "UGA",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "ND @ BC",
