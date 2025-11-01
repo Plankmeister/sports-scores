@@ -102,7 +102,7 @@
       {
         "matchup": "LOU @ VT",
         "kickoff": "11/1/2025, 2:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "VT",
@@ -125,7 +125,7 @@
           },
           "away": {
             "name": "IU",
-            "score": "41"
+            "score": "47"
           }
         }
       },
@@ -155,14 +155,14 @@
           },
           "away": {
             "name": "ND",
-            "score": "24"
+            "score": "18"
           }
         }
       },
       {
         "matchup": "TTU @ KSU",
         "kickoff": "11/1/2025, 2:30:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "KSU",
@@ -185,7 +185,7 @@
           },
           "away": {
             "name": "UVA",
-            "score": "17"
+            "score": "24"
           }
         }
       },
