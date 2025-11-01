@@ -100,28 +100,13 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "MIA @ SMU",
-        "kickoff": "11/1/2025, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "SMU",
-            "score": "26"
-          },
-          "away": {
-            "name": "MIA",
-            "score": "20"
-          }
-        }
-      },
-      {
         "matchup": "LOU @ VT",
         "kickoff": "11/1/2025, 2:00:00 PM",
         "status": "Live: Q2",
         "score": {
           "home": {
             "name": "VT",
-            "score": "9"
+            "score": "16"
           },
           "away": {
             "name": "LOU",
@@ -151,7 +136,7 @@
         "score": {
           "home": {
             "name": "FLA",
-            "score": "0"
+            "score": "6"
           },
           "away": {
             "name": "UGA",
@@ -190,6 +175,21 @@
         }
       },
       {
+        "matchup": "UVA @ CAL",
+        "kickoff": "11/1/2025, 2:45:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "CAL",
+            "score": "0"
+          },
+          "away": {
+            "name": "UVA",
+            "score": "7"
+          }
+        }
+      },
+      {
         "matchup": "PSU @ OSU",
         "kickoff": "11/1/2025, 11:00:00 AM",
         "status": "Final",
@@ -220,6 +220,21 @@
         }
       },
       {
+        "matchup": "MIA @ SMU",
+        "kickoff": "11/1/2025, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "SMU",
+            "score": "26"
+          },
+          "away": {
+            "name": "MIA",
+            "score": "20"
+          }
+        }
+      },
+      {
         "matchup": "WVU @ HOU",
         "kickoff": "11/1/2025, 11:00:00 AM",
         "status": "Final",
@@ -231,21 +246,6 @@
           "away": {
             "name": "WVU",
             "score": "45"
-          }
-        }
-      },
-      {
-        "matchup": "UVA @ CAL",
-        "kickoff": "11/1/2025, 2:45:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "CAL",
-            "score": "0"
-          },
-          "away": {
-            "name": "UVA",
-            "score": "7"
           }
         }
       },
