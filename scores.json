@@ -132,7 +132,7 @@
       {
         "matchup": "MIA @ SMU",
         "kickoff": "11/1/2025, 11:00:00 AM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "SMU",
@@ -147,7 +147,7 @@
       {
         "matchup": "WVU @ HOU",
         "kickoff": "11/1/2025, 11:00:00 AM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "HOU",
@@ -155,7 +155,7 @@
           },
           "away": {
             "name": "WVU",
-            "score": "31"
+            "score": "38"
           }
         }
       },
