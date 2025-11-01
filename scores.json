@@ -102,7 +102,7 @@
       {
         "matchup": "PSU @ OSU",
         "kickoff": "11/1/2025, 11:00:00 AM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "OSU",
@@ -125,7 +125,7 @@
           },
           "away": {
             "name": "VAN",
-            "score": "22"
+            "score": "24"
           }
         }
       },
@@ -162,8 +162,17 @@
       {
         "matchup": "LOU @ VT",
         "kickoff": "11/1/2025, 2:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "VT",
+            "score": "0"
+          },
+          "away": {
+            "name": "LOU",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "IU @ MD",
