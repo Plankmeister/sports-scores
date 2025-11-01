@@ -102,7 +102,7 @@
       {
         "matchup": "VAN @ TEX",
         "kickoff": "11/1/2025, 11:00:00 AM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "TEX",
@@ -130,28 +130,13 @@
         }
       },
       {
-        "matchup": "WVU @ HOU",
-        "kickoff": "11/1/2025, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "HOU",
-            "score": "35"
-          },
-          "away": {
-            "name": "WVU",
-            "score": "45"
-          }
-        }
-      },
-      {
         "matchup": "LOU @ VT",
         "kickoff": "11/1/2025, 2:00:00 PM",
         "status": "Live: Q1",
         "score": {
           "home": {
             "name": "VT",
-            "score": "0"
+            "score": "7"
           },
           "away": {
             "name": "LOU",
@@ -171,6 +156,21 @@
           "away": {
             "name": "PSU",
             "score": "14"
+          }
+        }
+      },
+      {
+        "matchup": "WVU @ HOU",
+        "kickoff": "11/1/2025, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "HOU",
+            "score": "35"
+          },
+          "away": {
+            "name": "WVU",
+            "score": "45"
           }
         }
       },
@@ -195,8 +195,17 @@
       {
         "matchup": "TTU @ KSU",
         "kickoff": "11/1/2025, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "KSU",
+            "score": "0"
+          },
+          "away": {
+            "name": "TTU",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "UVA @ CAL",
