@@ -132,7 +132,7 @@
       {
         "matchup": "ND @ BC",
         "kickoff": "11/1/2025, 2:30:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "BC",
@@ -155,7 +155,7 @@
           },
           "away": {
             "name": "TTU",
-            "score": "36"
+            "score": "43"
           }
         }
       },
