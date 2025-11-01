@@ -121,7 +121,7 @@
         "score": {
           "home": {
             "name": "TEX",
-            "score": "24"
+            "score": "31"
           },
           "away": {
             "name": "VAN",
@@ -132,7 +132,7 @@
       {
         "matchup": "MIA @ SMU",
         "kickoff": "11/1/2025, 11:00:00 AM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "SMU",
@@ -155,7 +155,7 @@
           },
           "away": {
             "name": "WVU",
-            "score": "21"
+            "score": "24"
           }
         }
       },
