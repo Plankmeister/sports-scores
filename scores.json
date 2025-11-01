@@ -100,21 +100,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "LOU @ VT",
-        "kickoff": "11/1/2025, 2:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "VT",
-            "score": "16"
-          },
-          "away": {
-            "name": "LOU",
-            "score": "28"
-          }
-        }
-      },
-      {
         "matchup": "IU @ MD",
         "kickoff": "11/1/2025, 2:30:00 PM",
         "status": "Live: Q4",
@@ -125,18 +110,18 @@
           },
           "away": {
             "name": "IU",
-            "score": "47"
+            "score": "48"
           }
         }
       },
       {
         "matchup": "UGA VS FLA",
         "kickoff": "11/1/2025, 2:30:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "FLA",
-            "score": "17"
+            "score": "20"
           },
           "away": {
             "name": "UGA",
@@ -166,7 +151,7 @@
         "score": {
           "home": {
             "name": "KSU",
-            "score": "14"
+            "score": "20"
           },
           "away": {
             "name": "TTU",
@@ -231,6 +216,21 @@
           "away": {
             "name": "MIA",
             "score": "20"
+          }
+        }
+      },
+      {
+        "matchup": "LOU @ VT",
+        "kickoff": "11/1/2025, 2:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "VT",
+            "score": "16"
+          },
+          "away": {
+            "name": "LOU",
+            "score": "28"
           }
         }
       },
