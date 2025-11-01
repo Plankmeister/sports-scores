@@ -102,7 +102,7 @@
       {
         "matchup": "IU @ MD",
         "kickoff": "11/1/2025, 2:30:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "MD",
@@ -155,7 +155,7 @@
           },
           "away": {
             "name": "TTU",
-            "score": "29"
+            "score": "36"
           }
         }
       },
