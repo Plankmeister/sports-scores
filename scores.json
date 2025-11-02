@@ -155,7 +155,7 @@
           },
           "away": {
             "name": "USC",
-            "score": "14"
+            "score": "21"
           }
         }
       },
@@ -327,8 +327,17 @@
       {
         "matchup": "CIN @ UTAH",
         "kickoff": "11/1/2025, 9:15:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "UTAH",
+            "score": "0"
+          },
+          "away": {
+            "name": "CIN",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "MEM @ RICE",
