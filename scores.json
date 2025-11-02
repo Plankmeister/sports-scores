@@ -140,7 +140,7 @@
           },
           "away": {
             "name": "GT",
-            "score": "7"
+            "score": "10"
           }
         }
       },
@@ -155,14 +155,14 @@
           },
           "away": {
             "name": "OU",
-            "score": "0"
+            "score": "7"
           }
         }
       },
       {
         "matchup": "USC @ NEB",
         "kickoff": "11/1/2025, 6:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "NEB",
