@@ -9,7 +9,7 @@
         "score": {
           "home": {
             "name": "CIN",
-            "score": "35"
+            "score": "42"
           },
           "away": {
             "name": "CHI",
@@ -18,39 +18,9 @@
         }
       },
       {
-        "matchup": "MIN @ DET",
-        "kickoff": "11/2/2025, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "DET",
-            "score": "24"
-          },
-          "away": {
-            "name": "MIN",
-            "score": "27"
-          }
-        }
-      },
-      {
-        "matchup": "IND @ PIT",
-        "kickoff": "11/2/2025, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "PIT",
-            "score": "27"
-          },
-          "away": {
-            "name": "IND",
-            "score": "20"
-          }
-        }
-      },
-      {
         "matchup": "DEN @ HOU",
         "kickoff": "11/2/2025, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "HOU",
@@ -58,7 +28,7 @@
           },
           "away": {
             "name": "DEN",
-            "score": "15"
+            "score": "18"
           }
         }
       },
@@ -89,6 +59,21 @@
           "away": {
             "name": "NO",
             "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "MIN @ DET",
+        "kickoff": "11/2/2025, 12:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "DET",
+            "score": "24"
+          },
+          "away": {
+            "name": "MIN",
+            "score": "27"
           }
         }
       },
@@ -153,10 +138,34 @@
         }
       },
       {
+        "matchup": "IND @ PIT",
+        "kickoff": "11/2/2025, 12:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "PIT",
+            "score": "27"
+          },
+          "away": {
+            "name": "IND",
+            "score": "20"
+          }
+        }
+      },
+      {
         "matchup": "KC @ BUF",
         "kickoff": "11/2/2025, 3:25:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "BUF",
+            "score": "0"
+          },
+          "away": {
+            "name": "KC",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "SEA @ WSH",
