@@ -13,7 +13,7 @@
           },
           "away": {
             "name": "CHI",
-            "score": "34"
+            "score": "41"
           }
         }
       },
@@ -48,21 +48,6 @@
         }
       },
       {
-        "matchup": "LAC @ TEN",
-        "kickoff": "11/2/2025, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "TEN",
-            "score": "20"
-          },
-          "away": {
-            "name": "LAC",
-            "score": "27"
-          }
-        }
-      },
-      {
         "matchup": "ATL @ NE",
         "kickoff": "11/2/2025, 12:00:00 PM",
         "status": "Live: Q4",
@@ -80,7 +65,7 @@
       {
         "matchup": "SF @ NYG",
         "kickoff": "11/2/2025, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "NYG",
@@ -103,7 +88,7 @@
           },
           "away": {
             "name": "IND",
-            "score": "10"
+            "score": "17"
           }
         }
       },
@@ -119,6 +104,21 @@
           "away": {
             "name": "DEN",
             "score": "15"
+          }
+        }
+      },
+      {
+        "matchup": "LAC @ TEN",
+        "kickoff": "11/2/2025, 12:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "TEN",
+            "score": "20"
+          },
+          "away": {
+            "name": "LAC",
+            "score": "27"
           }
         }
       },
