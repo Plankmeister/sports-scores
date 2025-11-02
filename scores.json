@@ -106,7 +106,7 @@
         "score": {
           "home": {
             "name": "MISS",
-            "score": "20"
+            "score": "23"
           },
           "away": {
             "name": "SC",
@@ -125,7 +125,7 @@
           },
           "away": {
             "name": "PUR",
-            "score": "10"
+            "score": "16"
           }
         }
       },
@@ -140,7 +140,7 @@
           },
           "away": {
             "name": "GT",
-            "score": "20"
+            "score": "23"
           }
         }
       },
