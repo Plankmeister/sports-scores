@@ -28,7 +28,7 @@
           },
           "away": {
             "name": "MIN",
-            "score": "0"
+            "score": "7"
           }
         }
       },
@@ -54,7 +54,7 @@
         "score": {
           "home": {
             "name": "TEN",
-            "score": "6"
+            "score": "7"
           },
           "away": {
             "name": "LAC",
@@ -69,7 +69,7 @@
         "score": {
           "home": {
             "name": "NE",
-            "score": "0"
+            "score": "7"
           },
           "away": {
             "name": "ATL",
@@ -103,7 +103,7 @@
           },
           "away": {
             "name": "IND",
-            "score": "0"
+            "score": "6"
           }
         }
       },
