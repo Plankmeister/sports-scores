@@ -28,7 +28,7 @@
           },
           "away": {
             "name": "MIN",
-            "score": "24"
+            "score": "27"
           }
         }
       },
@@ -43,14 +43,14 @@
           },
           "away": {
             "name": "CAR",
-            "score": "13"
+            "score": "16"
           }
         }
       },
       {
         "matchup": "ATL @ NE",
         "kickoff": "11/2/2025, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "NE",
