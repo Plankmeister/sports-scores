@@ -115,6 +115,21 @@
         }
       },
       {
+        "matchup": "MEM @ RICE",
+        "kickoff": "10/31/2025, 6:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "RICE",
+            "score": "14"
+          },
+          "away": {
+            "name": "MEM",
+            "score": "38"
+          }
+        }
+      },
+      {
         "matchup": "PSU @ OSU",
         "kickoff": "11/1/2025, 11:00:00 AM",
         "status": "Final",
@@ -336,21 +351,6 @@
           "away": {
             "name": "USC",
             "score": "21"
-          }
-        }
-      },
-      {
-        "matchup": "MEM @ RICE",
-        "kickoff": "10/31/2025, 6:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "RICE",
-            "score": "14"
-          },
-          "away": {
-            "name": "MEM",
-            "score": "38"
           }
         }
       }
