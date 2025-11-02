@@ -106,7 +106,7 @@
         "score": {
           "home": {
             "name": "MISS",
-            "score": "10"
+            "score": "17"
           },
           "away": {
             "name": "SC",
@@ -125,7 +125,7 @@
           },
           "away": {
             "name": "PUR",
-            "score": "6"
+            "score": "7"
           }
         }
       },
@@ -136,11 +136,26 @@
         "score": {
           "home": {
             "name": "NCSU",
-            "score": "7"
+            "score": "14"
           },
           "away": {
             "name": "GT",
             "score": "7"
+          }
+        }
+      },
+      {
+        "matchup": "OU @ TENN",
+        "kickoff": "11/1/2025, 6:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "TENN",
+            "score": "7"
+          },
+          "away": {
+            "name": "OU",
+            "score": "0"
           }
         }
       },
@@ -306,21 +321,6 @@
           "away": {
             "name": "WVU",
             "score": "45"
-          }
-        }
-      },
-      {
-        "matchup": "OU @ TENN",
-        "kickoff": "11/1/2025, 6:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "TENN",
-            "score": "7"
-          },
-          "away": {
-            "name": "OU",
-            "score": "0"
           }
         }
       },
