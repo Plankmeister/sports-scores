@@ -9,7 +9,7 @@
         "score": {
           "home": {
             "name": "CIN",
-            "score": "27"
+            "score": "33"
           },
           "away": {
             "name": "CHI",
@@ -20,7 +20,7 @@
       {
         "matchup": "MIN @ DET",
         "kickoff": "11/2/2025, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "DET",
@@ -43,7 +43,7 @@
           },
           "away": {
             "name": "IND",
-            "score": "17"
+            "score": "20"
           }
         }
       },
@@ -84,7 +84,7 @@
         "score": {
           "home": {
             "name": "LAR",
-            "score": "0"
+            "score": "6"
           },
           "away": {
             "name": "NO",
