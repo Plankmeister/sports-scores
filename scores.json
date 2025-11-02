@@ -35,7 +35,7 @@
       {
         "matchup": "CAR @ GB",
         "kickoff": "11/2/2025, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "GB",
@@ -125,14 +125,32 @@
       {
         "matchup": "JAX @ LV",
         "kickoff": "11/2/2025, 3:05:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "LV",
+            "score": "0"
+          },
+          "away": {
+            "name": "JAX",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "NO @ LAR",
         "kickoff": "11/2/2025, 3:05:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "LAR",
+            "score": "0"
+          },
+          "away": {
+            "name": "NO",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "KC @ BUF",
