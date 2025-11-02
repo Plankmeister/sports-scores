@@ -28,14 +28,14 @@
           },
           "away": {
             "name": "MIN",
-            "score": "7"
+            "score": "14"
           }
         }
       },
       {
         "matchup": "CAR @ GB",
         "kickoff": "11/2/2025, 12:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "GB",
@@ -73,7 +73,7 @@
           },
           "away": {
             "name": "ATL",
-            "score": "0"
+            "score": "7"
           }
         }
       },
@@ -114,7 +114,7 @@
         "score": {
           "home": {
             "name": "HOU",
-            "score": "0"
+            "score": "3"
           },
           "away": {
             "name": "DEN",
