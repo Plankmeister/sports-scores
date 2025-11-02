@@ -9,11 +9,11 @@
         "score": {
           "home": {
             "name": "CIN",
-            "score": "13"
+            "score": "20"
           },
           "away": {
             "name": "CHI",
-            "score": "14"
+            "score": "17"
           }
         }
       },
@@ -58,7 +58,7 @@
           },
           "away": {
             "name": "LAC",
-            "score": "17"
+            "score": "20"
           }
         }
       },
@@ -99,7 +99,7 @@
         "score": {
           "home": {
             "name": "PIT",
-            "score": "14"
+            "score": "17"
           },
           "away": {
             "name": "IND",
