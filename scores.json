@@ -100,21 +100,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "CIN @ UTAH",
-        "kickoff": "11/1/2025, 9:15:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "UTAH",
-            "score": "45"
-          },
-          "away": {
-            "name": "CIN",
-            "score": "14"
-          }
-        }
-      },
-      {
         "matchup": "MEM @ RICE",
         "kickoff": "10/31/2025, 6:00:00 PM",
         "status": "Final",
@@ -306,6 +291,21 @@
           "away": {
             "name": "LOU",
             "score": "28"
+          }
+        }
+      },
+      {
+        "matchup": "CIN @ UTAH",
+        "kickoff": "11/1/2025, 9:15:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "UTAH",
+            "score": "45"
+          },
+          "away": {
+            "name": "CIN",
+            "score": "14"
           }
         }
       },
