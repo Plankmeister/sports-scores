@@ -3,6 +3,21 @@
     "week": 9,
     "games": [
       {
+        "matchup": "SEA @ WSH",
+        "kickoff": "11/2/2025, 7:20:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "WSH",
+            "score": "0"
+          },
+          "away": {
+            "name": "SEA",
+            "score": "0"
+          }
+        }
+      },
+      {
         "matchup": "CHI @ CIN",
         "kickoff": "11/2/2025, 12:00:00 PM",
         "status": "Final",
@@ -166,12 +181,6 @@
             "score": "21"
           }
         }
-      },
-      {
-        "matchup": "SEA @ WSH",
-        "kickoff": "11/2/2025, 7:20:00 PM",
-        "status": "Scheduled",
-        "score": null
       },
       {
         "matchup": "BAL @ MIA",
