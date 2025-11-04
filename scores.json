@@ -3,21 +3,6 @@
     "week": 9,
     "games": [
       {
-        "matchup": "ARI @ DAL",
-        "kickoff": "11/3/2025, 7:15:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "DAL",
-            "score": "17"
-          },
-          "away": {
-            "name": "ARI",
-            "score": "27"
-          }
-        }
-      },
-      {
         "matchup": "BAL @ MIA",
         "kickoff": "10/30/2025, 7:15:00 PM",
         "status": "Final",
@@ -209,6 +194,21 @@
           "away": {
             "name": "SEA",
             "score": "38"
+          }
+        }
+      },
+      {
+        "matchup": "ARI @ DAL",
+        "kickoff": "11/3/2025, 7:15:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "DAL",
+            "score": "17"
+          },
+          "away": {
+            "name": "ARI",
+            "score": "27"
           }
         }
       }
