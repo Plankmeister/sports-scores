@@ -5,8 +5,17 @@
       {
         "matchup": "ARI @ DAL",
         "kickoff": "11/3/2025, 7:15:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "DAL",
+            "score": "0"
+          },
+          "away": {
+            "name": "ARI",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "BAL @ MIA",
