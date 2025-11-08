@@ -136,7 +136,7 @@
         "score": {
           "home": {
             "name": "MIA",
-            "score": "0"
+            "score": "6"
           },
           "away": {
             "name": "SYR",
@@ -151,7 +151,7 @@
         "score": {
           "home": {
             "name": "VAN",
-            "score": "0"
+            "score": "3"
           },
           "away": {
             "name": "AUB",
@@ -237,8 +237,17 @@
       {
         "matchup": "WASH @ WIS",
         "kickoff": "11/8/2025, 3:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "WIS",
+            "score": "0"
+          },
+          "away": {
+            "name": "WASH",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "WAKE @ UVA",
