@@ -100,21 +100,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "NU @ USC",
-        "kickoff": "11/7/2025, 8:00:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "USC",
-            "score": "38"
-          },
-          "away": {
-            "name": "NU",
-            "score": "17"
-          }
-        }
-      },
-      {
         "matchup": "IU @ PSU",
         "kickoff": "11/8/2025, 11:00:00 AM",
         "status": "Scheduled",
@@ -197,6 +182,21 @@
         "kickoff": "11/8/2025, 6:30:00 PM",
         "status": "Scheduled",
         "score": null
+      },
+      {
+        "matchup": "NU @ USC",
+        "kickoff": "11/7/2025, 8:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "USC",
+            "score": "38"
+          },
+          "away": {
+            "name": "NU",
+            "score": "17"
+          }
+        }
       }
     ]
   }
