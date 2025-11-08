@@ -117,7 +117,7 @@
       {
         "matchup": "UGA @ MSST",
         "kickoff": "11/8/2025, 11:00:00 AM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "MSST",
@@ -136,7 +136,7 @@
         "score": {
           "home": {
             "name": "TTU",
-            "score": "26"
+            "score": "29"
           },
           "away": {
             "name": "BYU",
