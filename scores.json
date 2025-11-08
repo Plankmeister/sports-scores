@@ -100,36 +100,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "IU @ PSU",
-        "kickoff": "11/8/2025, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "PSU",
-            "score": "24"
-          },
-          "away": {
-            "name": "IU",
-            "score": "27"
-          }
-        }
-      },
-      {
-        "matchup": "BYU @ TTU",
-        "kickoff": "11/8/2025, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "TTU",
-            "score": "29"
-          },
-          "away": {
-            "name": "BYU",
-            "score": "7"
-          }
-        }
-      },
-      {
         "matchup": "OSU @ PUR",
         "kickoff": "11/8/2025, 12:00:00 PM",
         "status": "Live: Q4",
@@ -151,11 +121,56 @@
         "score": {
           "home": {
             "name": "MISS",
-            "score": "42"
+            "score": "48"
           },
           "away": {
             "name": "CIT",
             "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "ORE @ IOWA",
+        "kickoff": "11/8/2025, 2:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "IOWA",
+            "score": "0"
+          },
+          "away": {
+            "name": "ORE",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "SYR @ MIA",
+        "kickoff": "11/8/2025, 2:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MIA",
+            "score": "0"
+          },
+          "away": {
+            "name": "SYR",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "IU @ PSU",
+        "kickoff": "11/8/2025, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "PSU",
+            "score": "24"
+          },
+          "away": {
+            "name": "IU",
+            "score": "27"
           }
         }
       },
@@ -175,28 +190,31 @@
         }
       },
       {
+        "matchup": "BYU @ TTU",
+        "kickoff": "11/8/2025, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "TTU",
+            "score": "29"
+          },
+          "away": {
+            "name": "BYU",
+            "score": "7"
+          }
+        }
+      },
+      {
         "matchup": "TA&M @ MIZ",
-        "kickoff": "11/8/2025, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "ORE @ IOWA",
-        "kickoff": "11/8/2025, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "SYR @ MIA",
         "kickoff": "11/8/2025, 2:30:00 PM",
         "status": "Live: Q1",
         "score": {
           "home": {
-            "name": "MIA",
+            "name": "MIZ",
             "score": "0"
           },
           "away": {
-            "name": "SYR",
+            "name": "TA&M",
             "score": "0"
           }
         }
