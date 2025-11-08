@@ -102,11 +102,11 @@
       {
         "matchup": "OSU @ PUR",
         "kickoff": "11/8/2025, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "PUR",
-            "score": "10"
+            "score": "3"
           },
           "away": {
             "name": "OSU",
@@ -117,7 +117,7 @@
       {
         "matchup": "CIT @ MISS",
         "kickoff": "11/8/2025, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "MISS",
@@ -222,8 +222,17 @@
       {
         "matchup": "AUB @ VAN",
         "kickoff": "11/8/2025, 3:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "VAN",
+            "score": "0"
+          },
+          "away": {
+            "name": "AUB",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "WASH @ WIS",
