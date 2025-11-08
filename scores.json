@@ -102,7 +102,7 @@
       {
         "matchup": "IU @ PSU",
         "kickoff": "11/8/2025, 11:00:00 AM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "PSU",
@@ -117,7 +117,7 @@
       {
         "matchup": "UGA @ MSST",
         "kickoff": "11/8/2025, 11:00:00 AM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "MSST",
@@ -125,14 +125,14 @@
           },
           "away": {
             "name": "UGA",
-            "score": "3"
+            "score": "10"
           }
         }
       },
       {
         "matchup": "BYU @ TTU",
         "kickoff": "11/8/2025, 11:00:00 AM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "TTU",
