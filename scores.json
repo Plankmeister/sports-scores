@@ -102,7 +102,7 @@
       {
         "matchup": "IU @ PSU",
         "kickoff": "11/8/2025, 11:00:00 AM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "PSU",
@@ -117,7 +117,7 @@
       {
         "matchup": "BYU @ TTU",
         "kickoff": "11/8/2025, 11:00:00 AM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "TTU",
@@ -189,8 +189,17 @@
       {
         "matchup": "SYR @ MIA",
         "kickoff": "11/8/2025, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MIA",
+            "score": "0"
+          },
+          "away": {
+            "name": "SYR",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "AUB @ VAN",
