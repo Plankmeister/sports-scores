@@ -102,7 +102,7 @@
       {
         "matchup": "TA&M @ MIZ",
         "kickoff": "11/8/2025, 2:30:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "MIZ",
@@ -136,7 +136,7 @@
         "score": {
           "home": {
             "name": "VAN",
-            "score": "31"
+            "score": "37"
           },
           "away": {
             "name": "AUB",
@@ -151,7 +151,7 @@
         "score": {
           "home": {
             "name": "WIS",
-            "score": "10"
+            "score": "13"
           },
           "away": {
             "name": "WASH",
@@ -252,14 +252,32 @@
       {
         "matchup": "WAKE @ UVA",
         "kickoff": "11/8/2025, 6:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "UVA",
+            "score": "0"
+          },
+          "away": {
+            "name": "WAKE",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "CAL @ LOU",
         "kickoff": "11/8/2025, 6:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "LOU",
+            "score": "0"
+          },
+          "away": {
+            "name": "CAL",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "LSU @ ALA",
