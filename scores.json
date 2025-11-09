@@ -9,7 +9,7 @@
         "score": {
           "home": {
             "name": "CHI",
-            "score": "17"
+            "score": "24"
           },
           "away": {
             "name": "NYG",
@@ -20,7 +20,7 @@
       {
         "matchup": "BUF @ MIA",
         "kickoff": "11/9/2025, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "MIA",
@@ -50,7 +50,7 @@
       {
         "matchup": "CLE @ NYJ",
         "kickoff": "11/9/2025, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "NYJ",
@@ -65,11 +65,11 @@
       {
         "matchup": "NE @ TB",
         "kickoff": "11/9/2025, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "TB",
-            "score": "16"
+            "score": "23"
           },
           "away": {
             "name": "NE",
@@ -125,8 +125,17 @@
       {
         "matchup": "ARI @ SEA",
         "kickoff": "11/9/2025, 3:05:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "SEA",
+            "score": "0"
+          },
+          "away": {
+            "name": "ARI",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "LAR @ SF",
