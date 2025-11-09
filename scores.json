@@ -5,8 +5,17 @@
       {
         "matchup": "ATL VS IND",
         "kickoff": "11/9/2025, 8:30:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "IND",
+            "score": "0"
+          },
+          "away": {
+            "name": "ATL",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "NYG @ CHI",
