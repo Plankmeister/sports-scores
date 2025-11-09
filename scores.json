@@ -100,21 +100,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "WAKE @ UVA",
-        "kickoff": "11/8/2025, 6:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "UVA",
-            "score": "9"
-          },
-          "away": {
-            "name": "WAKE",
-            "score": "16"
-          }
-        }
-      },
-      {
         "matchup": "CAL @ LOU",
         "kickoff": "11/8/2025, 6:00:00 PM",
         "status": "Live: Q4",
@@ -140,7 +125,7 @@
           },
           "away": {
             "name": "LSU",
-            "score": "6"
+            "score": "9"
           }
         }
       },
@@ -261,6 +246,21 @@
           "away": {
             "name": "ORE",
             "score": "18"
+          }
+        }
+      },
+      {
+        "matchup": "WAKE @ UVA",
+        "kickoff": "11/8/2025, 6:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "UVA",
+            "score": "9"
+          },
+          "away": {
+            "name": "WAKE",
+            "score": "16"
           }
         }
       },
