@@ -39,7 +39,7 @@
         "score": {
           "home": {
             "name": "MIN",
-            "score": "6"
+            "score": "7"
           },
           "away": {
             "name": "BAL",
@@ -84,7 +84,7 @@
         "score": {
           "home": {
             "name": "CAR",
-            "score": "0"
+            "score": "7"
           },
           "away": {
             "name": "NO",
@@ -103,7 +103,7 @@
           },
           "away": {
             "name": "JAX",
-            "score": "0"
+            "score": "3"
           }
         }
       },
