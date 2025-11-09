@@ -5,7 +5,7 @@
       {
         "matchup": "NYG @ CHI",
         "kickoff": "11/9/2025, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "CHI",
@@ -14,21 +14,6 @@
           "away": {
             "name": "NYG",
             "score": "20"
-          }
-        }
-      },
-      {
-        "matchup": "BUF @ MIA",
-        "kickoff": "11/9/2025, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "MIA",
-            "score": "30"
-          },
-          "away": {
-            "name": "BUF",
-            "score": "13"
           }
         }
       },
@@ -44,6 +29,66 @@
           "away": {
             "name": "BAL",
             "score": "27"
+          }
+        }
+      },
+      {
+        "matchup": "JAX @ HOU",
+        "kickoff": "11/9/2025, 12:00:00 PM",
+        "status": "Live: Q4",
+        "score": {
+          "home": {
+            "name": "HOU",
+            "score": "24"
+          },
+          "away": {
+            "name": "JAX",
+            "score": "29"
+          }
+        }
+      },
+      {
+        "matchup": "ARI @ SEA",
+        "kickoff": "11/9/2025, 3:05:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "SEA",
+            "score": "7"
+          },
+          "away": {
+            "name": "ARI",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "ATL VS IND",
+        "kickoff": "11/9/2025, 8:30:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "IND",
+            "score": "31"
+          },
+          "away": {
+            "name": "ATL",
+            "score": "25"
+          }
+        }
+      },
+      {
+        "matchup": "BUF @ MIA",
+        "kickoff": "11/9/2025, 12:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "MIA",
+            "score": "30"
+          },
+          "away": {
+            "name": "BUF",
+            "score": "13"
           }
         }
       },
@@ -78,36 +123,6 @@
         }
       },
       {
-        "matchup": "JAX @ HOU",
-        "kickoff": "11/9/2025, 12:00:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "HOU",
-            "score": "24"
-          },
-          "away": {
-            "name": "JAX",
-            "score": "29"
-          }
-        }
-      },
-      {
-        "matchup": "ATL VS IND",
-        "kickoff": "11/9/2025, 8:30:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "IND",
-            "score": "31"
-          },
-          "away": {
-            "name": "ATL",
-            "score": "25"
-          }
-        }
-      },
-      {
         "matchup": "NO @ CAR",
         "kickoff": "11/9/2025, 12:00:00 PM",
         "status": "Final",
@@ -119,21 +134,6 @@
           "away": {
             "name": "NO",
             "score": "17"
-          }
-        }
-      },
-      {
-        "matchup": "ARI @ SEA",
-        "kickoff": "11/9/2025, 3:05:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "SEA",
-            "score": "0"
-          },
-          "away": {
-            "name": "ARI",
-            "score": "0"
           }
         }
       },
