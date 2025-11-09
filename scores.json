@@ -102,7 +102,7 @@
       {
         "matchup": "AUB @ VAN",
         "kickoff": "11/8/2025, 3:00:00 PM",
-        "status": "Live: Q5",
+        "status": "Final",
         "score": {
           "home": {
             "name": "VAN",
@@ -111,21 +111,6 @@
           "away": {
             "name": "AUB",
             "score": "38"
-          }
-        }
-      },
-      {
-        "matchup": "WASH @ WIS",
-        "kickoff": "11/8/2025, 3:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "WIS",
-            "score": "13"
-          },
-          "away": {
-            "name": "WASH",
-            "score": "10"
           }
         }
       },
@@ -305,6 +290,21 @@
           },
           "away": {
             "name": "SYR",
+            "score": "10"
+          }
+        }
+      },
+      {
+        "matchup": "WASH @ WIS",
+        "kickoff": "11/8/2025, 3:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "WIS",
+            "score": "13"
+          },
+          "away": {
+            "name": "WASH",
             "score": "10"
           }
         }
