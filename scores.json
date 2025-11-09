@@ -102,7 +102,7 @@
       {
         "matchup": "CAL @ LOU",
         "kickoff": "11/8/2025, 6:00:00 PM",
-        "status": "Live: Q5",
+        "status": "Final",
         "score": {
           "home": {
             "name": "LOU",
@@ -110,7 +110,7 @@
           },
           "away": {
             "name": "CAL",
-            "score": "23"
+            "score": "29"
           }
         }
       },
@@ -121,26 +121,11 @@
         "score": {
           "home": {
             "name": "ALA",
-            "score": "17"
+            "score": "20"
           },
           "away": {
             "name": "LSU",
             "score": "9"
-          }
-        }
-      },
-      {
-        "matchup": "NAVY @ ND",
-        "kickoff": "11/8/2025, 6:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "ND",
-            "score": "49"
-          },
-          "away": {
-            "name": "NAVY",
-            "score": "10"
           }
         }
       },
@@ -246,6 +231,21 @@
           "away": {
             "name": "ORE",
             "score": "18"
+          }
+        }
+      },
+      {
+        "matchup": "NAVY @ ND",
+        "kickoff": "11/8/2025, 6:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "ND",
+            "score": "49"
+          },
+          "away": {
+            "name": "NAVY",
+            "score": "10"
           }
         }
       },
