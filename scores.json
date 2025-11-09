@@ -106,7 +106,7 @@
         "score": {
           "home": {
             "name": "VAN",
-            "score": "38"
+            "score": "45"
           },
           "away": {
             "name": "AUB",
@@ -117,7 +117,7 @@
       {
         "matchup": "WASH @ WIS",
         "kickoff": "11/8/2025, 3:30:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "WIS",
@@ -151,7 +151,7 @@
         "score": {
           "home": {
             "name": "LOU",
-            "score": "7"
+            "score": "10"
           },
           "away": {
             "name": "CAL",
