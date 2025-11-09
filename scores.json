@@ -3,36 +3,6 @@
     "week": 10,
     "games": [
       {
-        "matchup": "NYG @ CHI",
-        "kickoff": "11/9/2025, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "CHI",
-            "score": "24"
-          },
-          "away": {
-            "name": "NYG",
-            "score": "20"
-          }
-        }
-      },
-      {
-        "matchup": "BAL @ MIN",
-        "kickoff": "11/9/2025, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "MIN",
-            "score": "19"
-          },
-          "away": {
-            "name": "BAL",
-            "score": "27"
-          }
-        }
-      },
-      {
         "matchup": "JAX @ HOU",
         "kickoff": "11/9/2025, 12:00:00 PM",
         "status": "Live: Q4",
@@ -78,6 +48,21 @@
         }
       },
       {
+        "matchup": "NYG @ CHI",
+        "kickoff": "11/9/2025, 12:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "CHI",
+            "score": "24"
+          },
+          "away": {
+            "name": "NYG",
+            "score": "20"
+          }
+        }
+      },
+      {
         "matchup": "BUF @ MIA",
         "kickoff": "11/9/2025, 12:00:00 PM",
         "status": "Final",
@@ -89,6 +74,21 @@
           "away": {
             "name": "BUF",
             "score": "13"
+          }
+        }
+      },
+      {
+        "matchup": "BAL @ MIN",
+        "kickoff": "11/9/2025, 12:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "MIN",
+            "score": "19"
+          },
+          "away": {
+            "name": "BAL",
+            "score": "27"
           }
         }
       },
@@ -140,14 +140,32 @@
       {
         "matchup": "LAR @ SF",
         "kickoff": "11/9/2025, 3:25:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "SF",
+            "score": "0"
+          },
+          "away": {
+            "name": "LAR",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "DET @ WSH",
         "kickoff": "11/9/2025, 3:25:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "WSH",
+            "score": "0"
+          },
+          "away": {
+            "name": "DET",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "PIT @ LAC",
