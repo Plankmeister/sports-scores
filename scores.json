@@ -117,7 +117,7 @@
       {
         "matchup": "ORE @ IOWA",
         "kickoff": "11/8/2025, 2:30:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "IOWA",
@@ -125,22 +125,7 @@
           },
           "away": {
             "name": "ORE",
-            "score": "15"
-          }
-        }
-      },
-      {
-        "matchup": "SYR @ MIA",
-        "kickoff": "11/8/2025, 2:30:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "MIA",
-            "score": "38"
-          },
-          "away": {
-            "name": "SYR",
-            "score": "10"
+            "score": "18"
           }
         }
       },
@@ -246,6 +231,21 @@
           "away": {
             "name": "BYU",
             "score": "7"
+          }
+        }
+      },
+      {
+        "matchup": "SYR @ MIA",
+        "kickoff": "11/8/2025, 2:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "MIA",
+            "score": "38"
+          },
+          "away": {
+            "name": "SYR",
+            "score": "10"
           }
         }
       },
