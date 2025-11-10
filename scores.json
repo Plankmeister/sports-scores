@@ -170,8 +170,17 @@
       {
         "matchup": "PIT @ LAC",
         "kickoff": "11/9/2025, 7:20:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "LAC",
+            "score": "0"
+          },
+          "away": {
+            "name": "PIT",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "LV @ DEN",
