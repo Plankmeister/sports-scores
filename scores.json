@@ -3,6 +3,21 @@
     "week": 10,
     "games": [
       {
+        "matchup": "PIT @ LAC",
+        "kickoff": "11/9/2025, 7:20:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "LAC",
+            "score": "0"
+          },
+          "away": {
+            "name": "PIT",
+            "score": "3"
+          }
+        }
+      },
+      {
         "matchup": "ATL VS IND",
         "kickoff": "11/9/2025, 8:30:00 AM",
         "status": "Final",
@@ -164,21 +179,6 @@
           "away": {
             "name": "DET",
             "score": "44"
-          }
-        }
-      },
-      {
-        "matchup": "PIT @ LAC",
-        "kickoff": "11/9/2025, 7:20:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "LAC",
-            "score": "0"
-          },
-          "away": {
-            "name": "PIT",
-            "score": "3"
           }
         }
       },
