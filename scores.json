@@ -5,8 +5,17 @@
       {
         "matchup": "PHI @ GB",
         "kickoff": "11/10/2025, 7:15:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "GB",
+            "score": "0"
+          },
+          "away": {
+            "name": "PHI",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "LV @ DEN",
