@@ -3,21 +3,6 @@
     "week": 10,
     "games": [
       {
-        "matchup": "PHI @ GB",
-        "kickoff": "11/10/2025, 7:15:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "GB",
-            "score": "7"
-          },
-          "away": {
-            "name": "PHI",
-            "score": "10"
-          }
-        }
-      },
-      {
         "matchup": "LV @ DEN",
         "kickoff": "11/6/2025, 7:15:00 PM",
         "status": "Final",
@@ -208,6 +193,21 @@
           },
           "away": {
             "name": "PIT",
+            "score": "10"
+          }
+        }
+      },
+      {
+        "matchup": "PHI @ GB",
+        "kickoff": "11/10/2025, 7:15:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "GB",
+            "score": "7"
+          },
+          "away": {
+            "name": "PHI",
             "score": "10"
           }
         }
