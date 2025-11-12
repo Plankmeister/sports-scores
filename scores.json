@@ -253,6 +253,18 @@
         "score": null
       },
       {
+        "matchup": "USF @ NAVY",
+        "kickoff": "11/15/2025, 11:00:00 AM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "ARIZ @ CIN",
+        "kickoff": "11/15/2025, 11:00:00 AM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
         "matchup": "OU @ ALA",
         "kickoff": "11/15/2025, 2:30:00 PM",
         "status": "Scheduled",
@@ -265,7 +277,7 @@
         "score": null
       },
       {
-        "matchup": "UVA @ DUKE",
+        "matchup": "NCSU @ MIA",
         "kickoff": "11/15/2025, 2:30:00 PM",
         "status": "Scheduled",
         "score": null
@@ -277,13 +289,13 @@
         "score": null
       },
       {
-        "matchup": "NCSU @ MIA",
+        "matchup": "IOWA @ USC",
         "kickoff": "11/15/2025, 2:30:00 PM",
         "status": "Scheduled",
         "score": null
       },
       {
-        "matchup": "IOWA @ USC",
+        "matchup": "UVA @ DUKE",
         "kickoff": "11/15/2025, 2:30:00 PM",
         "status": "Scheduled",
         "score": null
@@ -307,12 +319,6 @@
         "score": null
       },
       {
-        "matchup": "PUR @ WASH",
-        "kickoff": "11/15/2025, 6:00:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
         "matchup": "UCLA @ OSU",
         "kickoff": "11/15/2025, 6:30:00 PM",
         "status": "Scheduled",
@@ -321,12 +327,6 @@
       {
         "matchup": "TEX @ UGA",
         "kickoff": "11/15/2025, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "MSST @ MIZ",
-        "kickoff": "11/15/2025, 6:45:00 PM",
         "status": "Scheduled",
         "score": null
       },
