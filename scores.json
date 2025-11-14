@@ -5,8 +5,17 @@
       {
         "matchup": "NYJ @ NE",
         "kickoff": "11/13/2025, 7:15:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "NE",
+            "score": "0"
+          },
+          "away": {
+            "name": "NYJ",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "WSH VS MIA",
