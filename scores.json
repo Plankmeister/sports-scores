@@ -106,21 +106,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "MINN @ ORE",
-        "kickoff": "11/14/2025, 8:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "ORE",
-            "score": "42"
-          },
-          "away": {
-            "name": "MINN",
-            "score": "13"
-          }
-        }
-      },
-      {
         "matchup": "WIS @ IU",
         "kickoff": "11/15/2025, 11:00:00 AM",
         "status": "Scheduled",
@@ -227,6 +212,21 @@
         "kickoff": "11/15/2025, 9:15:00 PM",
         "status": "Scheduled",
         "score": null
+      },
+      {
+        "matchup": "MINN @ ORE",
+        "kickoff": "11/14/2025, 8:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "ORE",
+            "score": "42"
+          },
+          "away": {
+            "name": "MINN",
+            "score": "13"
+          }
+        }
       },
       {
         "matchup": "CLEM @ LOU",
