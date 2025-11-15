@@ -108,7 +108,7 @@
       {
         "matchup": "OU @ ALA",
         "kickoff": "11/15/2025, 2:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "ALA",
@@ -146,7 +146,7 @@
           },
           "away": {
             "name": "GT",
-            "score": "7"
+            "score": "14"
           }
         }
       },
@@ -191,6 +191,21 @@
           },
           "away": {
             "name": "NCSU",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "NMSU @ TENN",
+        "kickoff": "11/15/2025, 3:15:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "TENN",
+            "score": "0"
+          },
+          "away": {
+            "name": "NMSU",
             "score": "0"
           }
         }
@@ -282,21 +297,6 @@
           "away": {
             "name": "ARIZ",
             "score": "30"
-          }
-        }
-      },
-      {
-        "matchup": "NMSU @ TENN",
-        "kickoff": "11/15/2025, 3:15:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "TENN",
-            "score": "0"
-          },
-          "away": {
-            "name": "NMSU",
-            "score": "0"
           }
         }
       },
