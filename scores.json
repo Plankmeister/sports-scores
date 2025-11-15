@@ -151,21 +151,6 @@
         }
       },
       {
-        "matchup": "IOWA @ USC",
-        "kickoff": "11/15/2025, 2:30:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "USC",
-            "score": "26"
-          },
-          "away": {
-            "name": "IOWA",
-            "score": "21"
-          }
-        }
-      },
-      {
         "matchup": "UVA @ DUKE",
         "kickoff": "11/15/2025, 2:35:00 PM",
         "status": "Live: Q4",
@@ -176,7 +161,7 @@
           },
           "away": {
             "name": "UVA",
-            "score": "31"
+            "score": "34"
           }
         }
       },
@@ -252,6 +237,21 @@
           "away": {
             "name": "ND",
             "score": "37"
+          }
+        }
+      },
+      {
+        "matchup": "IOWA @ USC",
+        "kickoff": "11/15/2025, 2:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "USC",
+            "score": "26"
+          },
+          "away": {
+            "name": "IOWA",
+            "score": "21"
           }
         }
       },
