@@ -153,7 +153,7 @@
       {
         "matchup": "IOWA @ USC",
         "kickoff": "11/15/2025, 2:30:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "USC",
@@ -176,7 +176,7 @@
           },
           "away": {
             "name": "UVA",
-            "score": "24"
+            "score": "31"
           }
         }
       },
@@ -187,7 +187,7 @@
         "score": {
           "home": {
             "name": "MIA",
-            "score": "31"
+            "score": "34"
           },
           "away": {
             "name": "NCSU",
