@@ -142,7 +142,7 @@
         "score": {
           "home": {
             "name": "BC",
-            "score": "14"
+            "score": "21"
           },
           "away": {
             "name": "GT",
@@ -157,7 +157,7 @@
         "score": {
           "home": {
             "name": "USC",
-            "score": "10"
+            "score": "13"
           },
           "away": {
             "name": "IOWA",
@@ -168,7 +168,7 @@
       {
         "matchup": "UVA @ DUKE",
         "kickoff": "11/15/2025, 2:35:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "DUKE",
