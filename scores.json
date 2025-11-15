@@ -141,14 +141,32 @@
       {
         "matchup": "USF @ NAVY",
         "kickoff": "11/15/2025, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "NAVY",
+            "score": "0"
+          },
+          "away": {
+            "name": "USF",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "ARIZ @ CIN",
         "kickoff": "11/15/2025, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "CIN",
+            "score": "0"
+          },
+          "away": {
+            "name": "ARIZ",
+            "score": "7"
+          }
+        }
       },
       {
         "matchup": "OU @ ALA",
