@@ -123,11 +123,11 @@
       {
         "matchup": "SC @ TA&M",
         "kickoff": "11/15/2025, 11:00:00 AM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "TA&M",
-            "score": "3"
+            "score": "9"
           },
           "away": {
             "name": "SC",
@@ -138,7 +138,7 @@
       {
         "matchup": "ND @ PITT",
         "kickoff": "11/15/2025, 11:00:00 AM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "PITT",
@@ -153,7 +153,7 @@
       {
         "matchup": "MICH @ NU",
         "kickoff": "11/15/2025, 11:00:00 AM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "NU",
