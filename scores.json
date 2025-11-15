@@ -106,36 +106,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "SC @ TA&M",
-        "kickoff": "11/15/2025, 11:00:00 AM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "TA&M",
-            "score": "31"
-          },
-          "away": {
-            "name": "SC",
-            "score": "30"
-          }
-        }
-      },
-      {
-        "matchup": "ND @ PITT",
-        "kickoff": "11/15/2025, 11:00:00 AM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "PITT",
-            "score": "15"
-          },
-          "away": {
-            "name": "ND",
-            "score": "37"
-          }
-        }
-      },
-      {
         "matchup": "MICH @ NU",
         "kickoff": "11/15/2025, 11:00:00 AM",
         "status": "Live: Q4",
@@ -151,17 +121,32 @@
         }
       },
       {
-        "matchup": "USF @ NAVY",
-        "kickoff": "11/15/2025, 11:00:00 AM",
-        "status": "Final",
+        "matchup": "GT @ BC",
+        "kickoff": "11/15/2025, 2:30:00 PM",
+        "status": "Live: Q1",
         "score": {
           "home": {
-            "name": "NAVY",
-            "score": "41"
+            "name": "BC",
+            "score": "0"
           },
           "away": {
-            "name": "USF",
-            "score": "38"
+            "name": "GT",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "UVA @ DUKE",
+        "kickoff": "11/15/2025, 2:35:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "DUKE",
+            "score": "0"
+          },
+          "away": {
+            "name": "UVA",
+            "score": "0"
           }
         }
       },
@@ -177,6 +162,51 @@
           "away": {
             "name": "WIS",
             "score": "7"
+          }
+        }
+      },
+      {
+        "matchup": "SC @ TA&M",
+        "kickoff": "11/15/2025, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "TA&M",
+            "score": "31"
+          },
+          "away": {
+            "name": "SC",
+            "score": "30"
+          }
+        }
+      },
+      {
+        "matchup": "ND @ PITT",
+        "kickoff": "11/15/2025, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "PITT",
+            "score": "15"
+          },
+          "away": {
+            "name": "ND",
+            "score": "37"
+          }
+        }
+      },
+      {
+        "matchup": "USF @ NAVY",
+        "kickoff": "11/15/2025, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "NAVY",
+            "score": "41"
+          },
+          "away": {
+            "name": "USF",
+            "score": "38"
           }
         }
       },
@@ -204,32 +234,29 @@
       {
         "matchup": "UCF @ TTU",
         "kickoff": "11/15/2025, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "GT @ BC",
-        "kickoff": "11/15/2025, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "TTU",
+            "score": "0"
+          },
+          "away": {
+            "name": "UCF",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "IOWA @ USC",
         "kickoff": "11/15/2025, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "UVA @ DUKE",
-        "kickoff": "11/15/2025, 2:35:00 PM",
         "status": "Live: Q1",
         "score": {
           "home": {
-            "name": "DUKE",
+            "name": "USC",
             "score": "0"
           },
           "away": {
-            "name": "UVA",
+            "name": "IOWA",
             "score": "0"
           }
         }
@@ -237,8 +264,17 @@
       {
         "matchup": "NCSU @ MIA",
         "kickoff": "11/15/2025, 2:40:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MIA",
+            "score": "0"
+          },
+          "away": {
+            "name": "NCSU",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "NMSU @ TENN",
