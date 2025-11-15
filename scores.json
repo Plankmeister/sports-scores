@@ -121,21 +121,6 @@
         }
       },
       {
-        "matchup": "CLEM @ LOU",
-        "kickoff": "11/14/2025, 6:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "LOU",
-            "score": "19"
-          },
-          "away": {
-            "name": "CLEM",
-            "score": "20"
-          }
-        }
-      },
-      {
         "matchup": "WIS @ IU",
         "kickoff": "11/15/2025, 11:00:00 AM",
         "status": "Scheduled",
@@ -242,6 +227,21 @@
         "kickoff": "11/15/2025, 9:15:00 PM",
         "status": "Scheduled",
         "score": null
+      },
+      {
+        "matchup": "CLEM @ LOU",
+        "kickoff": "11/14/2025, 6:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "LOU",
+            "score": "19"
+          },
+          "away": {
+            "name": "CLEM",
+            "score": "20"
+          }
+        }
       }
     ]
   }
