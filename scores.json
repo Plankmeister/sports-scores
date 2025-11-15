@@ -108,7 +108,7 @@
       {
         "matchup": "WIS @ IU",
         "kickoff": "11/15/2025, 11:00:00 AM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "IU",
@@ -127,7 +127,7 @@
         "score": {
           "home": {
             "name": "TA&M",
-            "score": "23"
+            "score": "24"
           },
           "away": {
             "name": "SC",
@@ -142,11 +142,11 @@
         "score": {
           "home": {
             "name": "PITT",
-            "score": "3"
+            "score": "9"
           },
           "away": {
             "name": "ND",
-            "score": "28"
+            "score": "30"
           }
         }
       },
@@ -161,7 +161,7 @@
           },
           "away": {
             "name": "MICH",
-            "score": "14"
+            "score": "21"
           }
         }
       },
@@ -176,7 +176,7 @@
           },
           "away": {
             "name": "USF",
-            "score": "16"
+            "score": "24"
           }
         }
       },
@@ -191,7 +191,7 @@
           },
           "away": {
             "name": "ARIZ",
-            "score": "20"
+            "score": "27"
           }
         }
       },
