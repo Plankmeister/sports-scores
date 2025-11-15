@@ -116,7 +116,7 @@
           },
           "away": {
             "name": "WIS",
-            "score": "0"
+            "score": "7"
           }
         }
       },
@@ -142,7 +142,7 @@
         "score": {
           "home": {
             "name": "PITT",
-            "score": "0"
+            "score": "3"
           },
           "away": {
             "name": "ND",
@@ -161,7 +161,7 @@
           },
           "away": {
             "name": "MICH",
-            "score": "0"
+            "score": "7"
           }
         }
       },
