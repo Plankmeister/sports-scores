@@ -106,24 +106,9 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "WIS @ IU",
-        "kickoff": "11/15/2025, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "IU",
-            "score": "31"
-          },
-          "away": {
-            "name": "WIS",
-            "score": "7"
-          }
-        }
-      },
-      {
         "matchup": "SC @ TA&M",
         "kickoff": "11/15/2025, 11:00:00 AM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "TA&M",
@@ -138,7 +123,7 @@
       {
         "matchup": "ND @ PITT",
         "kickoff": "11/15/2025, 11:00:00 AM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "PITT",
@@ -153,7 +138,7 @@
       {
         "matchup": "MICH @ NU",
         "kickoff": "11/15/2025, 11:00:00 AM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "NU",
@@ -172,7 +157,7 @@
         "score": {
           "home": {
             "name": "NAVY",
-            "score": "27"
+            "score": "33"
           },
           "away": {
             "name": "USF",
@@ -187,11 +172,26 @@
         "score": {
           "home": {
             "name": "CIN",
-            "score": "17"
+            "score": "24"
           },
           "away": {
             "name": "ARIZ",
             "score": "27"
+          }
+        }
+      },
+      {
+        "matchup": "WIS @ IU",
+        "kickoff": "11/15/2025, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "IU",
+            "score": "31"
+          },
+          "away": {
+            "name": "WIS",
+            "score": "7"
           }
         }
       },
