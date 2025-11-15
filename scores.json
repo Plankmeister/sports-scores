@@ -123,11 +123,11 @@
       {
         "matchup": "UCF @ TTU",
         "kickoff": "11/15/2025, 2:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "TTU",
-            "score": "14"
+            "score": "21"
           },
           "away": {
             "name": "UCF",
@@ -153,7 +153,7 @@
       {
         "matchup": "IOWA @ USC",
         "kickoff": "11/15/2025, 2:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "USC",
@@ -161,14 +161,14 @@
           },
           "away": {
             "name": "IOWA",
-            "score": "7"
+            "score": "14"
           }
         }
       },
       {
         "matchup": "UVA @ DUKE",
         "kickoff": "11/15/2025, 2:35:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "DUKE",
@@ -288,8 +288,17 @@
       {
         "matchup": "NMSU @ TENN",
         "kickoff": "11/15/2025, 3:15:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "TENN",
+            "score": "0"
+          },
+          "away": {
+            "name": "NMSU",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "FLA @ MISS",
