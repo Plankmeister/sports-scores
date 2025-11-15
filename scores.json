@@ -127,7 +127,7 @@
         "score": {
           "home": {
             "name": "TA&M",
-            "score": "0"
+            "score": "3"
           },
           "away": {
             "name": "SC",
@@ -146,36 +146,6 @@
           },
           "away": {
             "name": "ND",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "USF @ NAVY",
-        "kickoff": "11/15/2025, 11:00:00 AM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "NAVY",
-            "score": "7"
-          },
-          "away": {
-            "name": "USF",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "ARIZ @ CIN",
-        "kickoff": "11/15/2025, 11:00:00 AM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "CIN",
-            "score": "7"
-          },
-          "away": {
-            "name": "ARIZ",
             "score": "7"
           }
         }
@@ -192,6 +162,36 @@
           "away": {
             "name": "MICH",
             "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "USF @ NAVY",
+        "kickoff": "11/15/2025, 11:00:00 AM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "NAVY",
+            "score": "7"
+          },
+          "away": {
+            "name": "USF",
+            "score": "3"
+          }
+        }
+      },
+      {
+        "matchup": "ARIZ @ CIN",
+        "kickoff": "11/15/2025, 11:00:00 AM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "CIN",
+            "score": "7"
+          },
+          "away": {
+            "name": "ARIZ",
+            "score": "7"
           }
         }
       },
