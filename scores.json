@@ -127,7 +127,7 @@
         "score": {
           "home": {
             "name": "TA&M",
-            "score": "17"
+            "score": "23"
           },
           "away": {
             "name": "SC",
@@ -142,7 +142,7 @@
         "score": {
           "home": {
             "name": "PITT",
-            "score": "9"
+            "score": "3"
           },
           "away": {
             "name": "ND",
@@ -168,11 +168,11 @@
       {
         "matchup": "USF @ NAVY",
         "kickoff": "11/15/2025, 11:00:00 AM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "NAVY",
-            "score": "24"
+            "score": "27"
           },
           "away": {
             "name": "USF",
