@@ -106,17 +106,32 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "MICH @ NU",
-        "kickoff": "11/15/2025, 11:00:00 AM",
-        "status": "Final",
+        "matchup": "OU @ ALA",
+        "kickoff": "11/15/2025, 2:30:00 PM",
+        "status": "Live: Q1",
         "score": {
           "home": {
-            "name": "NU",
-            "score": "22"
+            "name": "ALA",
+            "score": "0"
           },
           "away": {
-            "name": "MICH",
-            "score": "24"
+            "name": "OU",
+            "score": "3"
+          }
+        }
+      },
+      {
+        "matchup": "UCF @ TTU",
+        "kickoff": "11/15/2025, 2:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "TTU",
+            "score": "14"
+          },
+          "away": {
+            "name": "UCF",
+            "score": "0"
           }
         }
       },
@@ -131,7 +146,22 @@
           },
           "away": {
             "name": "GT",
+            "score": "7"
+          }
+        }
+      },
+      {
+        "matchup": "IOWA @ USC",
+        "kickoff": "11/15/2025, 2:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "USC",
             "score": "0"
+          },
+          "away": {
+            "name": "IOWA",
+            "score": "7"
           }
         }
       },
@@ -147,6 +177,21 @@
           "away": {
             "name": "UVA",
             "score": "7"
+          }
+        }
+      },
+      {
+        "matchup": "NCSU @ MIA",
+        "kickoff": "11/15/2025, 2:40:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MIA",
+            "score": "3"
+          },
+          "away": {
+            "name": "NCSU",
+            "score": "0"
           }
         }
       },
@@ -196,6 +241,21 @@
         }
       },
       {
+        "matchup": "MICH @ NU",
+        "kickoff": "11/15/2025, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "NU",
+            "score": "22"
+          },
+          "away": {
+            "name": "MICH",
+            "score": "24"
+          }
+        }
+      },
+      {
         "matchup": "USF @ NAVY",
         "kickoff": "11/15/2025, 11:00:00 AM",
         "status": "Final",
@@ -222,66 +282,6 @@
           "away": {
             "name": "ARIZ",
             "score": "30"
-          }
-        }
-      },
-      {
-        "matchup": "OU @ ALA",
-        "kickoff": "11/15/2025, 2:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "ALA",
-            "score": "0"
-          },
-          "away": {
-            "name": "OU",
-            "score": "3"
-          }
-        }
-      },
-      {
-        "matchup": "UCF @ TTU",
-        "kickoff": "11/15/2025, 2:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "TTU",
-            "score": "14"
-          },
-          "away": {
-            "name": "UCF",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "IOWA @ USC",
-        "kickoff": "11/15/2025, 2:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "USC",
-            "score": "0"
-          },
-          "away": {
-            "name": "IOWA",
-            "score": "7"
-          }
-        }
-      },
-      {
-        "matchup": "NCSU @ MIA",
-        "kickoff": "11/15/2025, 2:40:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "MIA",
-            "score": "0"
-          },
-          "away": {
-            "name": "NCSU",
-            "score": "0"
           }
         }
       },
