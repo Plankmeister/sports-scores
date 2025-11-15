@@ -108,7 +108,7 @@
       {
         "matchup": "WIS @ IU",
         "kickoff": "11/15/2025, 11:00:00 AM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "IU",
@@ -131,7 +131,7 @@
           },
           "away": {
             "name": "SC",
-            "score": "20"
+            "score": "27"
           }
         }
       },
@@ -157,7 +157,7 @@
         "score": {
           "home": {
             "name": "NU",
-            "score": "3"
+            "score": "6"
           },
           "away": {
             "name": "MICH",
