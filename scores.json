@@ -112,7 +112,7 @@
         "score": {
           "home": {
             "name": "ALA",
-            "score": "13"
+            "score": "14"
           },
           "away": {
             "name": "OU",
@@ -127,7 +127,7 @@
         "score": {
           "home": {
             "name": "TTU",
-            "score": "28"
+            "score": "35"
           },
           "away": {
             "name": "UCF",
@@ -142,7 +142,7 @@
         "score": {
           "home": {
             "name": "BC",
-            "score": "7"
+            "score": "13"
           },
           "away": {
             "name": "GT",
@@ -176,7 +176,7 @@
           },
           "away": {
             "name": "UVA",
-            "score": "7"
+            "score": "14"
           }
         }
       },
