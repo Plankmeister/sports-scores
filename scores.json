@@ -127,7 +127,7 @@
         "score": {
           "home": {
             "name": "PITT",
-            "score": "9"
+            "score": "15"
           },
           "away": {
             "name": "ND",
@@ -153,7 +153,7 @@
       {
         "matchup": "USF @ NAVY",
         "kickoff": "11/15/2025, 11:00:00 AM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "NAVY",
@@ -222,8 +222,17 @@
       {
         "matchup": "UVA @ DUKE",
         "kickoff": "11/15/2025, 2:35:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "DUKE",
+            "score": "0"
+          },
+          "away": {
+            "name": "UVA",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "NCSU @ MIA",
