@@ -123,20 +123,32 @@
       {
         "matchup": "SC @ TA&M",
         "kickoff": "11/15/2025, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "TA&M",
+            "score": "0"
+          },
+          "away": {
+            "name": "SC",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "ND @ PITT",
         "kickoff": "11/15/2025, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "MICH @ NU",
-        "kickoff": "11/15/2025, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "PITT",
+            "score": "0"
+          },
+          "away": {
+            "name": "ND",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "USF @ NAVY",
@@ -165,6 +177,21 @@
           "away": {
             "name": "ARIZ",
             "score": "7"
+          }
+        }
+      },
+      {
+        "matchup": "MICH @ NU",
+        "kickoff": "11/15/2025, 11:00:00 AM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "NU",
+            "score": "0"
+          },
+          "away": {
+            "name": "MICH",
+            "score": "0"
           }
         }
       },
