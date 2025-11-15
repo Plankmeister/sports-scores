@@ -166,21 +166,6 @@
         }
       },
       {
-        "matchup": "ARIZ @ CIN",
-        "kickoff": "11/15/2025, 11:00:00 AM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "CIN",
-            "score": "24"
-          },
-          "away": {
-            "name": "ARIZ",
-            "score": "30"
-          }
-        }
-      },
-      {
         "matchup": "WIS @ IU",
         "kickoff": "11/15/2025, 11:00:00 AM",
         "status": "Final",
@@ -196,6 +181,21 @@
         }
       },
       {
+        "matchup": "ARIZ @ CIN",
+        "kickoff": "11/15/2025, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "CIN",
+            "score": "24"
+          },
+          "away": {
+            "name": "ARIZ",
+            "score": "30"
+          }
+        }
+      },
+      {
         "matchup": "OU @ ALA",
         "kickoff": "11/15/2025, 2:30:00 PM",
         "status": "Scheduled",
@@ -204,12 +204,6 @@
       {
         "matchup": "UCF @ TTU",
         "kickoff": "11/15/2025, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "NCSU @ MIA",
-        "kickoff": "11/15/2025, 2:40:00 PM",
         "status": "Scheduled",
         "score": null
       },
@@ -228,6 +222,12 @@
       {
         "matchup": "UVA @ DUKE",
         "kickoff": "11/15/2025, 2:35:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "NCSU @ MIA",
+        "kickoff": "11/15/2025, 2:40:00 PM",
         "status": "Scheduled",
         "score": null
       },
