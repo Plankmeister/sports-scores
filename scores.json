@@ -106,28 +106,13 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "TEX @ UGA",
-        "kickoff": "11/15/2025, 6:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "UGA",
-            "score": "35"
-          },
-          "away": {
-            "name": "TEX",
-            "score": "10"
-          }
-        }
-      },
-      {
         "matchup": "TCU @ BYU",
         "kickoff": "11/15/2025, 9:15:00 PM",
         "status": "Live: Q2",
         "score": {
           "home": {
             "name": "BYU",
-            "score": "16"
+            "score": "17"
           },
           "away": {
             "name": "TCU",
@@ -192,6 +177,21 @@
           "away": {
             "name": "OU",
             "score": "23"
+          }
+        }
+      },
+      {
+        "matchup": "TEX @ UGA",
+        "kickoff": "11/15/2025, 6:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "UGA",
+            "score": "35"
+          },
+          "away": {
+            "name": "TEX",
+            "score": "10"
           }
         }
       },
