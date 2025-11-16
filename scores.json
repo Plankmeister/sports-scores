@@ -5,7 +5,7 @@
       {
         "matchup": "CAR @ ATL",
         "kickoff": "11/16/2025, 12:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "ATL",
@@ -28,14 +28,14 @@
           },
           "away": {
             "name": "TB",
-            "score": "3"
+            "score": "9"
           }
         }
       },
       {
         "matchup": "HOU @ TEN",
         "kickoff": "11/16/2025, 12:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "TEN",
@@ -80,7 +80,7 @@
       {
         "matchup": "CIN @ PIT",
         "kickoff": "11/16/2025, 12:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "PIT",
