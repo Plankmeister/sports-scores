@@ -146,6 +146,21 @@
           },
           "away": {
             "name": "UTAH",
+            "score": "7"
+          }
+        }
+      },
+      {
+        "matchup": "UCLA @ OSU",
+        "kickoff": "11/15/2025, 6:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "OSU",
+            "score": "0"
+          },
+          "away": {
+            "name": "UCLA",
             "score": "0"
           }
         }
@@ -327,21 +342,6 @@
           "away": {
             "name": "ARIZ",
             "score": "30"
-          }
-        }
-      },
-      {
-        "matchup": "UCLA @ OSU",
-        "kickoff": "11/15/2025, 6:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "OSU",
-            "score": "0"
-          },
-          "away": {
-            "name": "UCLA",
-            "score": "0"
           }
         }
       },
