@@ -5,7 +5,7 @@
       {
         "matchup": "CAR @ ATL",
         "kickoff": "11/16/2025, 12:00:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "ATL",
@@ -35,7 +35,7 @@
       {
         "matchup": "HOU @ TEN",
         "kickoff": "11/16/2025, 12:00:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "TEN",
@@ -50,7 +50,7 @@
       {
         "matchup": "CHI @ MIN",
         "kickoff": "11/16/2025, 12:00:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "MIN",
@@ -99,7 +99,7 @@
         "score": {
           "home": {
             "name": "JAX",
-            "score": "14"
+            "score": "21"
           },
           "away": {
             "name": "LAC",
