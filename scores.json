@@ -35,7 +35,7 @@
       {
         "matchup": "SF @ ARI",
         "kickoff": "11/16/2025, 3:05:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "ARI",
@@ -58,7 +58,7 @@
           },
           "away": {
             "name": "BAL",
-            "score": "0"
+            "score": "3"
           }
         }
       },
@@ -69,7 +69,7 @@
         "score": {
           "home": {
             "name": "DEN",
-            "score": "3"
+            "score": "6"
           },
           "away": {
             "name": "KC",
