@@ -3,6 +3,21 @@
     "week": 11,
     "games": [
       {
+        "matchup": "CAR @ ATL",
+        "kickoff": "11/16/2025, 12:00:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ATL",
+            "score": "0"
+          },
+          "away": {
+            "name": "CAR",
+            "score": "7"
+          }
+        }
+      },
+      {
         "matchup": "TB @ BUF",
         "kickoff": "11/16/2025, 12:00:00 PM",
         "status": "Live: Q1",
@@ -14,6 +29,21 @@
           "away": {
             "name": "TB",
             "score": "3"
+          }
+        }
+      },
+      {
+        "matchup": "HOU @ TEN",
+        "kickoff": "11/16/2025, 12:00:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "TEN",
+            "score": "0"
+          },
+          "away": {
+            "name": "HOU",
+            "score": "0"
           }
         }
       },
@@ -33,6 +63,21 @@
         }
       },
       {
+        "matchup": "GB @ NYG",
+        "kickoff": "11/16/2025, 12:00:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "NYG",
+            "score": "7"
+          },
+          "away": {
+            "name": "GB",
+            "score": "0"
+          }
+        }
+      },
+      {
         "matchup": "CIN @ PIT",
         "kickoff": "11/16/2025, 12:00:00 PM",
         "status": "Live: Q1",
@@ -43,7 +88,7 @@
           },
           "away": {
             "name": "CIN",
-            "score": "0"
+            "score": "6"
           }
         }
       },
@@ -74,51 +119,6 @@
           "away": {
             "name": "WSH",
             "score": "13"
-          }
-        }
-      },
-      {
-        "matchup": "CAR @ ATL",
-        "kickoff": "11/16/2025, 12:00:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "ATL",
-            "score": "0"
-          },
-          "away": {
-            "name": "CAR",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "HOU @ TEN",
-        "kickoff": "11/16/2025, 12:00:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "TEN",
-            "score": "0"
-          },
-          "away": {
-            "name": "HOU",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "GB @ NYG",
-        "kickoff": "11/16/2025, 12:00:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "NYG",
-            "score": "7"
-          },
-          "away": {
-            "name": "GB",
-            "score": "0"
           }
         }
       },
