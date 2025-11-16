@@ -13,7 +13,7 @@
           },
           "away": {
             "name": "CAR",
-            "score": "16"
+            "score": "19"
           }
         }
       },
@@ -24,7 +24,7 @@
         "score": {
           "home": {
             "name": "BUF",
-            "score": "21"
+            "score": "24"
           },
           "away": {
             "name": "TB",
@@ -35,7 +35,7 @@
       {
         "matchup": "HOU @ TEN",
         "kickoff": "11/16/2025, 12:00:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "TEN",
@@ -84,7 +84,7 @@
         "score": {
           "home": {
             "name": "PIT",
-            "score": "13"
+            "score": "20"
           },
           "away": {
             "name": "CIN",
@@ -99,7 +99,7 @@
         "score": {
           "home": {
             "name": "JAX",
-            "score": "28"
+            "score": "35"
           },
           "away": {
             "name": "LAC",
