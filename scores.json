@@ -127,7 +127,7 @@
         "score": {
           "home": {
             "name": "MISS",
-            "score": "7"
+            "score": "10"
           },
           "away": {
             "name": "FLA",
@@ -333,8 +333,17 @@
       {
         "matchup": "UCLA @ OSU",
         "kickoff": "11/15/2025, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "OSU",
+            "score": "0"
+          },
+          "away": {
+            "name": "UCLA",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "TEX @ UGA",
