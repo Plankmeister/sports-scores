@@ -106,66 +106,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "OU @ ALA",
-        "kickoff": "11/15/2025, 2:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "ALA",
-            "score": "21"
-          },
-          "away": {
-            "name": "OU",
-            "score": "23"
-          }
-        }
-      },
-      {
-        "matchup": "GT @ BC",
-        "kickoff": "11/15/2025, 2:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "BC",
-            "score": "34"
-          },
-          "away": {
-            "name": "GT",
-            "score": "36"
-          }
-        }
-      },
-      {
-        "matchup": "UVA @ DUKE",
-        "kickoff": "11/15/2025, 2:35:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "DUKE",
-            "score": "17"
-          },
-          "away": {
-            "name": "UVA",
-            "score": "34"
-          }
-        }
-      },
-      {
-        "matchup": "NCSU @ MIA",
-        "kickoff": "11/15/2025, 2:40:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "MIA",
-            "score": "41"
-          },
-          "away": {
-            "name": "NCSU",
-            "score": "7"
-          }
-        }
-      },
-      {
         "matchup": "NMSU @ TENN",
         "kickoff": "11/15/2025, 3:15:00 PM",
         "status": "Live: Q4",
@@ -177,6 +117,36 @@
           "away": {
             "name": "NMSU",
             "score": "3"
+          }
+        }
+      },
+      {
+        "matchup": "FLA @ MISS",
+        "kickoff": "11/15/2025, 6:00:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MISS",
+            "score": "0"
+          },
+          "away": {
+            "name": "FLA",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "UTAH @ BAY",
+        "kickoff": "11/15/2025, 6:00:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "BAY",
+            "score": "0"
+          },
+          "away": {
+            "name": "UTAH",
+            "score": "0"
           }
         }
       },
@@ -211,6 +181,21 @@
         }
       },
       {
+        "matchup": "OU @ ALA",
+        "kickoff": "11/15/2025, 2:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "ALA",
+            "score": "21"
+          },
+          "away": {
+            "name": "OU",
+            "score": "23"
+          }
+        }
+      },
+      {
         "matchup": "UCF @ TTU",
         "kickoff": "11/15/2025, 2:30:00 PM",
         "status": "Final",
@@ -237,6 +222,36 @@
           "away": {
             "name": "ND",
             "score": "37"
+          }
+        }
+      },
+      {
+        "matchup": "NCSU @ MIA",
+        "kickoff": "11/15/2025, 2:40:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "MIA",
+            "score": "41"
+          },
+          "away": {
+            "name": "NCSU",
+            "score": "7"
+          }
+        }
+      },
+      {
+        "matchup": "GT @ BC",
+        "kickoff": "11/15/2025, 2:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "BC",
+            "score": "34"
+          },
+          "away": {
+            "name": "GT",
+            "score": "36"
           }
         }
       },
@@ -271,6 +286,21 @@
         }
       },
       {
+        "matchup": "UVA @ DUKE",
+        "kickoff": "11/15/2025, 2:35:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "DUKE",
+            "score": "17"
+          },
+          "away": {
+            "name": "UVA",
+            "score": "34"
+          }
+        }
+      },
+      {
         "matchup": "USF @ NAVY",
         "kickoff": "11/15/2025, 11:00:00 AM",
         "status": "Final",
@@ -297,27 +327,6 @@
           "away": {
             "name": "ARIZ",
             "score": "30"
-          }
-        }
-      },
-      {
-        "matchup": "FLA @ MISS",
-        "kickoff": "11/15/2025, 6:00:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "UTAH @ BAY",
-        "kickoff": "11/15/2025, 6:00:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "BAY",
-            "score": "0"
-          },
-          "away": {
-            "name": "UTAH",
-            "score": "0"
           }
         }
       },
