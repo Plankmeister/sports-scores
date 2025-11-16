@@ -43,7 +43,7 @@
           },
           "away": {
             "name": "HOU",
-            "score": "7"
+            "score": "10"
           }
         }
       },
@@ -58,7 +58,7 @@
           },
           "away": {
             "name": "CHI",
-            "score": "13"
+            "score": "16"
           }
         }
       },
@@ -99,7 +99,7 @@
         "score": {
           "home": {
             "name": "JAX",
-            "score": "21"
+            "score": "28"
           },
           "away": {
             "name": "LAC",
