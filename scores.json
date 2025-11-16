@@ -5,8 +5,17 @@
       {
         "matchup": "WSH VS MIA",
         "kickoff": "11/16/2025, 8:30:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MIA",
+            "score": "0"
+          },
+          "away": {
+            "name": "WSH",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "CAR @ ATL",
