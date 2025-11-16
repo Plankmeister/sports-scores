@@ -3,6 +3,66 @@
     "week": 11,
     "games": [
       {
+        "matchup": "TB @ BUF",
+        "kickoff": "11/16/2025, 12:00:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "BUF",
+            "score": "0"
+          },
+          "away": {
+            "name": "TB",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "CHI @ MIN",
+        "kickoff": "11/16/2025, 12:00:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MIN",
+            "score": "0"
+          },
+          "away": {
+            "name": "CHI",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "CIN @ PIT",
+        "kickoff": "11/16/2025, 12:00:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "PIT",
+            "score": "0"
+          },
+          "away": {
+            "name": "CIN",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "LAC @ JAX",
+        "kickoff": "11/16/2025, 12:00:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "JAX",
+            "score": "0"
+          },
+          "away": {
+            "name": "LAC",
+            "score": "0"
+          }
+        }
+      },
+      {
         "matchup": "WSH VS MIA",
         "kickoff": "11/16/2025, 8:30:00 AM",
         "status": "Final",
@@ -20,44 +80,47 @@
       {
         "matchup": "CAR @ ATL",
         "kickoff": "11/16/2025, 12:00:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "TB @ BUF",
-        "kickoff": "11/16/2025, 12:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ATL",
+            "score": "0"
+          },
+          "away": {
+            "name": "CAR",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "HOU @ TEN",
         "kickoff": "11/16/2025, 12:00:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "CHI @ MIN",
-        "kickoff": "11/16/2025, 12:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "TEN",
+            "score": "0"
+          },
+          "away": {
+            "name": "HOU",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "GB @ NYG",
         "kickoff": "11/16/2025, 12:00:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "CIN @ PIT",
-        "kickoff": "11/16/2025, 12:00:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "LAC @ JAX",
-        "kickoff": "11/16/2025, 12:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "NYG",
+            "score": "0"
+          },
+          "away": {
+            "name": "GB",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "SEA @ LAR",
