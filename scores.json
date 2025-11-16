@@ -112,7 +112,7 @@
         "score": {
           "home": {
             "name": "MISS",
-            "score": "17"
+            "score": "23"
           },
           "away": {
             "name": "FLA",
@@ -127,11 +127,11 @@
         "score": {
           "home": {
             "name": "BAY",
-            "score": "7"
+            "score": "10"
           },
           "away": {
             "name": "UTAH",
-            "score": "21"
+            "score": "27"
           }
         }
       },
@@ -153,7 +153,7 @@
       {
         "matchup": "TEX @ UGA",
         "kickoff": "11/15/2025, 6:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "UGA",
