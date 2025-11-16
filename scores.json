@@ -121,21 +121,6 @@
         }
       },
       {
-        "matchup": "UCF @ TTU",
-        "kickoff": "11/15/2025, 2:30:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "TTU",
-            "score": "48"
-          },
-          "away": {
-            "name": "UCF",
-            "score": "9"
-          }
-        }
-      },
-      {
         "matchup": "GT @ BC",
         "kickoff": "11/15/2025, 2:30:00 PM",
         "status": "Live: Q4",
@@ -146,14 +131,14 @@
           },
           "away": {
             "name": "GT",
-            "score": "33"
+            "score": "36"
           }
         }
       },
       {
         "matchup": "UVA @ DUKE",
         "kickoff": "11/15/2025, 2:35:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "DUKE",
@@ -222,6 +207,21 @@
           "away": {
             "name": "SC",
             "score": "30"
+          }
+        }
+      },
+      {
+        "matchup": "UCF @ TTU",
+        "kickoff": "11/15/2025, 2:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "TTU",
+            "score": "48"
+          },
+          "away": {
+            "name": "UCF",
+            "score": "9"
           }
         }
       },
