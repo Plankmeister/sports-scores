@@ -108,7 +108,7 @@
       {
         "matchup": "TEX @ UGA",
         "kickoff": "11/15/2025, 6:30:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "UGA",
@@ -127,7 +127,7 @@
         "score": {
           "home": {
             "name": "BYU",
-            "score": "10"
+            "score": "16"
           },
           "away": {
             "name": "TCU",
