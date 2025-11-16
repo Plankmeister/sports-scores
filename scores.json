@@ -108,11 +108,11 @@
       {
         "matchup": "FLA @ MISS",
         "kickoff": "11/15/2025, 6:00:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "MISS",
-            "score": "20"
+            "score": "27"
           },
           "away": {
             "name": "FLA",
@@ -123,7 +123,7 @@
       {
         "matchup": "UTAH @ BAY",
         "kickoff": "11/15/2025, 6:00:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "BAY",
@@ -131,7 +131,7 @@
           },
           "away": {
             "name": "UTAH",
-            "score": "35"
+            "score": "42"
           }
         }
       },
