@@ -112,7 +112,7 @@
         "score": {
           "home": {
             "name": "MISS",
-            "score": "27"
+            "score": "34"
           },
           "away": {
             "name": "FLA",
@@ -162,6 +162,21 @@
           "away": {
             "name": "TEX",
             "score": "10"
+          }
+        }
+      },
+      {
+        "matchup": "TCU @ BYU",
+        "kickoff": "11/15/2025, 9:15:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "BYU",
+            "score": "3"
+          },
+          "away": {
+            "name": "TCU",
+            "score": "0"
           }
         }
       },
@@ -357,21 +372,6 @@
           "away": {
             "name": "ARIZ",
             "score": "30"
-          }
-        }
-      },
-      {
-        "matchup": "TCU @ BYU",
-        "kickoff": "11/15/2025, 9:15:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "BYU",
-            "score": "0"
-          },
-          "away": {
-            "name": "TCU",
-            "score": "0"
           }
         }
       },
