@@ -185,8 +185,17 @@
       {
         "matchup": "DET @ PHI",
         "kickoff": "11/16/2025, 7:20:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "PHI",
+            "score": "0"
+          },
+          "away": {
+            "name": "DET",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "NYJ @ NE",
