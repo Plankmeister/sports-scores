@@ -3,6 +3,21 @@
     "week": 11,
     "games": [
       {
+        "matchup": "DET @ PHI",
+        "kickoff": "11/16/2025, 7:20:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "PHI",
+            "score": "3"
+          },
+          "away": {
+            "name": "DET",
+            "score": "0"
+          }
+        }
+      },
+      {
         "matchup": "WSH VS MIA",
         "kickoff": "11/16/2025, 8:30:00 AM",
         "status": "Final",
@@ -179,21 +194,6 @@
           "away": {
             "name": "KC",
             "score": "19"
-          }
-        }
-      },
-      {
-        "matchup": "DET @ PHI",
-        "kickoff": "11/16/2025, 7:20:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "PHI",
-            "score": "0"
-          },
-          "away": {
-            "name": "DET",
-            "score": "0"
           }
         }
       },
