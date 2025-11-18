@@ -3,21 +3,6 @@
     "week": 11,
     "games": [
       {
-        "matchup": "DAL @ LV",
-        "kickoff": "11/17/2025, 7:15:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "LV",
-            "score": "16"
-          },
-          "away": {
-            "name": "DAL",
-            "score": "33"
-          }
-        }
-      },
-      {
         "matchup": "NYJ @ NE",
         "kickoff": "11/13/2025, 7:15:00 PM",
         "status": "Final",
@@ -224,6 +209,21 @@
           "away": {
             "name": "DET",
             "score": "9"
+          }
+        }
+      },
+      {
+        "matchup": "DAL @ LV",
+        "kickoff": "11/17/2025, 7:15:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "LV",
+            "score": "16"
+          },
+          "away": {
+            "name": "DAL",
+            "score": "33"
           }
         }
       }
