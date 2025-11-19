@@ -256,12 +256,6 @@
         "score": null
       },
       {
-        "matchup": "LOU @ SMU",
-        "kickoff": "11/22/2025, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
         "matchup": "CLT @ UGA",
         "kickoff": "11/22/2025, 11:45:00 AM",
         "status": "Scheduled",
@@ -270,12 +264,6 @@
       {
         "matchup": "EIU @ ALA",
         "kickoff": "11/22/2025, 1:00:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "USF @ UAB",
-        "kickoff": "11/22/2025, 2:00:00 PM",
         "status": "Scheduled",
         "score": null
       },
@@ -292,20 +280,20 @@
         "score": null
       },
       {
-        "matchup": "ARK @ TEX",
-        "kickoff": "11/22/2025, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
         "matchup": "UK @ VAN",
         "kickoff": "11/22/2025, 2:30:00 PM",
         "status": "Scheduled",
         "score": null
       },
       {
-        "matchup": "MSU @ IOWA",
+        "matchup": "ARK @ TEX",
         "kickoff": "11/22/2025, 2:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "TULN @ TEM",
+        "kickoff": "11/22/2025, 2:45:00 PM",
         "status": "Scheduled",
         "score": null
       },
@@ -317,6 +305,12 @@
       },
       {
         "matchup": "MICH @ MD",
+        "kickoff": "11/22/2025, 3:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "TCU @ HOU",
         "kickoff": "11/22/2025, 3:00:00 PM",
         "status": "Scheduled",
         "score": null
@@ -334,7 +328,19 @@
         "score": null
       },
       {
+        "matchup": "ILL @ WIS",
+        "kickoff": "11/22/2025, 6:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
         "matchup": "BYU @ CIN",
+        "kickoff": "11/22/2025, 7:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "ASU @ COLO",
         "kickoff": "11/22/2025, 7:00:00 PM",
         "status": "Scheduled",
         "score": null
