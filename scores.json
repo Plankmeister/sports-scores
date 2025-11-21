@@ -5,8 +5,17 @@
       {
         "matchup": "BUF @ HOU",
         "kickoff": "11/20/2025, 7:15:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "HOU",
+            "score": "0"
+          },
+          "away": {
+            "name": "BUF",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "PIT @ CHI",
