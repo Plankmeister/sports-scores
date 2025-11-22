@@ -106,7 +106,7 @@
         "score": {
           "home": {
             "name": "OSU",
-            "score": "28"
+            "score": "35"
           },
           "away": {
             "name": "RUTG",
@@ -121,7 +121,7 @@
         "score": {
           "home": {
             "name": "TA&M",
-            "score": "41"
+            "score": "48"
           },
           "away": {
             "name": "SAM",
@@ -132,7 +132,7 @@
       {
         "matchup": "MIZ @ OU",
         "kickoff": "11/22/2025, 11:00:00 AM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "OU",
