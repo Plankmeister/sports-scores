@@ -106,7 +106,7 @@
         "score": {
           "home": {
             "name": "ALA",
-            "score": "28"
+            "score": "34"
           },
           "away": {
             "name": "EIU",
@@ -125,7 +125,7 @@
           },
           "away": {
             "name": "USC",
-            "score": "0"
+            "score": "7"
           }
         }
       },
@@ -151,7 +151,7 @@
         "score": {
           "home": {
             "name": "VAN",
-            "score": "0"
+            "score": "3"
           },
           "away": {
             "name": "UK",
@@ -245,7 +245,7 @@
           },
           "away": {
             "name": "ARK",
-            "score": "0"
+            "score": "3"
           }
         }
       },
@@ -260,7 +260,7 @@
           },
           "away": {
             "name": "TULN",
-            "score": "0"
+            "score": "7"
           }
         }
       },
