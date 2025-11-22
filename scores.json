@@ -108,8 +108,17 @@
       {
         "matchup": "SAM @ TA&M",
         "kickoff": "11/22/2025, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q0",
+        "score": {
+          "home": {
+            "name": "TA&M",
+            "score": "0"
+          },
+          "away": {
+            "name": "SAM",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "MIZ @ OU",
