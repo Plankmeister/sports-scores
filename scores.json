@@ -121,7 +121,7 @@
         "score": {
           "home": {
             "name": "ORE",
-            "score": "6"
+            "score": "7"
           },
           "away": {
             "name": "USC",
@@ -147,7 +147,7 @@
       {
         "matchup": "UK @ VAN",
         "kickoff": "11/22/2025, 2:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "VAN",
@@ -155,6 +155,51 @@
           },
           "away": {
             "name": "UK",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "ARK @ TEX",
+        "kickoff": "11/22/2025, 2:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "TEX",
+            "score": "7"
+          },
+          "away": {
+            "name": "ARK",
+            "score": "3"
+          }
+        }
+      },
+      {
+        "matchup": "TULN @ TEM",
+        "kickoff": "11/22/2025, 2:45:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "TEM",
+            "score": "0"
+          },
+          "away": {
+            "name": "TULN",
+            "score": "7"
+          }
+        }
+      },
+      {
+        "matchup": "MICH @ MD",
+        "kickoff": "11/22/2025, 3:00:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MD",
+            "score": "0"
+          },
+          "away": {
+            "name": "MICH",
             "score": "0"
           }
         }
@@ -235,52 +280,16 @@
         }
       },
       {
-        "matchup": "ARK @ TEX",
-        "kickoff": "11/22/2025, 2:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "TEX",
-            "score": "7"
-          },
-          "away": {
-            "name": "ARK",
-            "score": "3"
-          }
-        }
-      },
-      {
-        "matchup": "TULN @ TEM",
-        "kickoff": "11/22/2025, 2:45:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "TEM",
-            "score": "0"
-          },
-          "away": {
-            "name": "TULN",
-            "score": "7"
-          }
-        }
-      },
-      {
         "matchup": "KSU @ UTAH",
         "kickoff": "11/22/2025, 3:00:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "MICH @ MD",
-        "kickoff": "11/22/2025, 3:00:00 PM",
         "status": "Live: Q1",
         "score": {
           "home": {
-            "name": "MD",
+            "name": "UTAH",
             "score": "0"
           },
           "away": {
-            "name": "MICH",
+            "name": "KSU",
             "score": "0"
           }
         }
@@ -288,8 +297,17 @@
       {
         "matchup": "TCU @ HOU",
         "kickoff": "11/22/2025, 3:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "HOU",
+            "score": "0"
+          },
+          "away": {
+            "name": "TCU",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "PITT @ GT",
