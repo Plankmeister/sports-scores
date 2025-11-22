@@ -117,11 +117,11 @@
       {
         "matchup": "SAM @ TA&M",
         "kickoff": "11/22/2025, 11:00:00 AM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "TA&M",
-            "score": "38"
+            "score": "41"
           },
           "away": {
             "name": "SAM",
@@ -155,7 +155,7 @@
           },
           "away": {
             "name": "MIA",
-            "score": "20"
+            "score": "27"
           }
         }
       },
@@ -181,7 +181,7 @@
         "score": {
           "home": {
             "name": "ALA",
-            "score": "7"
+            "score": "14"
           },
           "away": {
             "name": "EIU",
