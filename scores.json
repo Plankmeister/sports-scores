@@ -106,7 +106,7 @@
         "score": {
           "home": {
             "name": "ALA",
-            "score": "34"
+            "score": "35"
           },
           "away": {
             "name": "EIU",
@@ -121,7 +121,7 @@
         "score": {
           "home": {
             "name": "ORE",
-            "score": "0"
+            "score": "6"
           },
           "away": {
             "name": "USC",
@@ -136,7 +136,7 @@
         "score": {
           "home": {
             "name": "ND",
-            "score": "21"
+            "score": "28"
           },
           "away": {
             "name": "SYR",
@@ -241,7 +241,7 @@
         "score": {
           "home": {
             "name": "TEX",
-            "score": "0"
+            "score": "7"
           },
           "away": {
             "name": "ARK",
@@ -273,8 +273,17 @@
       {
         "matchup": "MICH @ MD",
         "kickoff": "11/22/2025, 3:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MD",
+            "score": "0"
+          },
+          "away": {
+            "name": "MICH",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "TCU @ HOU",
