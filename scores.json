@@ -102,7 +102,7 @@
       {
         "matchup": "MIZ @ OU",
         "kickoff": "11/22/2025, 11:00:00 AM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "OU",
@@ -125,14 +125,14 @@
           },
           "away": {
             "name": "MIA",
-            "score": "27"
+            "score": "33"
           }
         }
       },
       {
         "matchup": "CLT @ UGA",
         "kickoff": "11/22/2025, 11:45:00 AM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "UGA",
@@ -166,7 +166,7 @@
         "score": {
           "home": {
             "name": "ND",
-            "score": "7"
+            "score": "14"
           },
           "away": {
             "name": "SYR",
