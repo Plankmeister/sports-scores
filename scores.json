@@ -102,7 +102,7 @@
       {
         "matchup": "USC @ ORE",
         "kickoff": "11/22/2025, 2:30:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "ORE",
@@ -151,7 +151,7 @@
         "score": {
           "home": {
             "name": "TEX",
-            "score": "45"
+            "score": "52"
           },
           "away": {
             "name": "ARK",
@@ -215,7 +215,7 @@
           },
           "away": {
             "name": "TCU",
-            "score": "14"
+            "score": "17"
           }
         }
       },
