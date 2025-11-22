@@ -115,21 +115,6 @@
         }
       },
       {
-        "matchup": "SAM @ TA&M",
-        "kickoff": "11/22/2025, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "TA&M",
-            "score": "48"
-          },
-          "away": {
-            "name": "SAM",
-            "score": "0"
-          }
-        }
-      },
-      {
         "matchup": "MIZ @ OU",
         "kickoff": "11/22/2025, 11:00:00 AM",
         "status": "Live: Q4",
@@ -151,7 +136,7 @@
         "score": {
           "home": {
             "name": "VT",
-            "score": "10"
+            "score": "17"
           },
           "away": {
             "name": "MIA",
@@ -185,6 +170,21 @@
           },
           "away": {
             "name": "EIU",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "SAM @ TA&M",
+        "kickoff": "11/22/2025, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "TA&M",
+            "score": "48"
+          },
+          "away": {
+            "name": "SAM",
             "score": "0"
           }
         }
