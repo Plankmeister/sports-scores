@@ -121,7 +121,7 @@
         "score": {
           "home": {
             "name": "TA&M",
-            "score": "31"
+            "score": "38"
           },
           "away": {
             "name": "SAM",
@@ -147,11 +147,11 @@
       {
         "matchup": "MIA @ VT",
         "kickoff": "11/22/2025, 11:00:00 AM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "VT",
-            "score": "3"
+            "score": "9"
           },
           "away": {
             "name": "MIA",
@@ -170,15 +170,24 @@
           },
           "away": {
             "name": "CLT",
-            "score": "0"
+            "score": "3"
           }
         }
       },
       {
         "matchup": "EIU @ ALA",
         "kickoff": "11/22/2025, 1:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ALA",
+            "score": "0"
+          },
+          "away": {
+            "name": "EIU",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "USC @ ORE",
