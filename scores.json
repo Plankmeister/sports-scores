@@ -110,22 +110,7 @@
           },
           "away": {
             "name": "USC",
-            "score": "21"
-          }
-        }
-      },
-      {
-        "matchup": "SYR @ ND",
-        "kickoff": "11/22/2025, 2:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "ND",
-            "score": "70"
-          },
-          "away": {
-            "name": "SYR",
-            "score": "7"
+            "score": "27"
           }
         }
       },
@@ -170,7 +155,7 @@
           },
           "away": {
             "name": "TULN",
-            "score": "26"
+            "score": "34"
           }
         }
       },
@@ -185,7 +170,7 @@
           },
           "away": {
             "name": "KSU",
-            "score": "31"
+            "score": "38"
           }
         }
       },
@@ -276,6 +261,21 @@
           "away": {
             "name": "MIZ",
             "score": "6"
+          }
+        }
+      },
+      {
+        "matchup": "SYR @ ND",
+        "kickoff": "11/22/2025, 2:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "ND",
+            "score": "70"
+          },
+          "away": {
+            "name": "SYR",
+            "score": "7"
           }
         }
       },
