@@ -132,7 +132,7 @@
       {
         "matchup": "UK @ VAN",
         "kickoff": "11/22/2025, 2:30:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "VAN",
@@ -140,7 +140,7 @@
           },
           "away": {
             "name": "UK",
-            "score": "3"
+            "score": "10"
           }
         }
       },
@@ -155,7 +155,7 @@
           },
           "away": {
             "name": "ARK",
-            "score": "20"
+            "score": "23"
           }
         }
       },
@@ -170,7 +170,7 @@
           },
           "away": {
             "name": "TULN",
-            "score": "23"
+            "score": "26"
           }
         }
       },
@@ -200,7 +200,7 @@
           },
           "away": {
             "name": "MICH",
-            "score": "28"
+            "score": "35"
           }
         }
       },
