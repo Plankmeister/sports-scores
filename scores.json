@@ -102,7 +102,7 @@
       {
         "matchup": "RUTG @ OSU",
         "kickoff": "11/22/2025, 11:00:00 AM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "OSU",
@@ -117,11 +117,11 @@
       {
         "matchup": "SAM @ TA&M",
         "kickoff": "11/22/2025, 11:00:00 AM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "TA&M",
-            "score": "21"
+            "score": "27"
           },
           "away": {
             "name": "SAM",
@@ -162,8 +162,17 @@
       {
         "matchup": "CLT @ UGA",
         "kickoff": "11/22/2025, 11:45:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "UGA",
+            "score": "0"
+          },
+          "away": {
+            "name": "CLT",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "EIU @ ALA",
