@@ -117,20 +117,47 @@
       {
         "matchup": "RUTG @ OSU",
         "kickoff": "11/22/2025, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "OSU",
+            "score": "0"
+          },
+          "away": {
+            "name": "RUTG",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "MIZ @ OU",
         "kickoff": "11/22/2025, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "OU",
+            "score": "0"
+          },
+          "away": {
+            "name": "MIZ",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "MIA @ VT",
         "kickoff": "11/22/2025, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "VT",
+            "score": "0"
+          },
+          "away": {
+            "name": "MIA",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "CLT @ UGA",
