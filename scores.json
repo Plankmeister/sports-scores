@@ -106,7 +106,7 @@
         "score": {
           "home": {
             "name": "ORE",
-            "score": "28"
+            "score": "35"
           },
           "away": {
             "name": "USC",
@@ -151,7 +151,7 @@
         "score": {
           "home": {
             "name": "TEX",
-            "score": "38"
+            "score": "45"
           },
           "away": {
             "name": "ARK",
@@ -162,7 +162,7 @@
       {
         "matchup": "TULN @ TEM",
         "kickoff": "11/22/2025, 2:45:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "TEM",
@@ -181,7 +181,7 @@
         "score": {
           "home": {
             "name": "UTAH",
-            "score": "28"
+            "score": "35"
           },
           "away": {
             "name": "KSU",
