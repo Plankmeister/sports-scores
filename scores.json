@@ -106,7 +106,7 @@
         "score": {
           "home": {
             "name": "ALA",
-            "score": "41"
+            "score": "42"
           },
           "away": {
             "name": "EIU",
@@ -121,7 +121,7 @@
         "score": {
           "home": {
             "name": "ORE",
-            "score": "7"
+            "score": "14"
           },
           "away": {
             "name": "USC",
@@ -136,7 +136,7 @@
         "score": {
           "home": {
             "name": "ND",
-            "score": "35"
+            "score": "42"
           },
           "away": {
             "name": "SYR",
@@ -166,7 +166,7 @@
         "score": {
           "home": {
             "name": "TEX",
-            "score": "7"
+            "score": "14"
           },
           "away": {
             "name": "ARK",
@@ -181,7 +181,7 @@
         "score": {
           "home": {
             "name": "TEM",
-            "score": "0"
+            "score": "7"
           },
           "away": {
             "name": "TULN",
