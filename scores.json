@@ -102,7 +102,7 @@
       {
         "matchup": "USC @ ORE",
         "kickoff": "11/22/2025, 2:30:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "ORE",
@@ -151,7 +151,7 @@
         "score": {
           "home": {
             "name": "TEX",
-            "score": "24"
+            "score": "31"
           },
           "away": {
             "name": "ARK",
@@ -170,7 +170,7 @@
           },
           "away": {
             "name": "TULN",
-            "score": "20"
+            "score": "23"
           }
         }
       },
@@ -192,7 +192,7 @@
       {
         "matchup": "MICH @ MD",
         "kickoff": "11/22/2025, 3:00:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "MD",
@@ -200,14 +200,14 @@
           },
           "away": {
             "name": "MICH",
-            "score": "21"
+            "score": "27"
           }
         }
       },
       {
         "matchup": "TCU @ HOU",
         "kickoff": "11/22/2025, 3:00:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "HOU",
