@@ -100,21 +100,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "SAM @ TA&M",
-        "kickoff": "11/22/2025, 11:00:00 AM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "TA&M",
-            "score": "7"
-          },
-          "away": {
-            "name": "SAM",
-            "score": "0"
-          }
-        }
-      },
-      {
         "matchup": "RUTG @ OSU",
         "kickoff": "11/22/2025, 11:00:00 AM",
         "status": "Live: Q1",
@@ -130,6 +115,21 @@
         }
       },
       {
+        "matchup": "SAM @ TA&M",
+        "kickoff": "11/22/2025, 11:00:00 AM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "TA&M",
+            "score": "7"
+          },
+          "away": {
+            "name": "SAM",
+            "score": "0"
+          }
+        }
+      },
+      {
         "matchup": "MIZ @ OU",
         "kickoff": "11/22/2025, 11:00:00 AM",
         "status": "Live: Q1",
@@ -140,7 +140,7 @@
           },
           "away": {
             "name": "MIZ",
-            "score": "0"
+            "score": "3"
           }
         }
       },
