@@ -136,7 +136,7 @@
         "score": {
           "home": {
             "name": "VAN",
-            "score": "24"
+            "score": "31"
           },
           "away": {
             "name": "UK",
@@ -147,7 +147,7 @@
       {
         "matchup": "ARK @ TEX",
         "kickoff": "11/22/2025, 2:30:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "TEX",
@@ -162,7 +162,7 @@
       {
         "matchup": "TULN @ TEM",
         "kickoff": "11/22/2025, 2:45:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "TEM",
@@ -185,7 +185,7 @@
           },
           "away": {
             "name": "KSU",
-            "score": "30"
+            "score": "31"
           }
         }
       },
