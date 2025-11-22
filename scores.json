@@ -100,21 +100,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "EIU @ ALA",
-        "kickoff": "11/22/2025, 1:00:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "ALA",
-            "score": "56"
-          },
-          "away": {
-            "name": "EIU",
-            "score": "0"
-          }
-        }
-      },
-      {
         "matchup": "USC @ ORE",
         "kickoff": "11/22/2025, 2:30:00 PM",
         "status": "Live: Q2",
@@ -151,11 +136,11 @@
         "score": {
           "home": {
             "name": "VAN",
-            "score": "17"
+            "score": "24"
           },
           "away": {
             "name": "UK",
-            "score": "0"
+            "score": "3"
           }
         }
       },
@@ -196,7 +181,7 @@
         "score": {
           "home": {
             "name": "UTAH",
-            "score": "7"
+            "score": "14"
           },
           "away": {
             "name": "KSU",
@@ -211,7 +196,7 @@
         "score": {
           "home": {
             "name": "MD",
-            "score": "7"
+            "score": "10"
           },
           "away": {
             "name": "MICH",
@@ -291,6 +276,21 @@
           "away": {
             "name": "MIZ",
             "score": "6"
+          }
+        }
+      },
+      {
+        "matchup": "EIU @ ALA",
+        "kickoff": "11/22/2025, 1:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "ALA",
+            "score": "56"
+          },
+          "away": {
+            "name": "EIU",
+            "score": "0"
           }
         }
       },
