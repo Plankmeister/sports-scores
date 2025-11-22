@@ -132,7 +132,7 @@
       {
         "matchup": "MIZ @ OU",
         "kickoff": "11/22/2025, 11:00:00 AM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "OU",
@@ -155,7 +155,7 @@
           },
           "away": {
             "name": "MIA",
-            "score": "7"
+            "score": "14"
           }
         }
       },
