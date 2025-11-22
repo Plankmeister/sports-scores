@@ -106,7 +106,7 @@
         "score": {
           "home": {
             "name": "ALA",
-            "score": "48"
+            "score": "49"
           },
           "away": {
             "name": "EIU",
@@ -136,7 +136,7 @@
         "score": {
           "home": {
             "name": "ND",
-            "score": "42"
+            "score": "49"
           },
           "away": {
             "name": "SYR",
@@ -151,7 +151,7 @@
         "score": {
           "home": {
             "name": "VAN",
-            "score": "10"
+            "score": "17"
           },
           "away": {
             "name": "UK",
@@ -207,7 +207,7 @@
       {
         "matchup": "MICH @ MD",
         "kickoff": "11/22/2025, 3:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "MD",
@@ -215,7 +215,7 @@
           },
           "away": {
             "name": "MICH",
-            "score": "7"
+            "score": "14"
           }
         }
       },
