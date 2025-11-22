@@ -100,21 +100,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "RUTG @ OSU",
-        "kickoff": "11/22/2025, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "OSU",
-            "score": "42"
-          },
-          "away": {
-            "name": "RUTG",
-            "score": "9"
-          }
-        }
-      },
-      {
         "matchup": "MIZ @ OU",
         "kickoff": "11/22/2025, 11:00:00 AM",
         "status": "Live: Q4",
@@ -175,6 +160,36 @@
         }
       },
       {
+        "matchup": "SYR @ ND",
+        "kickoff": "11/22/2025, 2:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ND",
+            "score": "7"
+          },
+          "away": {
+            "name": "SYR",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "RUTG @ OSU",
+        "kickoff": "11/22/2025, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "OSU",
+            "score": "42"
+          },
+          "away": {
+            "name": "RUTG",
+            "score": "9"
+          }
+        }
+      },
+      {
         "matchup": "SAM @ TA&M",
         "kickoff": "11/22/2025, 11:00:00 AM",
         "status": "Final",
@@ -196,16 +211,19 @@
         "score": null
       },
       {
-        "matchup": "SYR @ ND",
-        "kickoff": "11/22/2025, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
         "matchup": "UK @ VAN",
         "kickoff": "11/22/2025, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "VAN",
+            "score": "0"
+          },
+          "away": {
+            "name": "UK",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "ARK @ TEX",
