@@ -3,36 +3,6 @@
     "week": 12,
     "games": [
       {
-        "matchup": "NE @ CIN",
-        "kickoff": "11/23/2025, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "CIN",
-            "score": "20"
-          },
-          "away": {
-            "name": "NE",
-            "score": "26"
-          }
-        }
-      },
-      {
-        "matchup": "NYG @ DET",
-        "kickoff": "11/23/2025, 12:00:00 PM",
-        "status": "Live: Q5",
-        "score": {
-          "home": {
-            "name": "DET",
-            "score": "34"
-          },
-          "away": {
-            "name": "NYG",
-            "score": "27"
-          }
-        }
-      },
-      {
         "matchup": "IND @ KC",
         "kickoff": "11/23/2025, 12:00:00 PM",
         "status": "Live: Q5",
@@ -78,6 +48,36 @@
         }
       },
       {
+        "matchup": "PHI @ DAL",
+        "kickoff": "11/23/2025, 3:25:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "DAL",
+            "score": "0"
+          },
+          "away": {
+            "name": "PHI",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "ATL @ NO",
+        "kickoff": "11/23/2025, 3:25:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "NO",
+            "score": "0"
+          },
+          "away": {
+            "name": "ATL",
+            "score": "0"
+          }
+        }
+      },
+      {
         "matchup": "PIT @ CHI",
         "kickoff": "11/23/2025, 12:00:00 PM",
         "status": "Final",
@@ -89,6 +89,36 @@
           "away": {
             "name": "PIT",
             "score": "28"
+          }
+        }
+      },
+      {
+        "matchup": "NE @ CIN",
+        "kickoff": "11/23/2025, 12:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "CIN",
+            "score": "20"
+          },
+          "away": {
+            "name": "NE",
+            "score": "26"
+          }
+        }
+      },
+      {
+        "matchup": "NYG @ DET",
+        "kickoff": "11/23/2025, 12:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "DET",
+            "score": "34"
+          },
+          "away": {
+            "name": "NYG",
+            "score": "27"
           }
         }
       },
@@ -134,36 +164,6 @@
           "away": {
             "name": "NYJ",
             "score": "10"
-          }
-        }
-      },
-      {
-        "matchup": "PHI @ DAL",
-        "kickoff": "11/23/2025, 3:25:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "DAL",
-            "score": "0"
-          },
-          "away": {
-            "name": "PHI",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "ATL @ NO",
-        "kickoff": "11/23/2025, 3:25:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "NO",
-            "score": "0"
-          },
-          "away": {
-            "name": "ATL",
-            "score": "0"
           }
         }
       },
