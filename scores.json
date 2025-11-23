@@ -24,7 +24,7 @@
         "score": {
           "home": {
             "name": "CIN",
-            "score": "13"
+            "score": "20"
           },
           "away": {
             "name": "NE",
@@ -80,7 +80,7 @@
       {
         "matchup": "NYJ @ BAL",
         "kickoff": "11/23/2025, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "BAL",
