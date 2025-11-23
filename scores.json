@@ -50,11 +50,11 @@
       {
         "matchup": "MIN @ GB",
         "kickoff": "11/23/2025, 12:00:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "GB",
-            "score": "17"
+            "score": "20"
           },
           "away": {
             "name": "MIN",
@@ -73,7 +73,7 @@
           },
           "away": {
             "name": "SEA",
-            "score": "23"
+            "score": "30"
           }
         }
       },
@@ -88,14 +88,14 @@
           },
           "away": {
             "name": "IND",
-            "score": "17"
+            "score": "20"
           }
         }
       },
       {
         "matchup": "NYJ @ BAL",
         "kickoff": "11/23/2025, 12:00:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "BAL",
