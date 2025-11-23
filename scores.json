@@ -100,21 +100,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "ASU @ COLO",
-        "kickoff": "11/22/2025, 7:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "COLO",
-            "score": "17"
-          },
-          "away": {
-            "name": "ASU",
-            "score": "42"
-          }
-        }
-      },
-      {
         "matchup": "RUTG @ OSU",
         "kickoff": "11/22/2025, 11:00:00 AM",
         "status": "Final",
@@ -381,6 +366,21 @@
           "away": {
             "name": "TULN",
             "score": "37"
+          }
+        }
+      },
+      {
+        "matchup": "ASU @ COLO",
+        "kickoff": "11/22/2025, 7:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "COLO",
+            "score": "17"
+          },
+          "away": {
+            "name": "ASU",
+            "score": "42"
           }
         }
       }
