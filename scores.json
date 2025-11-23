@@ -140,14 +140,32 @@
       {
         "matchup": "PHI @ DAL",
         "kickoff": "11/23/2025, 3:25:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "DAL",
+            "score": "0"
+          },
+          "away": {
+            "name": "PHI",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "ATL @ NO",
         "kickoff": "11/23/2025, 3:25:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "NO",
+            "score": "0"
+          },
+          "away": {
+            "name": "ATL",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "TB @ LAR",
