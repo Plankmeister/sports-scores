@@ -5,7 +5,7 @@
       {
         "matchup": "NE @ CIN",
         "kickoff": "11/23/2025, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "CIN",
@@ -24,7 +24,7 @@
         "score": {
           "home": {
             "name": "DET",
-            "score": "27"
+            "score": "34"
           },
           "away": {
             "name": "NYG",
@@ -58,7 +58,7 @@
           },
           "away": {
             "name": "CLE",
-            "score": "6"
+            "score": "7"
           }
         }
       },
@@ -73,7 +73,7 @@
           },
           "away": {
             "name": "JAX",
-            "score": "0"
+            "score": "7"
           }
         }
       },
