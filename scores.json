@@ -125,14 +125,14 @@
           },
           "away": {
             "name": "TENN",
-            "score": "7"
+            "score": "14"
           }
         }
       },
       {
         "matchup": "ILL @ WIS",
         "kickoff": "11/22/2025, 6:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "WIS",
