@@ -115,21 +115,6 @@
         }
       },
       {
-        "matchup": "UK @ VAN",
-        "kickoff": "11/22/2025, 2:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "VAN",
-            "score": "45"
-          },
-          "away": {
-            "name": "UK",
-            "score": "17"
-          }
-        }
-      },
-      {
         "matchup": "ARK @ TEX",
         "kickoff": "11/22/2025, 2:30:00 PM",
         "status": "Live: Q4",
@@ -140,14 +125,14 @@
           },
           "away": {
             "name": "ARK",
-            "score": "30"
+            "score": "36"
           }
         }
       },
       {
         "matchup": "TULN @ TEM",
         "kickoff": "11/22/2025, 2:45:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "TEM",
@@ -175,32 +160,17 @@
         }
       },
       {
-        "matchup": "MICH @ MD",
-        "kickoff": "11/22/2025, 3:00:00 PM",
-        "status": "Live: Q4",
+        "matchup": "PITT @ GT",
+        "kickoff": "11/22/2025, 6:00:00 PM",
+        "status": "Live: Q1",
         "score": {
           "home": {
-            "name": "MD",
-            "score": "20"
+            "name": "GT",
+            "score": "0"
           },
           "away": {
-            "name": "MICH",
-            "score": "45"
-          }
-        }
-      },
-      {
-        "matchup": "TCU @ HOU",
-        "kickoff": "11/22/2025, 3:00:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "HOU",
-            "score": "14"
-          },
-          "away": {
-            "name": "TCU",
-            "score": "17"
+            "name": "PITT",
+            "score": "0"
           }
         }
       },
@@ -310,17 +280,47 @@
         }
       },
       {
-        "matchup": "PITT @ GT",
-        "kickoff": "11/22/2025, 6:00:00 PM",
-        "status": "Live: Q1",
+        "matchup": "UK @ VAN",
+        "kickoff": "11/22/2025, 2:30:00 PM",
+        "status": "Final",
         "score": {
           "home": {
-            "name": "GT",
-            "score": "0"
+            "name": "VAN",
+            "score": "45"
           },
           "away": {
-            "name": "PITT",
-            "score": "0"
+            "name": "UK",
+            "score": "17"
+          }
+        }
+      },
+      {
+        "matchup": "MICH @ MD",
+        "kickoff": "11/22/2025, 3:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "MD",
+            "score": "20"
+          },
+          "away": {
+            "name": "MICH",
+            "score": "45"
+          }
+        }
+      },
+      {
+        "matchup": "TCU @ HOU",
+        "kickoff": "11/22/2025, 3:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "HOU",
+            "score": "14"
+          },
+          "away": {
+            "name": "TCU",
+            "score": "17"
           }
         }
       },
