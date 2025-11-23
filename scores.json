@@ -9,7 +9,7 @@
         "score": {
           "home": {
             "name": "CHI",
-            "score": "14"
+            "score": "17"
           },
           "away": {
             "name": "PIT",
@@ -39,7 +39,7 @@
         "score": {
           "home": {
             "name": "DET",
-            "score": "14"
+            "score": "17"
           },
           "away": {
             "name": "NYG",
@@ -50,7 +50,7 @@
       {
         "matchup": "MIN @ GB",
         "kickoff": "11/23/2025, 12:00:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "GB",
@@ -95,7 +95,7 @@
       {
         "matchup": "NYJ @ BAL",
         "kickoff": "11/23/2025, 12:00:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "BAL",
