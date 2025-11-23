@@ -43,7 +43,7 @@
           },
           "away": {
             "name": "NYG",
-            "score": "10"
+            "score": "17"
           }
         }
       },
@@ -73,7 +73,7 @@
           },
           "away": {
             "name": "SEA",
-            "score": "10"
+            "score": "13"
           }
         }
       },
@@ -84,7 +84,7 @@
         "score": {
           "home": {
             "name": "KC",
-            "score": "3"
+            "score": "6"
           },
           "away": {
             "name": "IND",
@@ -103,7 +103,7 @@
           },
           "away": {
             "name": "NYJ",
-            "score": "0"
+            "score": "7"
           }
         }
       },
