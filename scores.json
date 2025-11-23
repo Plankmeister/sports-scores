@@ -102,7 +102,7 @@
       {
         "matchup": "KSU @ UTAH",
         "kickoff": "11/22/2025, 3:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "UTAH",
@@ -117,7 +117,7 @@
       {
         "matchup": "PITT @ GT",
         "kickoff": "11/22/2025, 6:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "GT",
@@ -140,7 +140,7 @@
           },
           "away": {
             "name": "TENN",
-            "score": "0"
+            "score": "7"
           }
         }
       },
