@@ -100,21 +100,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "KSU @ UTAH",
-        "kickoff": "11/22/2025, 3:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "UTAH",
-            "score": "51"
-          },
-          "away": {
-            "name": "KSU",
-            "score": "47"
-          }
-        }
-      },
-      {
         "matchup": "PITT @ GT",
         "kickoff": "11/22/2025, 6:00:00 PM",
         "status": "Live: Q2",
@@ -125,7 +110,7 @@
           },
           "away": {
             "name": "PITT",
-            "score": "21"
+            "score": "28"
           }
         }
       },
@@ -155,6 +140,36 @@
           },
           "away": {
             "name": "ILL",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "BYU @ CIN",
+        "kickoff": "11/22/2025, 7:00:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "CIN",
+            "score": "0"
+          },
+          "away": {
+            "name": "BYU",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "ASU @ COLO",
+        "kickoff": "11/22/2025, 7:00:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "COLO",
+            "score": "0"
+          },
+          "away": {
+            "name": "ASU",
             "score": "0"
           }
         }
@@ -265,6 +280,21 @@
         }
       },
       {
+        "matchup": "KSU @ UTAH",
+        "kickoff": "11/22/2025, 3:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "UTAH",
+            "score": "51"
+          },
+          "away": {
+            "name": "KSU",
+            "score": "47"
+          }
+        }
+      },
+      {
         "matchup": "MIA @ VT",
         "kickoff": "11/22/2025, 11:00:00 AM",
         "status": "Final",
@@ -353,18 +383,6 @@
             "score": "37"
           }
         }
-      },
-      {
-        "matchup": "BYU @ CIN",
-        "kickoff": "11/22/2025, 7:00:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "ASU @ COLO",
-        "kickoff": "11/22/2025, 7:00:00 PM",
-        "status": "Scheduled",
-        "score": null
       }
     ]
   }
