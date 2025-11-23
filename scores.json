@@ -106,7 +106,7 @@
         "score": {
           "home": {
             "name": "UTAH",
-            "score": "50"
+            "score": "51"
           },
           "away": {
             "name": "KSU",
@@ -125,7 +125,37 @@
           },
           "away": {
             "name": "PITT",
-            "score": "14"
+            "score": "21"
+          }
+        }
+      },
+      {
+        "matchup": "TENN @ FLA",
+        "kickoff": "11/22/2025, 6:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "FLA",
+            "score": "0"
+          },
+          "away": {
+            "name": "TENN",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "ILL @ WIS",
+        "kickoff": "11/22/2025, 6:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "WIS",
+            "score": "0"
+          },
+          "away": {
+            "name": "ILL",
+            "score": "0"
           }
         }
       },
@@ -321,27 +351,6 @@
           "away": {
             "name": "TULN",
             "score": "37"
-          }
-        }
-      },
-      {
-        "matchup": "TENN @ FLA",
-        "kickoff": "11/22/2025, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "ILL @ WIS",
-        "kickoff": "11/22/2025, 6:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "WIS",
-            "score": "0"
-          },
-          "away": {
-            "name": "ILL",
-            "score": "0"
           }
         }
       },
