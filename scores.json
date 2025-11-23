@@ -136,7 +136,7 @@
         "score": {
           "home": {
             "name": "WIS",
-            "score": "7"
+            "score": "10"
           },
           "away": {
             "name": "ILL",
@@ -162,7 +162,7 @@
       {
         "matchup": "ASU @ COLO",
         "kickoff": "11/22/2025, 7:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "COLO",
