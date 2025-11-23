@@ -28,7 +28,7 @@
           },
           "away": {
             "name": "NE",
-            "score": "20"
+            "score": "23"
           }
         }
       },
@@ -44,21 +44,6 @@
           "away": {
             "name": "NYG",
             "score": "27"
-          }
-        }
-      },
-      {
-        "matchup": "MIN @ GB",
-        "kickoff": "11/23/2025, 12:00:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "GB",
-            "score": "23"
-          },
-          "away": {
-            "name": "MIN",
-            "score": "6"
           }
         }
       },
@@ -104,6 +89,21 @@
           "away": {
             "name": "NYJ",
             "score": "10"
+          }
+        }
+      },
+      {
+        "matchup": "MIN @ GB",
+        "kickoff": "11/23/2025, 12:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "GB",
+            "score": "23"
+          },
+          "away": {
+            "name": "MIN",
+            "score": "6"
           }
         }
       },
