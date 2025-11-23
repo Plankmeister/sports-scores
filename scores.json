@@ -100,21 +100,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "PITT @ GT",
-        "kickoff": "11/22/2025, 6:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "GT",
-            "score": "28"
-          },
-          "away": {
-            "name": "PITT",
-            "score": "42"
-          }
-        }
-      },
-      {
         "matchup": "TENN @ FLA",
         "kickoff": "11/22/2025, 6:30:00 PM",
         "status": "Live: Q4",
@@ -132,7 +117,7 @@
       {
         "matchup": "ILL @ WIS",
         "kickoff": "11/22/2025, 6:30:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "WIS",
@@ -321,6 +306,21 @@
           "away": {
             "name": "UK",
             "score": "17"
+          }
+        }
+      },
+      {
+        "matchup": "PITT @ GT",
+        "kickoff": "11/22/2025, 6:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "GT",
+            "score": "28"
+          },
+          "away": {
+            "name": "PITT",
+            "score": "42"
           }
         }
       },
