@@ -3,21 +3,6 @@
     "week": 12,
     "games": [
       {
-        "matchup": "PIT @ CHI",
-        "kickoff": "11/23/2025, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "CHI",
-            "score": "31"
-          },
-          "away": {
-            "name": "PIT",
-            "score": "28"
-          }
-        }
-      },
-      {
         "matchup": "NE @ CIN",
         "kickoff": "11/23/2025, 12:00:00 PM",
         "status": "Live: Q4",
@@ -35,7 +20,7 @@
       {
         "matchup": "NYG @ DET",
         "kickoff": "11/23/2025, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Live: Q5",
         "score": {
           "home": {
             "name": "DET",
@@ -48,32 +33,62 @@
         }
       },
       {
-        "matchup": "SEA @ TEN",
-        "kickoff": "11/23/2025, 12:00:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "TEN",
-            "score": "24"
-          },
-          "away": {
-            "name": "SEA",
-            "score": "30"
-          }
-        }
-      },
-      {
         "matchup": "IND @ KC",
         "kickoff": "11/23/2025, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Live: Q5",
         "score": {
           "home": {
             "name": "KC",
-            "score": "17"
+            "score": "20"
           },
           "away": {
             "name": "IND",
             "score": "20"
+          }
+        }
+      },
+      {
+        "matchup": "CLE @ LV",
+        "kickoff": "11/23/2025, 3:05:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "LV",
+            "score": "0"
+          },
+          "away": {
+            "name": "CLE",
+            "score": "6"
+          }
+        }
+      },
+      {
+        "matchup": "JAX @ ARI",
+        "kickoff": "11/23/2025, 3:05:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ARI",
+            "score": "0"
+          },
+          "away": {
+            "name": "JAX",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "PIT @ CHI",
+        "kickoff": "11/23/2025, 12:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "CHI",
+            "score": "31"
+          },
+          "away": {
+            "name": "PIT",
+            "score": "28"
           }
         }
       },
@@ -93,6 +108,21 @@
         }
       },
       {
+        "matchup": "SEA @ TEN",
+        "kickoff": "11/23/2025, 12:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "TEN",
+            "score": "24"
+          },
+          "away": {
+            "name": "SEA",
+            "score": "30"
+          }
+        }
+      },
+      {
         "matchup": "NYJ @ BAL",
         "kickoff": "11/23/2025, 12:00:00 PM",
         "status": "Final",
@@ -104,36 +134,6 @@
           "away": {
             "name": "NYJ",
             "score": "10"
-          }
-        }
-      },
-      {
-        "matchup": "CLE @ LV",
-        "kickoff": "11/23/2025, 3:05:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "LV",
-            "score": "0"
-          },
-          "away": {
-            "name": "CLE",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "JAX @ ARI",
-        "kickoff": "11/23/2025, 3:05:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "ARI",
-            "score": "0"
-          },
-          "away": {
-            "name": "JAX",
-            "score": "0"
           }
         }
       },
