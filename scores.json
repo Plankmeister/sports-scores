@@ -5,11 +5,11 @@
       {
         "matchup": "IND @ KC",
         "kickoff": "11/23/2025, 12:00:00 PM",
-        "status": "Live: Q5",
+        "status": "Final",
         "score": {
           "home": {
             "name": "KC",
-            "score": "20"
+            "score": "23"
           },
           "away": {
             "name": "IND",
@@ -39,7 +39,7 @@
         "score": {
           "home": {
             "name": "ARI",
-            "score": "0"
+            "score": "7"
           },
           "away": {
             "name": "JAX",
@@ -58,7 +58,7 @@
           },
           "away": {
             "name": "PHI",
-            "score": "0"
+            "score": "7"
           }
         }
       },
@@ -73,7 +73,7 @@
           },
           "away": {
             "name": "ATL",
-            "score": "0"
+            "score": "3"
           }
         }
       },
