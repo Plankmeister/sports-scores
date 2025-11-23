@@ -78,21 +78,6 @@
         }
       },
       {
-        "matchup": "NYJ @ BAL",
-        "kickoff": "11/23/2025, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "BAL",
-            "score": "23"
-          },
-          "away": {
-            "name": "NYJ",
-            "score": "10"
-          }
-        }
-      },
-      {
         "matchup": "MIN @ GB",
         "kickoff": "11/23/2025, 12:00:00 PM",
         "status": "Final",
@@ -104,6 +89,21 @@
           "away": {
             "name": "MIN",
             "score": "6"
+          }
+        }
+      },
+      {
+        "matchup": "NYJ @ BAL",
+        "kickoff": "11/23/2025, 12:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "BAL",
+            "score": "23"
+          },
+          "away": {
+            "name": "NYJ",
+            "score": "10"
           }
         }
       },
