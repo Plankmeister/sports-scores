@@ -100,43 +100,13 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "TENN @ FLA",
-        "kickoff": "11/22/2025, 6:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "FLA",
-            "score": "11"
-          },
-          "away": {
-            "name": "TENN",
-            "score": "31"
-          }
-        }
-      },
-      {
-        "matchup": "ILL @ WIS",
-        "kickoff": "11/22/2025, 6:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "WIS",
-            "score": "27"
-          },
-          "away": {
-            "name": "ILL",
-            "score": "10"
-          }
-        }
-      },
-      {
         "matchup": "BYU @ CIN",
         "kickoff": "11/22/2025, 7:00:00 PM",
         "status": "Live: Q4",
         "score": {
           "home": {
             "name": "CIN",
-            "score": "7"
+            "score": "13"
           },
           "away": {
             "name": "BYU",
@@ -351,6 +321,36 @@
           "away": {
             "name": "MICH",
             "score": "45"
+          }
+        }
+      },
+      {
+        "matchup": "TENN @ FLA",
+        "kickoff": "11/22/2025, 6:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "FLA",
+            "score": "11"
+          },
+          "away": {
+            "name": "TENN",
+            "score": "31"
+          }
+        }
+      },
+      {
+        "matchup": "ILL @ WIS",
+        "kickoff": "11/22/2025, 6:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "WIS",
+            "score": "27"
+          },
+          "away": {
+            "name": "ILL",
+            "score": "10"
           }
         }
       },
