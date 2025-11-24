@@ -298,6 +298,12 @@
         "score": null
       },
       {
+        "matchup": "UCLA @ USC",
+        "kickoff": "11/29/2025, 6:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
         "matchup": "VT @ UVA",
         "kickoff": "11/29/2025, 6:00:00 PM",
         "status": "Scheduled",
@@ -305,12 +311,6 @@
       },
       {
         "matchup": "ALA @ AUB",
-        "kickoff": "11/29/2025, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "UCLA @ USC",
         "kickoff": "11/29/2025, 6:30:00 PM",
         "status": "Scheduled",
         "score": null
