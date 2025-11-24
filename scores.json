@@ -3,21 +3,6 @@
     "week": 12,
     "games": [
       {
-        "matchup": "JAX @ ARI",
-        "kickoff": "11/23/2025, 3:05:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "ARI",
-            "score": "24"
-          },
-          "away": {
-            "name": "JAX",
-            "score": "27"
-          }
-        }
-      },
-      {
         "matchup": "PHI @ DAL",
         "kickoff": "11/23/2025, 3:25:00 PM",
         "status": "Live: Q4",
@@ -29,21 +14,6 @@
           "away": {
             "name": "PHI",
             "score": "21"
-          }
-        }
-      },
-      {
-        "matchup": "ATL @ NO",
-        "kickoff": "11/23/2025, 3:25:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "NO",
-            "score": "10"
-          },
-          "away": {
-            "name": "ATL",
-            "score": "24"
           }
         }
       },
@@ -163,6 +133,36 @@
           },
           "away": {
             "name": "CLE",
+            "score": "24"
+          }
+        }
+      },
+      {
+        "matchup": "JAX @ ARI",
+        "kickoff": "11/23/2025, 3:05:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "ARI",
+            "score": "24"
+          },
+          "away": {
+            "name": "JAX",
+            "score": "27"
+          }
+        }
+      },
+      {
+        "matchup": "ATL @ NO",
+        "kickoff": "11/23/2025, 3:25:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "NO",
+            "score": "10"
+          },
+          "away": {
+            "name": "ATL",
             "score": "24"
           }
         }
