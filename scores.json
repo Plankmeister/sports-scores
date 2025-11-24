@@ -3,21 +3,6 @@
     "week": 12,
     "games": [
       {
-        "matchup": "CLE @ LV",
-        "kickoff": "11/23/2025, 3:05:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "LV",
-            "score": "10"
-          },
-          "away": {
-            "name": "CLE",
-            "score": "24"
-          }
-        }
-      },
-      {
         "matchup": "JAX @ ARI",
         "kickoff": "11/23/2025, 3:05:00 PM",
         "status": "Live: Q5",
@@ -28,7 +13,7 @@
           },
           "away": {
             "name": "JAX",
-            "score": "24"
+            "score": "27"
           }
         }
       },
@@ -164,6 +149,21 @@
           "away": {
             "name": "NYJ",
             "score": "10"
+          }
+        }
+      },
+      {
+        "matchup": "CLE @ LV",
+        "kickoff": "11/23/2025, 3:05:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "LV",
+            "score": "10"
+          },
+          "away": {
+            "name": "CLE",
+            "score": "24"
           }
         }
       },
