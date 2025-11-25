@@ -3,21 +3,6 @@
     "week": 12,
     "games": [
       {
-        "matchup": "CAR @ SF",
-        "kickoff": "11/24/2025, 7:15:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "SF",
-            "score": "20"
-          },
-          "away": {
-            "name": "CAR",
-            "score": "9"
-          }
-        }
-      },
-      {
         "matchup": "BUF @ HOU",
         "kickoff": "11/20/2025, 7:15:00 PM",
         "status": "Final",
@@ -209,6 +194,21 @@
           "away": {
             "name": "TB",
             "score": "7"
+          }
+        }
+      },
+      {
+        "matchup": "CAR @ SF",
+        "kickoff": "11/24/2025, 7:15:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "SF",
+            "score": "20"
+          },
+          "away": {
+            "name": "CAR",
+            "score": "9"
           }
         }
       }
