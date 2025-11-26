@@ -1,216 +1,102 @@
 {
   "nfl": {
-    "week": 12,
+    "week": 13,
     "games": [
       {
-        "matchup": "BUF @ HOU",
-        "kickoff": "11/20/2025, 7:15:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "HOU",
-            "score": "23"
-          },
-          "away": {
-            "name": "BUF",
-            "score": "19"
-          }
-        }
+        "matchup": "GB @ DET",
+        "kickoff": "11/27/2025, 12:00:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "PIT @ CHI",
-        "kickoff": "11/23/2025, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "CHI",
-            "score": "31"
-          },
-          "away": {
-            "name": "PIT",
-            "score": "28"
-          }
-        }
+        "matchup": "KC @ DAL",
+        "kickoff": "11/27/2025, 3:30:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "NE @ CIN",
-        "kickoff": "11/23/2025, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "CIN",
-            "score": "20"
-          },
-          "away": {
-            "name": "NE",
-            "score": "26"
-          }
-        }
+        "matchup": "CIN @ BAL",
+        "kickoff": "11/27/2025, 7:20:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "NYG @ DET",
-        "kickoff": "11/23/2025, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "DET",
-            "score": "34"
-          },
-          "away": {
-            "name": "NYG",
-            "score": "27"
-          }
-        }
+        "matchup": "CHI @ PHI",
+        "kickoff": "11/28/2025, 2:00:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "MIN @ GB",
-        "kickoff": "11/23/2025, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "GB",
-            "score": "23"
-          },
-          "away": {
-            "name": "MIN",
-            "score": "6"
-          }
-        }
+        "matchup": "SF @ CLE",
+        "kickoff": "11/30/2025, 12:00:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "SEA @ TEN",
-        "kickoff": "11/23/2025, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "TEN",
-            "score": "24"
-          },
-          "away": {
-            "name": "SEA",
-            "score": "30"
-          }
-        }
+        "matchup": "JAX @ TEN",
+        "kickoff": "11/30/2025, 12:00:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "IND @ KC",
-        "kickoff": "11/23/2025, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "KC",
-            "score": "23"
-          },
-          "away": {
-            "name": "IND",
-            "score": "20"
-          }
-        }
+        "matchup": "HOU @ IND",
+        "kickoff": "11/30/2025, 12:00:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "NYJ @ BAL",
-        "kickoff": "11/23/2025, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "BAL",
-            "score": "23"
-          },
-          "away": {
-            "name": "NYJ",
-            "score": "10"
-          }
-        }
+        "matchup": "NO @ MIA",
+        "kickoff": "11/30/2025, 12:00:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "CLE @ LV",
-        "kickoff": "11/23/2025, 3:05:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "LV",
-            "score": "10"
-          },
-          "away": {
-            "name": "CLE",
-            "score": "24"
-          }
-        }
+        "matchup": "ATL @ NYJ",
+        "kickoff": "11/30/2025, 12:00:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "JAX @ ARI",
-        "kickoff": "11/23/2025, 3:05:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "ARI",
-            "score": "24"
-          },
-          "away": {
-            "name": "JAX",
-            "score": "27"
-          }
-        }
+        "matchup": "ARI @ TB",
+        "kickoff": "11/30/2025, 12:00:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "PHI @ DAL",
-        "kickoff": "11/23/2025, 3:25:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "DAL",
-            "score": "24"
-          },
-          "away": {
-            "name": "PHI",
-            "score": "21"
-          }
-        }
+        "matchup": "LAR @ CAR",
+        "kickoff": "11/30/2025, 12:00:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "ATL @ NO",
-        "kickoff": "11/23/2025, 3:25:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "NO",
-            "score": "10"
-          },
-          "away": {
-            "name": "ATL",
-            "score": "24"
-          }
-        }
+        "matchup": "MIN @ SEA",
+        "kickoff": "11/30/2025, 3:05:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "TB @ LAR",
-        "kickoff": "11/23/2025, 7:20:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "LAR",
-            "score": "34"
-          },
-          "away": {
-            "name": "TB",
-            "score": "7"
-          }
-        }
+        "matchup": "BUF @ PIT",
+        "kickoff": "11/30/2025, 3:25:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "CAR @ SF",
-        "kickoff": "11/24/2025, 7:15:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "SF",
-            "score": "20"
-          },
-          "away": {
-            "name": "CAR",
-            "score": "9"
-          }
-        }
+        "matchup": "LV @ LAC",
+        "kickoff": "11/30/2025, 3:25:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "DEN @ WSH",
+        "kickoff": "11/30/2025, 7:20:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "NYG @ NE",
+        "kickoff": "12/1/2025, 7:15:00 PM",
+        "status": "Scheduled",
+        "score": null
       }
     ]
   },
