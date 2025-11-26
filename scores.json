@@ -271,12 +271,6 @@
         "score": null
       },
       {
-        "matchup": "HOU @ BAY",
-        "kickoff": "11/29/2025, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
         "matchup": "UCF @ BYU",
         "kickoff": "11/29/2025, 12:00:00 PM",
         "status": "Scheduled",
@@ -301,12 +295,6 @@
         "score": null
       },
       {
-        "matchup": "MIZ @ ARK",
-        "kickoff": "11/29/2025, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
         "matchup": "VT @ UVA",
         "kickoff": "11/29/2025, 6:00:00 PM",
         "status": "Scheduled",
@@ -325,14 +313,14 @@
         "score": null
       },
       {
-        "matchup": "NU @ ILL",
+        "matchup": "CLT @ TULN",
         "kickoff": "11/29/2025, 6:30:00 PM",
         "status": "Scheduled",
         "score": null
       },
       {
-        "matchup": "CLT @ TULN",
-        "kickoff": "11/29/2025, 6:30:00 PM",
+        "matchup": "SMU @ CAL",
+        "kickoff": "11/29/2025, 7:00:00 PM",
         "status": "Scheduled",
         "score": null
       },
