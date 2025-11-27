@@ -5,8 +5,17 @@
       {
         "matchup": "KC @ DAL",
         "kickoff": "11/27/2025, 3:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q2",
+        "score": {
+          "home": {
+            "name": "DAL",
+            "score": "17"
+          },
+          "away": {
+            "name": "KC",
+            "score": "14"
+          }
+        }
       },
       {
         "matchup": "GB @ DET",
