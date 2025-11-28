@@ -171,8 +171,17 @@
       {
         "matchup": "UGA VS GT",
         "kickoff": "11/28/2025, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "GT",
+            "score": "0"
+          },
+          "away": {
+            "name": "UGA",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "IU @ PUR",
