@@ -35,8 +35,17 @@
       {
         "matchup": "CIN @ BAL",
         "kickoff": "11/27/2025, 7:20:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "BAL",
+            "score": "0"
+          },
+          "away": {
+            "name": "CIN",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "CHI @ PHI",
