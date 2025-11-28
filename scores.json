@@ -132,8 +132,17 @@
       {
         "matchup": "MISS @ MSST",
         "kickoff": "11/28/2025, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MSST",
+            "score": "0"
+          },
+          "away": {
+            "name": "MISS",
+            "score": "7"
+          }
+        }
       },
       {
         "matchup": "UTAH @ KU",
