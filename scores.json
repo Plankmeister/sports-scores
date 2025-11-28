@@ -5,8 +5,17 @@
       {
         "matchup": "CHI @ PHI",
         "kickoff": "11/28/2025, 2:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "PHI",
+            "score": "0"
+          },
+          "away": {
+            "name": "CHI",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "GB @ DET",
@@ -136,7 +145,7 @@
         "score": {
           "home": {
             "name": "MSST",
-            "score": "13"
+            "score": "19"
           },
           "away": {
             "name": "MISS",
@@ -151,7 +160,7 @@
         "score": {
           "home": {
             "name": "KU",
-            "score": "14"
+            "score": "20"
           },
           "away": {
             "name": "UTAH",
