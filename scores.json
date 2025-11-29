@@ -139,21 +139,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "IU @ PUR",
-        "kickoff": "11/28/2025, 6:30:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "PUR",
-            "score": "3"
-          },
-          "away": {
-            "name": "IU",
-            "score": "56"
-          }
-        }
-      },
-      {
         "matchup": "TA&M @ TEX",
         "kickoff": "11/28/2025, 6:30:00 PM",
         "status": "Live: Q4",
@@ -179,7 +164,22 @@
           },
           "away": {
             "name": "ARIZ",
+            "score": "10"
+          }
+        }
+      },
+      {
+        "matchup": "IU @ PUR",
+        "kickoff": "11/28/2025, 6:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "PUR",
             "score": "3"
+          },
+          "away": {
+            "name": "IU",
+            "score": "56"
           }
         }
       },
