@@ -162,8 +162,17 @@
       {
         "matchup": "MIA @ PITT",
         "kickoff": "11/29/2025, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "PITT",
+            "score": "0"
+          },
+          "away": {
+            "name": "MIA",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "UCF @ BYU",
