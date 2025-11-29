@@ -141,7 +141,7 @@
       {
         "matchup": "OSU @ MICH",
         "kickoff": "11/29/2025, 11:00:00 AM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "MICH",
@@ -156,7 +156,7 @@
       {
         "matchup": "TTU @ WVU",
         "kickoff": "11/29/2025, 11:00:00 AM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "WVU",
@@ -164,7 +164,7 @@
           },
           "away": {
             "name": "TTU",
-            "score": "42"
+            "score": "49"
           }
         }
       },
