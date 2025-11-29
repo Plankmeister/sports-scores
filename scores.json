@@ -213,8 +213,17 @@
       {
         "matchup": "VAN @ TENN",
         "kickoff": "11/29/2025, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "TENN",
+            "score": "0"
+          },
+          "away": {
+            "name": "VAN",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "VT @ UVA",
