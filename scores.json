@@ -216,8 +216,17 @@
       {
         "matchup": "ARIZ @ ASU",
         "kickoff": "11/28/2025, 8:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ASU",
+            "score": "0"
+          },
+          "away": {
+            "name": "ARIZ",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "OSU @ MICH",
