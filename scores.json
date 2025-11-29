@@ -156,7 +156,7 @@
       {
         "matchup": "TTU @ WVU",
         "kickoff": "11/29/2025, 11:00:00 AM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "WVU",
@@ -171,7 +171,7 @@
       {
         "matchup": "MIA @ PITT",
         "kickoff": "11/29/2025, 11:00:00 AM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "PITT",
@@ -179,7 +179,7 @@
           },
           "away": {
             "name": "MIA",
-            "score": "37"
+            "score": "38"
           }
         }
       },
@@ -194,7 +194,7 @@
           },
           "away": {
             "name": "UCF",
-            "score": "14"
+            "score": "21"
           }
         }
       },
