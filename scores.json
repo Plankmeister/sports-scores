@@ -139,6 +139,36 @@
   "collegeFootball": {
     "games": [
       {
+        "matchup": "IU @ PUR",
+        "kickoff": "11/28/2025, 6:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "PUR",
+            "score": "0"
+          },
+          "away": {
+            "name": "IU",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "TA&M @ TEX",
+        "kickoff": "11/28/2025, 6:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "TEX",
+            "score": "0"
+          },
+          "away": {
+            "name": "TA&M",
+            "score": "0"
+          }
+        }
+      },
+      {
         "matchup": "UGA VS GT",
         "kickoff": "11/28/2025, 2:30:00 PM",
         "status": "Final",
@@ -180,36 +210,6 @@
           "away": {
             "name": "UTAH",
             "score": "31"
-          }
-        }
-      },
-      {
-        "matchup": "IU @ PUR",
-        "kickoff": "11/28/2025, 6:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "PUR",
-            "score": "0"
-          },
-          "away": {
-            "name": "IU",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "TA&M @ TEX",
-        "kickoff": "11/28/2025, 6:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "TEX",
-            "score": "0"
-          },
-          "away": {
-            "name": "TA&M",
-            "score": "0"
           }
         }
       },
