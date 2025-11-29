@@ -139,12 +139,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "OSU @ MICH",
-        "kickoff": "11/29/2025, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
         "matchup": "TTU @ WVU",
         "kickoff": "11/29/2025, 11:00:00 AM",
         "status": "Live: Q1",
@@ -155,7 +149,7 @@
           },
           "away": {
             "name": "TTU",
-            "score": "0"
+            "score": "7"
           }
         }
       },
@@ -170,6 +164,21 @@
           },
           "away": {
             "name": "MIA",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "OSU @ MICH",
+        "kickoff": "11/29/2025, 11:00:00 AM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MICH",
+            "score": "0"
+          },
+          "away": {
+            "name": "OSU",
             "score": "0"
           }
         }
