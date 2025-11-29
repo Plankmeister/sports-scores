@@ -139,21 +139,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "ARIZ @ ASU",
-        "kickoff": "11/28/2025, 8:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "ASU",
-            "score": "7"
-          },
-          "away": {
-            "name": "ARIZ",
-            "score": "23"
-          }
-        }
-      },
-      {
         "matchup": "OSU @ MICH",
         "kickoff": "11/29/2025, 11:00:00 AM",
         "status": "Scheduled",
@@ -303,6 +288,21 @@
           "away": {
             "name": "UTAH",
             "score": "31"
+          }
+        }
+      },
+      {
+        "matchup": "ARIZ @ ASU",
+        "kickoff": "11/28/2025, 8:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "ASU",
+            "score": "7"
+          },
+          "away": {
+            "name": "ARIZ",
+            "score": "23"
           }
         }
       }
