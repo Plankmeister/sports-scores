@@ -141,7 +141,7 @@
       {
         "matchup": "OSU @ MICH",
         "kickoff": "11/29/2025, 11:00:00 AM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "MICH",
@@ -150,6 +150,21 @@
           "away": {
             "name": "OSU",
             "score": "27"
+          }
+        }
+      },
+      {
+        "matchup": "UCF @ BYU",
+        "kickoff": "11/29/2025, 12:00:00 PM",
+        "status": "Live: Q3",
+        "score": {
+          "home": {
+            "name": "BYU",
+            "score": "38"
+          },
+          "away": {
+            "name": "UCF",
+            "score": "21"
           }
         }
       },
@@ -180,21 +195,6 @@
           "away": {
             "name": "MIA",
             "score": "38"
-          }
-        }
-      },
-      {
-        "matchup": "UCF @ BYU",
-        "kickoff": "11/29/2025, 12:00:00 PM",
-        "status": "Live: Q3",
-        "score": {
-          "home": {
-            "name": "BYU",
-            "score": "31"
-          },
-          "away": {
-            "name": "UCF",
-            "score": "21"
           }
         }
       },
