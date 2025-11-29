@@ -139,21 +139,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "OSU @ MICH",
-        "kickoff": "11/29/2025, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "MICH",
-            "score": "9"
-          },
-          "away": {
-            "name": "OSU",
-            "score": "27"
-          }
-        }
-      },
-      {
         "matchup": "UCF @ BYU",
         "kickoff": "11/29/2025, 12:00:00 PM",
         "status": "Live: Q4",
@@ -165,6 +150,51 @@
           "away": {
             "name": "UCF",
             "score": "21"
+          }
+        }
+      },
+      {
+        "matchup": "ORE @ WASH",
+        "kickoff": "11/29/2025, 2:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "WASH",
+            "score": "0"
+          },
+          "away": {
+            "name": "ORE",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "VAN @ TENN",
+        "kickoff": "11/29/2025, 2:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "TENN",
+            "score": "0"
+          },
+          "away": {
+            "name": "VAN",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "OSU @ MICH",
+        "kickoff": "11/29/2025, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "MICH",
+            "score": "9"
+          },
+          "away": {
+            "name": "OSU",
+            "score": "27"
           }
         }
       },
@@ -199,37 +229,16 @@
         }
       },
       {
-        "matchup": "ORE @ WASH",
-        "kickoff": "11/29/2025, 2:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "WASH",
-            "score": "0"
-          },
-          "away": {
-            "name": "ORE",
-            "score": "0"
-          }
-        }
-      },
-      {
         "matchup": "LSU @ OU",
         "kickoff": "11/29/2025, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "VAN @ TENN",
-        "kickoff": "11/29/2025, 2:30:00 PM",
         "status": "Live: Q1",
         "score": {
           "home": {
-            "name": "TENN",
+            "name": "OU",
             "score": "0"
           },
           "away": {
-            "name": "VAN",
+            "name": "LSU",
             "score": "0"
           }
         }
