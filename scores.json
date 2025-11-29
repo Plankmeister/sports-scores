@@ -154,81 +154,6 @@
         }
       },
       {
-        "matchup": "IU @ PUR",
-        "kickoff": "11/28/2025, 6:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "PUR",
-            "score": "3"
-          },
-          "away": {
-            "name": "IU",
-            "score": "56"
-          }
-        }
-      },
-      {
-        "matchup": "TA&M @ TEX",
-        "kickoff": "11/28/2025, 6:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "TEX",
-            "score": "27"
-          },
-          "away": {
-            "name": "TA&M",
-            "score": "17"
-          }
-        }
-      },
-      {
-        "matchup": "UGA VS GT",
-        "kickoff": "11/28/2025, 2:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "GT",
-            "score": "9"
-          },
-          "away": {
-            "name": "UGA",
-            "score": "16"
-          }
-        }
-      },
-      {
-        "matchup": "MISS @ MSST",
-        "kickoff": "11/28/2025, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "MSST",
-            "score": "19"
-          },
-          "away": {
-            "name": "MISS",
-            "score": "38"
-          }
-        }
-      },
-      {
-        "matchup": "UTAH @ KU",
-        "kickoff": "11/28/2025, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "KU",
-            "score": "21"
-          },
-          "away": {
-            "name": "UTAH",
-            "score": "31"
-          }
-        }
-      },
-      {
         "matchup": "OSU @ MICH",
         "kickoff": "11/29/2025, 11:00:00 AM",
         "status": "Scheduled",
@@ -305,6 +230,81 @@
         "kickoff": "11/29/2025, 9:30:00 PM",
         "status": "Scheduled",
         "score": null
+      },
+      {
+        "matchup": "IU @ PUR",
+        "kickoff": "11/28/2025, 6:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "PUR",
+            "score": "3"
+          },
+          "away": {
+            "name": "IU",
+            "score": "56"
+          }
+        }
+      },
+      {
+        "matchup": "TA&M @ TEX",
+        "kickoff": "11/28/2025, 6:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "TEX",
+            "score": "27"
+          },
+          "away": {
+            "name": "TA&M",
+            "score": "17"
+          }
+        }
+      },
+      {
+        "matchup": "UGA VS GT",
+        "kickoff": "11/28/2025, 2:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "GT",
+            "score": "9"
+          },
+          "away": {
+            "name": "UGA",
+            "score": "16"
+          }
+        }
+      },
+      {
+        "matchup": "MISS @ MSST",
+        "kickoff": "11/28/2025, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "MSST",
+            "score": "19"
+          },
+          "away": {
+            "name": "MISS",
+            "score": "38"
+          }
+        }
+      },
+      {
+        "matchup": "UTAH @ KU",
+        "kickoff": "11/28/2025, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "KU",
+            "score": "21"
+          },
+          "away": {
+            "name": "UTAH",
+            "score": "31"
+          }
+        }
       }
     ]
   }
