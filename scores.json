@@ -147,8 +147,17 @@
       {
         "matchup": "TTU @ WVU",
         "kickoff": "11/29/2025, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "WVU",
+            "score": "0"
+          },
+          "away": {
+            "name": "TTU",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "MIA @ PITT",
