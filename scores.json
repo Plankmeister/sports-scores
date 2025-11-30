@@ -154,6 +154,21 @@
         }
       },
       {
+        "matchup": "CLT @ TULN",
+        "kickoff": "11/29/2025, 6:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "TULN",
+            "score": "7"
+          },
+          "away": {
+            "name": "CLT",
+            "score": "0"
+          }
+        }
+      },
+      {
         "matchup": "OSU @ MICH",
         "kickoff": "11/29/2025, 11:00:00 AM",
         "status": "Final",
@@ -267,20 +282,14 @@
       {
         "matchup": "UCLA @ USC",
         "kickoff": "11/29/2025, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "CLT @ TULN",
-        "kickoff": "11/29/2025, 6:30:00 PM",
         "status": "Live: Q1",
         "score": {
           "home": {
-            "name": "TULN",
-            "score": "6"
+            "name": "USC",
+            "score": "0"
           },
           "away": {
-            "name": "CLT",
+            "name": "UCLA",
             "score": "0"
           }
         }
