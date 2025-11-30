@@ -194,7 +194,7 @@
           },
           "away": {
             "name": "SMU",
-            "score": "14"
+            "score": "21"
           }
         }
       },
@@ -321,8 +321,17 @@
       {
         "matchup": "ND @ STAN",
         "kickoff": "11/29/2025, 9:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "STAN",
+            "score": "0"
+          },
+          "away": {
+            "name": "ND",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "IU @ PUR",
