@@ -149,7 +149,7 @@
           },
           "away": {
             "name": "VT",
-            "score": "0"
+            "score": "7"
           }
         }
       },
@@ -164,14 +164,14 @@
           },
           "away": {
             "name": "ALA",
-            "score": "17"
+            "score": "20"
           }
         }
       },
       {
         "matchup": "UCLA @ USC",
         "kickoff": "11/29/2025, 6:30:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "USC",
