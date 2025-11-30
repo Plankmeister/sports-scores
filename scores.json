@@ -125,14 +125,32 @@
       {
         "matchup": "BUF @ PIT",
         "kickoff": "11/30/2025, 3:25:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "PIT",
+            "score": "0"
+          },
+          "away": {
+            "name": "BUF",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "LV @ LAC",
         "kickoff": "11/30/2025, 3:25:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "LAC",
+            "score": "0"
+          },
+          "away": {
+            "name": "LV",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "DEN @ WSH",
