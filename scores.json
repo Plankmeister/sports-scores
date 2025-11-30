@@ -154,6 +154,36 @@
         }
       },
       {
+        "matchup": "ALA @ AUB",
+        "kickoff": "11/29/2025, 6:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "AUB",
+            "score": "0"
+          },
+          "away": {
+            "name": "ALA",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "UCLA @ USC",
+        "kickoff": "11/29/2025, 6:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "USC",
+            "score": "7"
+          },
+          "away": {
+            "name": "UCLA",
+            "score": "0"
+          }
+        }
+      },
+      {
         "matchup": "CLT @ TULN",
         "kickoff": "11/29/2025, 6:30:00 PM",
         "status": "Live: Q1",
@@ -270,36 +300,6 @@
           "away": {
             "name": "VAN",
             "score": "45"
-          }
-        }
-      },
-      {
-        "matchup": "ALA @ AUB",
-        "kickoff": "11/29/2025, 6:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "AUB",
-            "score": "0"
-          },
-          "away": {
-            "name": "ALA",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "UCLA @ USC",
-        "kickoff": "11/29/2025, 6:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "USC",
-            "score": "7"
-          },
-          "away": {
-            "name": "UCLA",
-            "score": "0"
           }
         }
       },
