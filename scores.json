@@ -139,21 +139,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "ND @ STAN",
-        "kickoff": "11/29/2025, 9:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "STAN",
-            "score": "20"
-          },
-          "away": {
-            "name": "ND",
-            "score": "49"
-          }
-        }
-      },
-      {
         "matchup": "IU @ PUR",
         "kickoff": "11/28/2025, 6:30:00 PM",
         "status": "Final",
@@ -300,6 +285,21 @@
           "away": {
             "name": "LSU",
             "score": "13"
+          }
+        }
+      },
+      {
+        "matchup": "ND @ STAN",
+        "kickoff": "11/29/2025, 9:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "STAN",
+            "score": "20"
+          },
+          "away": {
+            "name": "ND",
+            "score": "49"
           }
         }
       },
