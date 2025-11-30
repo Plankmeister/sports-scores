@@ -139,47 +139,17 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "ORE @ WASH",
-        "kickoff": "11/29/2025, 2:30:00 PM",
-        "status": "Final",
+        "matchup": "VT @ UVA",
+        "kickoff": "11/29/2025, 6:00:00 PM",
+        "status": "Live: Q1",
         "score": {
           "home": {
-            "name": "WASH",
-            "score": "14"
+            "name": "UVA",
+            "score": "0"
           },
           "away": {
-            "name": "ORE",
-            "score": "26"
-          }
-        }
-      },
-      {
-        "matchup": "LSU @ OU",
-        "kickoff": "11/29/2025, 2:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "OU",
-            "score": "17"
-          },
-          "away": {
-            "name": "LSU",
-            "score": "13"
-          }
-        }
-      },
-      {
-        "matchup": "VAN @ TENN",
-        "kickoff": "11/29/2025, 2:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "TENN",
-            "score": "24"
-          },
-          "away": {
-            "name": "VAN",
-            "score": "45"
+            "name": "VT",
+            "score": "0"
           }
         }
       },
@@ -214,6 +184,36 @@
         }
       },
       {
+        "matchup": "ORE @ WASH",
+        "kickoff": "11/29/2025, 2:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "WASH",
+            "score": "14"
+          },
+          "away": {
+            "name": "ORE",
+            "score": "26"
+          }
+        }
+      },
+      {
+        "matchup": "LSU @ OU",
+        "kickoff": "11/29/2025, 2:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "OU",
+            "score": "17"
+          },
+          "away": {
+            "name": "LSU",
+            "score": "13"
+          }
+        }
+      },
+      {
         "matchup": "UCF @ BYU",
         "kickoff": "11/29/2025, 12:00:00 PM",
         "status": "Final",
@@ -244,17 +244,17 @@
         }
       },
       {
-        "matchup": "VT @ UVA",
-        "kickoff": "11/29/2025, 6:00:00 PM",
-        "status": "Live: Q1",
+        "matchup": "VAN @ TENN",
+        "kickoff": "11/29/2025, 2:30:00 PM",
+        "status": "Final",
         "score": {
           "home": {
-            "name": "UVA",
-            "score": "0"
+            "name": "TENN",
+            "score": "24"
           },
           "away": {
-            "name": "VT",
-            "score": "0"
+            "name": "VAN",
+            "score": "45"
           }
         }
       },
