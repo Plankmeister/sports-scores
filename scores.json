@@ -5,7 +5,7 @@
       {
         "matchup": "SF @ CLE",
         "kickoff": "11/30/2025, 12:00:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "CLE",
@@ -28,14 +28,14 @@
           },
           "away": {
             "name": "JAX",
-            "score": "18"
+            "score": "25"
           }
         }
       },
       {
         "matchup": "HOU @ IND",
         "kickoff": "11/30/2025, 12:00:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "IND",
@@ -80,7 +80,7 @@
       {
         "matchup": "ARI @ TB",
         "kickoff": "11/30/2025, 12:00:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "TB",
