@@ -3,21 +3,6 @@
     "week": 13,
     "games": [
       {
-        "matchup": "SF @ CLE",
-        "kickoff": "11/30/2025, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "CLE",
-            "score": "8"
-          },
-          "away": {
-            "name": "SF",
-            "score": "26"
-          }
-        }
-      },
-      {
         "matchup": "JAX @ TEN",
         "kickoff": "11/30/2025, 12:00:00 PM",
         "status": "Live: Q4",
@@ -29,21 +14,6 @@
           "away": {
             "name": "JAX",
             "score": "25"
-          }
-        }
-      },
-      {
-        "matchup": "HOU @ IND",
-        "kickoff": "11/30/2025, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "IND",
-            "score": "16"
-          },
-          "away": {
-            "name": "HOU",
-            "score": "20"
           }
         }
       },
@@ -74,6 +44,36 @@
           "away": {
             "name": "ATL",
             "score": "24"
+          }
+        }
+      },
+      {
+        "matchup": "SF @ CLE",
+        "kickoff": "11/30/2025, 12:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "CLE",
+            "score": "8"
+          },
+          "away": {
+            "name": "SF",
+            "score": "26"
+          }
+        }
+      },
+      {
+        "matchup": "HOU @ IND",
+        "kickoff": "11/30/2025, 12:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "IND",
+            "score": "16"
+          },
+          "away": {
+            "name": "HOU",
+            "score": "20"
           }
         }
       },
@@ -110,8 +110,17 @@
       {
         "matchup": "MIN @ SEA",
         "kickoff": "11/30/2025, 3:05:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "SEA",
+            "score": "0"
+          },
+          "away": {
+            "name": "MIN",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "BUF @ PIT",
