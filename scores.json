@@ -171,7 +171,7 @@
       {
         "matchup": "VAN @ TENN",
         "kickoff": "11/29/2025, 2:30:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "TENN",
@@ -246,8 +246,17 @@
       {
         "matchup": "VT @ UVA",
         "kickoff": "11/29/2025, 6:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "UVA",
+            "score": "0"
+          },
+          "away": {
+            "name": "VT",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "ALA @ AUB",
