@@ -5,7 +5,7 @@
       {
         "matchup": "JAX @ TEN",
         "kickoff": "11/30/2025, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "TEN",
@@ -20,7 +20,7 @@
       {
         "matchup": "NO @ MIA",
         "kickoff": "11/30/2025, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "MIA",
@@ -35,11 +35,11 @@
       {
         "matchup": "ATL @ NYJ",
         "kickoff": "11/30/2025, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "NYJ",
-            "score": "24"
+            "score": "27"
           },
           "away": {
             "name": "ATL",
