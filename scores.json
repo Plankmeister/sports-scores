@@ -154,21 +154,6 @@
         }
       },
       {
-        "matchup": "UCLA @ USC",
-        "kickoff": "11/29/2025, 6:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "USC",
-            "score": "29"
-          },
-          "away": {
-            "name": "UCLA",
-            "score": "10"
-          }
-        }
-      },
-      {
         "matchup": "SMU @ CAL",
         "kickoff": "11/29/2025, 7:00:00 PM",
         "status": "Live: Q4",
@@ -179,7 +164,7 @@
           },
           "away": {
             "name": "SMU",
-            "score": "21"
+            "score": "28"
           }
         }
       },
@@ -300,6 +285,21 @@
           "away": {
             "name": "VAN",
             "score": "45"
+          }
+        }
+      },
+      {
+        "matchup": "UCLA @ USC",
+        "kickoff": "11/29/2025, 6:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "USC",
+            "score": "29"
+          },
+          "away": {
+            "name": "UCLA",
+            "score": "10"
           }
         }
       },
