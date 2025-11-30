@@ -5,7 +5,7 @@
       {
         "matchup": "SF @ CLE",
         "kickoff": "11/30/2025, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "CLE",
@@ -54,11 +54,11 @@
         "score": {
           "home": {
             "name": "MIA",
-            "score": "19"
+            "score": "21"
           },
           "away": {
             "name": "NO",
-            "score": "11"
+            "score": "17"
           }
         }
       },
@@ -80,7 +80,7 @@
       {
         "matchup": "ARI @ TB",
         "kickoff": "11/30/2025, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "TB",
