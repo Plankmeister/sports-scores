@@ -145,7 +145,7 @@
         "score": {
           "home": {
             "name": "AUB",
-            "score": "13"
+            "score": "20"
           },
           "away": {
             "name": "ALA",
@@ -160,26 +160,11 @@
         "score": {
           "home": {
             "name": "USC",
-            "score": "21"
+            "score": "29"
           },
           "away": {
             "name": "UCLA",
             "score": "10"
-          }
-        }
-      },
-      {
-        "matchup": "CLT @ TULN",
-        "kickoff": "11/29/2025, 6:30:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "TULN",
-            "score": "27"
-          },
-          "away": {
-            "name": "CLT",
-            "score": "0"
           }
         }
       },
@@ -195,6 +180,21 @@
           "away": {
             "name": "SMU",
             "score": "21"
+          }
+        }
+      },
+      {
+        "matchup": "ND @ STAN",
+        "kickoff": "11/29/2025, 9:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "STAN",
+            "score": "0"
+          },
+          "away": {
+            "name": "ND",
+            "score": "0"
           }
         }
       },
@@ -319,16 +319,16 @@
         }
       },
       {
-        "matchup": "ND @ STAN",
-        "kickoff": "11/29/2025, 9:30:00 PM",
-        "status": "Live: Q1",
+        "matchup": "CLT @ TULN",
+        "kickoff": "11/29/2025, 6:30:00 PM",
+        "status": "Final",
         "score": {
           "home": {
-            "name": "STAN",
-            "score": "0"
+            "name": "TULN",
+            "score": "27"
           },
           "away": {
-            "name": "ND",
+            "name": "CLT",
             "score": "0"
           }
         }
