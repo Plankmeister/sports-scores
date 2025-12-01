@@ -3,36 +3,6 @@
     "week": 13,
     "games": [
       {
-        "matchup": "BUF @ PIT",
-        "kickoff": "11/30/2025, 3:25:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "PIT",
-            "score": "7"
-          },
-          "away": {
-            "name": "BUF",
-            "score": "26"
-          }
-        }
-      },
-      {
-        "matchup": "LV @ LAC",
-        "kickoff": "11/30/2025, 3:25:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "LAC",
-            "score": "31"
-          },
-          "away": {
-            "name": "LV",
-            "score": "14"
-          }
-        }
-      },
-      {
         "matchup": "SF @ CLE",
         "kickoff": "11/30/2025, 12:00:00 PM",
         "status": "Final",
@@ -149,6 +119,36 @@
           "away": {
             "name": "MIN",
             "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "BUF @ PIT",
+        "kickoff": "11/30/2025, 3:25:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "PIT",
+            "score": "7"
+          },
+          "away": {
+            "name": "BUF",
+            "score": "26"
+          }
+        }
+      },
+      {
+        "matchup": "LV @ LAC",
+        "kickoff": "11/30/2025, 3:25:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "LAC",
+            "score": "31"
+          },
+          "away": {
+            "name": "LV",
+            "score": "14"
           }
         }
       },
