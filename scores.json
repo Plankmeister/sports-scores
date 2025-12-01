@@ -3,6 +3,21 @@
     "week": 13,
     "games": [
       {
+        "matchup": "DEN @ WSH",
+        "kickoff": "11/30/2025, 7:20:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "WSH",
+            "score": "0"
+          },
+          "away": {
+            "name": "DEN",
+            "score": "3"
+          }
+        }
+      },
+      {
         "matchup": "SF @ CLE",
         "kickoff": "11/30/2025, 12:00:00 PM",
         "status": "Final",
@@ -149,21 +164,6 @@
           "away": {
             "name": "LV",
             "score": "14"
-          }
-        }
-      },
-      {
-        "matchup": "DEN @ WSH",
-        "kickoff": "11/30/2025, 7:20:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "WSH",
-            "score": "0"
-          },
-          "away": {
-            "name": "DEN",
-            "score": "3"
           }
         }
       },
