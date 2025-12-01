@@ -3,17 +3,68 @@
     "week": 13,
     "games": [
       {
-        "matchup": "DEN @ WSH",
-        "kickoff": "11/30/2025, 7:20:00 PM",
+        "matchup": "NYG @ NE",
+        "kickoff": "12/1/2025, 7:15:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "GB @ DET",
+        "kickoff": "11/27/2025, 12:00:00 PM",
         "status": "Final",
         "score": {
           "home": {
-            "name": "WSH",
-            "score": "26"
+            "name": "DET",
+            "score": "24"
           },
           "away": {
-            "name": "DEN",
-            "score": "27"
+            "name": "GB",
+            "score": "31"
+          }
+        }
+      },
+      {
+        "matchup": "KC @ DAL",
+        "kickoff": "11/27/2025, 3:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "DAL",
+            "score": "31"
+          },
+          "away": {
+            "name": "KC",
+            "score": "28"
+          }
+        }
+      },
+      {
+        "matchup": "CIN @ BAL",
+        "kickoff": "11/27/2025, 7:20:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "BAL",
+            "score": "14"
+          },
+          "away": {
+            "name": "CIN",
+            "score": "32"
+          }
+        }
+      },
+      {
+        "matchup": "CHI @ PHI",
+        "kickoff": "11/28/2025, 2:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "PHI",
+            "score": "15"
+          },
+          "away": {
+            "name": "CHI",
+            "score": "24"
           }
         }
       },
@@ -168,70 +219,19 @@
         }
       },
       {
-        "matchup": "GB @ DET",
-        "kickoff": "11/27/2025, 12:00:00 PM",
+        "matchup": "DEN @ WSH",
+        "kickoff": "11/30/2025, 7:20:00 PM",
         "status": "Final",
         "score": {
           "home": {
-            "name": "DET",
-            "score": "24"
+            "name": "WSH",
+            "score": "26"
           },
           "away": {
-            "name": "GB",
-            "score": "31"
+            "name": "DEN",
+            "score": "27"
           }
         }
-      },
-      {
-        "matchup": "KC @ DAL",
-        "kickoff": "11/27/2025, 3:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "DAL",
-            "score": "31"
-          },
-          "away": {
-            "name": "KC",
-            "score": "28"
-          }
-        }
-      },
-      {
-        "matchup": "CIN @ BAL",
-        "kickoff": "11/27/2025, 7:20:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "BAL",
-            "score": "14"
-          },
-          "away": {
-            "name": "CIN",
-            "score": "32"
-          }
-        }
-      },
-      {
-        "matchup": "CHI @ PHI",
-        "kickoff": "11/28/2025, 2:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "PHI",
-            "score": "15"
-          },
-          "away": {
-            "name": "CHI",
-            "score": "24"
-          }
-        }
-      },
-      {
-        "matchup": "NYG @ NE",
-        "kickoff": "12/1/2025, 7:15:00 PM",
-        "status": "Scheduled",
-        "score": null
       }
     ]
   },
