@@ -155,8 +155,17 @@
       {
         "matchup": "DEN @ WSH",
         "kickoff": "11/30/2025, 7:20:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "WSH",
+            "score": "0"
+          },
+          "away": {
+            "name": "DEN",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "GB @ DET",
