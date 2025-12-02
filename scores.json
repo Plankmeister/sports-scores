@@ -3,21 +3,6 @@
     "week": 13,
     "games": [
       {
-        "matchup": "NYG @ NE",
-        "kickoff": "12/1/2025, 7:15:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "NE",
-            "score": "33"
-          },
-          "away": {
-            "name": "NYG",
-            "score": "15"
-          }
-        }
-      },
-      {
         "matchup": "GB @ DET",
         "kickoff": "11/27/2025, 12:00:00 PM",
         "status": "Final",
@@ -239,6 +224,21 @@
           "away": {
             "name": "DEN",
             "score": "27"
+          }
+        }
+      },
+      {
+        "matchup": "NYG @ NE",
+        "kickoff": "12/1/2025, 7:15:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "NE",
+            "score": "33"
+          },
+          "away": {
+            "name": "NYG",
+            "score": "15"
           }
         }
       }
