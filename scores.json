@@ -100,21 +100,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "TROY @ JMU",
-        "kickoff": "12/5/2025, 6:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "JMU",
-            "score": "31"
-          },
-          "away": {
-            "name": "TROY",
-            "score": "14"
-          }
-        }
-      },
-      {
         "matchup": "UNT @ TULN",
         "kickoff": "12/5/2025, 7:00:00 PM",
         "status": "Live: Q3",
@@ -126,6 +111,21 @@
           "away": {
             "name": "UNT",
             "score": "7"
+          }
+        }
+      },
+      {
+        "matchup": "TROY @ JMU",
+        "kickoff": "12/5/2025, 6:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "JMU",
+            "score": "31"
+          },
+          "away": {
+            "name": "TROY",
+            "score": "14"
           }
         }
       },
