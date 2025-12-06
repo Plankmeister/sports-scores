@@ -100,21 +100,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "BYU VS TTU",
-        "kickoff": "12/6/2025, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "TTU",
-            "score": "34"
-          },
-          "away": {
-            "name": "BYU",
-            "score": "7"
-          }
-        }
-      },
-      {
         "matchup": "UGA VS ALA",
         "kickoff": "12/6/2025, 3:00:00 PM",
         "status": "Live: Q1",
@@ -126,6 +111,21 @@
           "away": {
             "name": "UGA",
             "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "BYU VS TTU",
+        "kickoff": "12/6/2025, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "TTU",
+            "score": "34"
+          },
+          "away": {
+            "name": "BYU",
+            "score": "7"
           }
         }
       },
