@@ -100,6 +100,30 @@
   "collegeFootball": {
     "games": [
       {
+        "matchup": "BYU VS TTU",
+        "kickoff": "12/6/2025, 11:00:00 AM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "UGA VS ALA",
+        "kickoff": "12/6/2025, 3:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "IU VS OSU",
+        "kickoff": "12/6/2025, 7:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "DUKE VS UVA",
+        "kickoff": "12/6/2025, 7:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
         "matchup": "UNT @ TULN",
         "kickoff": "12/5/2025, 7:00:00 PM",
         "status": "Final",
@@ -128,30 +152,6 @@
             "score": "14"
           }
         }
-      },
-      {
-        "matchup": "BYU VS TTU",
-        "kickoff": "12/6/2025, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "UGA VS ALA",
-        "kickoff": "12/6/2025, 3:00:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "IU VS OSU",
-        "kickoff": "12/6/2025, 7:00:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "DUKE VS UVA",
-        "kickoff": "12/6/2025, 7:00:00 PM",
-        "status": "Scheduled",
-        "score": null
       }
     ]
   }
