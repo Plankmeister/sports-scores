@@ -102,8 +102,17 @@
       {
         "matchup": "BYU VS TTU",
         "kickoff": "12/6/2025, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "TTU",
+            "score": "0"
+          },
+          "away": {
+            "name": "BYU",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "UGA VS ALA",
