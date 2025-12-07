@@ -100,17 +100,32 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "DUKE VS UVA",
-        "kickoff": "12/6/2025, 7:00:00 PM",
+        "matchup": "UNT @ TULN",
+        "kickoff": "12/5/2025, 7:00:00 PM",
         "status": "Final",
         "score": {
           "home": {
-            "name": "UVA",
-            "score": "20"
+            "name": "TULN",
+            "score": "34"
           },
           "away": {
-            "name": "DUKE",
-            "score": "27"
+            "name": "UNT",
+            "score": "21"
+          }
+        }
+      },
+      {
+        "matchup": "TROY @ JMU",
+        "kickoff": "12/5/2025, 6:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "JMU",
+            "score": "31"
+          },
+          "away": {
+            "name": "TROY",
+            "score": "14"
           }
         }
       },
@@ -160,32 +175,17 @@
         }
       },
       {
-        "matchup": "UNT @ TULN",
-        "kickoff": "12/5/2025, 7:00:00 PM",
+        "matchup": "DUKE VS UVA",
+        "kickoff": "12/6/2025, 7:00:00 PM",
         "status": "Final",
         "score": {
           "home": {
-            "name": "TULN",
-            "score": "34"
+            "name": "UVA",
+            "score": "20"
           },
           "away": {
-            "name": "UNT",
-            "score": "21"
-          }
-        }
-      },
-      {
-        "matchup": "TROY @ JMU",
-        "kickoff": "12/5/2025, 6:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "JMU",
-            "score": "31"
-          },
-          "away": {
-            "name": "TROY",
-            "score": "14"
+            "name": "DUKE",
+            "score": "27"
           }
         }
       }
