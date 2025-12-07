@@ -5,8 +5,17 @@
       {
         "matchup": "SEA @ ATL",
         "kickoff": "12/7/2025, 12:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ATL",
+            "score": "0"
+          },
+          "away": {
+            "name": "SEA",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "CIN @ BUF",
