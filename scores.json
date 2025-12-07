@@ -5,7 +5,7 @@
       {
         "matchup": "TEN @ CLE",
         "kickoff": "12/7/2025, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "CLE",
@@ -14,21 +14,6 @@
           "away": {
             "name": "TEN",
             "score": "31"
-          }
-        }
-      },
-      {
-        "matchup": "PIT @ BAL",
-        "kickoff": "12/7/2025, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "BAL",
-            "score": "22"
-          },
-          "away": {
-            "name": "PIT",
-            "score": "27"
           }
         }
       },
@@ -44,6 +29,36 @@
           "away": {
             "name": "DEN",
             "score": "7"
+          }
+        }
+      },
+      {
+        "matchup": "CHI @ GB",
+        "kickoff": "12/7/2025, 3:25:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "GB",
+            "score": "0"
+          },
+          "away": {
+            "name": "CHI",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "LAR @ ARI",
+        "kickoff": "12/7/2025, 3:25:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ARI",
+            "score": "7"
+          },
+          "away": {
+            "name": "LAR",
+            "score": "0"
           }
         }
       },
@@ -138,32 +153,17 @@
         }
       },
       {
-        "matchup": "CHI @ GB",
-        "kickoff": "12/7/2025, 3:25:00 PM",
-        "status": "Live: Q1",
+        "matchup": "PIT @ BAL",
+        "kickoff": "12/7/2025, 12:00:00 PM",
+        "status": "Final",
         "score": {
           "home": {
-            "name": "GB",
-            "score": "0"
+            "name": "BAL",
+            "score": "22"
           },
           "away": {
-            "name": "CHI",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "LAR @ ARI",
-        "kickoff": "12/7/2025, 3:25:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "ARI",
-            "score": "7"
-          },
-          "away": {
-            "name": "LAR",
-            "score": "0"
+            "name": "PIT",
+            "score": "27"
           }
         }
       },
