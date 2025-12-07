@@ -9,7 +9,7 @@
         "score": {
           "home": {
             "name": "CLE",
-            "score": "23"
+            "score": "29"
           },
           "away": {
             "name": "TEN",
@@ -20,7 +20,7 @@
       {
         "matchup": "PIT @ BAL",
         "kickoff": "12/7/2025, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "BAL",
@@ -140,14 +140,32 @@
       {
         "matchup": "CHI @ GB",
         "kickoff": "12/7/2025, 3:25:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "GB",
+            "score": "0"
+          },
+          "away": {
+            "name": "CHI",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "LAR @ ARI",
         "kickoff": "12/7/2025, 3:25:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ARI",
+            "score": "0"
+          },
+          "away": {
+            "name": "LAR",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "HOU @ KC",
