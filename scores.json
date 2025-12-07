@@ -28,14 +28,14 @@
           },
           "away": {
             "name": "CIN",
-            "score": "27"
+            "score": "28"
           }
         }
       },
       {
         "matchup": "TEN @ CLE",
         "kickoff": "12/7/2025, 12:00:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "CLE",
@@ -43,7 +43,7 @@
           },
           "away": {
             "name": "TEN",
-            "score": "20"
+            "score": "21"
           }
         }
       },
@@ -95,11 +95,11 @@
       {
         "matchup": "IND @ JAX",
         "kickoff": "12/7/2025, 12:00:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "JAX",
-            "score": "28"
+            "score": "31"
           },
           "away": {
             "name": "IND",
@@ -114,7 +114,7 @@
         "score": {
           "home": {
             "name": "BAL",
-            "score": "16"
+            "score": "19"
           },
           "away": {
             "name": "PIT",
