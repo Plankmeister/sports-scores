@@ -9,7 +9,7 @@
         "score": {
           "home": {
             "name": "ATL",
-            "score": "0"
+            "score": "3"
           },
           "away": {
             "name": "SEA",
@@ -28,7 +28,7 @@
           },
           "away": {
             "name": "CIN",
-            "score": "0"
+            "score": "7"
           }
         }
       },
@@ -39,7 +39,7 @@
         "score": {
           "home": {
             "name": "TB",
-            "score": "0"
+            "score": "7"
           },
           "away": {
             "name": "NO",
@@ -54,7 +54,7 @@
         "score": {
           "home": {
             "name": "JAX",
-            "score": "0"
+            "score": "7"
           },
           "away": {
             "name": "IND",
@@ -114,7 +114,7 @@
         "score": {
           "home": {
             "name": "BAL",
-            "score": "0"
+            "score": "3"
           },
           "away": {
             "name": "PIT",
