@@ -43,7 +43,7 @@
           },
           "away": {
             "name": "NO",
-            "score": "6"
+            "score": "7"
           }
         }
       },
@@ -73,7 +73,7 @@
           },
           "away": {
             "name": "TEN",
-            "score": "0"
+            "score": "7"
           }
         }
       },
@@ -84,7 +84,7 @@
         "score": {
           "home": {
             "name": "MIN",
-            "score": "0"
+            "score": "7"
           },
           "away": {
             "name": "WSH",
@@ -103,7 +103,7 @@
           },
           "away": {
             "name": "MIA",
-            "score": "6"
+            "score": "7"
           }
         }
       },
