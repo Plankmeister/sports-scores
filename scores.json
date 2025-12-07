@@ -3,6 +3,66 @@
     "week": 14,
     "games": [
       {
+        "matchup": "TEN @ CLE",
+        "kickoff": "12/7/2025, 12:00:00 PM",
+        "status": "Live: Q4",
+        "score": {
+          "home": {
+            "name": "CLE",
+            "score": "23"
+          },
+          "away": {
+            "name": "TEN",
+            "score": "31"
+          }
+        }
+      },
+      {
+        "matchup": "PIT @ BAL",
+        "kickoff": "12/7/2025, 12:00:00 PM",
+        "status": "Live: Q4",
+        "score": {
+          "home": {
+            "name": "BAL",
+            "score": "22"
+          },
+          "away": {
+            "name": "PIT",
+            "score": "27"
+          }
+        }
+      },
+      {
+        "matchup": "DEN @ LV",
+        "kickoff": "12/7/2025, 3:05:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "LV",
+            "score": "0"
+          },
+          "away": {
+            "name": "DEN",
+            "score": "7"
+          }
+        }
+      },
+      {
+        "matchup": "SEA @ ATL",
+        "kickoff": "12/7/2025, 12:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "ATL",
+            "score": "9"
+          },
+          "away": {
+            "name": "SEA",
+            "score": "37"
+          }
+        }
+      },
+      {
         "matchup": "CIN @ BUF",
         "kickoff": "12/7/2025, 12:00:00 PM",
         "status": "Final",
@@ -18,17 +78,17 @@
         }
       },
       {
-        "matchup": "TEN @ CLE",
+        "matchup": "WSH @ MIN",
         "kickoff": "12/7/2025, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
-            "name": "CLE",
-            "score": "23"
+            "name": "MIN",
+            "score": "31"
           },
           "away": {
-            "name": "TEN",
-            "score": "31"
+            "name": "WSH",
+            "score": "0"
           }
         }
       },
@@ -74,66 +134,6 @@
           "away": {
             "name": "IND",
             "score": "19"
-          }
-        }
-      },
-      {
-        "matchup": "PIT @ BAL",
-        "kickoff": "12/7/2025, 12:00:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "BAL",
-            "score": "22"
-          },
-          "away": {
-            "name": "PIT",
-            "score": "27"
-          }
-        }
-      },
-      {
-        "matchup": "SEA @ ATL",
-        "kickoff": "12/7/2025, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "ATL",
-            "score": "9"
-          },
-          "away": {
-            "name": "SEA",
-            "score": "37"
-          }
-        }
-      },
-      {
-        "matchup": "WSH @ MIN",
-        "kickoff": "12/7/2025, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "MIN",
-            "score": "31"
-          },
-          "away": {
-            "name": "WSH",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "DEN @ LV",
-        "kickoff": "12/7/2025, 3:05:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "LV",
-            "score": "0"
-          },
-          "away": {
-            "name": "DEN",
-            "score": "0"
           }
         }
       },
