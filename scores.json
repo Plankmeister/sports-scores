@@ -28,7 +28,7 @@
           },
           "away": {
             "name": "CIN",
-            "score": "7"
+            "score": "14"
           }
         }
       },
@@ -43,7 +43,7 @@
           },
           "away": {
             "name": "TEN",
-            "score": "7"
+            "score": "14"
           }
         }
       },
@@ -73,7 +73,7 @@
           },
           "away": {
             "name": "MIA",
-            "score": "14"
+            "score": "21"
           }
         }
       },
@@ -99,7 +99,7 @@
         "score": {
           "home": {
             "name": "JAX",
-            "score": "7"
+            "score": "14"
           },
           "away": {
             "name": "IND",
