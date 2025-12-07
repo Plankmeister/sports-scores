@@ -100,21 +100,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "IU VS OSU",
-        "kickoff": "12/6/2025, 7:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "OSU",
-            "score": "10"
-          },
-          "away": {
-            "name": "IU",
-            "score": "13"
-          }
-        }
-      },
-      {
         "matchup": "DUKE VS UVA",
         "kickoff": "12/6/2025, 7:00:00 PM",
         "status": "Live: Q4",
@@ -126,6 +111,21 @@
           "away": {
             "name": "DUKE",
             "score": "20"
+          }
+        }
+      },
+      {
+        "matchup": "IU VS OSU",
+        "kickoff": "12/6/2025, 7:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "OSU",
+            "score": "10"
+          },
+          "away": {
+            "name": "IU",
+            "score": "13"
           }
         }
       },
