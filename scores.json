@@ -3,36 +3,6 @@
     "week": 14,
     "games": [
       {
-        "matchup": "CHI @ GB",
-        "kickoff": "12/7/2025, 3:25:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "GB",
-            "score": "28"
-          },
-          "away": {
-            "name": "CHI",
-            "score": "21"
-          }
-        }
-      },
-      {
-        "matchup": "LAR @ ARI",
-        "kickoff": "12/7/2025, 3:25:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "ARI",
-            "score": "17"
-          },
-          "away": {
-            "name": "LAR",
-            "score": "45"
-          }
-        }
-      },
-      {
         "matchup": "SEA @ ATL",
         "kickoff": "12/7/2025, 12:00:00 PM",
         "status": "Final",
@@ -164,6 +134,36 @@
           "away": {
             "name": "DEN",
             "score": "24"
+          }
+        }
+      },
+      {
+        "matchup": "CHI @ GB",
+        "kickoff": "12/7/2025, 3:25:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "GB",
+            "score": "28"
+          },
+          "away": {
+            "name": "CHI",
+            "score": "21"
+          }
+        }
+      },
+      {
+        "matchup": "LAR @ ARI",
+        "kickoff": "12/7/2025, 3:25:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "ARI",
+            "score": "17"
+          },
+          "away": {
+            "name": "LAR",
+            "score": "45"
           }
         }
       },
