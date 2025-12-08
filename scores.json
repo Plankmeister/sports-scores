@@ -208,94 +208,10 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "UNT @ TULN",
-        "kickoff": "12/5/2025, 7:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "TULN",
-            "score": "34"
-          },
-          "away": {
-            "name": "UNT",
-            "score": "21"
-          }
-        }
-      },
-      {
-        "matchup": "TROY @ JMU",
-        "kickoff": "12/5/2025, 6:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "JMU",
-            "score": "31"
-          },
-          "away": {
-            "name": "TROY",
-            "score": "14"
-          }
-        }
-      },
-      {
-        "matchup": "IU VS OSU",
-        "kickoff": "12/6/2025, 7:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "OSU",
-            "score": "10"
-          },
-          "away": {
-            "name": "IU",
-            "score": "13"
-          }
-        }
-      },
-      {
-        "matchup": "UGA VS ALA",
-        "kickoff": "12/6/2025, 3:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "ALA",
-            "score": "7"
-          },
-          "away": {
-            "name": "UGA",
-            "score": "28"
-          }
-        }
-      },
-      {
-        "matchup": "BYU VS TTU",
-        "kickoff": "12/6/2025, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "TTU",
-            "score": "34"
-          },
-          "away": {
-            "name": "BYU",
-            "score": "7"
-          }
-        }
-      },
-      {
-        "matchup": "DUKE VS UVA",
-        "kickoff": "12/6/2025, 7:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "UVA",
-            "score": "20"
-          },
-          "away": {
-            "name": "DUKE",
-            "score": "27"
-          }
-        }
+        "matchup": "ARMY VS NAVY",
+        "kickoff": "12/13/2025, 2:00:00 PM",
+        "status": "Scheduled",
+        "score": null
       }
     ]
   }
