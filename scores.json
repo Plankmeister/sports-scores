@@ -3,6 +3,27 @@
     "week": 14,
     "games": [
       {
+        "matchup": "PHI @ LAC",
+        "kickoff": "12/8/2025, 7:15:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "DAL @ DET",
+        "kickoff": "12/4/2025, 7:15:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "DET",
+            "score": "44"
+          },
+          "away": {
+            "name": "DAL",
+            "score": "30"
+          }
+        }
+      },
+      {
         "matchup": "SEA @ ATL",
         "kickoff": "12/7/2025, 12:00:00 PM",
         "status": "Final",
@@ -181,27 +202,6 @@
             "score": "20"
           }
         }
-      },
-      {
-        "matchup": "DAL @ DET",
-        "kickoff": "12/4/2025, 7:15:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "DET",
-            "score": "44"
-          },
-          "away": {
-            "name": "DAL",
-            "score": "30"
-          }
-        }
-      },
-      {
-        "matchup": "PHI @ LAC",
-        "kickoff": "12/8/2025, 7:15:00 PM",
-        "status": "Scheduled",
-        "score": null
       }
     ]
   },
