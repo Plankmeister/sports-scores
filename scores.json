@@ -3,21 +3,6 @@
     "week": 14,
     "games": [
       {
-        "matchup": "PHI @ LAC",
-        "kickoff": "12/8/2025, 7:15:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "LAC",
-            "score": "22"
-          },
-          "away": {
-            "name": "PHI",
-            "score": "19"
-          }
-        }
-      },
-      {
         "matchup": "DAL @ DET",
         "kickoff": "12/4/2025, 7:15:00 PM",
         "status": "Final",
@@ -209,6 +194,21 @@
           "away": {
             "name": "HOU",
             "score": "20"
+          }
+        }
+      },
+      {
+        "matchup": "PHI @ LAC",
+        "kickoff": "12/8/2025, 7:15:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "LAC",
+            "score": "22"
+          },
+          "away": {
+            "name": "PHI",
+            "score": "19"
           }
         }
       }
