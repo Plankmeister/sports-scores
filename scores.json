@@ -5,8 +5,17 @@
       {
         "matchup": "ATL @ TB",
         "kickoff": "12/11/2025, 7:15:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "TB",
+            "score": "0"
+          },
+          "away": {
+            "name": "ATL",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "CLE @ CHI",
