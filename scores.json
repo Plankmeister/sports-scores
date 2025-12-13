@@ -112,8 +112,278 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "ARMY VS NAVY",
-        "kickoff": "12/13/2025, 2:00:00 PM",
+        "matchup": "BOIS VS WASH",
+        "kickoff": "12/13/2025, 7:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "TROY VS JVST",
+        "kickoff": "12/16/2025, 8:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "ODU VS USF",
+        "kickoff": "12/17/2025, 4:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "UL VS DEL",
+        "kickoff": "12/17/2025, 7:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "MOST VS ARST",
+        "kickoff": "12/18/2025, 8:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "KENN VS WMU",
+        "kickoff": "12/19/2025, 10:00:00 AM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "MEM VS NCSU",
+        "kickoff": "12/19/2025, 1:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "ALA @ OU",
+        "kickoff": "12/19/2025, 7:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "MIA @ TA&M",
+        "kickoff": "12/20/2025, 11:00:00 AM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "TULN @ MISS",
+        "kickoff": "12/20/2025, 2:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "JMU @ ORE",
+        "kickoff": "12/20/2025, 6:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "WSU VS USU",
+        "kickoff": "12/22/2025, 1:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "TOL VS LOU",
+        "kickoff": "12/23/2025, 1:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "WKU VS USM",
+        "kickoff": "12/23/2025, 4:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "UNLV VS OHIO",
+        "kickoff": "12/23/2025, 8:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "CAL @ HAW",
+        "kickoff": "12/24/2025, 7:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "CMU VS NU",
+        "kickoff": "12/26/2025, 12:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "UNM VS MINN",
+        "kickoff": "12/26/2025, 3:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "FIU VS UTSA",
+        "kickoff": "12/26/2025, 7:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "PITT VS ECU",
+        "kickoff": "12/27/2025, 10:00:00 AM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "PSU VS CLEM",
+        "kickoff": "12/27/2025, 11:00:00 AM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "CONN VS ARMY",
+        "kickoff": "12/27/2025, 1:15:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "GT VS BYU",
+        "kickoff": "12/27/2025, 2:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "M-OH VS FRES",
+        "kickoff": "12/27/2025, 3:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "UNT VS SDSU",
+        "kickoff": "12/27/2025, 4:45:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "UVA VS MIZ",
+        "kickoff": "12/27/2025, 6:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "LSU VS HOU",
+        "kickoff": "12/27/2025, 8:15:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "GASO VS APP",
+        "kickoff": "12/29/2025, 1:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "CCU VS LT",
+        "kickoff": "12/30/2025, 1:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "TENN VS ILL",
+        "kickoff": "12/30/2025, 4:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "USC VS TCU",
+        "kickoff": "12/30/2025, 8:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "IOWA VS VAN",
+        "kickoff": "12/31/2025, 11:00:00 AM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "ASU VS DUKE",
+        "kickoff": "12/31/2025, 1:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "MICH VS TEX",
+        "kickoff": "12/31/2025, 2:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "NEB VS UTAH",
+        "kickoff": "12/31/2025, 2:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "TBD VS OSU",
+        "kickoff": "12/31/2025, 6:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "TBD VS TTU",
+        "kickoff": "1/1/2026, 11:00:00 AM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "TBD VS IU",
+        "kickoff": "1/1/2026, 3:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "TBD VS UGA",
+        "kickoff": "1/1/2026, 7:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "RICE VS TXST",
+        "kickoff": "1/2/2026, 12:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "NAVY VS CIN",
+        "kickoff": "1/2/2026, 3:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "ARIZ VS SMU",
+        "kickoff": "1/2/2026, 7:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "WAKE VS MSST",
+        "kickoff": "1/2/2026, 7:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "TBD VS TBD",
+        "kickoff": "1/8/2026, 6:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "TBD VS TBD",
+        "kickoff": "1/9/2026, 6:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "TBD VS TBD",
+        "kickoff": "1/19/2026, 6:30:00 PM",
         "status": "Scheduled",
         "score": null
       }
