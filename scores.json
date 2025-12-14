@@ -112,21 +112,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "SCST VS PV",
-        "kickoff": "12/13/2025, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "PV",
-            "score": "38"
-          },
-          "away": {
-            "name": "SCST",
-            "score": "40"
-          }
-        }
-      },
-      {
         "matchup": "BOIS VS WASH",
         "kickoff": "12/13/2025, 7:00:00 PM",
         "status": "Live: Q1",
@@ -138,6 +123,21 @@
           "away": {
             "name": "BOIS",
             "score": "3"
+          }
+        }
+      },
+      {
+        "matchup": "SCST VS PV",
+        "kickoff": "12/13/2025, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "PV",
+            "score": "38"
+          },
+          "away": {
+            "name": "SCST",
+            "score": "40"
           }
         }
       },
