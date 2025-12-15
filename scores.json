@@ -3,6 +3,27 @@
     "week": 15,
     "games": [
       {
+        "matchup": "MIA @ PIT",
+        "kickoff": "12/15/2025, 7:15:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "ATL @ TB",
+        "kickoff": "12/11/2025, 7:15:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "TB",
+            "score": "28"
+          },
+          "away": {
+            "name": "ATL",
+            "score": "29"
+          }
+        }
+      },
+      {
         "matchup": "CLE @ CHI",
         "kickoff": "12/14/2025, 12:00:00 PM",
         "status": "Final",
@@ -211,27 +232,6 @@
             "score": "34"
           }
         }
-      },
-      {
-        "matchup": "ATL @ TB",
-        "kickoff": "12/11/2025, 7:15:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "TB",
-            "score": "28"
-          },
-          "away": {
-            "name": "ATL",
-            "score": "29"
-          }
-        }
-      },
-      {
-        "matchup": "MIA @ PIT",
-        "kickoff": "12/15/2025, 7:15:00 PM",
-        "status": "Scheduled",
-        "score": null
       }
     ]
   },
