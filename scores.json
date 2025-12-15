@@ -200,8 +200,17 @@
       {
         "matchup": "MIN @ DAL",
         "kickoff": "12/14/2025, 7:20:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "DAL",
+            "score": "0"
+          },
+          "away": {
+            "name": "MIN",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "ATL @ TB",
