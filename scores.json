@@ -13,7 +13,7 @@
           },
           "away": {
             "name": "GB",
-            "score": "23"
+            "score": "26"
           }
         }
       },
@@ -28,7 +28,7 @@
           },
           "away": {
             "name": "DET",
-            "score": "24"
+            "score": "27"
           }
         }
       },
@@ -39,7 +39,7 @@
         "score": {
           "home": {
             "name": "NO",
-            "score": "10"
+            "score": "17"
           },
           "away": {
             "name": "CAR",
@@ -54,7 +54,7 @@
         "score": {
           "home": {
             "name": "SF",
-            "score": "31"
+            "score": "34"
           },
           "away": {
             "name": "TEN",
