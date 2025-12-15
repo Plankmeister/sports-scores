@@ -28,7 +28,7 @@
           },
           "away": {
             "name": "DET",
-            "score": "27"
+            "score": "34"
           }
         }
       },
@@ -65,7 +65,7 @@
       {
         "matchup": "IND @ SEA",
         "kickoff": "12/14/2025, 3:25:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "SEA",
