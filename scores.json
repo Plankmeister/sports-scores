@@ -5,8 +5,17 @@
       {
         "matchup": "MIA @ PIT",
         "kickoff": "12/15/2025, 7:15:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "PIT",
+            "score": "0"
+          },
+          "away": {
+            "name": "MIA",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "ATL @ TB",
