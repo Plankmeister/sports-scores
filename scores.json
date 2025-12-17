@@ -249,8 +249,17 @@
       {
         "matchup": "TROY VS JVST",
         "kickoff": "12/16/2025, 8:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "JVST",
+            "score": "0"
+          },
+          "away": {
+            "name": "TROY",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "SCST VS PV",
