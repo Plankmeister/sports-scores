@@ -103,34 +103,10 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "ODU VS USF",
-        "kickoff": "12/17/2025, 4:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "USF",
-            "score": "10"
-          },
-          "away": {
-            "name": "ODU",
-            "score": "24"
-          }
-        }
-      },
-      {
-        "matchup": "UL VS DEL",
-        "kickoff": "12/17/2025, 7:40:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "DEL",
-            "score": "20"
-          },
-          "away": {
-            "name": "UL",
-            "score": "13"
-          }
-        }
+        "matchup": "MOST VS ARST",
+        "kickoff": "12/18/2025, 8:00:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
         "matchup": "SCST VS PV",
@@ -178,10 +154,34 @@
         }
       },
       {
-        "matchup": "MOST VS ARST",
-        "kickoff": "12/18/2025, 8:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "matchup": "ODU VS USF",
+        "kickoff": "12/17/2025, 4:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "USF",
+            "score": "10"
+          },
+          "away": {
+            "name": "ODU",
+            "score": "24"
+          }
+        }
+      },
+      {
+        "matchup": "UL VS DEL",
+        "kickoff": "12/17/2025, 7:40:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "DEL",
+            "score": "20"
+          },
+          "away": {
+            "name": "UL",
+            "score": "13"
+          }
+        }
       },
       {
         "matchup": "KENN VS WMU",
