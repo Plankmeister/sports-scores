@@ -120,8 +120,17 @@
       {
         "matchup": "UL VS DEL",
         "kickoff": "12/17/2025, 7:40:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "DEL",
+            "score": "0"
+          },
+          "away": {
+            "name": "UL",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "SCST VS PV",
