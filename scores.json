@@ -112,21 +112,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "MEM VS NCSU",
-        "kickoff": "12/19/2025, 1:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "NCSU",
-            "score": "31"
-          },
-          "away": {
-            "name": "MEM",
-            "score": "7"
-          }
-        }
-      },
-      {
         "matchup": "KENN VS WMU",
         "kickoff": "12/19/2025, 10:00:00 AM",
         "status": "Final",
@@ -138,6 +123,21 @@
           "away": {
             "name": "KENN",
             "score": "6"
+          }
+        }
+      },
+      {
+        "matchup": "MEM VS NCSU",
+        "kickoff": "12/19/2025, 1:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "NCSU",
+            "score": "31"
+          },
+          "away": {
+            "name": "MEM",
+            "score": "7"
           }
         }
       },
