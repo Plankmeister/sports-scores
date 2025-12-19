@@ -127,6 +127,24 @@
         }
       },
       {
+        "matchup": "KENN VS WMU",
+        "kickoff": "12/19/2025, 10:00:00 AM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "MEM VS NCSU",
+        "kickoff": "12/19/2025, 1:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "ALA @ OU",
+        "kickoff": "12/19/2025, 7:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
         "matchup": "SCST VS PV",
         "kickoff": "12/13/2025, 11:00:00 AM",
         "status": "Final",
@@ -200,24 +218,6 @@
             "score": "13"
           }
         }
-      },
-      {
-        "matchup": "KENN VS WMU",
-        "kickoff": "12/19/2025, 10:00:00 AM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "MEM VS NCSU",
-        "kickoff": "12/19/2025, 1:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "ALA @ OU",
-        "kickoff": "12/19/2025, 7:00:00 PM",
-        "status": "Scheduled",
-        "score": null
       },
       {
         "matchup": "MIA @ TA&M",
