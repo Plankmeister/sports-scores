@@ -129,8 +129,17 @@
       {
         "matchup": "MEM VS NCSU",
         "kickoff": "12/19/2025, 1:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "NCSU",
+            "score": "6"
+          },
+          "away": {
+            "name": "MEM",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "ALA @ OU",
