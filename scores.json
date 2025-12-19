@@ -114,8 +114,17 @@
       {
         "matchup": "KENN VS WMU",
         "kickoff": "12/19/2025, 10:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q0",
+        "score": {
+          "home": {
+            "name": "WMU",
+            "score": "0"
+          },
+          "away": {
+            "name": "KENN",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "MEM VS NCSU",
