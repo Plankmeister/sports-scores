@@ -13,7 +13,7 @@
           },
           "away": {
             "name": "LAR",
-            "score": "30"
+            "score": "37"
           }
         }
       },
@@ -114,7 +114,7 @@
       {
         "matchup": "MOST VS ARST",
         "kickoff": "12/18/2025, 8:00:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "ARST",
@@ -122,7 +122,7 @@
           },
           "away": {
             "name": "MOST",
-            "score": "7"
+            "score": "13"
           }
         }
       },
