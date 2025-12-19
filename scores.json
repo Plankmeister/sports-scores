@@ -114,8 +114,17 @@
       {
         "matchup": "MOST VS ARST",
         "kickoff": "12/18/2025, 8:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ARST",
+            "score": "0"
+          },
+          "away": {
+            "name": "MOST",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "SCST VS PV",
