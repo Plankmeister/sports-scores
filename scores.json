@@ -144,8 +144,17 @@
       {
         "matchup": "MONT @ MTST",
         "kickoff": "12/20/2025, 3:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MTST",
+            "score": "0"
+          },
+          "away": {
+            "name": "MONT",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "JMU @ ORE",
