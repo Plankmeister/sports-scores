@@ -114,8 +114,17 @@
       {
         "matchup": "MIA @ TA&M",
         "kickoff": "12/20/2025, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "TA&M",
+            "score": "0"
+          },
+          "away": {
+            "name": "MIA",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "TULN @ MISS",
