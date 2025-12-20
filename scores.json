@@ -122,6 +122,21 @@
           },
           "away": {
             "name": "TULN",
+            "score": "3"
+          }
+        }
+      },
+      {
+        "matchup": "MONT @ MTST",
+        "kickoff": "12/20/2025, 3:00:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MTST",
+            "score": "7"
+          },
+          "away": {
+            "name": "MONT",
             "score": "0"
           }
         }
@@ -138,21 +153,6 @@
           "away": {
             "name": "MIA",
             "score": "10"
-          }
-        }
-      },
-      {
-        "matchup": "MONT @ MTST",
-        "kickoff": "12/20/2025, 3:00:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "MTST",
-            "score": "7"
-          },
-          "away": {
-            "name": "MONT",
-            "score": "0"
           }
         }
       },
