@@ -112,49 +112,34 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "ALA @ OU",
-        "kickoff": "12/19/2025, 7:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "OU",
-            "score": "24"
-          },
-          "away": {
-            "name": "ALA",
-            "score": "34"
-          }
-        }
+        "matchup": "MIA @ TA&M",
+        "kickoff": "12/20/2025, 11:00:00 AM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "KENN VS WMU",
-        "kickoff": "12/19/2025, 10:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "WMU",
-            "score": "41"
-          },
-          "away": {
-            "name": "KENN",
-            "score": "6"
-          }
-        }
+        "matchup": "TULN @ MISS",
+        "kickoff": "12/20/2025, 2:30:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "MEM VS NCSU",
-        "kickoff": "12/19/2025, 1:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "NCSU",
-            "score": "31"
-          },
-          "away": {
-            "name": "MEM",
-            "score": "7"
-          }
-        }
+        "matchup": "MONT @ MTST",
+        "kickoff": "12/20/2025, 3:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "JMU @ ORE",
+        "kickoff": "12/20/2025, 6:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "ILST @ VILL",
+        "kickoff": "12/20/2025, 6:30:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
         "matchup": "SCST VS PV",
@@ -247,34 +232,49 @@
         }
       },
       {
-        "matchup": "MIA @ TA&M",
-        "kickoff": "12/20/2025, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "matchup": "ALA @ OU",
+        "kickoff": "12/19/2025, 7:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "OU",
+            "score": "24"
+          },
+          "away": {
+            "name": "ALA",
+            "score": "34"
+          }
+        }
       },
       {
-        "matchup": "TULN @ MISS",
-        "kickoff": "12/20/2025, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "matchup": "KENN VS WMU",
+        "kickoff": "12/19/2025, 10:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "WMU",
+            "score": "41"
+          },
+          "away": {
+            "name": "KENN",
+            "score": "6"
+          }
+        }
       },
       {
-        "matchup": "MONT @ MTST",
-        "kickoff": "12/20/2025, 3:00:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "JMU @ ORE",
-        "kickoff": "12/20/2025, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "ILST @ VILL",
-        "kickoff": "12/20/2025, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "matchup": "MEM VS NCSU",
+        "kickoff": "12/19/2025, 1:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "NCSU",
+            "score": "31"
+          },
+          "away": {
+            "name": "MEM",
+            "score": "7"
+          }
+        }
       },
       {
         "matchup": "WSU VS USU",
