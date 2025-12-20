@@ -112,6 +112,21 @@
   "collegeFootball": {
     "games": [
       {
+        "matchup": "ALA @ OU",
+        "kickoff": "12/19/2025, 7:00:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "OU",
+            "score": "0"
+          },
+          "away": {
+            "name": "ALA",
+            "score": "0"
+          }
+        }
+      },
+      {
         "matchup": "KENN VS WMU",
         "kickoff": "12/19/2025, 10:00:00 AM",
         "status": "Final",
@@ -138,21 +153,6 @@
           "away": {
             "name": "MEM",
             "score": "7"
-          }
-        }
-      },
-      {
-        "matchup": "ALA @ OU",
-        "kickoff": "12/19/2025, 7:00:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "OU",
-            "score": "0"
-          },
-          "away": {
-            "name": "ALA",
-            "score": "0"
           }
         }
       },
