@@ -5,8 +5,17 @@
       {
         "matchup": "PHI @ WSH",
         "kickoff": "12/20/2025, 4:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "WSH",
+            "score": "0"
+          },
+          "away": {
+            "name": "PHI",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "GB @ CHI",
