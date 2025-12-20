@@ -129,8 +129,17 @@
       {
         "matchup": "TULN @ MISS",
         "kickoff": "12/20/2025, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MISS",
+            "score": "6"
+          },
+          "away": {
+            "name": "TULN",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "MONT @ MTST",
@@ -430,7 +439,7 @@
         "score": null
       },
       {
-        "matchup": "TBD VS OSU",
+        "matchup": "MIA VS OSU",
         "kickoff": "12/31/2025, 6:30:00 PM",
         "status": "Scheduled",
         "score": null
