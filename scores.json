@@ -9,7 +9,7 @@
         "score": {
           "home": {
             "name": "CHI",
-            "score": "0"
+            "score": "3"
           },
           "away": {
             "name": "GB",
@@ -132,7 +132,7 @@
       {
         "matchup": "JMU @ ORE",
         "kickoff": "12/20/2025, 6:30:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "ORE",
@@ -155,7 +155,7 @@
           },
           "away": {
             "name": "ILST",
-            "score": "24"
+            "score": "27"
           }
         }
       },
