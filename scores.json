@@ -3,6 +3,36 @@
     "week": 16,
     "games": [
       {
+        "matchup": "JAX @ DEN",
+        "kickoff": "12/21/2025, 3:05:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "DEN",
+            "score": "0"
+          },
+          "away": {
+            "name": "JAX",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "ATL @ ARI",
+        "kickoff": "12/21/2025, 3:05:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ARI",
+            "score": "0"
+          },
+          "away": {
+            "name": "ATL",
+            "score": "0"
+          }
+        }
+      },
+      {
         "matchup": "BUF @ CLE",
         "kickoff": "12/21/2025, 12:00:00 PM",
         "status": "Final",
@@ -65,7 +95,7 @@
       {
         "matchup": "NYJ @ NO",
         "kickoff": "12/21/2025, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "NO",
@@ -106,18 +136,6 @@
             "score": "20"
           }
         }
-      },
-      {
-        "matchup": "JAX @ DEN",
-        "kickoff": "12/21/2025, 3:05:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "ATL @ ARI",
-        "kickoff": "12/21/2025, 3:05:00 PM",
-        "status": "Scheduled",
-        "score": null
       },
       {
         "matchup": "PIT @ DET",
