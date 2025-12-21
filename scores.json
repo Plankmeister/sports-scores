@@ -24,10 +24,40 @@
         "score": {
           "home": {
             "name": "ARI",
-            "score": "9"
+            "score": "10"
           },
           "away": {
             "name": "ATL",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "PIT @ DET",
+        "kickoff": "12/21/2025, 3:25:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "DET",
+            "score": "0"
+          },
+          "away": {
+            "name": "PIT",
+            "score": "3"
+          }
+        }
+      },
+      {
+        "matchup": "LV @ HOU",
+        "kickoff": "12/21/2025, 3:25:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "HOU",
+            "score": "0"
+          },
+          "away": {
+            "name": "LV",
             "score": "0"
           }
         }
@@ -134,36 +164,6 @@
           "away": {
             "name": "TB",
             "score": "20"
-          }
-        }
-      },
-      {
-        "matchup": "PIT @ DET",
-        "kickoff": "12/21/2025, 3:25:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "DET",
-            "score": "0"
-          },
-          "away": {
-            "name": "PIT",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "LV @ HOU",
-        "kickoff": "12/21/2025, 3:25:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "HOU",
-            "score": "0"
-          },
-          "away": {
-            "name": "LV",
-            "score": "0"
           }
         }
       },
