@@ -121,6 +121,21 @@
   "collegeFootball": {
     "games": [
       {
+        "matchup": "ILST @ VILL",
+        "kickoff": "12/20/2025, 6:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "VILL",
+            "score": "0"
+          },
+          "away": {
+            "name": "ILST",
+            "score": "0"
+          }
+        }
+      },
+      {
         "matchup": "TULN @ MISS",
         "kickoff": "12/20/2025, 2:30:00 PM",
         "status": "Final",
@@ -167,12 +182,6 @@
       },
       {
         "matchup": "JMU @ ORE",
-        "kickoff": "12/20/2025, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "ILST @ VILL",
         "kickoff": "12/20/2025, 6:30:00 PM",
         "status": "Scheduled",
         "score": null
