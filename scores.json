@@ -145,21 +145,6 @@
         }
       },
       {
-        "matchup": "ILST @ VILL",
-        "kickoff": "12/20/2025, 6:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "VILL",
-            "score": "14"
-          },
-          "away": {
-            "name": "ILST",
-            "score": "30"
-          }
-        }
-      },
-      {
         "matchup": "TULN @ MISS",
         "kickoff": "12/20/2025, 2:30:00 PM",
         "status": "Final",
@@ -201,6 +186,21 @@
           "away": {
             "name": "MONT",
             "score": "23"
+          }
+        }
+      },
+      {
+        "matchup": "ILST @ VILL",
+        "kickoff": "12/20/2025, 6:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "VILL",
+            "score": "14"
+          },
+          "away": {
+            "name": "ILST",
+            "score": "30"
           }
         }
       },
@@ -528,6 +528,12 @@
       {
         "matchup": "WAKE VS MSST",
         "kickoff": "1/2/2026, 7:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "ILST VS MTST",
+        "kickoff": "1/5/2026, 6:30:00 PM",
         "status": "Scheduled",
         "score": null
       },
