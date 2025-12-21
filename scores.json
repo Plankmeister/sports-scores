@@ -9,7 +9,7 @@
         "score": {
           "home": {
             "name": "CLE",
-            "score": "0"
+            "score": "7"
           },
           "away": {
             "name": "BUF",
@@ -24,7 +24,7 @@
         "score": {
           "home": {
             "name": "DAL",
-            "score": "0"
+            "score": "7"
           },
           "away": {
             "name": "LAC",
@@ -73,7 +73,7 @@
           },
           "away": {
             "name": "NYJ",
-            "score": "0"
+            "score": "3"
           }
         }
       },
@@ -88,7 +88,7 @@
           },
           "away": {
             "name": "MIN",
-            "score": "0"
+            "score": "3"
           }
         }
       },
@@ -99,7 +99,7 @@
         "score": {
           "home": {
             "name": "CAR",
-            "score": "0"
+            "score": "3"
           },
           "away": {
             "name": "TB",
