@@ -140,14 +140,14 @@
           },
           "away": {
             "name": "JMU",
-            "score": "13"
+            "score": "20"
           }
         }
       },
       {
         "matchup": "ILST @ VILL",
         "kickoff": "12/20/2025, 6:30:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "VILL",
