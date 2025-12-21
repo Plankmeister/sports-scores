@@ -121,6 +121,21 @@
   "collegeFootball": {
     "games": [
       {
+        "matchup": "JMU @ ORE",
+        "kickoff": "12/20/2025, 6:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ORE",
+            "score": "6"
+          },
+          "away": {
+            "name": "JMU",
+            "score": "0"
+          }
+        }
+      },
+      {
         "matchup": "ILST @ VILL",
         "kickoff": "12/20/2025, 6:30:00 PM",
         "status": "Live: Q1",
@@ -177,21 +192,6 @@
           "away": {
             "name": "MONT",
             "score": "23"
-          }
-        }
-      },
-      {
-        "matchup": "JMU @ ORE",
-        "kickoff": "12/20/2025, 6:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "ORE",
-            "score": "6"
-          },
-          "away": {
-            "name": "JMU",
-            "score": "0"
           }
         }
       },
