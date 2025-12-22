@@ -240,8 +240,17 @@
       {
         "matchup": "WSU VS USU",
         "kickoff": "12/22/2025, 1:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "USU",
+            "score": "0"
+          },
+          "away": {
+            "name": "WSU",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "SCST VS PV",
