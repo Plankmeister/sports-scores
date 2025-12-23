@@ -5,8 +5,17 @@
       {
         "matchup": "SF @ IND",
         "kickoff": "12/22/2025, 7:15:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "IND",
+            "score": "0"
+          },
+          "away": {
+            "name": "SF",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "LAR @ SEA",
