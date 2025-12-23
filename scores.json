@@ -3,21 +3,6 @@
     "week": 16,
     "games": [
       {
-        "matchup": "SF @ IND",
-        "kickoff": "12/22/2025, 7:15:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "IND",
-            "score": "27"
-          },
-          "away": {
-            "name": "SF",
-            "score": "48"
-          }
-        }
-      },
-      {
         "matchup": "LAR @ SEA",
         "kickoff": "12/18/2025, 7:15:00 PM",
         "status": "Final",
@@ -239,6 +224,21 @@
           "away": {
             "name": "NE",
             "score": "28"
+          }
+        }
+      },
+      {
+        "matchup": "SF @ IND",
+        "kickoff": "12/22/2025, 7:15:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "IND",
+            "score": "27"
+          },
+          "away": {
+            "name": "SF",
+            "score": "48"
           }
         }
       }
