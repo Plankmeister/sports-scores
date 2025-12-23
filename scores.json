@@ -264,8 +264,17 @@
       {
         "matchup": "WKU VS USM",
         "kickoff": "12/23/2025, 4:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "USM",
+            "score": "0"
+          },
+          "away": {
+            "name": "WKU",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "UNLV VS OHIO",
