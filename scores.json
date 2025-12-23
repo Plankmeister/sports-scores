@@ -247,21 +247,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "TOL VS LOU",
-        "kickoff": "12/23/2025, 1:00:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "LOU",
-            "score": "27"
-          },
-          "away": {
-            "name": "TOL",
-            "score": "22"
-          }
-        }
-      },
-      {
         "matchup": "WKU VS USM",
         "kickoff": "12/23/2025, 4:30:00 PM",
         "status": "Live: Q1",
@@ -272,7 +257,22 @@
           },
           "away": {
             "name": "WKU",
-            "score": "0"
+            "score": "3"
+          }
+        }
+      },
+      {
+        "matchup": "TOL VS LOU",
+        "kickoff": "12/23/2025, 1:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "LOU",
+            "score": "27"
+          },
+          "away": {
+            "name": "TOL",
+            "score": "22"
           }
         }
       },
