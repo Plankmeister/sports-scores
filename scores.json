@@ -247,19 +247,22 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "WSU VS USU",
-        "kickoff": "12/22/2025, 1:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "USU",
-            "score": "21"
-          },
-          "away": {
-            "name": "WSU",
-            "score": "34"
-          }
-        }
+        "matchup": "TOL VS LOU",
+        "kickoff": "12/23/2025, 1:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "WKU VS USM",
+        "kickoff": "12/23/2025, 4:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "UNLV VS OHIO",
+        "kickoff": "12/23/2025, 8:00:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
         "matchup": "SCST VS PV",
@@ -472,22 +475,19 @@
         }
       },
       {
-        "matchup": "TOL VS LOU",
-        "kickoff": "12/23/2025, 1:00:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "WKU VS USM",
-        "kickoff": "12/23/2025, 4:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "UNLV VS OHIO",
-        "kickoff": "12/23/2025, 8:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "matchup": "WSU VS USU",
+        "kickoff": "12/22/2025, 1:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "USU",
+            "score": "21"
+          },
+          "away": {
+            "name": "WSU",
+            "score": "34"
+          }
+        }
       },
       {
         "matchup": "CAL @ HAW",
