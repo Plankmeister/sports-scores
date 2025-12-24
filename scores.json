@@ -262,21 +262,6 @@
         }
       },
       {
-        "matchup": "TOL VS LOU",
-        "kickoff": "12/23/2025, 1:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "LOU",
-            "score": "27"
-          },
-          "away": {
-            "name": "TOL",
-            "score": "22"
-          }
-        }
-      },
-      {
         "matchup": "UNLV VS OHIO",
         "kickoff": "12/23/2025, 8:00:00 PM",
         "status": "Live: Q1",
@@ -288,6 +273,21 @@
           "away": {
             "name": "UNLV",
             "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "TOL VS LOU",
+        "kickoff": "12/23/2025, 1:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "LOU",
+            "score": "27"
+          },
+          "away": {
+            "name": "TOL",
+            "score": "22"
           }
         }
       },
