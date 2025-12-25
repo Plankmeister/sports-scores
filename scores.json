@@ -20,8 +20,17 @@
       {
         "matchup": "DET @ MIN",
         "kickoff": "12/25/2025, 3:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MIN",
+            "score": "0"
+          },
+          "away": {
+            "name": "DET",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "DEN @ KC",
