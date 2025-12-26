@@ -130,21 +130,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "CMU VS NU",
-        "kickoff": "12/26/2025, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "NU",
-            "score": "34"
-          },
-          "away": {
-            "name": "CMU",
-            "score": "7"
-          }
-        }
-      },
-      {
         "matchup": "UNM VS MINN",
         "kickoff": "12/26/2025, 3:30:00 PM",
         "status": "Live: Q1",
@@ -156,6 +141,21 @@
           "away": {
             "name": "UNM",
             "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "CMU VS NU",
+        "kickoff": "12/26/2025, 12:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "NU",
+            "score": "34"
+          },
+          "away": {
+            "name": "CMU",
+            "score": "7"
           }
         }
       },
