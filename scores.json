@@ -130,6 +130,24 @@
   "collegeFootball": {
     "games": [
       {
+        "matchup": "CMU VS NU",
+        "kickoff": "12/26/2025, 12:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "UNM VS MINN",
+        "kickoff": "12/26/2025, 3:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "FIU VS UTSA",
+        "kickoff": "12/26/2025, 7:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
         "matchup": "SCST VS PV",
         "kickoff": "12/13/2025, 11:00:00 AM",
         "status": "Final",
@@ -413,24 +431,6 @@
             "score": "31"
           }
         }
-      },
-      {
-        "matchup": "CMU VS NU",
-        "kickoff": "12/26/2025, 12:00:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "UNM VS MINN",
-        "kickoff": "12/26/2025, 3:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "FIU VS UTSA",
-        "kickoff": "12/26/2025, 7:00:00 PM",
-        "status": "Scheduled",
-        "score": null
       },
       {
         "matchup": "PITT VS ECU",
