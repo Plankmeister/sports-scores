@@ -132,7 +132,7 @@
       {
         "matchup": "FIU VS UTSA",
         "kickoff": "12/26/2025, 7:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "UTSA",
@@ -145,34 +145,52 @@
         }
       },
       {
-        "matchup": "CMU VS NU",
-        "kickoff": "12/26/2025, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "NU",
-            "score": "34"
-          },
-          "away": {
-            "name": "CMU",
-            "score": "7"
-          }
-        }
+        "matchup": "PITT VS ECU",
+        "kickoff": "12/27/2025, 10:00:00 AM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "UNM VS MINN",
-        "kickoff": "12/26/2025, 3:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "MINN",
-            "score": "20"
-          },
-          "away": {
-            "name": "UNM",
-            "score": "17"
-          }
-        }
+        "matchup": "PSU VS CLEM",
+        "kickoff": "12/27/2025, 11:00:00 AM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "CONN VS ARMY",
+        "kickoff": "12/27/2025, 1:15:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "GT VS BYU",
+        "kickoff": "12/27/2025, 2:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "M-OH VS FRES",
+        "kickoff": "12/27/2025, 3:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "UNT VS SDSU",
+        "kickoff": "12/27/2025, 4:45:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "UVA VS MIZ",
+        "kickoff": "12/27/2025, 6:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "LSU VS HOU",
+        "kickoff": "12/27/2025, 8:15:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
         "matchup": "SCST VS PV",
@@ -460,52 +478,34 @@
         }
       },
       {
-        "matchup": "PITT VS ECU",
-        "kickoff": "12/27/2025, 10:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "matchup": "CMU VS NU",
+        "kickoff": "12/26/2025, 12:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "NU",
+            "score": "34"
+          },
+          "away": {
+            "name": "CMU",
+            "score": "7"
+          }
+        }
       },
       {
-        "matchup": "PSU VS CLEM",
-        "kickoff": "12/27/2025, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "CONN VS ARMY",
-        "kickoff": "12/27/2025, 1:15:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "GT VS BYU",
-        "kickoff": "12/27/2025, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "M-OH VS FRES",
-        "kickoff": "12/27/2025, 3:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "UNT VS SDSU",
-        "kickoff": "12/27/2025, 4:45:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "UVA VS MIZ",
-        "kickoff": "12/27/2025, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "LSU VS HOU",
-        "kickoff": "12/27/2025, 8:15:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "matchup": "UNM VS MINN",
+        "kickoff": "12/26/2025, 3:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "MINN",
+            "score": "20"
+          },
+          "away": {
+            "name": "UNM",
+            "score": "17"
+          }
+        }
       },
       {
         "matchup": "GASO VS APP",
