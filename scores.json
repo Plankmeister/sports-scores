@@ -160,7 +160,7 @@
         "score": {
           "home": {
             "name": "BYU",
-            "score": "10"
+            "score": "7"
           },
           "away": {
             "name": "GT",
@@ -201,8 +201,17 @@
       {
         "matchup": "M-OH VS FRES",
         "kickoff": "12/27/2025, 3:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "FRES",
+            "score": "0"
+          },
+          "away": {
+            "name": "M-OH",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "UNT VS SDSU",
