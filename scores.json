@@ -5,8 +5,17 @@
       {
         "matchup": "HOU @ LAC",
         "kickoff": "12/27/2025, 3:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "LAC",
+            "score": "0"
+          },
+          "away": {
+            "name": "HOU",
+            "score": "7"
+          }
+        }
       },
       {
         "matchup": "BAL @ GB",
@@ -136,7 +145,7 @@
         "score": {
           "home": {
             "name": "ARMY",
-            "score": "21"
+            "score": "27"
           },
           "away": {
             "name": "CONN",
@@ -151,7 +160,7 @@
         "score": {
           "home": {
             "name": "BYU",
-            "score": "7"
+            "score": "10"
           },
           "away": {
             "name": "GT",
