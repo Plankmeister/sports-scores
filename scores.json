@@ -3,6 +3,18 @@
     "week": 17,
     "games": [
       {
+        "matchup": "HOU @ LAC",
+        "kickoff": "12/27/2025, 3:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "BAL @ GB",
+        "kickoff": "12/27/2025, 7:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
         "matchup": "DAL @ WSH",
         "kickoff": "12/25/2025, 12:00:00 PM",
         "status": "Final",
@@ -46,18 +58,6 @@
             "score": "20"
           }
         }
-      },
-      {
-        "matchup": "HOU @ LAC",
-        "kickoff": "12/27/2025, 3:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "BAL @ GB",
-        "kickoff": "12/27/2025, 7:00:00 PM",
-        "status": "Scheduled",
-        "score": null
       },
       {
         "matchup": "ARI @ CIN",
