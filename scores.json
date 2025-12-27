@@ -130,21 +130,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "FIU VS UTSA",
-        "kickoff": "12/26/2025, 7:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "UTSA",
-            "score": "57"
-          },
-          "away": {
-            "name": "FIU",
-            "score": "20"
-          }
-        }
-      },
-      {
         "matchup": "PITT VS ECU",
         "kickoff": "12/27/2025, 10:00:00 AM",
         "status": "Scheduled",
@@ -504,6 +489,21 @@
           "away": {
             "name": "UNM",
             "score": "17"
+          }
+        }
+      },
+      {
+        "matchup": "FIU VS UTSA",
+        "kickoff": "12/26/2025, 7:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "UTSA",
+            "score": "57"
+          },
+          "away": {
+            "name": "FIU",
+            "score": "20"
           }
         }
       },
