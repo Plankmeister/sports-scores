@@ -130,6 +130,36 @@
   "collegeFootball": {
     "games": [
       {
+        "matchup": "PSU VS CLEM",
+        "kickoff": "12/27/2025, 11:00:00 AM",
+        "status": "Live: Q4",
+        "score": {
+          "home": {
+            "name": "CLEM",
+            "score": "3"
+          },
+          "away": {
+            "name": "PSU",
+            "score": "9"
+          }
+        }
+      },
+      {
+        "matchup": "CONN VS ARMY",
+        "kickoff": "12/27/2025, 1:15:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ARMY",
+            "score": "6"
+          },
+          "away": {
+            "name": "CONN",
+            "score": "7"
+          }
+        }
+      },
+      {
         "matchup": "PITT VS ECU",
         "kickoff": "12/27/2025, 10:00:00 AM",
         "status": "Final",
@@ -141,36 +171,6 @@
           "away": {
             "name": "PITT",
             "score": "17"
-          }
-        }
-      },
-      {
-        "matchup": "PSU VS CLEM",
-        "kickoff": "12/27/2025, 11:00:00 AM",
-        "status": "Live: Q3",
-        "score": {
-          "home": {
-            "name": "CLEM",
-            "score": "3"
-          },
-          "away": {
-            "name": "PSU",
-            "score": "6"
-          }
-        }
-      },
-      {
-        "matchup": "CONN VS ARMY",
-        "kickoff": "12/27/2025, 1:15:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "ARMY",
-            "score": "0"
-          },
-          "away": {
-            "name": "CONN",
-            "score": "7"
           }
         }
       },
