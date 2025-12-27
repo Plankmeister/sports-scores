@@ -132,8 +132,17 @@
       {
         "matchup": "PITT VS ECU",
         "kickoff": "12/27/2025, 10:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ECU",
+            "score": "0"
+          },
+          "away": {
+            "name": "PITT",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "PSU VS CLEM",
