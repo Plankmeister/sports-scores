@@ -147,8 +147,17 @@
       {
         "matchup": "PSU VS CLEM",
         "kickoff": "12/27/2025, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "CLEM",
+            "score": "0"
+          },
+          "away": {
+            "name": "PSU",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "CONN VS ARMY",
