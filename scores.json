@@ -148,21 +148,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "LSU VS HOU",
-        "kickoff": "12/27/2025, 8:20:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "HOU",
-            "score": "38"
-          },
-          "away": {
-            "name": "LSU",
-            "score": "35"
-          }
-        }
-      },
-      {
         "matchup": "SCST VS PV",
         "kickoff": "12/13/2025, 11:00:00 AM",
         "status": "Final",
@@ -534,6 +519,21 @@
           "away": {
             "name": "UVA",
             "score": "13"
+          }
+        }
+      },
+      {
+        "matchup": "LSU VS HOU",
+        "kickoff": "12/27/2025, 8:20:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "HOU",
+            "score": "38"
+          },
+          "away": {
+            "name": "LSU",
+            "score": "35"
           }
         }
       },
