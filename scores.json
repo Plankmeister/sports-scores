@@ -139,21 +139,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "M-OH VS FRES",
-        "kickoff": "12/27/2025, 3:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "FRES",
-            "score": "18"
-          },
-          "away": {
-            "name": "M-OH",
-            "score": "3"
-          }
-        }
-      },
-      {
         "matchup": "UNT VS SDSU",
         "kickoff": "12/27/2025, 4:45:00 PM",
         "status": "Live: Q2",
@@ -240,6 +225,21 @@
           "away": {
             "name": "CONN",
             "score": "16"
+          }
+        }
+      },
+      {
+        "matchup": "M-OH VS FRES",
+        "kickoff": "12/27/2025, 3:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "FRES",
+            "score": "18"
+          },
+          "away": {
+            "name": "M-OH",
+            "score": "3"
           }
         }
       },
