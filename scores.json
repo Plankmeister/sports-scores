@@ -13,7 +13,7 @@
           },
           "away": {
             "name": "BAL",
-            "score": "20"
+            "score": "27"
           }
         }
       },
@@ -178,6 +178,21 @@
         }
       },
       {
+        "matchup": "LSU VS HOU",
+        "kickoff": "12/27/2025, 8:20:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "HOU",
+            "score": "0"
+          },
+          "away": {
+            "name": "LSU",
+            "score": "7"
+          }
+        }
+      },
+      {
         "matchup": "GT VS BYU",
         "kickoff": "12/27/2025, 2:40:00 PM",
         "status": "Final",
@@ -251,12 +266,6 @@
             "score": "3"
           }
         }
-      },
-      {
-        "matchup": "LSU VS HOU",
-        "kickoff": "12/27/2025, 8:20:00 PM",
-        "status": "Scheduled",
-        "score": null
       },
       {
         "matchup": "SCST VS PV",
