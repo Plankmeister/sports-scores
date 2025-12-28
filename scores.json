@@ -13,7 +13,7 @@
           },
           "away": {
             "name": "HOU",
-            "score": "17"
+            "score": "20"
           }
         }
       },
@@ -139,21 +139,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "GT VS BYU",
-        "kickoff": "12/27/2025, 2:40:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "BYU",
-            "score": "25"
-          },
-          "away": {
-            "name": "GT",
-            "score": "21"
-          }
-        }
-      },
-      {
         "matchup": "M-OH VS FRES",
         "kickoff": "12/27/2025, 3:30:00 PM",
         "status": "Live: Q4",
@@ -175,11 +160,26 @@
         "score": {
           "home": {
             "name": "SDSU",
-            "score": "13"
+            "score": "20"
           },
           "away": {
             "name": "UNT",
             "score": "28"
+          }
+        }
+      },
+      {
+        "matchup": "GT VS BYU",
+        "kickoff": "12/27/2025, 2:40:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "BYU",
+            "score": "25"
+          },
+          "away": {
+            "name": "GT",
+            "score": "21"
           }
         }
       },
