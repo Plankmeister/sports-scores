@@ -145,7 +145,7 @@
         "score": {
           "home": {
             "name": "FRES",
-            "score": "15"
+            "score": "18"
           },
           "away": {
             "name": "M-OH",
@@ -231,8 +231,17 @@
       {
         "matchup": "UVA VS MIZ",
         "kickoff": "12/27/2025, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MIZ",
+            "score": "0"
+          },
+          "away": {
+            "name": "UVA",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "LSU VS HOU",
