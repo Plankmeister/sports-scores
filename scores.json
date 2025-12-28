@@ -20,7 +20,7 @@
       {
         "matchup": "PIT @ CLE",
         "kickoff": "12/28/2025, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "CLE",
@@ -65,7 +65,7 @@
       {
         "matchup": "TB @ MIA",
         "kickoff": "12/28/2025, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "MIA",
@@ -73,14 +73,14 @@
           },
           "away": {
             "name": "TB",
-            "score": "10"
+            "score": "17"
           }
         }
       },
       {
         "matchup": "NE @ NYJ",
         "kickoff": "12/28/2025, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "NYJ",
@@ -95,7 +95,7 @@
       {
         "matchup": "SEA @ CAR",
         "kickoff": "12/28/2025, 12:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "CAR",
