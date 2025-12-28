@@ -5,8 +5,17 @@
       {
         "matchup": "ARI @ CIN",
         "kickoff": "12/28/2025, 12:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "CIN",
+            "score": "0"
+          },
+          "away": {
+            "name": "ARI",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "PIT @ CLE",
@@ -41,8 +50,17 @@
       {
         "matchup": "SEA @ CAR",
         "kickoff": "12/28/2025, 12:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "CAR",
+            "score": "0"
+          },
+          "away": {
+            "name": "SEA",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "NYG @ LV",
