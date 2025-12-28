@@ -9,7 +9,7 @@
         "score": {
           "home": {
             "name": "GB",
-            "score": "6"
+            "score": "7"
           },
           "away": {
             "name": "BAL",
@@ -158,7 +158,7 @@
           },
           "away": {
             "name": "UNT",
-            "score": "35"
+            "score": "49"
           }
         }
       },
@@ -254,7 +254,7 @@
       },
       {
         "matchup": "LSU VS HOU",
-        "kickoff": "12/27/2025, 8:15:00 PM",
+        "kickoff": "12/27/2025, 8:20:00 PM",
         "status": "Scheduled",
         "score": null
       },
