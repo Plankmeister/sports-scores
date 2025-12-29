@@ -3,28 +3,13 @@
     "week": 17,
     "games": [
       {
-        "matchup": "NYG @ LV",
-        "kickoff": "12/28/2025, 3:05:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "LV",
-            "score": "10"
-          },
-          "away": {
-            "name": "NYG",
-            "score": "34"
-          }
-        }
-      },
-      {
         "matchup": "PHI @ BUF",
         "kickoff": "12/28/2025, 3:25:00 PM",
         "status": "Live: Q4",
         "score": {
           "home": {
             "name": "BUF",
-            "score": "0"
+            "score": "6"
           },
           "away": {
             "name": "PHI",
@@ -134,6 +119,21 @@
           "away": {
             "name": "SEA",
             "score": "27"
+          }
+        }
+      },
+      {
+        "matchup": "NYG @ LV",
+        "kickoff": "12/28/2025, 3:05:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "LV",
+            "score": "10"
+          },
+          "away": {
+            "name": "NYG",
+            "score": "34"
           }
         }
       },
