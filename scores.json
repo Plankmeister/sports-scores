@@ -238,6 +238,12 @@
   "collegeFootball": {
     "games": [
       {
+        "matchup": "GASO VS APP",
+        "kickoff": "12/29/2025, 1:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
         "matchup": "SCST VS PV",
         "kickoff": "12/13/2025, 11:00:00 AM",
         "status": "Final",
@@ -701,12 +707,6 @@
             "score": "3"
           }
         }
-      },
-      {
-        "matchup": "GASO VS APP",
-        "kickoff": "12/29/2025, 1:00:00 PM",
-        "status": "Scheduled",
-        "score": null
       },
       {
         "matchup": "CCU VS LT",
