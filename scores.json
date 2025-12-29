@@ -3,21 +3,6 @@
     "week": 17,
     "games": [
       {
-        "matchup": "PHI @ BUF",
-        "kickoff": "12/28/2025, 3:25:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "BUF",
-            "score": "12"
-          },
-          "away": {
-            "name": "PHI",
-            "score": "13"
-          }
-        }
-      },
-      {
         "matchup": "ARI @ CIN",
         "kickoff": "12/28/2025, 12:00:00 PM",
         "status": "Final",
@@ -134,6 +119,21 @@
           "away": {
             "name": "NYG",
             "score": "34"
+          }
+        }
+      },
+      {
+        "matchup": "PHI @ BUF",
+        "kickoff": "12/28/2025, 3:25:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "BUF",
+            "score": "12"
+          },
+          "away": {
+            "name": "PHI",
+            "score": "13"
           }
         }
       },
