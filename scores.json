@@ -264,8 +264,17 @@
       {
         "matchup": "TENN VS ILL",
         "kickoff": "12/30/2025, 4:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ILL",
+            "score": "0"
+          },
+          "away": {
+            "name": "TENN",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "USC VS TCU",
