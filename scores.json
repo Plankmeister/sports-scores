@@ -5,8 +5,17 @@
       {
         "matchup": "LAR @ ATL",
         "kickoff": "12/29/2025, 7:15:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ATL",
+            "score": "0"
+          },
+          "away": {
+            "name": "LAR",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "DAL @ WSH",
