@@ -120,7 +120,7 @@
       {
         "matchup": "ASU VS DUKE",
         "kickoff": "12/31/2025, 1:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "DUKE",
@@ -135,8 +135,17 @@
       {
         "matchup": "MICH VS TEX",
         "kickoff": "12/31/2025, 2:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "TEX",
+            "score": "0"
+          },
+          "away": {
+            "name": "MICH",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "NEB VS UTAH",
