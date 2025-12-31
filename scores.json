@@ -105,7 +105,7 @@
       {
         "matchup": "IOWA VS VAN",
         "kickoff": "12/31/2025, 11:00:00 AM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "VAN",
@@ -113,7 +113,7 @@
           },
           "away": {
             "name": "IOWA",
-            "score": "24"
+            "score": "31"
           }
         }
       },
