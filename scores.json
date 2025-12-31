@@ -1,246 +1,102 @@
 {
   "nfl": {
-    "week": 17,
+    "week": 18,
     "games": [
       {
-        "matchup": "DAL @ WSH",
-        "kickoff": "12/25/2025, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "WSH",
-            "score": "23"
-          },
-          "away": {
-            "name": "DAL",
-            "score": "30"
-          }
-        }
+        "matchup": "CAR @ TB",
+        "kickoff": "1/3/2026, 3:30:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "DET @ MIN",
-        "kickoff": "12/25/2025, 3:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "MIN",
-            "score": "23"
-          },
-          "away": {
-            "name": "DET",
-            "score": "10"
-          }
-        }
+        "matchup": "SEA @ SF",
+        "kickoff": "1/3/2026, 7:00:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "DEN @ KC",
-        "kickoff": "12/25/2025, 7:15:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "KC",
-            "score": "13"
-          },
-          "away": {
-            "name": "DEN",
-            "score": "20"
-          }
-        }
+        "matchup": "NO @ ATL",
+        "kickoff": "1/4/2026, 12:00:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "HOU @ LAC",
-        "kickoff": "12/27/2025, 3:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "LAC",
-            "score": "16"
-          },
-          "away": {
-            "name": "HOU",
-            "score": "20"
-          }
-        }
+        "matchup": "CLE @ CIN",
+        "kickoff": "1/4/2026, 12:00:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "BAL @ GB",
-        "kickoff": "12/27/2025, 7:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "GB",
-            "score": "24"
-          },
-          "away": {
-            "name": "BAL",
-            "score": "41"
-          }
-        }
+        "matchup": "GB @ MIN",
+        "kickoff": "1/4/2026, 12:00:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "ARI @ CIN",
-        "kickoff": "12/28/2025, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "CIN",
-            "score": "37"
-          },
-          "away": {
-            "name": "ARI",
-            "score": "14"
-          }
-        }
+        "matchup": "DAL @ NYG",
+        "kickoff": "1/4/2026, 12:00:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "PIT @ CLE",
-        "kickoff": "12/28/2025, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "CLE",
-            "score": "13"
-          },
-          "away": {
-            "name": "PIT",
-            "score": "6"
-          }
-        }
+        "matchup": "TEN @ JAX",
+        "kickoff": "1/4/2026, 12:00:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "NO @ TEN",
-        "kickoff": "12/28/2025, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "TEN",
-            "score": "26"
-          },
-          "away": {
-            "name": "NO",
-            "score": "34"
-          }
-        }
+        "matchup": "IND @ HOU",
+        "kickoff": "1/4/2026, 12:00:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "JAX @ IND",
-        "kickoff": "12/28/2025, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "IND",
-            "score": "17"
-          },
-          "away": {
-            "name": "JAX",
-            "score": "23"
-          }
-        }
+        "matchup": "NYJ @ BUF",
+        "kickoff": "1/4/2026, 3:25:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "TB @ MIA",
-        "kickoff": "12/28/2025, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "MIA",
-            "score": "20"
-          },
-          "away": {
-            "name": "TB",
-            "score": "17"
-          }
-        }
+        "matchup": "DET @ CHI",
+        "kickoff": "1/4/2026, 3:25:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "NE @ NYJ",
-        "kickoff": "12/28/2025, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "NYJ",
-            "score": "10"
-          },
-          "away": {
-            "name": "NE",
-            "score": "42"
-          }
-        }
+        "matchup": "LAC @ DEN",
+        "kickoff": "1/4/2026, 3:25:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "SEA @ CAR",
-        "kickoff": "12/28/2025, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "CAR",
-            "score": "10"
-          },
-          "away": {
-            "name": "SEA",
-            "score": "27"
-          }
-        }
+        "matchup": "KC @ LV",
+        "kickoff": "1/4/2026, 3:25:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "NYG @ LV",
-        "kickoff": "12/28/2025, 3:05:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "LV",
-            "score": "10"
-          },
-          "away": {
-            "name": "NYG",
-            "score": "34"
-          }
-        }
+        "matchup": "ARI @ LAR",
+        "kickoff": "1/4/2026, 3:25:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "PHI @ BUF",
-        "kickoff": "12/28/2025, 3:25:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "BUF",
-            "score": "12"
-          },
-          "away": {
-            "name": "PHI",
-            "score": "13"
-          }
-        }
+        "matchup": "MIA @ NE",
+        "kickoff": "1/4/2026, 3:25:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "CHI @ SF",
-        "kickoff": "12/28/2025, 7:20:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "SF",
-            "score": "42"
-          },
-          "away": {
-            "name": "CHI",
-            "score": "38"
-          }
-        }
+        "matchup": "WSH @ PHI",
+        "kickoff": "1/4/2026, 3:25:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "LAR @ ATL",
-        "kickoff": "12/29/2025, 7:15:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "ATL",
-            "score": "27"
-          },
-          "away": {
-            "name": "LAR",
-            "score": "24"
-          }
-        }
+        "matchup": "BAL @ PIT",
+        "kickoff": "1/4/2026, 7:20:00 PM",
+        "status": "Scheduled",
+        "score": null
       }
     ]
   },
@@ -262,34 +118,34 @@
         }
       },
       {
-        "matchup": "CCU VS LT",
-        "kickoff": "12/30/2025, 1:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "LT",
-            "score": "23"
-          },
-          "away": {
-            "name": "CCU",
-            "score": "14"
-          }
-        }
+        "matchup": "IOWA VS VAN",
+        "kickoff": "12/31/2025, 11:00:00 AM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "TENN VS ILL",
-        "kickoff": "12/30/2025, 4:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "ILL",
-            "score": "30"
-          },
-          "away": {
-            "name": "TENN",
-            "score": "28"
-          }
-        }
+        "matchup": "ASU VS DUKE",
+        "kickoff": "12/31/2025, 1:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "MICH VS TEX",
+        "kickoff": "12/31/2025, 2:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "NEB VS UTAH",
+        "kickoff": "12/31/2025, 2:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "MIA VS OSU",
+        "kickoff": "12/31/2025, 6:30:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
         "matchup": "SCST VS PV",
@@ -772,34 +628,34 @@
         }
       },
       {
-        "matchup": "IOWA VS VAN",
-        "kickoff": "12/31/2025, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "matchup": "CCU VS LT",
+        "kickoff": "12/30/2025, 1:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "LT",
+            "score": "23"
+          },
+          "away": {
+            "name": "CCU",
+            "score": "14"
+          }
+        }
       },
       {
-        "matchup": "ASU VS DUKE",
-        "kickoff": "12/31/2025, 1:00:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "MICH VS TEX",
-        "kickoff": "12/31/2025, 2:00:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "NEB VS UTAH",
-        "kickoff": "12/31/2025, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "MIA VS OSU",
-        "kickoff": "12/31/2025, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "matchup": "TENN VS ILL",
+        "kickoff": "12/30/2025, 4:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "ILL",
+            "score": "30"
+          },
+          "away": {
+            "name": "TENN",
+            "score": "28"
+          }
+        }
       },
       {
         "matchup": "ORE VS TTU",
