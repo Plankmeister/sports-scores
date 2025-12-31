@@ -105,7 +105,7 @@
       {
         "matchup": "IOWA VS VAN",
         "kickoff": "12/31/2025, 11:00:00 AM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "VAN",
@@ -124,7 +124,7 @@
         "score": {
           "home": {
             "name": "DUKE",
-            "score": "14"
+            "score": "21"
           },
           "away": {
             "name": "ASU",
