@@ -105,7 +105,7 @@
       {
         "matchup": "ASU VS DUKE",
         "kickoff": "12/31/2025, 1:00:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "DUKE",
@@ -128,7 +128,7 @@
           },
           "away": {
             "name": "MICH",
-            "score": "26"
+            "score": "27"
           }
         }
       },
