@@ -249,11 +249,11 @@
       {
         "matchup": "TENN VS ILL",
         "kickoff": "12/30/2025, 4:30:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "ILL",
-            "score": "27"
+            "score": "30"
           },
           "away": {
             "name": "TENN",
