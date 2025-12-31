@@ -103,21 +103,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "USC VS TCU",
-        "kickoff": "12/30/2025, 8:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "TCU",
-            "score": "30"
-          },
-          "away": {
-            "name": "USC",
-            "score": "27"
-          }
-        }
-      },
-      {
         "matchup": "IOWA VS VAN",
         "kickoff": "12/31/2025, 11:00:00 AM",
         "status": "Scheduled",
@@ -624,6 +609,21 @@
           "away": {
             "name": "GASO",
             "score": "29"
+          }
+        }
+      },
+      {
+        "matchup": "USC VS TCU",
+        "kickoff": "12/30/2025, 8:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "TCU",
+            "score": "30"
+          },
+          "away": {
+            "name": "USC",
+            "score": "27"
           }
         }
       },
