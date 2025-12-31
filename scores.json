@@ -247,6 +247,21 @@
   "collegeFootball": {
     "games": [
       {
+        "matchup": "USC VS TCU",
+        "kickoff": "12/30/2025, 8:00:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "TCU",
+            "score": "0"
+          },
+          "away": {
+            "name": "USC",
+            "score": "3"
+          }
+        }
+      },
+      {
         "matchup": "CCU VS LT",
         "kickoff": "12/30/2025, 1:00:00 PM",
         "status": "Final",
@@ -273,21 +288,6 @@
           "away": {
             "name": "TENN",
             "score": "28"
-          }
-        }
-      },
-      {
-        "matchup": "USC VS TCU",
-        "kickoff": "12/30/2025, 8:00:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "TCU",
-            "score": "0"
-          },
-          "away": {
-            "name": "USC",
-            "score": "0"
           }
         }
       },
