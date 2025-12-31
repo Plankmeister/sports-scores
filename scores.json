@@ -109,7 +109,7 @@
         "score": {
           "home": {
             "name": "DUKE",
-            "score": "21"
+            "score": "28"
           },
           "away": {
             "name": "ASU",
@@ -120,7 +120,7 @@
       {
         "matchup": "MICH VS TEX",
         "kickoff": "12/31/2025, 2:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "TEX",
@@ -139,7 +139,7 @@
         "score": {
           "home": {
             "name": "UTAH",
-            "score": "0"
+            "score": "7"
           },
           "away": {
             "name": "NEB",
