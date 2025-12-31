@@ -103,21 +103,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "IOWA VS VAN",
-        "kickoff": "12/31/2025, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "VAN",
-            "score": "27"
-          },
-          "away": {
-            "name": "IOWA",
-            "score": "34"
-          }
-        }
-      },
-      {
         "matchup": "ASU VS DUKE",
         "kickoff": "12/31/2025, 1:00:00 PM",
         "status": "Live: Q2",
@@ -128,7 +113,7 @@
           },
           "away": {
             "name": "ASU",
-            "score": "14"
+            "score": "20"
           }
         }
       },
@@ -143,15 +128,39 @@
           },
           "away": {
             "name": "MICH",
-            "score": "0"
+            "score": "3"
           }
         }
       },
       {
         "matchup": "NEB VS UTAH",
         "kickoff": "12/31/2025, 2:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "UTAH",
+            "score": "0"
+          },
+          "away": {
+            "name": "NEB",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "IOWA VS VAN",
+        "kickoff": "12/31/2025, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "VAN",
+            "score": "27"
+          },
+          "away": {
+            "name": "IOWA",
+            "score": "34"
+          }
+        }
       },
       {
         "matchup": "MIA VS OSU",
