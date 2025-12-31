@@ -105,8 +105,17 @@
       {
         "matchup": "IOWA VS VAN",
         "kickoff": "12/31/2025, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "VAN",
+            "score": "0"
+          },
+          "away": {
+            "name": "IOWA",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "ASU VS DUKE",
