@@ -247,21 +247,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "TENN VS ILL",
-        "kickoff": "12/30/2025, 4:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "ILL",
-            "score": "30"
-          },
-          "away": {
-            "name": "TENN",
-            "score": "28"
-          }
-        }
-      },
-      {
         "matchup": "CCU VS LT",
         "kickoff": "12/30/2025, 1:00:00 PM",
         "status": "Final",
@@ -277,10 +262,34 @@
         }
       },
       {
+        "matchup": "TENN VS ILL",
+        "kickoff": "12/30/2025, 4:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "ILL",
+            "score": "30"
+          },
+          "away": {
+            "name": "TENN",
+            "score": "28"
+          }
+        }
+      },
+      {
         "matchup": "USC VS TCU",
         "kickoff": "12/30/2025, 8:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "TCU",
+            "score": "0"
+          },
+          "away": {
+            "name": "USC",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "SCST VS PV",
