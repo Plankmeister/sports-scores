@@ -118,21 +118,6 @@
         }
       },
       {
-        "matchup": "NEB VS UTAH",
-        "kickoff": "12/31/2025, 2:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "UTAH",
-            "score": "44"
-          },
-          "away": {
-            "name": "NEB",
-            "score": "22"
-          }
-        }
-      },
-      {
         "matchup": "IOWA VS VAN",
         "kickoff": "12/31/2025, 11:00:00 AM",
         "status": "Final",
@@ -144,6 +129,21 @@
           "away": {
             "name": "IOWA",
             "score": "34"
+          }
+        }
+      },
+      {
+        "matchup": "NEB VS UTAH",
+        "kickoff": "12/31/2025, 2:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "UTAH",
+            "score": "44"
+          },
+          "away": {
+            "name": "NEB",
+            "score": "22"
           }
         }
       },
