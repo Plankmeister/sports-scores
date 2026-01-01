@@ -103,79 +103,22 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "MIA VS OSU",
-        "kickoff": "12/31/2025, 6:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "OSU",
-            "score": "14"
-          },
-          "away": {
-            "name": "MIA",
-            "score": "24"
-          }
-        }
+        "matchup": "ORE VS TTU",
+        "kickoff": "1/1/2026, 11:00:00 AM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "MICH VS TEX",
-        "kickoff": "12/31/2025, 2:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "TEX",
-            "score": "41"
-          },
-          "away": {
-            "name": "MICH",
-            "score": "27"
-          }
-        }
+        "matchup": "ALA VS IU",
+        "kickoff": "1/1/2026, 3:00:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "IOWA VS VAN",
-        "kickoff": "12/31/2025, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "VAN",
-            "score": "27"
-          },
-          "away": {
-            "name": "IOWA",
-            "score": "34"
-          }
-        }
-      },
-      {
-        "matchup": "NEB VS UTAH",
-        "kickoff": "12/31/2025, 2:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "UTAH",
-            "score": "44"
-          },
-          "away": {
-            "name": "NEB",
-            "score": "22"
-          }
-        }
-      },
-      {
-        "matchup": "ASU VS DUKE",
-        "kickoff": "12/31/2025, 1:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "DUKE",
-            "score": "42"
-          },
-          "away": {
-            "name": "ASU",
-            "score": "39"
-          }
-        }
+        "matchup": "MISS VS UGA",
+        "kickoff": "1/1/2026, 7:00:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
         "matchup": "SCST VS PV",
@@ -703,22 +646,79 @@
         }
       },
       {
-        "matchup": "ORE VS TTU",
-        "kickoff": "1/1/2026, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "matchup": "MIA VS OSU",
+        "kickoff": "12/31/2025, 6:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "OSU",
+            "score": "14"
+          },
+          "away": {
+            "name": "MIA",
+            "score": "24"
+          }
+        }
       },
       {
-        "matchup": "ALA VS IU",
-        "kickoff": "1/1/2026, 3:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "matchup": "MICH VS TEX",
+        "kickoff": "12/31/2025, 2:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "TEX",
+            "score": "41"
+          },
+          "away": {
+            "name": "MICH",
+            "score": "27"
+          }
+        }
       },
       {
-        "matchup": "MISS VS UGA",
-        "kickoff": "1/1/2026, 7:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "matchup": "IOWA VS VAN",
+        "kickoff": "12/31/2025, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "VAN",
+            "score": "27"
+          },
+          "away": {
+            "name": "IOWA",
+            "score": "34"
+          }
+        }
+      },
+      {
+        "matchup": "NEB VS UTAH",
+        "kickoff": "12/31/2025, 2:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "UTAH",
+            "score": "44"
+          },
+          "away": {
+            "name": "NEB",
+            "score": "22"
+          }
+        }
+      },
+      {
+        "matchup": "ASU VS DUKE",
+        "kickoff": "12/31/2025, 1:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "DUKE",
+            "score": "42"
+          },
+          "away": {
+            "name": "ASU",
+            "score": "39"
+          }
+        }
       },
       {
         "matchup": "RICE VS TXST",
