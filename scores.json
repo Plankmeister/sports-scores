@@ -105,7 +105,7 @@
       {
         "matchup": "MIA VS OSU",
         "kickoff": "12/31/2025, 6:30:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "OSU",
@@ -113,7 +113,7 @@
           },
           "away": {
             "name": "MIA",
-            "score": "0"
+            "score": "7"
           }
         }
       },
