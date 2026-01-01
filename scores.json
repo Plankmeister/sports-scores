@@ -154,7 +154,7 @@
         "score": {
           "home": {
             "name": "DUKE",
-            "score": "7"
+            "score": "42"
           },
           "away": {
             "name": "ASU",
@@ -165,8 +165,17 @@
       {
         "matchup": "MIA VS OSU",
         "kickoff": "12/31/2025, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "OSU",
+            "score": "0"
+          },
+          "away": {
+            "name": "MIA",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "SCST VS PV",
