@@ -105,8 +105,17 @@
       {
         "matchup": "ORE VS TTU",
         "kickoff": "1/1/2026, 11:00:00 AM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "TTU",
+            "score": "0"
+          },
+          "away": {
+            "name": "ORE",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "ALA VS IU",
