@@ -120,8 +120,17 @@
       {
         "matchup": "NAVY VS CIN",
         "kickoff": "1/2/2026, 3:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "CIN",
+            "score": "0"
+          },
+          "away": {
+            "name": "NAVY",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "ARIZ VS SMU",
