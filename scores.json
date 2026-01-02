@@ -103,49 +103,28 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "MISS VS UGA",
-        "kickoff": "1/1/2026, 7:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "UGA",
-            "score": "34"
-          },
-          "away": {
-            "name": "MISS",
-            "score": "39"
-          }
-        }
+        "matchup": "RICE VS TXST",
+        "kickoff": "1/2/2026, 12:00:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "ALA VS IU",
-        "kickoff": "1/1/2026, 3:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "IU",
-            "score": "38"
-          },
-          "away": {
-            "name": "ALA",
-            "score": "3"
-          }
-        }
+        "matchup": "NAVY VS CIN",
+        "kickoff": "1/2/2026, 3:30:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "ORE VS TTU",
-        "kickoff": "1/1/2026, 11:00:00 AM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "TTU",
-            "score": "0"
-          },
-          "away": {
-            "name": "ORE",
-            "score": "23"
-          }
-        }
+        "matchup": "ARIZ VS SMU",
+        "kickoff": "1/2/2026, 7:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "WAKE VS MSST",
+        "kickoff": "1/2/2026, 7:00:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
         "matchup": "SCST VS PV",
@@ -748,28 +727,49 @@
         }
       },
       {
-        "matchup": "RICE VS TXST",
-        "kickoff": "1/2/2026, 12:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "matchup": "ALA VS IU",
+        "kickoff": "1/1/2026, 3:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "IU",
+            "score": "38"
+          },
+          "away": {
+            "name": "ALA",
+            "score": "3"
+          }
+        }
       },
       {
-        "matchup": "NAVY VS CIN",
-        "kickoff": "1/2/2026, 3:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "matchup": "MISS VS UGA",
+        "kickoff": "1/1/2026, 7:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "UGA",
+            "score": "34"
+          },
+          "away": {
+            "name": "MISS",
+            "score": "39"
+          }
+        }
       },
       {
-        "matchup": "ARIZ VS SMU",
-        "kickoff": "1/2/2026, 7:00:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "WAKE VS MSST",
-        "kickoff": "1/2/2026, 7:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "matchup": "ORE VS TTU",
+        "kickoff": "1/1/2026, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "TTU",
+            "score": "0"
+          },
+          "away": {
+            "name": "ORE",
+            "score": "23"
+          }
+        }
       },
       {
         "matchup": "ILST VS MTST",
