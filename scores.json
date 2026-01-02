@@ -103,21 +103,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "RICE VS TXST",
-        "kickoff": "1/2/2026, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "TXST",
-            "score": "41"
-          },
-          "away": {
-            "name": "RICE",
-            "score": "10"
-          }
-        }
-      },
-      {
         "matchup": "NAVY VS CIN",
         "kickoff": "1/2/2026, 3:30:00 PM",
         "status": "Live: Q1",
@@ -129,6 +114,21 @@
           "away": {
             "name": "NAVY",
             "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "RICE VS TXST",
+        "kickoff": "1/2/2026, 12:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "TXST",
+            "score": "41"
+          },
+          "away": {
+            "name": "RICE",
+            "score": "10"
           }
         }
       },
