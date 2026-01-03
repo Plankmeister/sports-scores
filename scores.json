@@ -103,6 +103,21 @@
   "collegeFootball": {
     "games": [
       {
+        "matchup": "WAKE VS MSST",
+        "kickoff": "1/2/2026, 7:00:00 PM",
+        "status": "Live: Q4",
+        "score": {
+          "home": {
+            "name": "MSST",
+            "score": "29"
+          },
+          "away": {
+            "name": "WAKE",
+            "score": "43"
+          }
+        }
+      },
+      {
         "matchup": "ARIZ VS SMU",
         "kickoff": "1/2/2026, 7:00:00 PM",
         "status": "Final",
@@ -114,21 +129,6 @@
           "away": {
             "name": "ARIZ",
             "score": "19"
-          }
-        }
-      },
-      {
-        "matchup": "WAKE VS MSST",
-        "kickoff": "1/2/2026, 7:00:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "MSST",
-            "score": "29"
-          },
-          "away": {
-            "name": "WAKE",
-            "score": "36"
           }
         }
       },
