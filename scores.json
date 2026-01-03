@@ -103,66 +103,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "WAKE VS MSST",
-        "kickoff": "1/2/2026, 7:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "MSST",
-            "score": "29"
-          },
-          "away": {
-            "name": "WAKE",
-            "score": "43"
-          }
-        }
-      },
-      {
-        "matchup": "ARIZ VS SMU",
-        "kickoff": "1/2/2026, 7:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "SMU",
-            "score": "24"
-          },
-          "away": {
-            "name": "ARIZ",
-            "score": "19"
-          }
-        }
-      },
-      {
-        "matchup": "RICE VS TXST",
-        "kickoff": "1/2/2026, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "TXST",
-            "score": "41"
-          },
-          "away": {
-            "name": "RICE",
-            "score": "10"
-          }
-        }
-      },
-      {
-        "matchup": "NAVY VS CIN",
-        "kickoff": "1/2/2026, 3:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "CIN",
-            "score": "13"
-          },
-          "away": {
-            "name": "NAVY",
-            "score": "35"
-          }
-        }
-      },
-      {
         "matchup": "SCST VS PV",
         "kickoff": "12/13/2025, 11:00:00 AM",
         "status": "Final",
@@ -804,6 +744,66 @@
           "away": {
             "name": "ORE",
             "score": "23"
+          }
+        }
+      },
+      {
+        "matchup": "ARIZ VS SMU",
+        "kickoff": "1/2/2026, 7:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "SMU",
+            "score": "24"
+          },
+          "away": {
+            "name": "ARIZ",
+            "score": "19"
+          }
+        }
+      },
+      {
+        "matchup": "RICE VS TXST",
+        "kickoff": "1/2/2026, 12:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "TXST",
+            "score": "41"
+          },
+          "away": {
+            "name": "RICE",
+            "score": "10"
+          }
+        }
+      },
+      {
+        "matchup": "NAVY VS CIN",
+        "kickoff": "1/2/2026, 3:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "CIN",
+            "score": "13"
+          },
+          "away": {
+            "name": "NAVY",
+            "score": "35"
+          }
+        }
+      },
+      {
+        "matchup": "WAKE VS MSST",
+        "kickoff": "1/2/2026, 7:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "MSST",
+            "score": "29"
+          },
+          "away": {
+            "name": "WAKE",
+            "score": "43"
           }
         }
       },
