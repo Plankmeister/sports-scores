@@ -139,7 +139,7 @@
         "score": {
           "home": {
             "name": "SMU",
-            "score": "6"
+            "score": "7"
           },
           "away": {
             "name": "ARIZ",
@@ -150,8 +150,17 @@
       {
         "matchup": "WAKE VS MSST",
         "kickoff": "1/2/2026, 7:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MSST",
+            "score": "0"
+          },
+          "away": {
+            "name": "WAKE",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "SCST VS PV",
