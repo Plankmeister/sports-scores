@@ -103,6 +103,36 @@
   "collegeFootball": {
     "games": [
       {
+        "matchup": "ARIZ VS SMU",
+        "kickoff": "1/2/2026, 7:00:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "SMU",
+            "score": "7"
+          },
+          "away": {
+            "name": "ARIZ",
+            "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "WAKE VS MSST",
+        "kickoff": "1/2/2026, 7:00:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MSST",
+            "score": "3"
+          },
+          "away": {
+            "name": "WAKE",
+            "score": "0"
+          }
+        }
+      },
+      {
         "matchup": "RICE VS TXST",
         "kickoff": "1/2/2026, 12:00:00 PM",
         "status": "Final",
@@ -129,36 +159,6 @@
           "away": {
             "name": "NAVY",
             "score": "35"
-          }
-        }
-      },
-      {
-        "matchup": "ARIZ VS SMU",
-        "kickoff": "1/2/2026, 7:00:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "SMU",
-            "score": "7"
-          },
-          "away": {
-            "name": "ARIZ",
-            "score": "0"
-          }
-        }
-      },
-      {
-        "matchup": "WAKE VS MSST",
-        "kickoff": "1/2/2026, 7:00:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "MSST",
-            "score": "0"
-          },
-          "away": {
-            "name": "WAKE",
-            "score": "0"
           }
         }
       },
