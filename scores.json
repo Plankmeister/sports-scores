@@ -5,7 +5,7 @@
       {
         "matchup": "NYJ @ BUF",
         "kickoff": "1/4/2026, 3:25:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "BUF",
@@ -50,7 +50,7 @@
       {
         "matchup": "KC @ LV",
         "kickoff": "1/4/2026, 3:25:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "LV",
@@ -69,7 +69,7 @@
         "score": {
           "home": {
             "name": "LAR",
-            "score": "3"
+            "score": "6"
           },
           "away": {
             "name": "ARI",
@@ -88,7 +88,7 @@
           },
           "away": {
             "name": "MIA",
-            "score": "0"
+            "score": "7"
           }
         }
       },
