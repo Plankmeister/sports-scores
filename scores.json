@@ -28,7 +28,7 @@
           },
           "away": {
             "name": "CLE",
-            "score": "7"
+            "score": "13"
           }
         }
       },
@@ -50,7 +50,7 @@
       {
         "matchup": "DAL @ NYG",
         "kickoff": "1/4/2026, 12:00:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "NYG",
