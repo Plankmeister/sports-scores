@@ -5,7 +5,7 @@
       {
         "matchup": "NO @ ATL",
         "kickoff": "1/4/2026, 12:00:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "ATL",
@@ -28,7 +28,7 @@
           },
           "away": {
             "name": "CLE",
-            "score": "14"
+            "score": "17"
           }
         }
       },
@@ -80,7 +80,7 @@
       {
         "matchup": "IND @ HOU",
         "kickoff": "1/4/2026, 12:00:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "HOU",
