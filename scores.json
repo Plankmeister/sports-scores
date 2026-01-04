@@ -5,26 +5,62 @@
       {
         "matchup": "NO @ ATL",
         "kickoff": "1/4/2026, 12:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "ATL",
+            "score": "0"
+          },
+          "away": {
+            "name": "NO",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "CLE @ CIN",
         "kickoff": "1/4/2026, 12:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "CIN",
+            "score": "0"
+          },
+          "away": {
+            "name": "CLE",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "GB @ MIN",
         "kickoff": "1/4/2026, 12:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MIN",
+            "score": "0"
+          },
+          "away": {
+            "name": "GB",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "DAL @ NYG",
         "kickoff": "1/4/2026, 12:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "NYG",
+            "score": "0"
+          },
+          "away": {
+            "name": "DAL",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "TEN @ JAX",
