@@ -18,36 +18,6 @@
         }
       },
       {
-        "matchup": "DAL @ NYG",
-        "kickoff": "1/4/2026, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "NYG",
-            "score": "34"
-          },
-          "away": {
-            "name": "DAL",
-            "score": "17"
-          }
-        }
-      },
-      {
-        "matchup": "IND @ HOU",
-        "kickoff": "1/4/2026, 12:00:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "HOU",
-            "score": "32"
-          },
-          "away": {
-            "name": "IND",
-            "score": "30"
-          }
-        }
-      },
-      {
         "matchup": "CLE @ CIN",
         "kickoff": "1/4/2026, 12:00:00 PM",
         "status": "Final",
@@ -78,6 +48,21 @@
         }
       },
       {
+        "matchup": "DAL @ NYG",
+        "kickoff": "1/4/2026, 12:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "NYG",
+            "score": "34"
+          },
+          "away": {
+            "name": "DAL",
+            "score": "17"
+          }
+        }
+      },
+      {
         "matchup": "TEN @ JAX",
         "kickoff": "1/4/2026, 12:00:00 PM",
         "status": "Final",
@@ -89,6 +74,21 @@
           "away": {
             "name": "TEN",
             "score": "7"
+          }
+        }
+      },
+      {
+        "matchup": "IND @ HOU",
+        "kickoff": "1/4/2026, 12:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "HOU",
+            "score": "38"
+          },
+          "away": {
+            "name": "IND",
+            "score": "30"
           }
         }
       },
