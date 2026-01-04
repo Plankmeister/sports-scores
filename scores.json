@@ -33,28 +33,13 @@
         }
       },
       {
-        "matchup": "GB @ MIN",
-        "kickoff": "1/4/2026, 12:00:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "MIN",
-            "score": "16"
-          },
-          "away": {
-            "name": "GB",
-            "score": "0"
-          }
-        }
-      },
-      {
         "matchup": "DAL @ NYG",
         "kickoff": "1/4/2026, 12:00:00 PM",
         "status": "Live: Q4",
         "score": {
           "home": {
             "name": "NYG",
-            "score": "27"
+            "score": "34"
           },
           "away": {
             "name": "DAL",
@@ -84,11 +69,26 @@
         "score": {
           "home": {
             "name": "HOU",
-            "score": "26"
+            "score": "29"
           },
           "away": {
             "name": "IND",
             "score": "27"
+          }
+        }
+      },
+      {
+        "matchup": "GB @ MIN",
+        "kickoff": "1/4/2026, 12:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "MIN",
+            "score": "16"
+          },
+          "away": {
+            "name": "GB",
+            "score": "3"
           }
         }
       },
