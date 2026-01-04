@@ -13,22 +13,7 @@
           },
           "away": {
             "name": "NO",
-            "score": "10"
-          }
-        }
-      },
-      {
-        "matchup": "CLE @ CIN",
-        "kickoff": "1/4/2026, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "CIN",
-            "score": "18"
-          },
-          "away": {
-            "name": "CLE",
-            "score": "20"
+            "score": "16"
           }
         }
       },
@@ -48,21 +33,6 @@
         }
       },
       {
-        "matchup": "TEN @ JAX",
-        "kickoff": "1/4/2026, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "JAX",
-            "score": "41"
-          },
-          "away": {
-            "name": "TEN",
-            "score": "7"
-          }
-        }
-      },
-      {
         "matchup": "IND @ HOU",
         "kickoff": "1/4/2026, 12:00:00 PM",
         "status": "Live: Q4",
@@ -78,6 +48,21 @@
         }
       },
       {
+        "matchup": "CLE @ CIN",
+        "kickoff": "1/4/2026, 12:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "CIN",
+            "score": "18"
+          },
+          "away": {
+            "name": "CLE",
+            "score": "20"
+          }
+        }
+      },
+      {
         "matchup": "GB @ MIN",
         "kickoff": "1/4/2026, 12:00:00 PM",
         "status": "Final",
@@ -89,6 +74,21 @@
           "away": {
             "name": "GB",
             "score": "3"
+          }
+        }
+      },
+      {
+        "matchup": "TEN @ JAX",
+        "kickoff": "1/4/2026, 12:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "JAX",
+            "score": "41"
+          },
+          "away": {
+            "name": "TEN",
+            "score": "7"
           }
         }
       },
