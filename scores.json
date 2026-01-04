@@ -5,7 +5,7 @@
       {
         "matchup": "NYJ @ BUF",
         "kickoff": "1/4/2026, 3:25:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "BUF",
@@ -65,7 +65,7 @@
       {
         "matchup": "ARI @ LAR",
         "kickoff": "1/4/2026, 3:25:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "LAR",
@@ -95,11 +95,11 @@
       {
         "matchup": "WSH @ PHI",
         "kickoff": "1/4/2026, 3:25:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "PHI",
-            "score": "14"
+            "score": "17"
           },
           "away": {
             "name": "WSH",
