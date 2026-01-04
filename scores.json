@@ -24,7 +24,7 @@
         "score": {
           "home": {
             "name": "CHI",
-            "score": "0"
+            "score": "8"
           },
           "away": {
             "name": "DET",
@@ -54,7 +54,7 @@
         "score": {
           "home": {
             "name": "LV",
-            "score": "6"
+            "score": "9"
           },
           "away": {
             "name": "KC",
@@ -69,7 +69,7 @@
         "score": {
           "home": {
             "name": "LAR",
-            "score": "16"
+            "score": "23"
           },
           "away": {
             "name": "ARI",
@@ -80,7 +80,7 @@
       {
         "matchup": "MIA @ NE",
         "kickoff": "1/4/2026, 3:25:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "NE",
