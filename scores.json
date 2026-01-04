@@ -35,7 +35,7 @@
       {
         "matchup": "LAC @ DEN",
         "kickoff": "1/4/2026, 3:25:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "DEN",
@@ -58,7 +58,7 @@
           },
           "away": {
             "name": "KC",
-            "score": "3"
+            "score": "6"
           }
         }
       },
@@ -99,7 +99,7 @@
         "score": {
           "home": {
             "name": "PHI",
-            "score": "7"
+            "score": "14"
           },
           "away": {
             "name": "WSH",
