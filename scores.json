@@ -24,7 +24,7 @@
         "score": {
           "home": {
             "name": "CIN",
-            "score": "6"
+            "score": "12"
           },
           "away": {
             "name": "CLE",
@@ -39,7 +39,7 @@
         "score": {
           "home": {
             "name": "MIN",
-            "score": "6"
+            "score": "12"
           },
           "away": {
             "name": "GB",
@@ -54,7 +54,7 @@
         "score": {
           "home": {
             "name": "NYG",
-            "score": "9"
+            "score": "16"
           },
           "away": {
             "name": "DAL",
@@ -69,7 +69,7 @@
         "score": {
           "home": {
             "name": "JAX",
-            "score": "21"
+            "score": "28"
           },
           "away": {
             "name": "TEN",
