@@ -39,7 +39,7 @@
         "score": {
           "home": {
             "name": "DEN",
-            "score": "3"
+            "score": "10"
           },
           "away": {
             "name": "LAC",
@@ -58,7 +58,7 @@
           },
           "away": {
             "name": "KC",
-            "score": "0"
+            "score": "3"
           }
         }
       },
@@ -84,7 +84,7 @@
         "score": {
           "home": {
             "name": "NE",
-            "score": "7"
+            "score": "14"
           },
           "away": {
             "name": "MIA",
@@ -95,7 +95,7 @@
       {
         "matchup": "WSH @ PHI",
         "kickoff": "1/4/2026, 3:25:00 PM",
-        "status": "Live: Q1",
+        "status": "Live: Q2",
         "score": {
           "home": {
             "name": "PHI",
