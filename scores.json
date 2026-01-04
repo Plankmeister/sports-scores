@@ -28,18 +28,18 @@
           },
           "away": {
             "name": "DET",
-            "score": "13"
+            "score": "16"
           }
         }
       },
       {
         "matchup": "LAC @ DEN",
         "kickoff": "1/4/2026, 3:25:00 PM",
-        "status": "Live: Q2",
+        "status": "Live: Q3",
         "score": {
           "home": {
             "name": "DEN",
-            "score": "10"
+            "score": "13"
           },
           "away": {
             "name": "LAC",
@@ -73,7 +73,7 @@
           },
           "away": {
             "name": "ARI",
-            "score": "13"
+            "score": "20"
           }
         }
       },
