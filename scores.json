@@ -13,7 +13,7 @@
           },
           "away": {
             "name": "NO",
-            "score": "7"
+            "score": "10"
           }
         }
       },
@@ -65,7 +65,7 @@
       {
         "matchup": "TEN @ JAX",
         "kickoff": "1/4/2026, 12:00:00 PM",
-        "status": "Live: Q3",
+        "status": "Live: Q4",
         "score": {
           "home": {
             "name": "JAX",
@@ -84,7 +84,7 @@
         "score": {
           "home": {
             "name": "HOU",
-            "score": "23"
+            "score": "26"
           },
           "away": {
             "name": "IND",
