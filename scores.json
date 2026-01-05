@@ -3,21 +3,6 @@
     "week": 18,
     "games": [
       {
-        "matchup": "LAC @ DEN",
-        "kickoff": "1/4/2026, 3:25:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "DEN",
-            "score": "19"
-          },
-          "away": {
-            "name": "LAC",
-            "score": "3"
-          }
-        }
-      },
-      {
         "matchup": "NO @ ATL",
         "kickoff": "1/4/2026, 12:00:00 PM",
         "status": "Final",
@@ -134,6 +119,21 @@
           "away": {
             "name": "DET",
             "score": "19"
+          }
+        }
+      },
+      {
+        "matchup": "LAC @ DEN",
+        "kickoff": "1/4/2026, 3:25:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "DEN",
+            "score": "19"
+          },
+          "away": {
+            "name": "LAC",
+            "score": "3"
           }
         }
       },
