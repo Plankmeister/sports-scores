@@ -268,6 +268,21 @@
         }
       },
       {
+        "matchup": "VILL @ TAR",
+        "kickoff": "12/13/2025, 11:00:00 AM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "TAR",
+            "score": "21"
+          },
+          "away": {
+            "name": "VILL",
+            "score": "26"
+          }
+        }
+      },
+      {
         "matchup": "ARMY VS NAVY",
         "kickoff": "12/13/2025, 2:00:00 PM",
         "status": "Final",
@@ -279,6 +294,21 @@
           "away": {
             "name": "ARMY",
             "score": "16"
+          }
+        }
+      },
+      {
+        "matchup": "SDAK @ MONT",
+        "kickoff": "12/13/2025, 2:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "MONT",
+            "score": "52"
+          },
+          "away": {
+            "name": "SDAK",
+            "score": "22"
           }
         }
       },
