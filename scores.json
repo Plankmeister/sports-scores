@@ -3,6 +3,21 @@
     "week": 18,
     "games": [
       {
+        "matchup": "BAL @ PIT",
+        "kickoff": "1/4/2026, 7:20:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "PIT",
+            "score": "0"
+          },
+          "away": {
+            "name": "BAL",
+            "score": "7"
+          }
+        }
+      },
+      {
         "matchup": "NO @ ATL",
         "kickoff": "1/4/2026, 12:00:00 PM",
         "status": "Final",
@@ -194,21 +209,6 @@
           "away": {
             "name": "WSH",
             "score": "24"
-          }
-        }
-      },
-      {
-        "matchup": "BAL @ PIT",
-        "kickoff": "1/4/2026, 7:20:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "PIT",
-            "score": "0"
-          },
-          "away": {
-            "name": "BAL",
-            "score": "0"
           }
         }
       },
