@@ -5,7 +5,7 @@
       {
         "matchup": "DET @ CHI",
         "kickoff": "1/4/2026, 3:25:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "CHI",
@@ -13,7 +13,7 @@
           },
           "away": {
             "name": "DET",
-            "score": "16"
+            "score": "19"
           }
         }
       },
@@ -43,14 +43,14 @@
           },
           "away": {
             "name": "KC",
-            "score": "9"
+            "score": "12"
           }
         }
       },
       {
         "matchup": "ARI @ LAR",
         "kickoff": "1/4/2026, 3:25:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "LAR",
