@@ -200,8 +200,17 @@
       {
         "matchup": "BAL @ PIT",
         "kickoff": "1/4/2026, 7:20:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "PIT",
+            "score": "0"
+          },
+          "away": {
+            "name": "BAL",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "CAR @ TB",
