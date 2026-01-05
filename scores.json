@@ -35,11 +35,11 @@
       {
         "matchup": "KC @ LV",
         "kickoff": "1/4/2026, 3:25:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "LV",
-            "score": "11"
+            "score": "14"
           },
           "away": {
             "name": "KC",
@@ -65,7 +65,7 @@
       {
         "matchup": "WSH @ PHI",
         "kickoff": "1/4/2026, 3:25:00 PM",
-        "status": "Live: Q4",
+        "status": "Final",
         "score": {
           "home": {
             "name": "PHI",
