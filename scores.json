@@ -283,6 +283,21 @@
         }
       },
       {
+        "matchup": "ILST @ UCD",
+        "kickoff": "12/13/2025, 4:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "UCD",
+            "score": "31"
+          },
+          "away": {
+            "name": "ILST",
+            "score": "42"
+          }
+        }
+      },
+      {
         "matchup": "BOIS VS WASH",
         "kickoff": "12/13/2025, 7:00:00 PM",
         "status": "Final",
