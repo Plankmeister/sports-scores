@@ -3,21 +3,6 @@
     "week": 18,
     "games": [
       {
-        "matchup": "NYJ @ BUF",
-        "kickoff": "1/4/2026, 3:25:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "BUF",
-            "score": "35"
-          },
-          "away": {
-            "name": "NYJ",
-            "score": "8"
-          }
-        }
-      },
-      {
         "matchup": "DET @ CHI",
         "kickoff": "1/4/2026, 3:25:00 PM",
         "status": "Live: Q4",
@@ -39,7 +24,7 @@
         "score": {
           "home": {
             "name": "DEN",
-            "score": "16"
+            "score": "19"
           },
           "away": {
             "name": "LAC",
@@ -74,21 +59,6 @@
           "away": {
             "name": "ARI",
             "score": "20"
-          }
-        }
-      },
-      {
-        "matchup": "MIA @ NE",
-        "kickoff": "1/4/2026, 3:25:00 PM",
-        "status": "Live: Q4",
-        "score": {
-          "home": {
-            "name": "NE",
-            "score": "38"
-          },
-          "away": {
-            "name": "MIA",
-            "score": "10"
           }
         }
       },
@@ -194,6 +164,36 @@
           "away": {
             "name": "IND",
             "score": "30"
+          }
+        }
+      },
+      {
+        "matchup": "NYJ @ BUF",
+        "kickoff": "1/4/2026, 3:25:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "BUF",
+            "score": "35"
+          },
+          "away": {
+            "name": "NYJ",
+            "score": "8"
+          }
+        }
+      },
+      {
+        "matchup": "MIA @ NE",
+        "kickoff": "1/4/2026, 3:25:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "NE",
+            "score": "38"
+          },
+          "away": {
+            "name": "MIA",
+            "score": "10"
           }
         }
       },
