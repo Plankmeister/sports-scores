@@ -247,21 +247,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "ILST VS MTST",
-        "kickoff": "1/5/2026, 6:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "MTST",
-            "score": "35"
-          },
-          "away": {
-            "name": "ILST",
-            "score": "34"
-          }
-        }
-      },
-      {
         "matchup": "SCST VS PV",
         "kickoff": "12/13/2025, 11:00:00 AM",
         "status": "Final",
@@ -1008,6 +993,21 @@
           "away": {
             "name": "WAKE",
             "score": "43"
+          }
+        }
+      },
+      {
+        "matchup": "ILST VS MTST",
+        "kickoff": "1/5/2026, 6:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "MTST",
+            "score": "35"
+          },
+          "away": {
+            "name": "ILST",
+            "score": "34"
           }
         }
       },
