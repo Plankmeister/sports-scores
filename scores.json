@@ -249,8 +249,17 @@
       {
         "matchup": "ILST VS MTST",
         "kickoff": "1/5/2026, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "MTST",
+            "score": "0"
+          },
+          "away": {
+            "name": "ILST",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "SCST VS PV",
