@@ -1,246 +1,42 @@
 {
   "nfl": {
-    "week": 18,
+    "week": 1,
     "games": [
       {
-        "matchup": "CAR @ TB",
-        "kickoff": "1/3/2026, 3:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "TB",
-            "score": "16"
-          },
-          "away": {
-            "name": "CAR",
-            "score": "14"
-          }
-        }
+        "matchup": "LAR @ CAR",
+        "kickoff": "1/10/2026, 3:30:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "SEA @ SF",
-        "kickoff": "1/3/2026, 7:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "SF",
-            "score": "3"
-          },
-          "away": {
-            "name": "SEA",
-            "score": "13"
-          }
-        }
+        "matchup": "GB @ CHI",
+        "kickoff": "1/10/2026, 7:00:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "NO @ ATL",
-        "kickoff": "1/4/2026, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "ATL",
-            "score": "19"
-          },
-          "away": {
-            "name": "NO",
-            "score": "17"
-          }
-        }
+        "matchup": "BUF @ JAX",
+        "kickoff": "1/11/2026, 12:00:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "CLE @ CIN",
-        "kickoff": "1/4/2026, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "CIN",
-            "score": "18"
-          },
-          "away": {
-            "name": "CLE",
-            "score": "20"
-          }
-        }
+        "matchup": "SF @ PHI",
+        "kickoff": "1/11/2026, 3:30:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "GB @ MIN",
-        "kickoff": "1/4/2026, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "MIN",
-            "score": "16"
-          },
-          "away": {
-            "name": "GB",
-            "score": "3"
-          }
-        }
+        "matchup": "LAC @ NE",
+        "kickoff": "1/11/2026, 7:00:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "DAL @ NYG",
-        "kickoff": "1/4/2026, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "NYG",
-            "score": "34"
-          },
-          "away": {
-            "name": "DAL",
-            "score": "17"
-          }
-        }
-      },
-      {
-        "matchup": "TEN @ JAX",
-        "kickoff": "1/4/2026, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "JAX",
-            "score": "41"
-          },
-          "away": {
-            "name": "TEN",
-            "score": "7"
-          }
-        }
-      },
-      {
-        "matchup": "IND @ HOU",
-        "kickoff": "1/4/2026, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "HOU",
-            "score": "38"
-          },
-          "away": {
-            "name": "IND",
-            "score": "30"
-          }
-        }
-      },
-      {
-        "matchup": "NYJ @ BUF",
-        "kickoff": "1/4/2026, 3:25:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "BUF",
-            "score": "35"
-          },
-          "away": {
-            "name": "NYJ",
-            "score": "8"
-          }
-        }
-      },
-      {
-        "matchup": "DET @ CHI",
-        "kickoff": "1/4/2026, 3:25:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "CHI",
-            "score": "16"
-          },
-          "away": {
-            "name": "DET",
-            "score": "19"
-          }
-        }
-      },
-      {
-        "matchup": "LAC @ DEN",
-        "kickoff": "1/4/2026, 3:25:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "DEN",
-            "score": "19"
-          },
-          "away": {
-            "name": "LAC",
-            "score": "3"
-          }
-        }
-      },
-      {
-        "matchup": "KC @ LV",
-        "kickoff": "1/4/2026, 3:25:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "LV",
-            "score": "14"
-          },
-          "away": {
-            "name": "KC",
-            "score": "12"
-          }
-        }
-      },
-      {
-        "matchup": "ARI @ LAR",
-        "kickoff": "1/4/2026, 3:25:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "LAR",
-            "score": "37"
-          },
-          "away": {
-            "name": "ARI",
-            "score": "20"
-          }
-        }
-      },
-      {
-        "matchup": "MIA @ NE",
-        "kickoff": "1/4/2026, 3:25:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "NE",
-            "score": "38"
-          },
-          "away": {
-            "name": "MIA",
-            "score": "10"
-          }
-        }
-      },
-      {
-        "matchup": "WSH @ PHI",
-        "kickoff": "1/4/2026, 3:25:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "PHI",
-            "score": "17"
-          },
-          "away": {
-            "name": "WSH",
-            "score": "24"
-          }
-        }
-      },
-      {
-        "matchup": "BAL @ PIT",
-        "kickoff": "1/4/2026, 7:20:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "PIT",
-            "score": "26"
-          },
-          "away": {
-            "name": "BAL",
-            "score": "24"
-          }
-        }
+        "matchup": "HOU @ PIT",
+        "kickoff": "1/12/2026, 7:15:00 PM",
+        "status": "Scheduled",
+        "score": null
       }
     ]
   },
