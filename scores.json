@@ -43,6 +43,12 @@
   "collegeFootball": {
     "games": [
       {
+        "matchup": "MIA VS MISS",
+        "kickoff": "1/8/2026, 6:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
         "matchup": "SCST VS PV",
         "kickoff": "12/13/2025, 11:00:00 AM",
         "status": "Final",
@@ -806,12 +812,6 @@
             "score": "34"
           }
         }
-      },
-      {
-        "matchup": "MIA VS MISS",
-        "kickoff": "1/8/2026, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
       },
       {
         "matchup": "ORE VS IU",
