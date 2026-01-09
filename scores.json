@@ -43,19 +43,10 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "MIA VS MISS",
-        "kickoff": "1/8/2026, 6:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "MISS",
-            "score": "27"
-          },
-          "away": {
-            "name": "MIA",
-            "score": "31"
-          }
-        }
+        "matchup": "ORE VS IU",
+        "kickoff": "1/9/2026, 6:30:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
         "matchup": "SCST VS PV",
@@ -823,10 +814,19 @@
         }
       },
       {
-        "matchup": "ORE VS IU",
-        "kickoff": "1/9/2026, 6:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "matchup": "MIA VS MISS",
+        "kickoff": "1/8/2026, 6:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "MISS",
+            "score": "27"
+          },
+          "away": {
+            "name": "MIA",
+            "score": "31"
+          }
+        }
       },
       {
         "matchup": "MIA VS TBD",
