@@ -43,21 +43,6 @@
   "collegeFootball": {
     "games": [
       {
-        "matchup": "ORE VS IU",
-        "kickoff": "1/9/2026, 6:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "IU",
-            "score": "56"
-          },
-          "away": {
-            "name": "ORE",
-            "score": "22"
-          }
-        }
-      },
-      {
         "matchup": "SCST VS PV",
         "kickoff": "12/13/2025, 11:00:00 AM",
         "status": "Final",
@@ -834,6 +819,21 @@
           "away": {
             "name": "MIA",
             "score": "31"
+          }
+        }
+      },
+      {
+        "matchup": "ORE VS IU",
+        "kickoff": "1/9/2026, 6:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "IU",
+            "score": "56"
+          },
+          "away": {
+            "name": "ORE",
+            "score": "22"
           }
         }
       },
