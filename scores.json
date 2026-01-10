@@ -5,8 +5,17 @@
       {
         "matchup": "LAR @ CAR",
         "kickoff": "1/10/2026, 3:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "CAR",
+            "score": "0"
+          },
+          "away": {
+            "name": "LAR",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "GB @ CHI",
