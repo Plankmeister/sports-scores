@@ -3,21 +3,6 @@
     "week": 1,
     "games": [
       {
-        "matchup": "LAR @ CAR",
-        "kickoff": "1/10/2026, 3:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "CAR",
-            "score": "31"
-          },
-          "away": {
-            "name": "LAR",
-            "score": "34"
-          }
-        }
-      },
-      {
         "matchup": "GB @ CHI",
         "kickoff": "1/10/2026, 7:00:00 PM",
         "status": "Live: Q1",
@@ -29,6 +14,21 @@
           "away": {
             "name": "GB",
             "score": "0"
+          }
+        }
+      },
+      {
+        "matchup": "LAR @ CAR",
+        "kickoff": "1/10/2026, 3:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "CAR",
+            "score": "31"
+          },
+          "away": {
+            "name": "LAR",
+            "score": "34"
           }
         }
       },
