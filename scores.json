@@ -3,6 +3,21 @@
     "week": 1,
     "games": [
       {
+        "matchup": "SF @ PHI",
+        "kickoff": "1/11/2026, 3:30:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "PHI",
+            "score": "0"
+          },
+          "away": {
+            "name": "SF",
+            "score": "7"
+          }
+        }
+      },
+      {
         "matchup": "BUF @ JAX",
         "kickoff": "1/11/2026, 12:00:00 PM",
         "status": "Final",
@@ -14,21 +29,6 @@
           "away": {
             "name": "BUF",
             "score": "27"
-          }
-        }
-      },
-      {
-        "matchup": "SF @ PHI",
-        "kickoff": "1/11/2026, 3:30:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "PHI",
-            "score": "0"
-          },
-          "away": {
-            "name": "SF",
-            "score": "0"
           }
         }
       },
