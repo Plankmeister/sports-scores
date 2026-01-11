@@ -20,8 +20,17 @@
       {
         "matchup": "SF @ PHI",
         "kickoff": "1/11/2026, 3:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "PHI",
+            "score": "0"
+          },
+          "away": {
+            "name": "SF",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "LAC @ NE",
