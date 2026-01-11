@@ -3,6 +3,24 @@
     "week": 1,
     "games": [
       {
+        "matchup": "BUF @ JAX",
+        "kickoff": "1/11/2026, 12:00:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "SF @ PHI",
+        "kickoff": "1/11/2026, 3:30:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "LAC @ NE",
+        "kickoff": "1/11/2026, 7:15:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
         "matchup": "LAR @ CAR",
         "kickoff": "1/10/2026, 3:30:00 PM",
         "status": "Final",
@@ -31,24 +49,6 @@
             "score": "27"
           }
         }
-      },
-      {
-        "matchup": "BUF @ JAX",
-        "kickoff": "1/11/2026, 12:00:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "SF @ PHI",
-        "kickoff": "1/11/2026, 3:30:00 PM",
-        "status": "Scheduled",
-        "score": null
-      },
-      {
-        "matchup": "LAC @ NE",
-        "kickoff": "1/11/2026, 7:15:00 PM",
-        "status": "Scheduled",
-        "score": null
       },
       {
         "matchup": "HOU @ PIT",
