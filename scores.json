@@ -3,6 +3,42 @@
     "week": 1,
     "games": [
       {
+        "matchup": "HOU @ PIT",
+        "kickoff": "1/12/2026, 7:15:00 PM",
+        "status": "Scheduled",
+        "score": null
+      },
+      {
+        "matchup": "LAR @ CAR",
+        "kickoff": "1/10/2026, 3:30:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "CAR",
+            "score": "31"
+          },
+          "away": {
+            "name": "LAR",
+            "score": "34"
+          }
+        }
+      },
+      {
+        "matchup": "GB @ CHI",
+        "kickoff": "1/10/2026, 7:00:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "CHI",
+            "score": "31"
+          },
+          "away": {
+            "name": "GB",
+            "score": "27"
+          }
+        }
+      },
+      {
         "matchup": "BUF @ JAX",
         "kickoff": "1/11/2026, 12:00:00 PM",
         "status": "Final",
@@ -46,42 +82,6 @@
             "score": "3"
           }
         }
-      },
-      {
-        "matchup": "LAR @ CAR",
-        "kickoff": "1/10/2026, 3:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "CAR",
-            "score": "31"
-          },
-          "away": {
-            "name": "LAR",
-            "score": "34"
-          }
-        }
-      },
-      {
-        "matchup": "GB @ CHI",
-        "kickoff": "1/10/2026, 7:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "CHI",
-            "score": "31"
-          },
-          "away": {
-            "name": "GB",
-            "score": "27"
-          }
-        }
-      },
-      {
-        "matchup": "HOU @ PIT",
-        "kickoff": "1/12/2026, 7:15:00 PM",
-        "status": "Scheduled",
-        "score": null
       }
     ]
   },
