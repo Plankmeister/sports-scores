@@ -3,6 +3,21 @@
     "week": 1,
     "games": [
       {
+        "matchup": "LAC @ NE",
+        "kickoff": "1/11/2026, 7:15:00 PM",
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "NE",
+            "score": "0"
+          },
+          "away": {
+            "name": "LAC",
+            "score": "0"
+          }
+        }
+      },
+      {
         "matchup": "BUF @ JAX",
         "kickoff": "1/11/2026, 12:00:00 PM",
         "status": "Final",
@@ -29,21 +44,6 @@
           "away": {
             "name": "SF",
             "score": "23"
-          }
-        }
-      },
-      {
-        "matchup": "LAC @ NE",
-        "kickoff": "1/11/2026, 7:15:00 PM",
-        "status": "Live: Q1",
-        "score": {
-          "home": {
-            "name": "NE",
-            "score": "0"
-          },
-          "away": {
-            "name": "LAC",
-            "score": "0"
           }
         }
       },
