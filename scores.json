@@ -35,8 +35,17 @@
       {
         "matchup": "LAC @ NE",
         "kickoff": "1/11/2026, 7:15:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "NE",
+            "score": "0"
+          },
+          "away": {
+            "name": "LAC",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "LAR @ CAR",
