@@ -5,8 +5,17 @@
       {
         "matchup": "HOU @ PIT",
         "kickoff": "1/12/2026, 7:15:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "PIT",
+            "score": "0"
+          },
+          "away": {
+            "name": "HOU",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "LAR @ CAR",
