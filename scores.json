@@ -3,21 +3,6 @@
     "week": 1,
     "games": [
       {
-        "matchup": "HOU @ PIT",
-        "kickoff": "1/12/2026, 7:15:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "PIT",
-            "score": "6"
-          },
-          "away": {
-            "name": "HOU",
-            "score": "30"
-          }
-        }
-      },
-      {
         "matchup": "LAR @ CAR",
         "kickoff": "1/10/2026, 3:30:00 PM",
         "status": "Final",
@@ -89,6 +74,21 @@
           "away": {
             "name": "LAC",
             "score": "3"
+          }
+        }
+      },
+      {
+        "matchup": "HOU @ PIT",
+        "kickoff": "1/12/2026, 7:15:00 PM",
+        "status": "Final",
+        "score": {
+          "home": {
+            "name": "PIT",
+            "score": "6"
+          },
+          "away": {
+            "name": "HOU",
+            "score": "30"
           }
         }
       }
