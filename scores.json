@@ -1,96 +1,30 @@
 {
   "nfl": {
-    "week": 1,
+    "week": 2,
     "games": [
       {
-        "matchup": "LAR @ CAR",
-        "kickoff": "1/10/2026, 3:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "CAR",
-            "score": "31"
-          },
-          "away": {
-            "name": "LAR",
-            "score": "34"
-          }
-        }
+        "matchup": "BUF @ DEN",
+        "kickoff": "1/17/2026, 3:30:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "GB @ CHI",
-        "kickoff": "1/10/2026, 7:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "CHI",
-            "score": "31"
-          },
-          "away": {
-            "name": "GB",
-            "score": "27"
-          }
-        }
+        "matchup": "SF @ SEA",
+        "kickoff": "1/17/2026, 7:00:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "BUF @ JAX",
-        "kickoff": "1/11/2026, 12:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "JAX",
-            "score": "24"
-          },
-          "away": {
-            "name": "BUF",
-            "score": "27"
-          }
-        }
+        "matchup": "HOU @ NE",
+        "kickoff": "1/18/2026, 2:00:00 PM",
+        "status": "Scheduled",
+        "score": null
       },
       {
-        "matchup": "SF @ PHI",
-        "kickoff": "1/11/2026, 3:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "PHI",
-            "score": "19"
-          },
-          "away": {
-            "name": "SF",
-            "score": "23"
-          }
-        }
-      },
-      {
-        "matchup": "LAC @ NE",
-        "kickoff": "1/11/2026, 7:15:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "NE",
-            "score": "16"
-          },
-          "away": {
-            "name": "LAC",
-            "score": "3"
-          }
-        }
-      },
-      {
-        "matchup": "HOU @ PIT",
-        "kickoff": "1/12/2026, 7:15:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "PIT",
-            "score": "6"
-          },
-          "away": {
-            "name": "HOU",
-            "score": "30"
-          }
-        }
+        "matchup": "LAR @ CHI",
+        "kickoff": "1/18/2026, 5:30:00 PM",
+        "status": "Scheduled",
+        "score": null
       }
     ]
   },
