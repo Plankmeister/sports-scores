@@ -20,8 +20,17 @@
       {
         "matchup": "LAR @ CHI",
         "kickoff": "1/18/2026, 5:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "CHI",
+            "score": "0"
+          },
+          "away": {
+            "name": "LAR",
+            "score": "0"
+          }
+        }
       },
       {
         "matchup": "BUF @ DEN",
