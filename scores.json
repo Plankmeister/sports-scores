@@ -20,8 +20,17 @@
       {
         "matchup": "LAR @ SEA",
         "kickoff": "1/25/2026, 5:30:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q1",
+        "score": {
+          "home": {
+            "name": "SEA",
+            "score": "0"
+          },
+          "away": {
+            "name": "LAR",
+            "score": "0"
+          }
+        }
       }
     ]
   },
