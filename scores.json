@@ -1,36 +1,12 @@
 {
   "nfl": {
-    "week": 3,
+    "week": 4,
     "games": [
       {
-        "matchup": "NE @ DEN",
-        "kickoff": "1/25/2026, 2:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "DEN",
-            "score": "7"
-          },
-          "away": {
-            "name": "NE",
-            "score": "10"
-          }
-        }
-      },
-      {
-        "matchup": "LAR @ SEA",
-        "kickoff": "1/25/2026, 5:30:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "SEA",
-            "score": "31"
-          },
-          "away": {
-            "name": "LAR",
-            "score": "27"
-          }
-        }
+        "matchup": "NFC VS AFC",
+        "kickoff": "2/3/2026, 7:00:00 PM",
+        "status": "Scheduled",
+        "score": null
       }
     ]
   },
