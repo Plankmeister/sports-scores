@@ -1,21 +1,12 @@
 {
   "nfl": {
-    "week": 4,
+    "week": 5,
     "games": [
       {
-        "matchup": "NFC VS AFC",
-        "kickoff": "2/3/2026, 7:00:00 PM",
-        "status": "Final",
-        "score": {
-          "home": {
-            "name": "AFC",
-            "score": "52"
-          },
-          "away": {
-            "name": "NFC",
-            "score": "66"
-          }
-        }
+        "matchup": "SEA VS NE",
+        "kickoff": "2/8/2026, 5:30:00 PM",
+        "status": "Scheduled",
+        "score": null
       }
     ]
   },
