@@ -5,8 +5,17 @@
       {
         "matchup": "NFC VS AFC",
         "kickoff": "2/3/2026, 7:00:00 PM",
-        "status": "Scheduled",
-        "score": null
+        "status": "Live: Q2",
+        "score": {
+          "home": {
+            "name": "AFC",
+            "score": "38"
+          },
+          "away": {
+            "name": "NFC",
+            "score": "22"
+          }
+        }
       }
     ]
   },
